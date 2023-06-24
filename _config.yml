@@ -30,8 +30,8 @@ twitter_username: impro-alpes
 github_username:  inthealps/impro
 
 # Build settings
-theme: minima
-#remote_theme: jekyll-theme-clean-blog
+#theme: minima
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 

@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Où trouver de l'impro ?"
+date:   2023-06-24 10:00:00 +0200
+categories: annuaires
+---
+
+Liste non exhaustive des lieux où trouver de l'impro sur l'agglo grenôbloaze.
+
+N'hésite pas à <a href='/contact/'>nous contacter</a> pour compléter cette liste.
+
+## Les lieux
+
+### La basse-cour (Grenoble)
+**Le café-théâtre associatif de Grenoble.**
+Lieu de création, diffusion, transmission, et plein de choses encore ...
+
+Web: <a href= 'https://www.labassecour.net/'>www.labassecour.net</a><br>
+Billetterie : <a href= 'https://billetterie.labassecour.net/'>billetterie.labassecour.net</a><br>
+S'y rendre: <a href='https://goo.gl/maps/vf2a9sv562jbZAKo8' rel='_map'>c'est par là</a>
+
+
+### L'écoutille (Grenoble)
+**Petit lieu d'art vivant.**
+
+Un espace chaleureux au coeur de Grenoble.
+Bien plus qu'une salle de spectacle...
+
+Web: <a href= 'https://www.ecoutille.fr/'>www.ecoutille.fr</a><br>
+Billetterie : Directement depuis les événements sur le site web.<br>
+S'y rendre: <a href='https://goo.gl/maps/n9uYp2vh6vfyqJhL7' rel='_map'>c'est par là</a><br>
+
+
+### L'atelier du 8 (Grenoble)
+**Lieu associatif de créations et manifestations culturelles** au centre-ville de Grenoble, l’Atelier du 8 est un lieu convivial et intimiste. Tout au long de l’année, il propose une offre de spectacles variés, des cours et des stages de pratique théâtrale.
+
+Web: <a href= 'https://www.atelierdu8.fr/'>www.atelierdu8.fr</a><br>
+Billetterie : Informations depuis les événements sur le site web.<br>
+S'y rendre: <a href='https://goo.gl/maps/zsougKt3Bn8MS2RX8' rel='_map'>c'est par là</a><br>
+
+### L'Ecole des Gens (Grenoble)
+**L’École des Gens est une école de théâtre associative située au cœur de Grenoble** et accolée à la compagnie Les Gens du Bitume, elle a pour objectif de rendre le théâtre accessible à tous. Elle offre des formations et stages de théâtre de l’enfant à l’adulte et du débutant au confirmé.
+
+Web: <a href= 'https://www.lesgensdubitume.com/'>www.lesgensdubitume.com</a><br>
+S'y rendre: <a href='https://goo.gl/maps/ARkxhqjbdxcnjEeo7' rel='_map'>c'est par là</a><br>
+
+
+### La carte interactive
+
+A faire ...
+
+{% raw %}
+<img src="../carte-interactive.png">
+{% endraw %}
+
+[//]: # (<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/place?key=API_KEY&q=Grenoble,France"></iframe>)

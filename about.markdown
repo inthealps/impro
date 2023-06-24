@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: À propos
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+L'actualité de l'improvisation théâtrale dans les Alpes.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Site collaboratif, fièrement propulsé par des amoureuses et amoureux de l'impro.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+On fait de notre mieux pour que ce site soit le plus pertinent possible, mais comme en impro, ça peut râter.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Si vous avez des suggestions, des remarques, des idées, voire même de la colère ... n'hésitez pas à nous en parler, on essaie de faire au mieux, mais en improvisant ;)

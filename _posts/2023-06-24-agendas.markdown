@@ -8,10 +8,10 @@ categories: agendas
 C'est par ici que tu trouveras les dates des prochains spectacles, stages, cours et ateliers.
 
 ### Agenda des spectacles
-Les dates des prochains spectacles [ICI](/agendas/spectacles)
+Les dates des prochains spectacles [ICI](/impro/agendas/spectacles)
 
 ### Agenda des stages
-Les dates de ton prochain stage [ICI](/agendas/stages)
+Les dates de ton prochain stage [ICI](/impro/agendas/stages)
 
 ### Agenda des cours et ateliers
-Ton prochain cours, peut-être la saison prochaine ?? C'est [ICI](/agendas/cours-et-ateliers)
+Ton prochain cours, peut-être la saison prochaine ?? C'est [ICI](/impro/agendas/cours-et-ateliers)

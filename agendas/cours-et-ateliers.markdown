@@ -15,6 +15,8 @@ Il suffit d'envoyer une 'invitation' à <a href='mailto:impro.tete@gmail.com'>im
 
 Pour des raisons évidentes, il te sera demandé d'apporter du soin à la description de ton cours ou atelier, a minima :
 
+---
+
 **Titre :** le titre du cours, et les noms des intervenant.e.s _(Ex: "Impro adulte confirmés, par Jeanne Marque.")_
 
 **Description :** une description du contenu pédagogique du cours incluant les informations pratiques.
@@ -22,6 +24,8 @@ Pour des raisons évidentes, il te sera demandé d'apporter du soin à la descri
 **Lieu :** le lieu du cours : une adresse complète, genre copiée/collée depuis google maps, _(Ex: "L'écoutille, Rue Saint-Laurent, Grenoble")_
 
 **Date :** les dates du cours et les horaires _(Ex: "Tous les lundis de 20h à 22h, du 15 septembre au 15 juin, hors vacances scolaires Zone A")_
+
+---
 
 Une équipe modère tout de même les ajouts afin d'éviter les abus ;)
 

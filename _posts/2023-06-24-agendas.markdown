@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Les agendas partagés"
+date:   2023-06-24 10:20:00 +0200
+categories: agendas
+---
+
+C'est par ici que tu trouveras les dates des prochains spectacles, stages, cours et ateliers.
+
+### Agenda des spectacles
+Les dates des prochains spectacles [ICI](/agendas/spectacles)
+
+### Agenda des stages
+Les dates de ton prochain stage [ICI](/agendas/stages)
+
+### Agenda des cours et ateliers
+Ton prochain cours, peut-être la saison prochaine ?? C'est [ICI](/agendas/cours-et-ateliers)

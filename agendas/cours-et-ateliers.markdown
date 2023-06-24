@@ -30,3 +30,5 @@ Pour des raisons évidentes, il te sera demandé d'apporter du soin à la descri
 Une équipe modère tout de même les ajouts afin d'éviter les abus ;)
 
 Enfin, **priorité sera donnée aux formateur.ice.s** qui décident de communiquer sur leurs cours et ateliers ...
+
+[Synchronise cet agenda avec le tien !](synchro-agenda.markdown)

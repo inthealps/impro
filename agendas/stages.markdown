@@ -32,4 +32,4 @@ Une équipe modère tout de même les ajouts afin d'éviter les abus ;)
 
 Enfin, **priorité sera donnée aux formateur.ice.s** qui décident de communiquer sur leurs stages ...
 
-<a href='/agendas/synchro'>Synchroniser cet agenda avec le tien</a>
+[Synchronise cet agenda avec le tien !](synchro-agenda.markdown)

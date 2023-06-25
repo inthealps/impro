@@ -16,6 +16,8 @@ N'hésite pas à <a href='/contact/'>nous contacter</a> pour compléter cette li
 ### {{ item.name }} ({{ item.city }})
 {{ item.desc }}
 
+<img src="assets/images/theaters/{{ item.img }}" alt="{{ item.name }}">
+
 {% if item.website %}
 Web: <a href= '{{ item.website }}'>{{ item.website }}</a>
 {% endif %}

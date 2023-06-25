@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Annuaires des troupes"
+subtitle: "Les troupes et compagnies d'impro sur l'agglo"
 author: impro-alpes
 date:   2023-06-24 09:40:00 +0200
 categories: annuaires

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Où trouver de l'impro ?"
+subtitle: "Les lieux où ça s'passe ..."
 author: impro-alpes
 date:   2023-06-24 10:00:00 +0200
 categories: annuaires

@@ -21,11 +21,6 @@ Pas besoin, on est riches (enfin, on connait des gens qui connaissent des gens q
 
 Mais venez soutenir le spectacle vivant en venant voir les artistes dans les salles de Grenoble et de l'agglo, c'est le meilleur cadeau que vous pouvez nous faire !
 
-[//]: # (### Nous suivre)
+### ... pour nous pourrir
+Uniquement si ça apaise votre coeur ...
 
-[//]: # (Pour suivre l'actualité de ce site, vous pouvez vous abonner à notre [flux RSS]&#40;/feed.xml&#41;.)
-
-[//]: # ()
-[//]: # (### Nous soutenir)
-
-[//]: # (Si vous souhaitez nous soutenir, vous pouvez nous faire un don via [Tipeee]&#40;https://fr.tipeee.com/impro-tete&#41;.)

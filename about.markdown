@@ -6,7 +6,7 @@ permalink: /about/
 
 **L'actualité de l'improvisation théâtrale dans les Alpes.**
 
-<img src="./assets/images/grenoble.jpg" alt="GreLand, in the alps ...">
+<img src="{{ site.baseurl }}/assets/images/grenoble.jpg" alt="GreLand, in the alps ...">
 
 Site collaboratif, fièrement propulsé par des amoureuses et amoureux de l'impro.
 

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Les Quand-Mêmes",
+    "isPro": true,
+    "desc": "On ne présente plus les Quand-Mêmes, troupe d'improvisation théâtrale grenobloise, qui a vu le jour en 2003. Ils ont joué plus de 500 matchs d'improvisation théâtrale, et ont remporté le titre de champion de France en 2010.",
+    "instagram": "https://www.instagram.com/les_quand_memes/",
+    "facebook": "https://www.facebook.com/lesquandmemes/",
+    "twitter": "https://twitter.com/lesquandmemes",
+    "img": "quand-memes.jpg"
+  },
+  {
+    "name": "Les Eklectics",
+    "isPro": false,
+    "desc": "Description à faire ...",
+    "instagram": "https://www.instagram.com/les_eclectiks_impro_grenoble/",
+    "facebook": "https://www.facebook.com/eklectics/",
+    "twitter": null,
+    "img": "eklectics.jpg"
+  },
+  {
+    "name": "Compagnie 'En roue libre'",
+    "isPro": false,
+    "desc": "Jeune compagnie d'amateurices plutôt spécialiste des formats longs ... Description à faire ...",
+    "instagram": "https://www.instagram.com/enrouelibrecie/",
+    "facebook": null,
+    "twitter": null,
+    "img": "en-roue-libre.jpg"
+  }
+]

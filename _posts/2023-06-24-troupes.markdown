@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Annuaires des troupes"
+author: impro-alpes
 date:   2023-06-24 09:40:00 +0200
 categories: annuaires
 ---
@@ -9,16 +10,27 @@ categories: annuaires
 
 Liste non exhaustive des troupes d'impro sur l'agglo grenôbloaze.
 
-### Les Quand-Mêmes
-On ne présente plus les Quand-Mêmes, troupe d'improvisation théâtrale grenobloise, qui a vu le jour en 2003. Ils ont joué plus de 500 matchs d'improvisation théâtrale, et ont remporté le titre de champion de France en 2010.
-Description à faire ...
+{% for item in site.data.companies %}
 
-### Les Eklectics
-Description à faire ...
+{% if item.isPro == true %}
+### {{ item.name }} (pros)
+{% else %}
+### {{ item.name }} (amateurs)
+{% endif %}
+{{ item.desc }}
 
-### Compagnie 'En roue libre'
-Jeune compagnie d'amateurices plutôt spécialiste des formats longs ...
-Description à faire ...
+<img src="/assets/images/companies/{{ item.img }}" alt="{{ item.name }}">
+
+{% if item.instagram %}
+Instagram: <a href= '{{ item.instagram }}'>{{ item.instagram }}</a>
+{% endif %}
+{% if item.facebook %}
+Facebook : <a href= '{{ item.facebook }}'>{{ item.facebook }}</a>
+{% endif %}
+{% if item.twitter %}
+Twitter : <a href= '{{ item.twitter }}'>{{ item.twitter }}</a>
+{% endif %}
+{% endfor %}
 
 ### etc ...
 Description à faire ...

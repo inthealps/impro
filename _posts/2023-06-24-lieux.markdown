@@ -36,14 +36,7 @@ Téléphone: {{ item.phone }} (sans abuser ;)
 {% endfor %}
 
 ### La carte interactive
-
-A faire ...
-
-{% raw %}
-<img src="../carte-interactive.png">
-{% endraw %}
-
-[//]: # (<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/place?key=API_KEY&q=Grenoble,France"></iframe>)
+<a href='https://goo.gl/maps/ccHyyk1zZEEi2yGH9'><img src="{{ site.baseurl }}/assets/images/carte-interactive.png" alt="Carte interactive"></a>
 
 ### Pas dans la liste ???
 N'hésite pas à [nous contacter](/contact) pour combler ce vide immense.

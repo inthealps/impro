@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Les agendas partagés"
-subtitle: "Les dates des prochains spectacles, stages, cours et ateliers"
+subtitle: "Les prochains spectacles, stages, cours et ateliers"
 author: impro-alpes
 date:   2023-06-24 10:20:00 +0200
 categories: agendas
@@ -17,3 +17,15 @@ Les dates de ton prochain stage [ICI](/impro/agendas/stages)
 
 ### Agenda des cours et ateliers
 Ton prochain cours, peut-être la saison prochaine ?? C'est [ICI](/impro/agendas/cours-et-ateliers)
+
+### Pas de prise de tête
+Quoi de plus pratique que d'avoir ces événements dans ton propre agenda ?
+Afin de vérifier ta disponibilité ?
+Et de pouvoir les masquer lorsque tu en éprouves le besoin ?
+
+**Exemple d'intégration dans _Google Agenda_ sur téléphone Android:**
+<img src="{{ site.baseurl }}/assets/images/agenda-example.png" alt="Exemple d'intégration dans ton agenda">
+
+**Exemple d'intégration dans _Apple Truc_ sur iPhone :**
+
+_TODO, quelqu'un.e a un iPhone pour faire une capture d'écran ?_

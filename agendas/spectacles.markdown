@@ -1,6 +1,8 @@
 ---
 layout: page
 title:  "Agenda des spectacles"
+subtitle: "Les spectacles d'impro, théâtre, clown ..."
+page: 1
 permalink: /agendas/spectacles
 ---
 

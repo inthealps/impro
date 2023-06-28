@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: page
 title:  "Annuaires des pros"
 subtitle: "Les professionnels de l'impro"
-author: impro-alpes
-date:   2023-06-24 09:50:00 +0200
 categories: annuaires
+permalink: /pros/
+thumbnail: assets/icons/pro.svg
 ---
 
 Vous avez besoin d'un accompagnement dans votre projet d'improvisation théâtrale ?

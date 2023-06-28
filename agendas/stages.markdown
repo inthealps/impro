@@ -1,6 +1,8 @@
 ---
 layout: page
 title:  "Agenda des stages"
+subtitle: "Les stages d'impro, théâtre, clown, comédie musicale ..."
+page: 2
 permalink: /agendas/stages
 ---
 

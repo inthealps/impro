@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Ajouter un spectacle"
+number: 100
 permalink: /agendas/ajout-spectacle/
 ---
 

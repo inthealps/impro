@@ -37,6 +37,17 @@ remote_theme: startbootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
 
+collections:
+  the_pages:
+    output: true
+    order:
+      - agendas.markdown
+      - lieux.markdown
+      - troupes.markdown
+      - pros.markdown
+  staff_members:
+    output: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

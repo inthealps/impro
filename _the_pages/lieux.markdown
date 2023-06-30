@@ -13,7 +13,7 @@ thumbnail: assets/icons/theater.svg
 ### {{ item.name }} ({{ item.city }})
 {{ item.desc }}
 
-<img src="{{ baseurl }}/assets/images/theaters/{{ item.img }}" alt="{{ item.name }}">
+<img src="{{ site.baseurl }}/assets/images/theaters/{{ item.img }}" alt="{{ item.name }}">
 
 {% if item.website %}
 <img src="{{ 'assets/icons/web.svg' | relative_url }}" width="24" alt="Site web">

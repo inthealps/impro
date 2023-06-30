@@ -28,4 +28,4 @@ Clique sur _Ajouter l'agenda_. Il est censé apparaître sur la gauche, sous la 
 **Note :** Cette opération ne peut pas se faire depuis l'application _Agenda_ du téléphone. Uniquement sur le site web depuis un ordinateur.
 
 ### Microsoft Outlook
-Explications ici : <a href='https://www.softwareadvice.fr/blog/3211/ajouter-calendrier-outlook'>Ajout de l'agenda dans Outlook</a>
+Explications ici : <a href='https://www.softwareadvice.fr/blog/3211/ajouter-calendrier-outlook' target="_blank">Ajout de l'agenda dans Outlook</a>

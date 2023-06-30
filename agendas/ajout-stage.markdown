@@ -26,4 +26,4 @@ Une équipe modère tout de même les ajouts afin d'éviter les abus ;)
 
 Enfin, **priorité sera donnée aux formateur.ice.s** qui décident de communiquer sur leurs stages ...
 
-Bloqué ? [Contacte-nous](/contact) !
+Bloqué ? [Contacte-nous]('contact' | relative_url) !

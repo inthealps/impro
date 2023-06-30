@@ -22,8 +22,8 @@ title: Impro-Alpes
 description: >- # this means to ignore newlines until "baseurl:"
   L'improvisation théâtrale dans les Alpes.<br>
   Agendas, annuaires et autres bidules utiles ...
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://inthealps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/impro" # the subpath of your site, e.g. /blog
 
 author: Collectif Impro-Alpes
 email: impro.tete@gmail.com

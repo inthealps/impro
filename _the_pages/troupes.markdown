@@ -20,18 +20,18 @@ Liste non exhaustive des troupes d'impro sur l'agglo grenôbloaze.
 {% endif %}
 {{ item.desc }}
 
-<img src="{{ site.baseurl }}/assets/images/companies/{{ item.img }}" alt="{{ item.name }}">
+<img src="{{ baseurl }}/assets/images/companies/{{ item.img }}" alt="{{ item.name }}">
 
 {% if item.instagram %}
-<img src="{{ site.baseurl }}/assets/icons/instagram.svg" width="24" alt="Instagram">
+<img src="'assets/icons/instagram.svg' | relative_url }}" width="24" alt="Instagram">
 <a href= '{{ item.instagram }}'>{{ item.instagram | replace: "https://", ""  | replace: "http://", "" }}</a>
 {% endif %}
 {% if item.facebook %}
-<img src="{{ site.baseurl }}/assets/icons/facebook.svg" width="24" alt="Facebook">
+<img src="{{ 'assets/icons/facebook.svg' | relative_url }}" width="24" alt="Facebook">
 <a href= '{{ item.facebook }}'>{{ item.facebook | replace: "https://", ""  | replace: "http://", "" }}</a>
 {% endif %}
 {% if item.twitter %}
-<img src="{{ site.baseurl }}/assets/icons/twitter.svg" width="24" alt="Twitter">
+<img src="{{ 'assets/icons/twitter.svg' | relative_url }}" width="24" alt="Twitter">
 <a href= '{{ item.twitter }}'>{{ item.twitter | replace: "https://", ""  | replace: "http://", "" }}</a>
 {% endif %}
 {% endfor %}

@@ -15,9 +15,11 @@ Pour des raisons évidentes, il te sera demandé d'**apporter du soin à la desc
 
 **Titre :** le titre du spectacle, et la compagnie _(Ex: "The New Guy, par les Quand-Mêmes")_
 
-**Description :** une description du spectacle incluant les informations pratiques, et un lien vers la billetterie si elle existe
+**Description :** une description du spectacle incluant les informations pratiques, et un lien vers la billetterie si
+elle existe
 
-**Lieu :** le lieu du spectacle : une adresse complète, genre copiée/collée depuis google maps _(Ex: "La basse cour, Rue Colbert, Grenoble")_
+**Lieu :** le lieu du spectacle : une adresse complète, genre copiée/collée depuis google maps _(Ex: "La basse cour, Rue
+Colbert, Grenoble")_
 
 **Date :** la date du spectacle et l'heure, sa durée
 
@@ -27,4 +29,4 @@ Une équipe modère tout de même les ajouts afin d'éviter les abus ;)
 
 Enfin, **priorité sera donnée aux propriétaires des salles** s'ils décident de communiquer sur leurs spectacles ...
 
-Bloqué ? [Contacte-nous](/contact) !
+Bloqué ? [Contacte-nous]({{ 'contact' | relative_url }}) !

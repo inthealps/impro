@@ -51,4 +51,4 @@ Réservations : <a href='{{ item.tickets }}' target="_blank">{{ item.tickets | r
 <a href='https://goo.gl/maps/ccHyyk1zZEEi2yGH9' target="_blank"><img src="{{ 'assets/images/carte-interactive.png' | relative_url }}" alt="Carte interactive"></a>
 
 ### Pas dans la liste ???
-N'hésite pas à [nous contacter]('contact'  | relative_url ) pour combler ce vide immense.
+N'hésite pas à [nous contacter]({{ 'contact' | relative_url }}) pour combler ce vide immense.

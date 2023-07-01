@@ -23,7 +23,7 @@ Liste non exhaustive des troupes d'impro sur l'agglo grenôbloaze.
 <img src="{{ site.baseurl }}/assets/images/companies/{{ item.img }}" alt="{{ item.name }}">
 
 {% if item.instagram %}
-<img src="'assets/icons/instagram.svg' | relative_url }}" width="24" alt="Instagram">
+<img src="{{ 'assets/icons/instagram.svg' | relative_url }}" width="24" alt="Instagram">
 <a href= '{{ item.instagram }}' target="_blank">{{ item.instagram | replace: "https://", ""  | replace: "http://", "" }}</a>
 {% endif %}
 {% if item.facebook %}

@@ -3,6 +3,7 @@
     "name": "La basse-cour",
     "city": "Grenoble",
     "desc": "**Le café-théâtre associatif de Grenoble.**\nLieu de création, diffusion, transmission, et plein de choses encore ...",
+    "more": "De l’improvisation le mercredi, samedi et dimanche et du stand up du jeudi au samedi !",
     "website": "https://www.labassecour.net",
     "tickets": "https://billetterie.labassecour.net",
     "address": "18 Rue Colbert, 38000 Grenoble",
@@ -14,6 +15,7 @@
     "name": "L'écoutille",
     "city": "Grenoble",
     "desc": "**Petit lieu d'art vivant.**\nUn espace chaleureux au coeur de Grenoble.\nBien plus qu'une salle de spectacle...",
+    "more": "Du théâtre, de l'improvisation théâtrale, des ateliers, et plein d'autres choses encore ... à découvrir !",
     "website": "https://www.ecoutille.fr",
     "tickets": "Réservations directement depuis les événements sur le site web.",
     "address": "53 Rue Saint-Laurent, 38000 Grenoble",
@@ -25,6 +27,7 @@
     "name": "L'atelier du 8",
     "city": "Grenoble",
     "desc": "L'atelier du 8 est un lieu associatif de créations et manifestations culturelles au centre-ville de Grenoble. Tout au long de l’année, il propose une offre de spectacles variés, des cours et des stages de pratique théâtrale.",
+    "more": "Le théâtre de l’Atelier du 8 est un lieu qui privilégie la proximité avec le public ...",
     "website": "https://www.atelierdu8.fr",
     "tickets": "Informations depuis les événements sur le site web.",
     "address": "2 Rue Raymond Bank, 38000 Grenoble",
@@ -36,6 +39,7 @@
     "name": "L'Ecole des Gens",
     "city": "Grenoble",
     "desc": "L’École des Gens est une école de théâtre associative située au cœur de Grenoble et accolée à la compagnie Les Gens du Bitume, elle a pour objectif de rendre le théâtre accessible à tous. Elle offre des formations et stages de théâtre de l’enfant à l’adulte et du débutant au confirmé.",
+    "more": "Trois salles de répétition, un théâtre de 49 places, un foyer des élèves ...",
     "website": "https://www.lesgensdubitume.com",
     "tickets": null,
     "address": "45 Rue Nicolas Chorier, 38000 Grenoble",
@@ -47,11 +51,12 @@
     "name": "Un autre lieu",
     "city": "Eybens",
     "desc": "Ce lieu est blabla ...",
+    "more": "Encore d'autres détails sur ce lieu blabla ...",
     "website": null,
     "tickets": null,
     "address": "12 rue des Fleurs, 38230 Eybens",
     "map": null,
     "phone": "09 81 63 79 36",
-    "img": "ecole-gens.jpg"
+    "img": "autre-lieu.jpg"
   }
 ]

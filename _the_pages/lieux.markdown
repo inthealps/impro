@@ -11,13 +11,17 @@ thumbnail: assets/icons/theater.svg
 
 {% for item in site.data.theaters %}
 ### {{ item.name }} ({{ item.city }})
+<img src="{{ 'assets/icons/notes.svg' | relative_url }}" width="24" alt="C'est quoi ?">
 {{ item.desc }}
 
 <img src="{{ site.baseurl }}/assets/images/theaters/{{ item.img }}" alt="{{ item.name }}">
 
+<img src="{{ 'assets/icons/more.svg' | relative_url }}" width="24" alt="En savoir plus ...">
+<i>{{ item.more }}</i>
+
 {% if item.website %}
 <img src="{{ 'assets/icons/web.svg' | relative_url }}" width="24" alt="Site web">
-<a href= '{{ item.website }} target="_blank"'>{{ item.website | replace: "https://", ""  | replace: "http://", "" }}</a>
+<a href= '{{ item.website }}' target="_blank">{{ item.website | replace: "https://", ""  | replace: "http://", "" }}</a>
 {% endif %}
 {% if item.tickets contains "https://" or item.tickets contains "http://" %}
 <img src="{{ 'assets/icons/tickets.svg' | relative_url }}" width="24" alt="Billetterie">

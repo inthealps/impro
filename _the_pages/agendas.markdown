@@ -26,8 +26,12 @@ Et de pouvoir les masquer lorsque tu en éprouves le besoin ?
 <h3><img src="{{ 'assets/icons/mobile.svg' | relative_url }}" width="48" alt=""> Dans ton téléphone !</h3>
 
 **Exemple d'intégration dans _Google Agenda_ sur téléphone Android:**
-<img src="{{ 'assets/images/agenda-example.png' | relative_url }}" alt="Exemple d'intégration dans ton agenda">
 
-**Exemple d'intégration dans _Apple Truc_ sur iPhone :**
+<img src="{{ 'assets/images/agenda-example-android.jpg' | relative_url }}" alt="Exemple d'intégration dans ton Agenda sur Android">
 
-_TODO, quelqu'un.e a un iPhone pour faire une capture d'écran ?_
+
+**Exemple d'intégration dans _Calendrier_ sur iPhone :**
+
+<img src="{{ 'assets/images/agenda-example-iphone.jpg' | relative_url }}" alt="Exemple d'intégration dans ton Calendrier sur iPhone">
+
+Sexy, non ?

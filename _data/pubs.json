@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Jardins d’Otium",
+    "city": "Grenoble",
+    "desc": "Jardins d’otium est un lieu géré par l’association CMRA.\nIl est composé d’un espace convivial et met à disposition **deux salles de 80m² et 40m²**.\nOuverts et lumineux, ces espaces sont adaptés pour accueillir diverses pratiques culturelles, traditionnelles et de santé au naturel.",
+    "more": "Situé au cœur du quartier Saint Bruno à Grenoble, Jardins d’Otium est **un lieu composite ouvert à tous les âges, toutes les cultures**, pour pratiquer la connaissance de soi et des autres, et cultiver un esprit de partage et de bienveillance entre tous.",
+    "website": "https://www.jardinsdotium.com/",
+    "tickets": null,
+    "address": "Rue de la Mégisserie, 38000 Grenoble",
+    "map": "https://goo.gl/maps/FPqy4PBkVLrRTwcZA",
+    "phone": "06 24 81 29 39",
+    "img": "jardins-otium.jpg"
+  },
+  {
+    "name": "Salon Gwendoline",
+    "city": "Grenoble",
+    "desc": "Il s’y joue du match et du catch de temps à autres …",
+    "more": null,
+    "website": null,
+    "tickets": null,
+    "address": "6 Pl. Dr Léon Martin, 38000 Grenoble",
+    "map": "https://goo.gl/maps/WBpTwLsAeeJvkEWB8",
+    "phone": "09 85 12 03 73",
+    "img": "gwendoline.jpg"
+  },
+  {
+    "name": "Restaurant Viva Mexico",
+    "city": "Grenoble",
+    "desc": "Un lieu ’impro-friendly’ ... Une belle scène sur un des pans d’une très grande salle.\nSpectateurs à table …",
+    "more": "Les consommateur.ice.s peuvent faire un peu de bruit pendant le spectacle.",
+    "website": "https://restaurantvivamexico.fr",
+    "tickets": null,
+    "address": "5-7 Rue Jean Prévost, 38000 Grenoble",
+    "map": "https://goo.gl/maps/hKX4mWV1oveLFPs6A",
+    "phone": "04 57 39 04 53",
+    "img": "viva-mexico.jpg"
+  },
+  {
+    "name": "La base",
+    "city": "Grenoble",
+    "desc": "**Bar associatif 100% bénévole, convivial et inclusif.**\nAxé sur les thématiques de luttes sociales et écologiques.\nPeut-être y arriver avec un format dans ces thématiques ?",
+    "more": "Il s’y joue du match et du catch de temps à autres …",
+    "website": "https://grenoble.alternatiba.eu/la-base",
+    "tickets": null,
+    "address": "17 Rue du Dauphiné, 38000 Grenoble",
+    "map": "https://goo.gl/maps/i9PE1nbodYd8aNwh6",
+    "phone": "06 52 95 42 31",
+    "img": "la-base.jpg"
+  },
+  {
+    "name": "Michel Musique",
+    "city": "Grenoble",
+    "desc": "Magasin spécialisé dans la vente d’instruments de musique neufs ou d’occasion, de partitions et d’accessoires.\nIl s’y joue de l’impro assez régulièrement ...",
+    "more": "De l’impro ici ? Qui l’eut cru ? Et pourtant il y en a ! Coool !",
+    "website": "https://www.michelmusique.fr/",
+    "tickets": null,
+    "address": "19 Bd Gambetta, 38000 Grenoble",
+    "map": "https://goo.gl/maps/ietWHqEqxnqLqFAC7",
+    "phone": "04 76 46 28 82",
+    "img": "michel-musique.jpg"
+  },
+  {
+    "name": "Le Bar Radis",
+    "city": "Grenoble",
+    "desc": "Perché à 15m de hauteur sur le toit d’un parking grenoblois, Le Bar Radis est un tiers-lieu expérimental dédié aux questions d’agriculture urbaine, d’alimentation et d’environnement. Au Bar Radis, on cultive, on récolte, on mange, on transmet et on s’amuse !",
+    "more": "Des spectacles d’impro y sont régulièrement organisés. Il y a une scène en extrérieur et le public est assis.",
+    "website": "https://lebarradis.fr/programmation",
+    "tickets": null,
+    "address": "15 Rue Gustave Flaubert, 38100 Grenoble",
+    "map": "https://goo.gl/maps/AgUDrbpeBzSg7sfB8",
+    "phone": "04 76 48 71 27",
+    "img": "bar-radis.jpg"
+  }
+]

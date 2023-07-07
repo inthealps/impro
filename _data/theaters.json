@@ -48,6 +48,18 @@
     "img": "ecole-gens.jpg"
   },
   {
+    "name": "Le Midi/Minuit",
+    "city": "Grenoble",
+    "desc": "**Le Midi/Minuit est un espace minuscule** où il ne rentre de fait que des singularités. En effet **tout le monde voit tout le monde**. Il est le témoin d’une crise du vivre ensemble. Ici c’est calme parce que dehors ça tape.\nC'est un lieu de rencontre entre l’art dramatique et le monde. Tout cela dans un esprit joueur. On y joue du théâtre sur mesure.",
+    "more": "**Le lieu a fermé en Juin 2023**",
+    "website": "https://collectifmidiminui.wixsite.com/midiminuit",
+    "tickets": null,
+    "address": "38 Rue Saint-Laurent, 38000 Grenoble",
+    "map": "https://goo.gl/maps/GysWPzWDq5rc7Zov7",
+    "phone": "04 76 54 12 30",
+    "img": "midi-minuit.jpg"
+  },
+  {
     "name": "Un autre lieu",
     "city": "Eybens",
     "desc": "Ce lieu est blabla ...",

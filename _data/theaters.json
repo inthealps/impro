@@ -70,17 +70,5 @@
     "map": "https://goo.gl/maps/2J6ZpoRf1ZLE5CZT8",
     "phone": "06 20 60 61 51",
     "img": "lig.jpg"
-  },
-  {
-    "name": "Un autre lieu",
-    "city": "Eybens",
-    "desc": "Ce lieu est blabla ...",
-    "more": "Encore d'autres détails sur ce lieu blabla ...",
-    "website": null,
-    "tickets": null,
-    "address": "12 rue des Fleurs, 38230 Eybens",
-    "map": null,
-    "phone": "09 81 63 79 36",
-    "img": "autre-lieu.jpg"
   }
 ]

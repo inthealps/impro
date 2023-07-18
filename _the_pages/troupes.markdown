@@ -42,8 +42,5 @@ Liste non exhaustive des troupes d'impro sur l'agglo grenôbloaze.
 {% endif %}
 {% endfor %}
 
-### etc ...
-Description à faire ...
-
 ### Pas dans la liste ???
 N'hésite pas à [nous contacter]({{ 'contact' | relative_url }}) pour combler ce vide immense.

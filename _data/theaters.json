@@ -60,6 +60,18 @@
     "img": "midi-minuit.jpg"
   },
   {
+    "name": "La L.I.G",
+    "city": "Grenoble",
+    "desc": "La LIG propose régulièrement, outre ses ateliers hebdomadaires, des stages de théâtre d'improvisation...\n**Venez découvrir les techniques du théâtre d’improvisation** selon les concepts du « Match d’Impro » et du « Catch Impro ». Toujours ludiques, les exercices ouvriront la voie à votre imaginaire et à votre créativité.\nTout sera prétexte à jouer, à se découvrir créatif et espiègle, à rebondir et à jongler avec les mots, les situations.",
+    "more": "Vous apprendrez à créer des histoires, des personnages, des ambiances, des univers, mêlant la spontanéité et l’imagination pour vous amuser, délirer et innover ! ",
+    "website": "https://www.lig.fr",
+    "tickets": null,
+    "address": "88 Rue Anatole France, 38100 Grenoble",
+    "map": "https://goo.gl/maps/2J6ZpoRf1ZLE5CZT8",
+    "phone": "06 20 60 61 51",
+    "img": "lig.jpg"
+  },
+  {
     "name": "Un autre lieu",
     "city": "Eybens",
     "desc": "Ce lieu est blabla ...",

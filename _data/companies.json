@@ -25,5 +25,14 @@
     "facebook": null,
     "twitter": null,
     "img": "en-roue-libre.jpg"
+  },
+  {
+    "name": "Les Brûleurs de Mots",
+    "isPro": false,
+    "desc": "Jeune troupe de théâtre d’improvisation affiliée à la LIG, ce qui permet de bénéficier de l'enseignement, de l’aide et du soutien de professionnels. Une ambition : continuer à progresser pour offrir au public des spectacles d'improvisation chaque fois plus aboutis. Les BDM se produisent à Grenoble et dans les alentours.",
+    "instagram": "https://www.instagram.com/bruleursdemots",
+    "facebook": "https://www.facebook.com/lesbruleursdemots",
+    "twitter": null,
+    "img": "bruleurs-de-mots.jpg"
   }
 ]

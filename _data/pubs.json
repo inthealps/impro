@@ -70,5 +70,29 @@
     "map": "https://goo.gl/maps/AgUDrbpeBzSg7sfB8",
     "phone": "04 76 48 71 27",
     "img": "bar-radis.jpg"
+  },
+  {
+    "name": "Le Bayard",
+    "city": "Grenoble",
+    "desc": "Sympathique bar de quartier, avec toujours une belle ambiance.",
+    "more": "Laisse une jolie place à l’improvisation, un jeudi sur deux, lors des \"Jeudis de l’impro\".",
+    "website": "https://www.facebook.com/pages/Caf%C3%A9-Bayard/2421534358071020",
+    "tickets": null,
+    "address": "5 Rue Bayard, 38000 Grenoble",
+    "map": "https://goo.gl/maps/6cikCCC59SfbtFY77",
+    "phone": "04 76 44 17 97",
+    "img": "bayard.jpg"
+  },
+  {
+    "name": "La Crique Sud",
+    "city": "Grenoble",
+    "desc": "**La Crique Sud est un bistrot culturel de Grenoble**\n\nBières artisanales, planches apéro, jam session, musique live, soirées danses, coin bibliothèque et jeux de sociétés",
+    "more": "Ouverts à l'improvisation, ils accueillent régulièrement des spectacles, dont ceux des **Colocs** qui y jouent certains mardis soirs.",
+    "website": "https://lacriquesud.fr",
+    "tickets": null,
+    "address": "11 Bd Agutte Sembat, 38000 Grenoble",
+    "map": "https://goo.gl/maps/fqp8rtA1rGdg33iR9",
+    "phone": null,
+    "img": "crique-sud.jpg"
   }
 ]

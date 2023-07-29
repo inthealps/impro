@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Stage de long-form de Candice et Polo"
-permalink: /agendas/cours-et-ateliers
+permalink: /priv/stg-long-form
 ---
 
 # Propriété intellectuelle
@@ -19,15 +19,14 @@ Même si Candice nous a dit que les exercices venaient pour la plupart du bouqui
 Du coup si j'n'ai rien compris, merci de me le signaler ;)
 
 ## Disclaimer #2
-Je n'ai pas utilisé l'écriture inclusive dans ce document, car j'ai fait ça rapidement.
+Je n'ai pas utilisé l'écriture inclusive dans ce document ... par flemme (shame).
 
-Je le fais habituellement, sur des documents plus courts, parce que ... ben ... on est en 2023 quoi !
-
-Si une bonne âme se sent de le faire, c'est avec plaisir, le document n'en sera que plus riche.
+Si une bonne âme se sent de le faire, c'est avec plaisir, le document n'en sera que plus accessible à tout le monde.
 
 ## Disclaimer #3
-Il est mentionné le mot "Règle" dans ce document.
-"Fuck the rules" -> Évidemment, les règles sont faites pour être contournées et oubliées ... une fois qu'on en a compris et intégré les bénéfices.
+Il est mentionné le mot "Règles" dans ce document, comme si c'était la vérité de l'impro ;)
+
+En impro, "Fuck the rules!" -> Évidemment, les règles sont faites pour être contournées et oubliées ... une fois qu'on en a compris et intégré les bénéfices.
 
 
 [Le long-form c'est quoi ?]({{ 'priv/stg-long-form/long-form-kezako' | relative_url }})

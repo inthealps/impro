@@ -11,10 +11,10 @@ Pour nous contacter, rien de plus simple, il suffit d'envoyer un mail à <a href
 ### ... pour contribuer
 Ce site est collaboratif, et nous sommes toujours à la recherche de personnes motivées pour nous aider à le faire vivre.
 
-Nous avons pu nous tromper (mince çà arrive), ou bien vous avez des idées pour améliorer ce site, n'hésitez pas à nous en faire part.
+Nous avons pu nous tromper (mince ça arrive), ou bien vous avez des idées pour améliorer ce site, n'hésitez pas à nous en faire part.
 
 ### ... pour dire merci
-Si vous avez apprécié ce site, vous pouvez nous le dire, çà nous fera très plaisir.
+Si vous avez apprécié ce site, vous pouvez nous le dire, ça nous fera très plaisir.
 
 ### ... pour nous faire un don
 Pas besoin, on est riches (enfin, on connait des gens qui connaissent des gens qui sont riches).

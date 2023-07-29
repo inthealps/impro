@@ -1,3 +1,8 @@
+---
+layout: page
+title:  "Comment éviter/traiter les red-flags"
+---
+
 ## Red-flags
 
 ### Les sujets à éviter

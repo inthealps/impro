@@ -1,5 +1,13 @@
+---
+layout: page
+title:  "Gonfler les enjeux"
+---
 
 ## 6 types d'enjeux
+
+Le public s'identifie à un personnage, et se demande "Qu'est-ce qui va lui arriver ?"
+
+Liste des enjeux par ordre de préférence :
 
 1. Amour
 2. Famille

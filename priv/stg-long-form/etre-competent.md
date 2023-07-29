@@ -1,4 +1,9 @@
-## Etre compétent
+---
+layout: page
+title:  "Être compétent"
+---
+
+## Être compétent
 
 ### Affirmer les choses
 Le personnage affirme les choses, il ne les suppose pas ... ni ne les interroge !

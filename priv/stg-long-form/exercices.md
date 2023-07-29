@@ -1,3 +1,9 @@
+---
+layout: page
+title:  "Les exercices du stage"
+---
+
+
 # Exercices
 
 Liste des exercices pratiqués pendant le stage.

@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "Les outils du directeur"
+---
+
+Directeur au sens de l' "impro dirigée" (un metteur en scène, quoi).
+
 # Les outils du directeur
 Ces outils une fois assimilés serviront en jeu, sans directeur.
 

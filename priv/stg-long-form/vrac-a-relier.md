@@ -1,3 +1,9 @@
+---
+layout: page
+title:  "En vrac, à relier"
+---
+
+
 ### Poser le décor
 
 Être précis car on veut revoir le lieu plus tard, dans une autre scène.

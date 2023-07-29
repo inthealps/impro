@@ -1,3 +1,8 @@
+---
+layout: page
+title:  "C'est quoi le long-form ?"
+---
+
 # C'est quoi le long-form ?
 
 Tout spectacle de 30mn minimum ayant un fil conducteur :

@@ -19,7 +19,7 @@ Il est mentionné le mot "Règle" dans ce document.
 "Fuck the rules" -> Évidemment, les règles sont faites pour être contournées et oubliées ... une fois qu'on en a compris et intégré les bénéfices.
 
 
-[Le long-form c'est quoi ?]({{ 'long-form-kezako' | relative_url }})
+[Le long-form c'est quoi ?]({{ 'priv/stg-long-form/long-form-kezako' | relative_url }})
 
 [Liste des exercices ?]({{ 'exercices' | relative_url }})
 Par ordre d'apparition dans le stage

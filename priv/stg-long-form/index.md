@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Stage de long-form de Candice et Polo"
-permalink: /priv/stg-long-form
 ---
 
 # Propriété intellectuelle

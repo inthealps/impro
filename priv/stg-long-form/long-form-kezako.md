@@ -122,7 +122,7 @@ En cas d'erreur, l'exploiter immédiatement, ne pas la gommer ou la nier.
 Il faut mieux l'utiliser que l'expliquer.
 -> Méga sujet, à retravailler
 
-# Pas de diminution
+### Pas de diminution
 Ne pas diminuer ce qui a été installé !
 
 On se casse la tête à gonfler des trucs ... ce n'est pas pour les dégonfler juste derrière !

@@ -21,16 +21,16 @@ Il est mentionné le mot "Règle" dans ce document.
 
 [Le long-form c'est quoi ?]({{ 'priv/stg-long-form/long-form-kezako' | relative_url }})
 
-[Liste des exercices ?]({{ 'exercices' | relative_url }})
+[Liste des exercices ?]({{ 'priv/stg-long-form/exercices' | relative_url }})
 Par ordre d'apparition dans le stage
 
-[Outils du directeur/comédien]({{ 'outils-directeur' | relative_url }})
+[Outils du directeur/comédien]({{ 'priv/stg-long-form/outils-directeur' | relative_url }})
 
-[Être compétent]({{ 'etre-competent' | relative_url }})
+[Être compétent]({{ 'priv/stg-long-form/etre-competent' | relative_url }})
 
-[Monter les enjeux]({{ 'monter-enjeux' | relative_url }})
+[Monter les enjeux]({{ 'priv/stg-long-form/monter-enjeux' | relative_url }})
 
-[Red-flags]({{ 'red-flags' | relative_url }})
+[Red-flags]({{ 'priv/stg-long-form/red-flags' | relative_url }})
 
-[Vrac à relier]({{ 'vrac-a-relier' | relative_url }})
+[Vrac à relier]({{ 'priv/stg-long-form/vrac-a-relier' | relative_url }})
 

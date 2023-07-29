@@ -215,7 +215,7 @@ Il donne à B la consigne "Parole" -> B ne pourra que parler, sans se déplacer,
 
 == 3 équipes de N joueurs ==
 
-Equipe A et équipe B sont en concurrence pour convaincre les joueurs de l'équipe C.
+Équipe A et équipe B sont en concurrence pour convaincre les joueurs de l'équipe C.
 
 Le joueur de A a 5 secondes pour faire une proposition attirante au joueur de l'équipe C.
 
@@ -257,7 +257,7 @@ CONSTATS
 - A force d'être joué, on remarque que les comédiens commencent à avoir des automatismes.
 - A force d'être joué, on remarque que les scènes développent plus d'enjeux (non résolus bien sur !)
 
-## Exercice #3 "Est-ce que tu peux faire plus ?"
+## Exercice "Est-ce que tu peux faire plus ?"
 
 == 2 joueurs ==
 
@@ -271,7 +271,7 @@ A se lance alors dans une histoire avec plus d'enjeux
 
 S'il n'y arrive pas il dit "Bravo ! Tu as gagné !"
 
-## "1 mot, 10 mots, tu perds"
+## Exercice  "1 mot, 10 mots, tu perds"
 
 == N joueurs en cercle ==
 
@@ -285,7 +285,7 @@ Son objectif est de montrer l'état d'esprit dans lequel devrait être tout impr
 
 "Une erreur est un cadeau" (proverbe moldave)
 
-## Dissociation d'idées
+## Exercice "Dissociation d'idées"
 
 == N joueurs en cercle ===
 
@@ -301,8 +301,9 @@ Le fait de préparer (= vouloir réussir) devrait nous alerter sur notre état d
 Si on fait ça, on risque, une fois en jeu, de refuser les propositions, les bascules, de camper sur nos idées (elles sont meilleures), de nier les erreurs au lieu de bâtir avec, etc.
 Bref d'avancer dans l'inconnu.
 
-## Jeu en duo
+## Mise en oeuvre (JEU)
 
+### Jeu en duo
 == 2 joueurs ===
 
 On joue une scène sur un thème "Relation/Lieu".
@@ -313,8 +314,7 @@ Tous les outils servent !
 
 La scène dure 10mn
 
-## Mise en oeuvre (JEU)
-
+## Jeu à 4
 == 4 joueurs ==
 
 Le public (= les autres joueurs) donne "Relation/Lieu" pour A/B, B/C et C/D

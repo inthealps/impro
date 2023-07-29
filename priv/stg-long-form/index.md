@@ -1,3 +1,14 @@
+---
+layout: page
+title:  "Stage de long-form de Candice et Polo"
+permalink: /agendas/cours-et-ateliers
+---
+
+# Propriété intellectuelle
+Même si ce sont mes notes, elles s'appuient sur le travail de nos formateurs, dont c'est le job.
+
+Sauf consigne contraire explicite de leur part, merci de respecter en gardant ça pour nous. 
+
 ## Disclaimer #1
 Ce qui suit vient directement du stage de Candice et Polo qu'on a suivi ensemble.
 
@@ -21,8 +32,8 @@ Il est mentionné le mot "Règle" dans ce document.
 
 [Le long-form c'est quoi ?]({{ 'priv/stg-long-form/long-form-kezako' | relative_url }})
 
-[Liste des exercices ?]({{ 'priv/stg-long-form/exercices' | relative_url }})
-Par ordre d'apparition dans le stage
+[Liste des exercices]({{ 'priv/stg-long-form/exercices' | relative_url }})
+... par ordre d'apparition dans le stage
 
 [Outils du directeur/comédien]({{ 'priv/stg-long-form/outils-directeur' | relative_url }})
 

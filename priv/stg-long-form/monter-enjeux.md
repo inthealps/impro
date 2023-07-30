@@ -7,7 +7,7 @@ title:  "Gonfler les enjeux"
 
 Le public s'identifie à un personnage, et se demande "Qu'est-ce qui va lui arriver ?"
 
-Liste des enjeux par ordre de préférence :
+Liste des enjeux par ordre de préférence du public :
 
 1. Amour
 2. Famille
@@ -20,8 +20,8 @@ Liste des enjeux par ordre de préférence :
 
 Qui cela impacte ??
 
-- Le couple ? -> Enjeu "Amour"
-- La perte de la maison ? -> "Famille"
+- Le couple ? → Enjeu "Amour"
+- La perte de la maison ? → "Famille"
 - etc...
 
 ## Comment ?
@@ -29,7 +29,7 @@ Idéalement, monter les enjeux à DEUX, en ping-pong.
 
 Exemple (outil "répéter")
 - A: "J'ai perdu mon téléphone" (Problème)
-- B répète: "Tu as perdu ton téléphone !"
+- B répète : "Tu as perdu ton téléphone !"
 - A: "J'ai perdu mon téléphone !"
 
 (La répétition donne une importance au problème, et synchronise les 2 joueurs)
@@ -37,18 +37,18 @@ Exemple (outil "répéter")
 Alors B surenchérit :
 - B regardant son téléphone: "Et puis le mien est déchargé !
 
-Super OUTIL, si on a tendance à minimiser les enjeux :
--> Mettre des "merdes" et des "putains" partout ;)
+Voici un super OUTIL pour les comédiens qui ont tendance à minimiser les enjeux :
+→ Mettre des "merdes" et des "putains" partout ;)
 
 Exemple:
-- A: "J'ai perdu mon téléphone" (Problème)
-- A, toujours: "Bah ... au pire j'utiliserai le tien." (Solution)
+- A: "J'ai perdu mon téléphone" (Problème, mais il n'y croit pas vraiment)
+- A, toujours: "Bah ... au pire j'utiliserai le tien." (Solution que trouve A pour ne plus suivre sa piste qu'il pense faible)
 
 Versus :
 - A: "J'ai perdu mon téléphone ... putain !!"
 - A. "Et puis le tien est déchargé, merde ..." (Affirmation, A ne questionne pas B)
 
-Le putain a aidé le comédien à croire à la gravité du truc.
+Le "putain" a aidé le comédien à croire à la gravité du truc.
 Ce n'est pas anodin !
 
 Affirmer (plutôt que questionner) permet de faire des choix !
@@ -56,6 +56,6 @@ Affirmer (plutôt que questionner) permet de faire des choix !
 La question a beaucoup plus de chances de tomber à plat ...
 
 Faire souffrir le plus possible les personnages :
-- "Je n'aime pas perdre" -> NON
-- "Je n'aime pas perdre car je me sens minable après" -> OUI
+- "Je n'aime pas perdre" → NON
+- "Je n'aime pas perdre car je me sens minable après" → OUI
 

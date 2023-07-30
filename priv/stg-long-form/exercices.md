@@ -142,6 +142,7 @@ On raconte une histoire en “sautant dans le vide”, on commence une phrase sa
 En jeu, on l’intègre (en affirmation, pas en question) :
 ”Ça me rappelle la fois où nous étions en canoë …”
 Plutôt que “Tu te souviens ?” qui peut être refusé par le partenaire.
+
 En ping-pong, on va faire avancer l’histoire et les enjeux.
 
 ## Fusion d'exercices
@@ -209,11 +210,11 @@ A dirige l'histoire en disant :
 
 Le directeur C donne aux comédiens A et B une relation (voisins) et un lieu (gymnase).
 
-Il donne à A la consigne "Physique" -> A ne pourra que faire une action, sans parler. A peut faire des bruitages, soupirer, imiter le moteur d'une voiture, d'une machine à café ...
+Il donne à A la consigne "Physique" → A ne pourra que faire une action, sans parler. A peut faire des bruitages, soupirer, imiter le moteur d'une voiture, d'une machine à café ...
 
 L'action peut être minimaliste ("attendre" est une action). En revanche il s'agit bien de prendre le temps de faire vivre les objets, et non de multiplier les objets/actions inutiles.
 
-Il donne à B la consigne "Parole" -> B ne pourra que parler, sans se déplacer, ni faire une action. B n'est pas figé pour autant, il peut suivre A des yeux, opiner, ...
+Il donne à B la consigne "Parole" → B ne pourra que parler, sans se déplacer, ni faire une action. B n'est pas figé pour autant, il peut suivre A des yeux, opiner, ...
 
 À tout moment, C peut changer les consignes.
 
@@ -246,7 +247,7 @@ Ils jouent lentement (parce que ça évite de partir en surcharge ET de laisser 
 Les outils du directeur :
 
 - "Silence. Regardez-vous."
-- Prénom du joueur + "Je sais pourquoi tu dis ça" (ex. "Florence. Je sais pourquoi tu dis ça" et Florence va dire "Je sais pourquoi tu dis ça, tu dis ça parce que ..." et elle invente la suite.
+- Prénom du joueur + "Je sais pourquoi tu dis ça" (ex: "Florence. Je sais pourquoi tu dis ça" et Florence va dire "Je sais pourquoi tu dis ça, tu dis ça parce que ..." et elle invente la suite.
 - (Après une bombe potentielle) Prénom + "Répète" (ex: B vient de dire "mon épouse n'est pas rentrée de la nuit", le directeur : "A, répète" et A va répéter "Ton épouse n'est pas rentrée de la nuit", et B va répéter également "Mon épouse n'est pas rentrée de la nuit". Il faut voir chaque répétition comme un coup de pompe pour gonfler l'enjeu "L'épouse n'est pas rentrée". Après les répétitions, l'outil "Changer de sujet" met un coup de pompe supplémentaire ! ==> On élude le sujet, il nous gêne, il est donc important !!
 - Prénom + "Jeu physique". Le joueur cité doit faire une action, utiliser un objet, etc .... Si aucun prénom n'est cité alors les 2 se mettent en action.
   Une fois que les comédiens sont à l'aise avec ces consignes, on en ajoute une autre :

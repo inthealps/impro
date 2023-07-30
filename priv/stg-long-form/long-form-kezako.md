@@ -8,7 +8,8 @@ title:  "C'est quoi le long-form ?"
 Tout spectacle de 30mn minimum ayant un fil conducteur :
 - Narratif (la plupart des LF joués sur Grenoble)
 - Thématique (plus rare)
-  Ce spectacle peut être joué en autonomie ou en impro dirigée.
+
+C'est un spectacle qui peut être joué en autonomie, ou en impro dirigée (avec un "Directeur").
 
 Il est vital que le public soit en empathie avec les personnages !
 L'enjeu est donc de capter son attention grâce à des rebondissements, et de faire se développer cette empathie.
@@ -17,7 +18,9 @@ Attention, en long-form le "burlesque", le WTF, les situations incroyables (= "n
 
 Le monde doit donc être normal, les scènes jouées avec le même rythme que dans la vraie vie, les relations et les lieux chargés ... NE PAS TROP EN FAIRE !
 
-## Les 3 grandes étapes d'un Long Form :
+## Les 3 grandes étapes d'un Long Form
+
+Un long-form est traditionnellement découpé en 3 actes (comme une pièce de théâtre traditionnelle).
 
 ### Acte I : Divergence
 - On construit le Monde, il est varié et coloré
@@ -42,10 +45,15 @@ Pour finalement se perdre ...
 - Tout est résolu (en bien ou en mal).
 - On retrouve une nouvelle stabilité
 
-## Acte I, l'attitude
-Sur les premières scènes ON ENVOIE DU POSITIF ! Les personnages apprécient le lieu (il n'est pas sale, les objets fonctionnent, le café est bon ...) la situation (pas de malaise, pas de conflit ...) ! On est FEEL GOOD !
+## Règles de base (en vrac)
+
+### L'attitude en acte I
+Sur les premières scènes ON ENVOIE DU POSITIF ! Les personnages apprécient le lieu (il n'est pas sale, les objets fonctionnent, le café est bon ...) la situation (pas de malaise, pas de conflit ...) !
+
+On est FEEL GOOD !
 Bref, on se retient de foutre la merde ... pour le moment !
 Les comédiens doivent lutter contre les propensions naturelles de leur cerveau à chercher les emmerdes.
+
 Bon, après, on a le droit quand même de poser 5% d'emmerdes ... mais pas 95% ;)
 
 Les meilleures situations de l'Acte 2 seront les problèmes engendrés (= gonflés) par les bombes posées ou suggérées en Acte 1.
@@ -53,9 +61,8 @@ Les meilleures situations de l'Acte 2 seront les problèmes engendrés (= gonfl�
 Le POSITIF engendre des scènes :
 - plus naturelles ...
 - plus joyeuses ...
-  ... et la merde peut arriver plus tard ;)
 
-## Règles de base (en vrac)
+... et la merde peut arriver plus tard ;)
 
 ### Les personnages sont compétents.
 Les personnages sont compétents, on ne joue pas des personnages qui ne savent pas faire les choses.
@@ -63,9 +70,9 @@ Les personnages sont compétents, on ne joue pas des personnages qui ne savent p
 Exemples:
 - Je fais un café à ma patronne, ce café est bon !
 - Je conduis une voiture, je n'écrase pas le chien ou un gosse.
-- Ce n'est pas la première fois que je fais les choses !
 
-Le public veut voir des gens compétents.
+Ce n'est pas la première fois que je fais les choses !
+Le public veut voir des personnages compétents, joués par des comédiens qui prennent des risques.
 
 Il veut se dire "oulala mais comment ils vont faire ?!"
 
@@ -93,14 +100,14 @@ S'il n'y a pas de noms clairs, les comédiens seront en difficulté, et le publi
 Chaque phrase doit apporter une information ("Bonjour" NON ; "Bonjour Serge" OUI)
 
 Exemples sur être spécifique :
-- "Il est allergique" -> NON
-- "Il est allergique au lactose, à l'arachide et au poil de chat" -> OUI
-- "Il est allergique à l'arachide, il a déjà fait un œdème de Quincke" -> MIEUX
+- "Il est allergique" → NON
+- "Il est allergique au lactose, à l'arachide et au poil de chat" → OUI
+- "Il est allergique à l'arachide, il a déjà fait un œdème de Quincke" → MIEUX
 
 et
 
-- Employé: "Qu'est-ce que vous voulez que je fasse, cheffe ?" -> NON
-- Employé: "Je termine le dossier de recrutement de M. Salinger" -> OUI
+- Employé: "Qu'est-ce que vous voulez que je fasse, cheffe ?" → NON
+- Employé: "Je termine le dossier de recrutement de M. Salinger" → OUI
 
 
 ### Mimes précis
@@ -125,7 +132,9 @@ On verra ça dans l'Acte 2
 ### Assumer ses erreurs
 En cas d'erreur, l'exploiter immédiatement, ne pas la gommer ou la nier.
 Il faut mieux l'utiliser que l'expliquer.
--> Méga sujet, à retravailler
+
+_→ Méga sujet, à retravailler dans la Troupe (mémo Pierre)_
+
 
 ### Pas de diminution
 Ne pas diminuer ce qui a été installé !

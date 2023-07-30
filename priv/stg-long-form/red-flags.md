@@ -20,6 +20,8 @@ Ceci dit, si ça arrive (un personnage raciste par exemple), il est important de
 
 2) Quoi qu'il en soit, plus tard dans l'histoire, le personnage raciste devra perdre (son statut, sa popularité, son job, son conjoint pourra partir ...)
 
+→ Il en est de la responsabilité collective des comédiens.
+
 ### Les trucs un peu lourds
 
 Exemple dans notre cours ouvert, Polo me reprend :

@@ -321,6 +321,20 @@ Tous les outils servent !
 
 La scène dure 10mn
 
+## Jeu en duo + freeze
+== N joueurs ==
+
+2 joueurs jouent une scène sur un thème "Relation/Lieu" donné par le "public".
+
+Même exercice que précédemment, A et B collaborent pour charger le lieu, les personnages, la relation.
+Tous les outils servent !
+
+Les joueurs en observation peuvent "freezer" la scène à tout moment pour remplacer un des 2 joueurs.
+
+2 options pour cet exercice :
+- le nouvel arrivant C peut démarrer une autre scène (proposer une nouvelle idée, un nouveau lieu, une nouvelle relation avec le personnage toujours en place).
+- le personnage sortant (A ou B) justifie sa sortie de scène et C continue alors la scène avec le personnage restant.
+
 ## Jeu à 4
 == 4 joueurs ==
 

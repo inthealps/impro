@@ -95,6 +95,12 @@ Mercredi 13h30-15h30 - à partir du 20/09/2023
 
 Plus d'infos : <a href='https://www.atelierdu8.fr/wp-content/uploads/2023/07/2023-Impro-ados.png' target="_blank">ICI</a>.
 
+
+# Agenda des cours et ateliers
+{% raw %}
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FParis&mode=WEEK&showPrint=0&showTabs=1&showCalendars=0&src=NTQwMmE3M2NlMDNhZjdiMDgyYjRiOTY2NTFhNWQ1NzZjMzlhMzE0OTFiNmFhODYyM2EyOTI5OGI4MjBjMzhkMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+{% endraw %}
+
 # Pas dans la liste ?
 
 Pas de panique, pour ajouter une offre de cours et atelier, rien de plus simple :

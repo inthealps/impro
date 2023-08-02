@@ -15,7 +15,7 @@ Les dates des prochains spectacles [ICI]({{'agendas/spectacles' | relative_url}}
 <h3><img src="{{ 'assets/icons/calendar.svg' | relative_url }}" width="48" alt=""> Agenda des stages</h3>
 Les dates de ton prochain stage [ICI]({{'agendas/stages' | relative_url}})
 
-<h3><img src="{{ 'assets/icons/calendar.svg' | relative_url }}" width="48" alt=""> Agenda des cours et ateliers</h3>
+<h3><img src="{{ 'assets/icons/calendar.svg' | relative_url }}" width="48" alt=""> Liste des cours et ateliers</h3>
 Ton prochain cours, peut-être la saison prochaine ?? C'est [ICI]({{'agendas/cours-et-ateliers' | relative_url}})
 
 <h3><img src="{{ 'assets/icons/happy.svg' | relative_url }}" width="48" alt=""> Pas de prise de tête</h3>

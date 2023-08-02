@@ -16,11 +16,5 @@ Nous avons pu nous tromper (mince ça arrive), ou bien vous avez des idées pour
 ### ... pour dire merci
 Si vous avez apprécié ce site, vous pouvez nous le dire, ça nous fera très plaisir.
 
-### ... pour nous faire un don
-Pas besoin, on est riches (enfin, on connait des gens qui connaissent des gens qui sont riches).
-
-Mais venez soutenir le spectacle vivant en allant voir les artistes dans les salles de Grenoble et de l'agglo, c'est le meilleur cadeau que vous pouvez nous faire !
-
 ### ... pour nous pourrir
-... mais uniquement si ça apaise votre coeur !
-
+... mais uniquement si ça apaise votre coeur ;)

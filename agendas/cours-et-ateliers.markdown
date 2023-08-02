@@ -14,31 +14,31 @@ Toutes les infos : <a href='https://www.lesgensdubitume.com/pratique-impro-adult
 Cours d'octobre à juin, hors vacances scolaires de la zone A et jours fériés.
 
 
-## Impro "Intermédiaires" avec Nicolas Fouchet
+### Impro "Intermédiaires" avec Nicolas Fouchet
 Lundi 18h-20h
 
-## Impro "Débutants" avec Marion Genet
+### Impro "Débutants" avec Marion Genet
 Lundi 18h30-20h
 
-## Impro "Intermédiaires" avec Marion Genet
+### Impro "Intermédiaires" avec Marion Genet
 Lundi 20h15-22h15
 
-## Impro "Intermédiaires" avec Viviane Vernon
+### Impro "Intermédiaires" avec Viviane Vernon
 Mardi 18h40-20h40
 
-## Impro Boost, plusieurs formateurs
+### Impro Boost, plusieurs formateurs
 Mardi 19h30-22h30
 
-## Impro "Débutants" avec Viviane Vernon
+### Impro "Débutants" avec Viviane Vernon
 Mardi 21h-22h30
 
-## Impro "Débutants" avec Matthieu Saint-Bonnet
+### Impro "Débutants" avec Matthieu Saint-Bonnet
 Mercredi 18h30-20h
 
-## Impro "Confirmés" avec Matthieu Saint-Bonnet
+### Impro "Confirmés" avec Matthieu Saint-Bonnet
 Mercredi 20h15-22h15
 
-## Impro "Débutants" avec Violaine Blanc
+### Impro "Débutants" avec Violaine Blanc
 Jeudi 19h-22h, une semaine sur deux (semaines paires)
 
 
@@ -46,18 +46,18 @@ Jeudi 19h-22h, une semaine sur deux (semaines paires)
 
 Pas de cours pendant les vacances scolaires de la zone A, ni les jours fériés.
 
-## Impro "Adultes intermédiaires" avec Nicolas Bardon
+### Impro "Adultes intermédiaires" avec Nicolas Bardon
 Lundi 17h-19h - du 18/09/2023 au 24/06/2024
 
 Plus d'infos : <a href='https://billetterie.labassecour.net/evenement/18-09-2023-17-00-impro-adulte-interm%C3%A9diaire' target="_blank">ICI</a>.
  
 
-## Impro "Adultes débutants" avec ?
+### Impro "Adultes débutants" avec ?
 Lundi 19h-21h - du 18/09/2023 au 24/06/2024 hors vacances scolaires Zone A
 
 Plus d'infos : <a href='https://billetterie.labassecour.net/evenement/18-09-2023-19-00-impro-adulte-d%C3%A9butant' target="_blank">ICI</a>.
 
-## Impro "Adultes confirmés" avec Jérémy Peirera
+### Impro "Adultes confirmés" avec Jérémy Peirera
 **COMPLET**
 
 Lundi 21h-23h - du 18/09/2023 au 24/06/2024 hors vacances scolaires Zone A
@@ -68,29 +68,29 @@ Plus d'infos : <a href='https://billetterie.labassecour.net/evenement/18-09-2023
 
 Pas de cours pendant les vacances scolaires de la zone A, ni les jours fériés.
 
-## Théâtre avec Manon Josserand & Alexis Brun
+### Théâtre avec Manon Josserand & Alexis Brun
 Lundi 20h-22h - du 02/10/2023 au 24/06/2024
 
 Plus d'infos : <a href='https://www.ecoutille.fr/theatre_adulte.html' target="_blank">ICI</a>.
 
-## Impro adultes "Découvrir" avec Ludovic Lecordier
+### Impro adultes "Découvrir" avec Ludovic Lecordier
 Mardi 18h-20h - du 02/10/2023 au 24/06/2024
 
 Plus d'infos : <a href='https://www.ecoutille.fr/theatre_impro_adulte.html' target="_blank">ICI</a>.
 
-## Impro adultes "Développer" avec Ludovic Lecordier
+### Impro adultes "Développer" avec Ludovic Lecordier
 Mardi 20h-22h - du 02/10/2023 au 24/06/2024
 
 Plus d'infos : <a href='https://www.ecoutille.fr/theatre_impro_adulte.html' target="_blank">ICI</a>.
 
 # Atelier du 8
 
-## Impro adultes "Découvrir" avec Gabriel Derbier
+### Impro adultes "Découvrir" avec Gabriel Derbier
 Lundi 20h15-22h15 - à partir du 25/09/2023
 
 Plus d'infos : <a href='https://www.atelierdu8.fr/wp-content/uploads/2023/07/2023-Impro-adultes.png' target="_blank">ICI</a>.
 
-## Impro adolescents "Découvrir" avec Will Beaudoux
+### Impro adolescents "Découvrir" avec Will Beaudoux
 Mercredi 13h30-15h30 - à partir du 20/09/2023
 
 Plus d'infos : <a href='https://www.atelierdu8.fr/wp-content/uploads/2023/07/2023-Impro-ados.png' target="_blank">ICI</a>.

@@ -21,3 +21,5 @@ Au programme :
 🐣 STAGES d’initiation et de perfectionnement en impro
 
 Toutes les infos sur le <a href='https://www.labassecour.net/evenement/impro-sur-cour/' target="_blank">site de la Basse Cour</a> !
+
+<img src="{{ 'assets/posts/impro-sur-cour.jpg' | relative_url }}" alt="Festival Impro sur Cour">

@@ -72,6 +72,7 @@ Faire son job c'est de suivre le mouvement, en pétillance (suiveurs).
 Un duo débute une scène, un "observateur" vient les rejoindre et les observe.
 
 Le duo est responsable de sa relation et de son histoire.
+
 Sans interagir avec l'observateur, il doit continuer à jouer leur scène.
 
 **Le but de l'observateur est de soutenir ce qui joue, sans prendre le focus.**
@@ -84,7 +85,9 @@ Tips: C'est utile lorsqu'une incompréhension entre comédiens nous entrainent �
 Plutôt que de freiner et ressortir de scène sur la pointe des pieds (ce qui attire le focus), on RESTE en soutenant.
 
 L'observateur est en écoute très profonde et très active.
+
 Il va, si nécessaire, conclure la scène avec une punch-line très à propos.
+
 Cette punch-line va apporter un complément à la scène, un détail, mais ne va pas la changer.
 
 Tip: On choisira une punch-line plutôt comique, plutôt que dramatique => On cherche les rires dans la salle.
@@ -102,14 +105,18 @@ Attention, on ne change pas la scène, on ne remet pas en cause ce qu'il s'est p
 
 ## Exercice : Bibliothèque (à 9)
 S
+
    X X      A B
+
    X X
+
    X X
 
 A arrive dans la bibliothèque, remarque que sa place habituelle est prise (par les X).
 Il met le focus sur les 6 comédiens X.
 
 Puis s'installe à côté de B.
+
 A remarque que B est une vieille connaissance.
 
 Le job du comédien qui joue A, dans cet exercice, est de perturber la bibliothèque. De faire du bruit.
@@ -145,23 +152,29 @@ Le premier à avoir une idée lève la main, et signifie à un autre réserviste
 
 ## Syndrome "prof/élève"
 Demander à son partenaire quoi faire !
+
 "Je fais quoi chef avec les plantes ?" VS "J'arrose les plantes comme vous me l'avez demandé"
+
 1er cas : je n'ai rien je refile la patate chaude à l'autre.
+
 2e cas : je fais mon job, je suis dans la proposition.
 
 ## Négociation
-
 "Sortez de la bibliothèque !"
+
 -> On sort, on ne négocie pas "Mais j'ai payé pour un an !!"
 
 ## Arrêter de proposer
+Rappel :
+- En jeu, je remplis l'objectif de mon partenaire, pas le mien.
+- En narration, je remplis mon objectif.
 
-Rappel : En jeu, je remplis l'objectif de mon partenaire, pas le mien.
-En narration, je remplis mon objectif.
+(pas clair, à approfondir)
 
 Du coup, interrogation sur le fait de proposer quelque chose.
 
 Arrêtons de proposer, mais continuous de réutiliser.
+
 Très souvent il s'agit juste de résoudre. Pas de nouvel enjeu.
 
 ## Être complémentaire
@@ -172,23 +185,31 @@ Très souvent il s'agit juste de résoudre. Pas de nouvel enjeu.
 - avoir un rôle différent (tu es un directeur d'école, donc le management est TON RÔLE, moi en tant que prof je serai dans la PEDAGOGIE)
 
 Pourquoi c'est important ?
+
 Exemple sur les émotions :
 - Mon partenaire est triste. Si j'adopte la même émotion, on va tourner en rond et cette émotion va finir par s'étioler et se perdre.
 
 Si j'ai une autre émotion (froid, colère, joie etc), j'apporte un éclairage différent.
+
 Je peux être responsable de cette tristesse, je peux m'en foutre, ça peut me mettre en colère, etc.
 
 ## C'est grâce à moi / à cause de moi et c'est fait exprès !
 Quand il se passe quelque chose, un moyen simple est de supposer que c'est grâce à moi / à cause de moi.
+
 Et je l'ai fait exprès.
+
 Oui, tu es coincé dans cette cloison, c'est moi qui t'ai enfermé, j'ai la visseuse à la main et c'est fait exprès !!
 
 ## Prendre le temps avant d'ajouter une idée
 Si mon idée est vraiment bonne, elle sera toujours là dans 15 secondes, 30 secondes.
+
 Je peux prendre le temps de la laisser mûrir, de la laisser grandir.
+
 ... et de la perdre si elle n'est pas bonne. Ou si on est passé à autre chose.
+
 Une clé au "Ne pas jouer trop vite"
 
 ## Discipline de l'improvisateur
 Mon boulot est d'être 100% disponible (malgré la fatigue, le stress, etc) pour bondir sur scène et faire mon job.
+
 Je ne laisse pas mes camarades seuls en galère sur scène.

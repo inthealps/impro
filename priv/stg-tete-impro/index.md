@@ -211,3 +211,8 @@ Une punch-line, une performance (physique, vocale, rimée, chantée ...)
 2. Lorsqu'on pense "Je ne vais quand même pas faire ça !" c'est que justement il faut le faire (sauf graveleux, insultant, blessant, dangeureux).
 3. Si ça prend pas ce que je fais, je m'assume, je ne l'efface pas, voir je le répète, en mode "comique de répétition absurde"
 4. Je suis fier de moi, je ne termine pas la scène en secouant la tête d'un air "vraiment n'importe quoi"
+
+
+## Scribes
+
+<img src="{{ 'assets/icons/tickets.svg' | relative_url }}" width="24" alt="Billetterie">

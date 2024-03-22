@@ -1,4 +1,10 @@
-# Stage Impro Tête
+---
+layout: page
+title:  "Stage La tête en impro, Ludovic Lecordier"
+---
+
+Notes du stage "La tête en impro", Ludovic Lecordier, Avril 2023
+
 ## Jour 1
 ### Exercice 1 - Tour de prénoms
 En cercle chacun donne son prénom, un mot commençant par la lettre de son prénom et un mime associé.

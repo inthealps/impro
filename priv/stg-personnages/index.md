@@ -1,11 +1,9 @@
 ---
 layout: page
-title:  "Stage Fais ton job, Séb Chambres"
+title:  "Stage Personnages, Aurore Desgranges"
 ---
 
-# Stage "Personnages", Aurore Desgranges
-
-Notes du stage avec Aurore, Novembre 2023
+Notes du stage avec Aurore, Octobre/Novembre 2023
 
 ## Entrée dans le personnage
 

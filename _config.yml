@@ -32,8 +32,8 @@ email: impro.tete@gmail.com
 
 # Build settings
 #theme: minima
-#remote_theme: startbootstrap/startbootstrap-clean-blog-jekyll
-theme: jekyll-theme-clean-blog
+remote_theme: startbootstrap/startbootstrap-clean-blog-jekyll
+#theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 

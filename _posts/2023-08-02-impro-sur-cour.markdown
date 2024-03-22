@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Festival Impro sur Cour à la Basse Cour"
+subtitle:  "02 au 20 août 2023"
 date:   2023-08-02 10:00:00 +0200
 categories: festival
 ---

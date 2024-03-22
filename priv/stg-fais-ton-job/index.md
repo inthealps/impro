@@ -386,3 +386,10 @@ Candice et Ludo me parlent de stress :
 
 Voir exercice de production de texte court !
 Tu n'as le droit qu'à une phrase, bosse-la !!
+
+## Scribes
+
+<img src="{{ 'assets/images/scribes/stg-fais-ton-job/stage-fais-ton-job-1.jpg' | relative_url }}" width="800" alt="Scribe"><br>
+<img src="{{ 'assets/images/scribes/stg-fais-ton-job/stage-fais-ton-job-2.jpg' | relative_url }}" width="800" alt="Scribe"><br>
+<img src="{{ 'assets/images/scribes/stg-fais-ton-job/stage-fais-ton-job-3.jpg' | relative_url }}" width="800" alt="Scribe"><br>
+<img src="{{ 'assets/images/scribes/stg-fais-ton-job/stage-fais-ton-job-4.jpg' | relative_url }}" width="800" alt="Scribe"><br>

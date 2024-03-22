@@ -215,7 +215,15 @@ Une punch-line, une performance (physique, vocale, rimée, chantée ...)
 
 ## Scribes
 
-<img src="{{ 'assets/images/scribes/stg-tete-impro/impro-tete-exo1.jpg' | relative_url }}" width="800" alt="Scribe"><br>
-<img src="{{ 'assets/images/scribes/stg-tete-impro/impro-tete-exo2.jpg' | relative_url }}" width="800" alt="Scribe"><br>
-<img src="{{ 'assets/images/scribes/stg-tete-impro/impro-tete-theory1.jpg' | relative_url }}" width="800" alt="Scribe"><br>
-<img src="{{ 'assets/images/scribes/stg-tete-impro/impro-tete-theory11.jpg' | relative_url }}" width="800" alt="Scribe"><br>
+<img src="{{ 'assets/images/scribes/stg-tete-impro/impro-tete-exo1.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>
+<img src="{{ 'assets/images/scribes/stg-tete-impro/impro-tete-exo2.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>
+<img src="{{ 'assets/images/scribes/stg-tete-impro/impro-tete-theory1.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>
+<img src="{{ 'assets/images/scribes/stg-tete-impro/impro-tete-theory11.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>

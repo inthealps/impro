@@ -129,6 +129,12 @@ Pistes de réussite :
 
 ## Scribes
 
-<img src="{{ 'assets/images/scribes/stg-personnages/Stage-personnages-Aurore-1.jpg' | relative_url }}" width="800" alt="Scribe"><br>
-<img src="{{ 'assets/images/scribes/stg-personnages/Stage-personnages-Aurore-2.jpg' | relative_url }}" width="800" alt="Scribe"><br>
-<img src="{{ 'assets/images/scribes/stg-personnages/Stage-personnages-Aurore-3.jpg' | relative_url }}" width="800" alt="Scribe"><br>
+<img src="{{ 'assets/images/scribes/stg-personnages/Stage-personnages-Aurore-1.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>
+<img src="{{ 'assets/images/scribes/stg-personnages/Stage-personnages-Aurore-2.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>
+<img src="{{ 'assets/images/scribes/stg-personnages/Stage-personnages-Aurore-3.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>

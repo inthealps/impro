@@ -41,3 +41,12 @@ En impro, "Fuck the rules!" → Évidemment, les règles sont faites pour être 
 
 [Vrac à relier]({{ 'priv/stg-long-form/vrac-a-relier' | relative_url }})
 
+
+## Scribes
+
+<img src="{{ 'assets/images/scribes/stg-long-form/stage-long-form-1.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>
+<img src="{{ 'assets/images/scribes/stg-long-form/stage-long-form-2.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>

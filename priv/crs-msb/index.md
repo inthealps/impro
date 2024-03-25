@@ -373,6 +373,9 @@ Exemple de mise en pratique :
 - C2 entre en neutre et commence à jouer une scène avec C1 (plateforme).
 - C3 entre en neutre et commence à jouer une scène avec C1 (plateforme).
 
+<img src="{{ 'assets/images/scribes/crs-msb/effet-tempete.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>
 
 
 # Pistes diverses (à classer)
@@ -397,3 +400,19 @@ Exemple de mise en pratique :
 - Penser à charger son personnage avec une quête personnelle, un rêve, un regret, une phobie, une habitude, etc.
 
 ## Scribes
+
+<img src="{{ 'assets/images/scribes/crs-msb/msb-tuilage-1.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>
+<img src="{{ 'assets/images/scribes/crs-msb/msb-composition.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>
+<img src="{{ 'assets/images/scribes/crs-msb/msb-format-1.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>
+<img src="{{ 'assets/images/scribes/crs-msb/msb-format-2.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>
+<img src="{{ 'assets/images/scribes/crs-msb/msb-trajectoires.jpg' | relative_url }}" width="800" alt="Scribe">
+<br>
+<br>

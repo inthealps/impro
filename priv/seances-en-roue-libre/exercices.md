@@ -1,4 +1,3 @@
-
 ## Le goaler simple
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive avec une proposition (une phrase et/ou une action). P1 réagit, P2 réagit puis sort ...
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
@@ -270,6 +269,7 @@ Date de création : 2021-09-21T20:00:00
 On déambule dans la pièce en synchronisant le rythme du groupe.
 Lorsque la musique s'arrête, on se remet en cercle le plus rapidement possible. La musique repart, on repart.
 Ensuite quand la musique s'arrête, sur dénomination, un acteur place un objet dans la pièce, qu'il faudra intégrer et prendre en compte dans notre décor.
+Date de création : 2022-03-25T20:00:00
 
 ## Synchro chorégraphie
 En groupe, quelqu’un propose une chorégraphie, le groupe la suit, puis quelqu’un propose autre chose, et le groupe s’adapte, on s’écoute, ...
@@ -747,3 +747,281 @@ Exo de Mélissa: une lettre de l’alphabet pour dire :
 
 Avec contrainte émotion et/ou accent.
 Date de création : 2023-03-14T20:00:00
+
+## Dissociation d’idées
+En trio, on lance les uns après les autres, des mots sans liens entre eux.
+Dès qu'une hésitation apparaît, qu'un lien est détecté, qu’une redite est faite … le public buzze !
+Le "fautif" est immédiatement remplacé par quelqu’un d’autre.
+Date de création : 2023-04-25T20:00:00
+
+## Dedans / dehors
+Un personnage P1 est chez lui, un autre personnage P2 dehors.
+P2 VEUT ENTRER chez P1.
+P1 ne veut pas !!
+
+Les comédiens sont ensemble, mais les personnages sont en conflit ("Je veux rentrer" _versus_ "Je veux te laisser dehors")
+
+C'est un CONFLIT, et on ne doit pas refuser ou négocier.
+Si négo ou refus, le public émet un petit bruit de désapprobation : "teuteuteu"
+Le comédien “repris” doit refaire une proposition.
+
+C1 et C2 (les comédiens) doivent collaborer pour faire en sorte que la scène dure.
+Ils vont toujours dire oui à l'autre mais en piégeant le personnage.
+On joue "autour" d'une situation de conflit sans la résoudre !
+Date de création : 2023-04-25T20:00:00
+
+## 3 propositions préparées
+Avant la scène, et avant la détermination du thème (choisi par le public) le MC demande au 1er choisit une émotion, le 2nd une réplique, le 3e une position.
+On joue la scène, dès que le MC le décide, il va appeler un des 3 comédiens qui va immédiatement incarner l'émotion / déclamer sa réplique / accomplir sa position.
+
+L'idée est de FAIRE immédiatement, et de justifier a posteriori.
+Date de création : 2023-04-25T20:00:00
+
+### Irruption imprévue
+Un duo débute une scène sur un thème donné par le public ou les autres comédiens.
+Un 3e comédien est sorti, il ne connait pas la scène car n'a pas assisté au début. Il va faire irruption dans la scène à un moment donné, avec une proposition forte !
+
+Le but est :
+- Pour le duo en place d'intégrer cette perturbation dans leur scène
+- Pour le 3e, de comprendre ce qui ce joue
+
+Évidemment, on aide les copains, en les mettant sur les rails de manière subtile.
+
+Les personnages en place ne doivent pas être surpris, même si les comédiens le sont.
+Tout est normal, habituel.
+Ce n'est pas parce qu'une scène d'anniversaire de mémé est perturbée par un tout autre contexte (le duo est complice d'un braqueur) qu'il fait s'en étonner.
+On joue avec ce qu'on ne contrôle pas !!
+
+L’objectif est de démontrer que les idées peuvent venir d'impulsions quelconques. Des situations. Des émotions. Du rythme. Et pas uniquement du texte !
+Date de création : 2023-04-25T20:00:00
+
+## Personnage inspiré par un Freeze
+Étape 1 :
+On marche dans la pièce, on s'échauffe les articulations, on s’anime, un peu au pif, en mobilisant toutes les parties du corps.
+Au signal, on fige notre position, puis on démarre l’animation d’un personnage à partir de cette position / cet état.
+
+Étape 2 :
+On marche dans la pièce, mêmes consignes que précédemment.
+Un 2e comédien nous observe. Au signal on se fige, le 2e comédien démarre une improvisation avec le personnage créé par le 1er comédien.
+Date de création : 2023-05-09T20:00:00
+
+## Monstre et princesse
+En cercle, deux par deux, épaule contre épaule, un monstre poursuit une princesse.
+Il hurle et gesticule, elle hurle, a peur et gesticule. Le but est de collaborer, le monstre ne doit pas rattraper la princesse ;)
+La princesse peut décider de venir se coller aux "remparts" (un duo épaule contre épaule). Elle remplace le rempart opposé, lequel devient monstre (et donc le monstre devient la princesse).
+Date de création : 2023-05-16T20:00:00
+
+## Les lianes
+Sur de la musique planante, on ferme les yeux, on s'échauffe les articulations, on s’anime en mobilisant toutes les parties du corps. Nous sommes des lianes qui pendons des arbres, animées par le vent.
+On se connecte à soi, puis aux autres lorsqu’on est prêt.
+On va chercher le contact physique avec nos congénères. Au bout d’un moment on doit ressentir au moins le contact avec 2 autres lianes.
+Date de création : 2023-05-16T20:00:00
+
+## Goaler "story"
+Devant le groupe, un goaler fixe reçoit tous les autres comédiens, on essaie de trouver et suivre un “fil” à cette histoire.
+Date de création : 2023-06-27T20:00:00
+
+## Pair/impair
+On marche dans l’espace, en pétillance (on est heureux, déjà dans la posture de l’improvisateur.ice). On est “occupés”, ou on donne cette impression : on sait ce qu’on fait, on ne regarde pas le sol. Régulièrement, on s’arrête, on lance une adresse claire à un partenaire (un regard appuyé, un signe) . Puis au public (qui peut être une chaise vide si pas de public).
+Au signal “Pair” ou “Impair” (lancé par n'importe qui) on se rassemble en petits groupes pairs ou impairs selon la consigne.
+On voit ce qui se passe.
+Date de création : 2023-09-12T20:00:00
+
+## Exercice “Charger son partenaire”
+== 2 joueurs, le public définit un type de relation et un lieu ==
+
+L’idée est qu’on va jouer une scène à deux en 'chargeant' son partenaire au maximum : on apporte un élément sur l’autre à chaque réplique.
+En commençant par le nommer (on doit donner son prénom au minimum 3 fois dans la première scène, pour le public mais aussi et surtout pour les comédiens).
+
+- On ne fait que des affirmations, on essaie de ne formuler aucune question. Ce qui est dit par notre partenaire est VRAI. Nous ne l’atténuons pas, ni le négocions !
+- L’histoire se raconte à travers les enrichissements des personnages effectués par le partenaire.
+- Ne pas oublier d’être dans la relation, bien sûr, mais il ne s’agit pas ici de “charger la relation” → c’est un autre exercice.
+- Il n’y a pas de résolution de problème(s) : On “sème” des potentiels qui ne seront pas développés ici, mais plus tard.
+
+Ajout d'outils aidant à charger son partenaire :
+- 3 exemples spécifiques (au lieu de généralités) : “Tu es un bon ami” → “Tu m’as prêté 10€ la semaine dernière, et puis tu m’as aidé à déménager, et après tu m’as même donné un coup de main pour monter mon meuble” 
+- Répétition, silence gênant, changement de sujet : pour souligner un “potentiel semé”
+- “Je sais pour quoi tu dis ça … ” + affirmation spécifique
+- Détail physique + affirmation spécifique → “Je sais pourquoi tu te grattes le coude, c’est parce que …”
+- Souvenir partagé
+Date de création : 2023-09-12T20:00:00
+
+## Stop & go
+On marche dans la salle, on s'écoute sur les arrêts/les reprises de marche, on ajoute une proposition de geste, répétée par tous les membres du groupe. 
+Date de création : 2023-10-03T20:00:00
+
+## Saynettes en duo + direction
+Deux directeurs, en mode impro dirigée.
+Les consignes du directeur :
+- Prénom + “Remarque” → le comédien nommé va remarquer un détail physique, un geste, une posture chez son partenaire et le verbaliser en émettant une hypothèse : “Je remarque que tu as le regard qui fuit, c’est parce que ça te gêne que je parle de ça”
+- Prénom + “Jeu Physique” → le comédien nommé va arrêter de parler pour se lancer immédiatement dans un jeu corporel
+- Prénom + “Je sais pourquoi tu dis çà” → le comédien nommé va dire “Je sais pourquoi tu dis çà, tu dis parce que …” et émettre une hypothèse, ex “… parce que tu es jaloux de mon succès”
+- “Silence. Regardez-vous” → les 2 comédiens stoppent immédiatement leurs actions et paroles, se regardent longuement.
+- “Silence. Riez” → les 2 comédiens stoppent immédiatement leurs actions et paroles, se regardent longuement et se mettent à éclater de rire. Le rire peut durer, il peut être communicatif et se répandre au public.
+- Prénom + “3 choses spécifiques” → Le directeur va demander de détailler quelque chose dit par un des comédiens, en l’illustrant par 3 exemples spécifiques.
+Date de création : 2023-10-03T20:00:00
+
+## Charger le décor
+Installer, puis utiliser un décor (en duo)
+
+A et B installe un décor (1’) :
+– Gestes et paroles
+– Situer chaque chose dans l’espace avec précision en la mimant, en la décrivant
+  (Exemple : A: Ici il y a une bibliothèque avec 3 étagères pleines de livres, B: C’est une large étagère en bois blanc qui occupe tout le mur, A: Sur la seconde étagère il y a un pot de fleurs séchées, B: Sur le côté de cette étagère il y a un fauteuil en cuir, A: …)
+- Être Précis : Respecter les emplacements donnés. Se souvenir des détails donnés.
+
+Pour la scène, le MC donne la relation des personnages et un lieu.
+Exemples de personnages et lieu :
+- 2 employés d’un grand magasin / la salle de repos/repas
+- Frère et sœur / le grenier
+- Voisins / cour de l’immeuble
+
+Après la minute d’installation, l’impro débute avec comme point de départ un élément du décor (ou libre si on préfère).
+L'idée est bien sûr d’utiliser le décor que l'on a installé.
+Date de création : 2023-10-10T20:00:00
+
+## Oui parce que
+Quelqu’un se met au centre du cercle, on lui fait des affirmations, tout à tour, auxquelles il doit répondre “Oui, c’est parce que …”
+Exemple :
+- ”Tu as écrasé des poussins avec un marteau”
+- “Oui c’est parce que je n’aime pas le jaune”
+
+Pas de questions ! Que des affirmations.
+Ca doit fuser, rapide et spontané.
+À faire et refaire !!
+C’est aussi efficace pour celui qui affirme que celui qui répond.
+Date de création : 2023-11-21T20:00:00
+
+## Tuilage "L'ellipse"
+Une scène en cours, un tiers vient en neutre en avant-scène, claque dans ses mains en mode "clap de cinéma" en énonçant l'ellipse : "1 mois plus tard ...", "Le soir même, au restaurant ...", "La première rencontre ...", etc.
+Les comédiens en place se figent pendant cette opération, comme pour un freeze.
+
+Le tiers repart en neutre, les comédiens se remettent immédiatement en action, et joue la nouvelle scène énoncée.
+Date de création : 2023-12-19T20:00:00
+
+## Tuilage "Transition focus"
+Une scène en cours, un duo de tiers se positionne (en neutre) à un autre endroit de la scène, et reste neutre jusqu'à insertion.
+
+L'insertion se fait ainsi : les comédiens en jeu dans la scène en cours comprennent à l'arrivée du duo, qu'il s'agit d'un tuilage.
+Ils mettent rapidement fin à leur scène avec une punch-line, ou une signification de fin, ou avec un blanc.
+
+Dès lors, le focus se fait sur le duo entrant : Les comédiens débutent leur scène immédiatement
+Date de création : 2023-12-19T20:00:00
+
+## Tuilage "L'appel"
+Une scène en cours, un tiers se positionne (en neutre) à un autre endroit de la scène, et reste neutre jusqu'à insertion.
+De la même manière que pour le tuilage Transition "focus", les comédiens en jeu comprennent qu'il s'agit d'un tuilage et mettent rapidement fin à leur scène.
+
+Dès lors, le focus se fait sur le tiers. Il débute sa scène, et "appelle" un comédien en réserve.
+Par appeler, on entend qu'il commence à jouer avec un personnage fictif **en le nommant** en le positionnant dans la scène avec son regard, et en interagissant avec ce personnage.
+Le comédien jouant le personnage "appelé" entre en neutre, tranquillement, se positionne dans le regard, et continue la scène avec le comédien appelant.
+
+Il est très important que l'appelé soit **très précis sur son positionnement dans le regard** car le public "voit" le personnage fictif sur scène. Un léger décalage de positionnement, un échange de regards entre comédiens pendant la mise en place, un appel simple non suivi de jeu cassera la magie de cet effet hyper efficace si bien réalisé.
+
+De même, le comédien en jeu doit dérouler sa scène avec fluidité, on ne doit pas se rendre compte qu'il attend son partenaire, il pourrait presque jouer la scène en solo avec le personnage fictif => cela nécessite beaucoup d'entraînement.
+
+Notes :
+- le personnage appelé peut déjà être dans la scène tuilée. A ce moment là, il sort tranquillement, puis ré-entre tranquillement.
+- Pour être appelé il faut avec un nom → penser rapidement à se nommer, se nommer encore et se renommer ;)
+
+Date de création : 2023-12-19T20:00:00
+
+## “Yuri” (danse avec et sans objets)
+6 joueurs
+En musique, un premier comédien commence à faire une proposition “dansée” (ou “gesticulée”). Il est rejoint par un autre comédien qui soutient la proposition.
+
+Les comédiens entrent et sortent, le plateau de doit jamais être vide.
+Deux propositions différentes simultanées maximum !
+Les propositions peuvent être adaptées (amplitude différente, position fixe, rythme différent, etc …)
+
+Puis on installe 4 objets physiques (chaise, poubelle, caisse, cabas, chaîne de cadenas …) sur la scène.
+Les comédiens peuvent interagir avec les objets, danser avec, les déplacer.
+Au bout d’un moment on supprime les objets, uns à uns.
+Les comédiens continuent avec les objets “virtuels” et doivent être vigilants aux déplacements de ces objets virtuels.
+Pensons à nous amuser : Cela devient intéressant pour le public dès lors que l'on prend plaisir.
+
+Date de création : 2024-01-23T20:00:00
+
+## Diagonale des émotions
+De part et d'autre de la scène, en diagonale, 2 comédiens se tournent le dos, et infusent une émotion.
+Puis ils se retournent, se rapprochent, et se croisent au centre de la scène.
+Que se passe-t-il ? Quels changements ?
+On ne fait pas trop durer.
+Arrivés en bout de ligne les comédiens redonnent leur état au public une dernière fois.
+
+Date de création : 2024-02-20T20:00:00
+
+## Tour des prénoms, tour des surnoms
+En cercle, on pointe avec le doigt une personne, on donne son propre prénom. On garde le doigt pointé. Ainsi de suite jusqu'à ce que ça revienne au premier.
+On répète une seconde fois.
+Puis une troisième, mais sans pointer cette fois.
+
+On recommence avec un surnom.
+Même processus.
+
+Puis on démarre les 2 chaînes simultanément.
+Et là c’est le drame ;)
+
+Date de création : 2024-02-20T20:00:00
+
+## Cercle des massages
+En cercle, un comédien A s'avance vers un autre comédien B, s'arrête en sphère sociale puis s'approche en sphère intime.
+Les 2 comédiens pivotent en se regardant de manière à ce que A prenne la place de B (et respectivement B la place de A).
+B se retourne alors, et A va lui prodiguer un court massage, puis y mettre fin.
+B cherche alors du regard un comédien C ...
+
+L'animateur peut toucher le dos d'un autre comédien pour déclencher une seconde source de massage, puis une troisième, etc.
+Date de création : 2024-02-20T20:00:00
+
+## Les losanges du taïchi
+Un leader, 3 suiveurs, en musique, on répète les mouvements lents d’une sorte de taïchi.
+Puis le leader se tourne vers une personne et donne le lead. Ça doit se faire en douceur, de manière fluide.
+Date de création : 2024-02-20T20:00:00
+
+## L’Entité vivante
+En musique, on commence en “boule”, on se synchronise sur des mouvements, on prend les propositions, on peut s'éloigner un peu, mais nous ne faisons qu’un unique organisme vivant.
+Date de création : 2024-02-20T20:00:00
+
+# Scènes dirigées, avec thème
+Exemple :
+- Chez le coiffeur, 5 mois à vivre
+- Sur le quai, les retrouvailles
+- Avion, frère et soeur, vous ne vous supportez pas, annonce d’un crash
+
+Outils du directeur :
+- "Répétez 3 fois"
+- "Et en plus", pour continuer à charger une situation jusqu'à la faire déborder
+- "Fais un choix !" (fort)
+- "Silence, regardez-vous dans les yeux"
+- "Respire !", revenir à la respiration nous remet dans le corps
+- “Occupe tes mains !” = faire une action simple (se servir un verre d’eau, couper du pain, se regarder dans le miroir, se recoiffer, etc …) → se remettre dans le corps nous redonne du jeu
+- “Dis-lui une vérité !” (presque comme "Faire un choix")
+- "Qu’est-ce que ça te fait ?" -> Prendre le temps de l’impact émotionnel, se demander ce que ça remue en nous.
+
+Date de création : 2024-02-20T20:00:00
+
+## Scènes de duos, en musique.
+Face à face, on s’observe.
+
+On ne déclenche rien, on ne fait que remarquer les changements fins chez l’autre, et comment ils nous changent.
+On laisse la scène se dérouler …
+Il est cool de commencer en musique, sans parole, et de finir en musique, toujours sans parole.
+Date de création : 2024-02-20T20:00:00
+
+## Échauffement en musique dans le noir
+On commence dans notre bulle, on se laisse imprégner par la musique, on infuse, ensuite on commence à copier des petites choses vues chez les copaines, on peut interagir avec les corps, se “frotter” en restant à l'écoute des signaux renvoyés par ses partenaires.
+Date de création : 2024-02-27T20:00:00
+
+## Inventer de nouveaux codes sociaux
+Nous sommes des humanoïdes sur une planète inconnue.
+Comment se disent ils "bonjour" ?
+Interactions corporelles différentes …
+
+Exemple : on se tire l’oreille pour se saluer …
+Date de création : 2024-03-19T20:00:00
+
+## Goaler “Ti-bi-di”
+Scènes par deux
+Les seules syllabes que notre espèce est capable de prononcer sont “ti”, “bi” et “di”.
+
+Date de création : 2024-03-19T20:00:00

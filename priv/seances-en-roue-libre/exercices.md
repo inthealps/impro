@@ -1,17 +1,24 @@
 ## Le goaler simple
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive avec une proposition (une phrase et/ou une action). P1 réagit, P2 réagit puis sort ...
+
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
+
 Lorsqu’on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser la place à P2, et ainsi de suite.
+
 Date de création : 2021-09-07T20:00:00
 
 ## Le goaler Tout va bien !
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive avec une proposition (une phrase et/ou une action). L’idée est d’essayer d’éviter de se réfugier dans le conflit ... Pas facile ;) La scène peut durer un peu.
+
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
+
 Lorsqu’on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser la place à P2, et ainsi de suite.
+
 Date de création : 2021-09-14T20:00:00
 
 ## Le goaler "Oui et en plus"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive avec une proposition (une phrase et/ou une action). P1 répète la proposition pour la laisser infuser, et ajouter un truc en mode "et en plus", P2 réagit puis sort ...
+
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
 Exemple :
 - J’ai réussi mes examens !
@@ -25,136 +32,183 @@ Un comédien P1 fixe, se met de dos et incarne une émotion, visible du public m
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
 
 Lorsqu’on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser la place à P2, et ainsi de suite.
+
 Date de création : 2022-04-15T20:00:00
 
 ## Le goaler "Zéro, un ou deux mots"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive de manière neutre. On laisse infuser et on voit ce que ça donne. L’idée est de cueillir ce qui vient. On parle pas ou très peu. La scène peut durer un peu ...
+
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
 
 Lorsqu’on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser la place à P2, et ainsi de suite.
+
 Date de création : 2022-04-15T20:00:00
 
 ## Le goaler "Je t’aime" / "Je te déteste"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive et propose l’amour ou le désamour, la haine.
+
 Il s’en suit une mini-scène qu’on tente sincère, et en acceptation. P1 croit que c’est vrai (pas de minimisation, c’est soit super soit dramatique).
+
 La scène peut durer un peu ...
+
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
 
 Lorsqu’on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser la place à P2, et ainsi de suite.
+
 Date de création : 2022-01-25T20:00:00
 
 ## Le goaler "Je t’aime" ... "Moi aussi ! / Pas moi !"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive et déclare sa flamme à P1. P1 fait un choix clair : Oui ou non !
+
 Il s’en suit une mini-scène qu’on tente sincère, et en acceptation. P1 et P2 croient que c’est vrai (pas de minimisation, c’est soit super soit dramatique).
+
 La scène peut durer un peu ...
+
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
 
 Lorsqu’on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser la place à P2, et ainsi de suite.
+
 Date de création : 2022-03-22T20:00:00
 
 ## Le goaler "Status"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive en incarnant un statut haut ou bas.
+
 P1 adopte immédiatement le statut contraire. La scène peut durer un peu ...
+
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
 
 Lorsqu’on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser la place à P2, et ainsi de suite.
+
 Se référer aux exercices et échauffements sur les Statuts pour les détails.
+
 Date de création : 2022-04-19T20:00:00
 
 ## Le goaler "États 1-7"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive en adoptant un état choisi entre 1 et 7.
+
 P1 se synchronise immédiatement sur le même état. On voit ce qui arrive. La scène peut durer un peu ...
+
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
 
 Lorsqu’on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser la place à P2, et ainsi de suite.
+
 Se référer aux exercices et échauffements sur les États 1-7 pour les détails.
+
 Date de création : 2022-04-19T20:00:00
 
 ## Duos "3 mots, 2 mots, 1 mot, sans parole"
 Des scènes en duos, on joue des répliques d’abord à 3 mots, puis 2 mots, puis 1 mot et pour finir sans aucun texte, juste incarné.
+
 Date de création : 2021-11-30T20:00:00
 
 ## Déplacement "émotion"
 On marche librement dans l’espace, d’abord sans consigne, puis avec une indication du genre "pressé", "angoissé", "en colère", "malheureux" ...
+
 Date de création : 2021-11-30T20:00:00
 
 ## Nommer/renommer les choses
 On marche librement dans l’espace, on pointe des éléments de la pièce, des détails, en nommant leur nom à voix haute. On fait ça rapidement, avec énergie. Çà doit pulser ;)
+
 Ensuite, on fait la même chose mais on pointe un élement en énonçant le nom du précédent élément ciblé. Exemple, je pointe d’abord un extincteur, je ne dis rien, puis pointe une chaise en disant "Extincteur !".
+
 Ensuite on pointe des éléments, mais en disant des noms au hasard. Par exemple, je pointe un extincteur en disant "Fourchette !".
+
 Cet exercice vient du livre de Mark Jane, p.38
+
 Date de création : 2021-09-21T20:00:00
 
 ## C’est génial !!
 On marche librement dans l’espace, on trouve un binôme. L’un des deux fait une proposition, par exemple "On fait les courses". Le second s’exclame immédiatement "C’est génial !", puis en répétant la proposition "Oui ! C’est génial ! Nous faisons les courses !" ... Les deux comédiens se mettent en action pour jouer une mini-scène, puis se libèrent et repartent à la rencontre d’un autre binôme.
+
 Cet exercice vient du livre de Mark Jane, p.70
+
 Date de création : 2021-09-21T20:00:00
 
 ## Respiration et mobilisation douce
 Exercice de respiration, on sent son diaphragme bouger, on se synchronise sur sa respiration, on peut chercher des partenaires ayant le même rythme. Puis on y ajoute de la mobilisation du corps, en douceur, et là encore, potentiellement en synchronisation corporelle et respiratoire.
+
 Date de création : 2022-03-25T20:00:00
 
 ## Expulser les tensions
 Individuellement, on se frotte le corps pour se libérer de nos soucis de la journée, on les expulse. On peut verbaliser, émettre des sons, ça reste très libre ...
+
 Date de création : 2022-03-25T20:00:00
 
 ## L’un bouge, les autres non
 L’idée est qu’il ne doit y avoir qu’un seul et un seul comédien en mouvement. Jamais zéro, jamais 2 ou plus. C’est donc un exercice d’écoute, d’acceptation et de synchronisation. On peut augmenter le rythme pour corser le tout !
+
 Cet exercice vient du livre de Mark Jane, p.67
+
 Date de création : 2022-03-25T20:00:00
 
 ## J’ai foiré
 En duo, les deux comédiens vont compter jusqu’à 3.
-P1: 1
-P2: 2
-P1: 3
-P2: 1
-... etc.
+- P1: 1
+- P2: 2
+- P1: 3
+- P2: 1
+- ...
+
 Dès que quelqu’un se trompe il s’arrête et crie "J’ai foiré !". Le duo se sépare à la recherche d’autres partenaires de foirage.
+
 Une variante possible est de frapper dans ses mains lorsque le partenaire compte.
+
 Cet exercice vient du livre de Mark Jane, p.41
+
 Date de création : 2021-09-21T20:00:00
 
 ## Assis/Debout synchronisé
 Départ tous assis en cercle, on se lève en même temps et en synchronisation, une fois debout on se déplace dans la pièce en occupant les espaces vides, après un moment on s’arrête, et on rassied en synchronisation.
+
 Date de création : 2021-11-30T20:00:00
 
 ## Clap synchro
 On passe le clap à un partenaire, en claquant des mains. Les sons doivent être synchro. on tourne d’abord en cercle, puis en choisissant un partenaire dans le cercle.
+
 Date de création : 2021-11-30T20:00:00
 
 ## Catch the ball
 On s’envoie une balle virtuelle avec énergie, on varie les manières d’envoyer, recevoir, on accélère et on voit se qui se passe.
+
 Date de création : 2021-09-07T20:00:00
 
 ## Le cercle des matricules
 On numérote les comédiens de 1 à 10 ...
+
 Dans l’ordre du cercle, on appelle le suivant :
-1: "deux"
-2: "trois"
-...
+- 1: "deux"
+- 2: "trois"
+- ...
+
 Puis on demande un numéro au hasard, le comédien doit se reconnaitre et appeler un autre numéro ...
+
 Date de création : 2021-11-30T20:00:00
 
 ## Prêt ?
 Dans le cercle, on regarde un partenaire, il se reconnait. Quand il répond "OUI" on commence un déplacement vers lui pour prendre sa place. Avant qu’il n’arrive le partenaire "ciblé" doit recommencer le même processus avec un autre partenaire afin que la place soit libre quand le premier joueur finit son déplacement (il ne peut démarrer que quand l’autre a dit "OUI").
+
 Date de création : 2022-03-25T20:00:00
 
 ## Regards appuyés
 On marche dans l’espace, en choisissant une couleur émotionnelle. Au signal, on rejoint le partenaire le plus proche de nous, et on fixe son regard pendant 30s/45s en GARDANT notre intention initiale. On a le droit de cligner des yeux, sinon, bah, ça pique ;)
+
 Date de création : 2022-03-25T20:00:00
 
 ## Viens ici !
 En cercle, on désigne un partenaire, et on lui dit avec une intention choisie "Viens ici !" ...
+
 Il répond avec "Non, je ne veux pas !" ...
+
 Date de création : 2021-11-30T20:00:00
 
 ## Le téléphone
 Côte à côte, on décroche, raccroche, en mode "copier/coller" ou "réaction à ce que l’on voit"
+
 Date de création : 2021-09-07T20:00:00
 
 ## Répétition de la proposition
 Mise en cercle, une personne avance, dit et fait quelque chose (pas forcément lié) et tout le monde refait ensemble la même chose (tout le monde 1 fois, voir 2)
+
 Date de création : 2022-01-11T20:00:00
 
 ## Réponse émotionnelle
@@ -164,38 +218,45 @@ Date de création : 2022-03-25T20:00:00
 
 ## ... parce que ... et en plus ...
 Tout le monde marche et se croise. Sur rencontre, l’un annonce une généralité, l’autre enchaine avec "parce que..." et le premier renchérit avec "et en plus...".
+
 Exemple :
 - Je t’aime bien.
 - Tu m’aimes bien parce que je suis riche
 - Je t’aime bien parce que tu es riche et en plus t’es canon !
+
 Date de création : 2022-02-15T20:00:00
 
 ## Le mot en solo
 Tous en ligne, impro solo 30’’ sur un mot tiré au hasard (grâce à cette app).
+
 L'exercice se déroule face aux autres ;)
+
 Date de création : 2021-10-26T20:00:00
 
 ## 7 nuances de rencontres
 On marche librement dans la pièce.
-A l’état 1, nous sommes tous des inconnus, on ne s’ignore pas, mais on se jette un regard furtif, comme dans la vraie vie.
-A l’état 2, nous nous connaissons vaguement, genre voisins, ou collègues éloignés.
-A l’état 3, nous nous connaissons, on peut commencer à avoir un contact physique bref, on se touche le bras, l’épaule.
-A l’état 4, nous nous connaissons très bien, l’échange physique peut se prolonger un peu.
-A l’état 5, nous nous aimons, nous avons une réelle affection.
-A l’état 6, nous nous aimons beaucoup, nous nous sommes manqués, de belles marques d’affection profonde.
-A l’état 7, nous nous aimons éperdument, et ça fait longtemps que nous ne nous sommes pas vus.
+- A l’état 1, nous sommes tous des inconnus, on ne s’ignore pas, mais on se jette un regard furtif, comme dans la vraie vie.
+- A l’état 2, nous nous connaissons vaguement, genre voisins, ou collègues éloignés.
+- A l’état 3, nous nous connaissons, on peut commencer à avoir un contact physique bref, on se touche le bras, l’épaule.
+- A l’état 4, nous nous connaissons très bien, l’échange physique peut se prolonger un peu.
+- A l’état 5, nous nous aimons, nous avons une réelle affection.
+- A l’état 6, nous nous aimons beaucoup, nous nous sommes manqués, de belles marques d’affection profonde.
+- A l’état 7, nous nous aimons éperdument, et ça fait longtemps que nous ne nous sommes pas vus.
+
 ==> Travail du corps, du toucher, de nos réticences de comédiens à entrer dans la sphère intime de l’autre.
+
 Date de création : 2021-09-21T20:00:00
 
 ## Le ninja
 Variantes de ce jeu : https://www.caucus.fr/le-ninja/
+
 Accepter de perdre, mais ne pas faire exprès de perdre ;)
 
-Variante 1: On essaie de se toucher l’avant-bras, ça doit être tonique et fatiguant. Les pieds sont fixes.
+Variante 1 : On essaie de se toucher l’avant-bras, ça doit être tonique et fatiguant. Les pieds sont fixes.
 
-Variante 2: Le même, mais très lentement, le corps doit être mobilisé, on peut fléchir les jambes, se contorsionner ...
+Variante 2 : Le même, mais très lentement, le corps doit être mobilisé, on peut fléchir les jambes, se contorsionner ...
 
-Variante 3: Le même, toujours très lentement, on ne se lâche pas du regard, tout se passe en vision périphérique.
+Variante 3 : Le même, toujours très lentement, on ne se lâche pas du regard, tout se passe en vision périphérique.
 
 ==> Méga-efficace pour entrer en énergie, çà décoiffe, ça tend, ça détend, c’est très drôle !
 
@@ -205,12 +266,16 @@ Date de création : 2022-02-08T20:00:00
 - Je marche dans la pièce.
 - Je marche, puis je salue un autre comédien.
 - Je marche, je rencontre puis demande un service.
+
 La réponse est toujours "Oui, volontiers".
+
 Puis, "Non, pas le temps", puis "Non, tu m’emmerdes", puis "Non, puis oui ...", puis "Oui, puis non ..." -> on voit ce que ça change.
+
 Date de création : 2022-02-15T20:00:00
 
 ## 7 niveaux d’intensité
 Passage par les 7 états de tension. On marche librement dans la pièce, on suit les niveaux de tensions suivants:
+
 1. Vous êtes épuisé, vous n’avez aucune envie d’être là. Vous faites votre travail en économisant votre énergie au maximum. Chaque mouvement est difficile
 2. Maintenant vous êtes décontracté, on ne sent aucun enjeu dans ce travail. Vous le faites car vous devez le faire, n’y mettez aucun cœur
 3. Maintenant vous êtes technicien, vous faites votre travail comme demandé. Ni plus ni moins. Le travail est bien fait.
@@ -218,63 +283,88 @@ Passage par les 7 états de tension. On marche librement dans la pièce, on suit
 5. C’est la veille de Noël. Il y a beaucoup de clients qui attendent leurs colis, vous n’arrivez plus à fournir. Vous faites votre maximum pour satisfaire tout le monde mais des clients commencent à être mécontent ! Il ne reste que 20min avant la fermeture, vous devez aller vite !!!!!
 6. 2min avant la fermeture vous n’aurez jamais le temps de satisfaire tout le monde. Les clients s’énervent contre vous, leurs enfants n’auront rien sous le sapin par votre faute !!!!
 7. Vous avez échoué ! Des enfants n’auront pas de cadeau et tout est de votre faute !!!!
+
 Date de création : 2021-09-07T20:00:00
 
 ## Scènes de crise
 -> Le public doit voir quelque chose mourir : un personnage, un amour, une relation, un projet, ...
 
-Par groupe de 5 avec passage de chaque groupe sur 15min. La première scène doit être une scène de crise et les suivantes des flashbacks permettant d’arriver jusqu’à la crise. Les spectateurs sont les metteurs en scènes pour donner les consignes suivantes:
-  . nombre de comédiens sur scène
-  . entrée d’un comédien
-  . sortie d’un comédien
-  . imposer un personnage principal
+Par groupe de 5 avec passage de chaque groupe sur 15min.
+
+La première scène doit être une scène de crise et les suivantes des flashbacks permettant d’arriver jusqu’à la crise.
+
+Les spectateurs sont les metteurs en scènes pour donner les consignes suivantes :
+- nombre de comédiens sur scène
+- entrée d’un comédien
+- sortie d’un comédien
+- imposer un personnage principal
 
 Date de création : 2021-10-19T20:00:00
 
 ## 2 chaises, choix de focus
 Dos au public, derrière 2 chaises, les deux partenaires partent en même temps et entament un déplacement vers le centre scène. La consigne est de ne regarder que le public, ou son partenaire. Le but est de s’asseoir en même temps sur la chaise, en ayant fait un choix clair "regard public" ou " regard partenaire" (ce choix ne change plus une fois assis).
+
 On voit ce qu’il se passe.
+
 Date de création : 2021-11-30T20:00:00
 
 ## 2 chaises, 2 dialogues
 Dos au public, derrière 2 chaises, les deux partenaires partent en même temps et entament un déplacement vers le centre scène. La consigne est de ne regarder que le public, ou son partenaire. Le but est de s’asseoir en même temps sur la chaise, en ayant fait un choix clair "regard public" ou " regard partenaire".
+
 Ce choix ne change plus une fois assis, puis, en prenant son temps, on entame un échange de 2 répliques courtes chacun.
-P1: bla, P2: Bli, P1: blo, P2: blu
+- P1: bla
+- P2: bli
+- P1: blo,
+- P2: blu
 
 Date de création : 2021-11-30T20:00:00
 
 ## Un duo, 4 répliques du metteur en scène
-a- Scène libre, mais avec un texte fourni par le metteur en scène (appris par coeur).
+1- Scène libre, mais avec un texte fourni par le metteur en scène (appris par coeur).
 On cherche ici à incarner le texte, écrit avec une certaine intention par le metteur en scène et que l’on doit deviner.
-b- Variante : une fois tout cela fait, on laisse la scène se dérouler librement.
+
+2- Variante : une fois tout cela fait, on laisse la scène se dérouler librement.
+
 Date de création : 2021-11-30T20:00:00
 
 ## Tout à fait Jean-Pierre/Carole
 Page 432 du Mark Jane
+
 Date de création : 2021-12-07T20:00:00
 
 ## Transition focus
 Le duo 1 est sur scène et démarre une impro à gauche de la scène
-Pendant cette première scène, le duo 2 entre sur partie droite, sans parler. Quand le duo 2 perçoit de la difficulté / perte d’énergie ou d’intérêt ... il prend le focus = il prend la parole.
-Le duo 1 reste sur scène et sans parole continue de jouer de façon minimaliste puis sort.
-Le duo 3 entre sur partie gauche etc.
-Règles : 
- - Les personnages se connaissent (famille, collègues de travail, groupe d’amis……)
- - Le duo qui prend le focus doit incorporer des choses dites dans le duo précédent : un élément, une idée, un détail
 
- Exercice inspiré de l’ "écran divisé" page 435 du Mark Jane.
+Pendant cette première scène, le duo 2 entre sur partie droite, sans parler. Quand le duo 2 perçoit de la difficulté / perte d’énergie ou d’intérêt ... il prend le focus = il prend la parole.
+
+Le duo 1 reste sur scène et sans parole continue de jouer de façon minimaliste puis sort.
+
+Le duo 3 entre sur partie gauche etc.
+
+Règles : 
+- Les personnages se connaissent (famille, collègues de travail, groupe d’amis……)
+- Le duo qui prend le focus doit incorporer des choses dites dans le duo précédent : un élément, une idée, un détail
+
+Exercice inspiré de l’ "écran divisé" page 435 du Mark Jane.
+
 Date de création : 2021-09-21T20:00:00
 
 ## Remplir les espaces vides
 On déambule dans la pièce en synchronisant le rythme du groupe.
+
 Lorsque la musique s'arrête, on se remet en cercle le plus rapidement possible. La musique repart, on repart.
+
 Ensuite quand la musique s'arrête, sur dénomination, un acteur place un objet dans la pièce, qu'il faudra intégrer et prendre en compte dans notre décor.
+
 Date de création : 2022-03-25T20:00:00
 
 ## Synchro chorégraphie
 En groupe, quelqu’un propose une chorégraphie, le groupe la suit, puis quelqu’un propose autre chose, et le groupe s’adapte, on s’écoute, ...
+
 Puis, un acteur se détache du groupe, va en face, donne un geste et une émotion. Le groupe le rejoint, et reprend geste + émotions. Puis reprise de la chorégraphie.
+
 On se laisse happer par la musique, le moment présent, l'adhésion au groupe.
+
 Date de création : 2022-03-25T20:00:00
 
 ## Le guide d’aveugle

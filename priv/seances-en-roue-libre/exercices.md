@@ -1,3 +1,8 @@
+---
+layout: page
+title:  "Exercices, séances de la troupe 'En roue libre'"
+---
+
 ## Le goaler simple
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive avec une proposition (une phrase et/ou une action). P1 réagit, P2 réagit puis sort ...
 

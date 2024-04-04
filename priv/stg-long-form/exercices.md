@@ -202,7 +202,7 @@ A dirige l'histoire en disant :
 - Emotion ! (B doit détailler l'état émotionnel du héros)
 - Réincorporation ! (B doit réincorporer un élément précédent)
 
-=> Travail sur la spontanéité, l'installation et la réincorporation
+→ Travail sur la spontanéité, l'installation et la réincorporation
 
 ## Exercice "Physique / Parole"
 
@@ -248,7 +248,7 @@ Les outils du directeur :
 
 - "Silence. Regardez-vous."
 - Prénom du joueur + "Je sais pourquoi tu dis ça" (ex: "Florence. Je sais pourquoi tu dis ça" et Florence va dire "Je sais pourquoi tu dis ça, tu dis ça parce que ..." et elle invente la suite.
-- (Après une bombe potentielle) Prénom + "Répète" (ex: B vient de dire "mon épouse n'est pas rentrée de la nuit", le directeur : "A, répète" et A va répéter "Ton épouse n'est pas rentrée de la nuit", et B va répéter également "Mon épouse n'est pas rentrée de la nuit". Il faut voir chaque répétition comme un coup de pompe pour gonfler l'enjeu "L'épouse n'est pas rentrée". Après les répétitions, l'outil "Changer de sujet" met un coup de pompe supplémentaire ! ==> On élude le sujet, il nous gêne, il est donc important !!
+- (Après une bombe potentielle) Prénom + "Répète" (ex: B vient de dire "mon épouse n'est pas rentrée de la nuit", le directeur : "A, répète" et A va répéter "Ton épouse n'est pas rentrée de la nuit", et B va répéter également "Mon épouse n'est pas rentrée de la nuit". Il faut voir chaque répétition comme un coup de pompe pour gonfler l'enjeu "L'épouse n'est pas rentrée". Après les répétitions, l'outil "Changer de sujet" met un coup de pompe supplémentaire ! → On élude le sujet, il nous gêne, il est donc important !!
 - Prénom + "Jeu physique". Le joueur cité doit faire une action, utiliser un objet, etc .... Si aucun prénom n'est cité alors les 2 se mettent en action.
   Une fois que les comédiens sont à l'aise avec ces consignes, on en ajoute une autre :
 - Prénom + "Remarque" - Ex: A vient de se passer la main dans les cheveux, le directeur dit "A, remarque" ... alors A dit et invente "Je vois que tu as passé la main dans tes cheveux de manière sensuelle. C'est parce que tu as envie de moi"

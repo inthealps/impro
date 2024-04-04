@@ -19,7 +19,7 @@ Que ce soit le comédien ou le personnage qui est bloqué, on s'en fout, c'est O
 On ne touche pas l'autre sans son consentement. On le recherche par le regard, le personnage le demande par la parole.
 Si ce n'est pas OK pour le comédien, il sort de scène. L'autre se démerde tout seul.
 
-"Non je n'ai pas envie d'aller dans cette direction de jeu" -> Je me barre. Démerde-toi tout seul.
+"Non je n'ai pas envie d'aller dans cette direction de jeu" → Je me barre. Démerde-toi tout seul.
 
 
 
@@ -98,7 +98,7 @@ Il va, si nécessaire, conclure la scène avec une punch-line très à propos.
 
 Cette punch-line va apporter un complément à la scène, un détail, mais ne va pas la changer.
 
-Tip: On choisira une punch-line plutôt comique, plutôt que dramatique => On cherche les rires dans la salle.
+Tip: On choisira une punch-line plutôt comique, plutôt que dramatique → On cherche les rires dans la salle.
 
 En clair, pour faire son job, l'observateur :
 - ne doit pas amener un truc déjà là.
@@ -229,12 +229,12 @@ Demander à son partenaire quoi faire !
 
 2e cas : je fais mon job, je suis dans la proposition.
 
-==> POUBELLE ! Ca n'a rien à faire en impro !!
+→ POUBELLE ! Ca n'a rien à faire en impro !!
 
 ## Négociation
 "Sortez de la bibliothèque !"
 
--> On sort, on ne négocie pas "Mais j'ai payé pour un an !!"
+→ On sort, on ne négocie pas "Mais j'ai payé pour un an !!"
 
 ## Arrêter de proposer
 Rappel :
@@ -277,7 +277,7 @@ Si j'ai une autre émotion (froid, colère, joie etc), j'apporte un éclairage d
 Je peux être responsable de cette tristesse, je peux m'en foutre, ça peut me mettre en colère, etc.
 
 Exemple du stage : Thème "Pâquerette en apesanteur"
-- 3 rôles identiques sur une scène (3 tailleurs de haies) --> POUBELLE !
+- 3 rôles identiques sur une scène (3 tailleurs de haies) -→ POUBELLE !
 - Reprise de la scène, on voit :
   - Une pâquerette qui s'anime
   - Qqun qui veit la couper
@@ -375,7 +375,7 @@ Je fais TROP çà !
 
 Candice et Ludo me parlent de stress :
 
-"Tu n'es pas comme çà dans la vraie vie" -> A bosser donc !
+"Tu n'es pas comme çà dans la vraie vie" → A bosser donc !
 
 - Faire des adresses beaucoup plus longues.
 - Jusqu'à 30 secondes.

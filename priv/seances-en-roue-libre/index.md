@@ -248,7 +248,7 @@ On marche librement dans la pièce.
 - A l’état 6, nous nous aimons beaucoup, nous nous sommes manqués, de belles marques d’affection profonde.
 - A l’état 7, nous nous aimons éperdument, et ça fait longtemps que nous ne nous sommes pas vus.
 
-==> Travail du corps, du toucher, de nos réticences de comédiens à entrer dans la sphère intime de l’autre.
+→ Travail du corps, du toucher, de nos réticences de comédiens à entrer dans la sphère intime de l’autre.
 
 _Date de création : 2021-09-21T20:00:00_
 
@@ -263,7 +263,7 @@ Variante 2 : Le même, mais très lentement, le corps doit être mobilisé, on p
 
 Variante 3 : Le même, toujours très lentement, on ne se lâche pas du regard, tout se passe en vision périphérique.
 
-==> Méga-efficace pour entrer en énergie, çà décoiffe, ça tend, ça détend, c’est très drôle !
+→ Méga-efficace pour entrer en énergie, çà décoiffe, ça tend, ça détend, c’est très drôle !
 
 _Date de création : 2022-02-08T20:00:00_
 
@@ -274,7 +274,7 @@ _Date de création : 2022-02-08T20:00:00_
 
 La réponse est toujours "Oui, volontiers".
 
-Puis, "Non, pas le temps", puis "Non, tu m’emmerdes", puis "Non, puis oui ...", puis "Oui, puis non ..." -> on voit ce que ça change.
+Puis, "Non, pas le temps", puis "Non, tu m’emmerdes", puis "Non, puis oui ...", puis "Oui, puis non ..." → on voit ce que ça change.
 
 _Date de création : 2022-02-15T20:00:00_
 
@@ -292,7 +292,7 @@ Passage par les 7 états de tension. On marche librement dans la pièce, on suit
 _Date de création : 2021-09-07T20:00:00_
 
 ## Scènes de crise
--> Le public doit voir quelque chose mourir : un personnage, un amour, une relation, un projet, ...
+→ Le public doit voir quelque chose mourir : un personnage, un amour, une relation, un projet, ...
 
 Par groupe de 5 avec passage de chaque groupe sur 15min.
 
@@ -415,7 +415,7 @@ Puis tu reprends forme humaine, mais en gardant certaines des caractéristiques 
 _Date de création : 2022-03-25T20:00:00_
 
 ## Émotion dans le corps
-Tu marches, et tu donnes une émotion à ton corps, sans utiliser le visage -> pas simple. Tu peux alors ajouter l’émotion sur ton visage, et voir ce que cela change dans ton corps (comment est mon corps dans cette position) : comment je respire, comment je me positionne, quels muscles sont tendus. Puis, je retire le visage et je me sers de ce que j’ai ressenti pour faire passer cette émotion uniquement avec mon corps.
+Tu marches, et tu donnes une émotion à ton corps, sans utiliser le visage → pas simple. Tu peux alors ajouter l’émotion sur ton visage, et voir ce que cela change dans ton corps (comment est mon corps dans cette position) : comment je respire, comment je me positionne, quels muscles sont tendus. Puis, je retire le visage et je me sers de ce que j’ai ressenti pour faire passer cette émotion uniquement avec mon corps.
 
 _Date de création : 2022-03-25T20:00:00_
 
@@ -548,7 +548,7 @@ Notes :
 - Il y a un côté animal dans l’exercice
 - Ça fait émerger des choses
 - On travaille le lâcher-prise
-- Qu’est ce que ça me fait ? --> Je m’entraîne à savoir où j’en suis en moi (= je détecte des choses, des émotions, un lien entre ces choses et émotions afin de savoir ensuite les reproduire en jeu).
+- Qu’est ce que ça me fait ? → Je m’entraîne à savoir où j’en suis en moi (= je détecte des choses, des émotions, un lien entre ces choses et émotions afin de savoir ensuite les reproduire en jeu).
 
 _Date de création : 2022-05-03T20:00:00_
 
@@ -575,7 +575,7 @@ Notes:
 - Cet exercice fait travailler les changements brusques d’émotion.
 - Il nous met "en présence", et en "lâcher-prise", libérés de la narration.
 - Il fait ressortir en nous quels sont les ressorts qui nous font entrer dans l’émotion. Est-ce par le corps ? La visualisation de la scène ? Juste la voix du narrateur, on vivant vraiment la scène ? A t’on du mal à y croire, et nous forçons-nous à surjouer ces émotions ? Devons-nous penser à autre chose qui nous mettrait dans l’émotion recherchée ? 
-- Permet de travailler différents moyens de retransmettre l’émotion : "Par tout le corps", "Juste les yeux" -> Panel d’outils pour varier la manière d’exprimer une émotion.
+- Permet de travailler différents moyens de retransmettre l’émotion : "Par tout le corps", "Juste les yeux" → Panel d’outils pour varier la manière d’exprimer une émotion.
 - Permet de s’introspecter, à la recherche de quels sont les signes physiques que je dégage lorsque je vis une émotion. Connaitre ces signes permettra de s’entraîner à les rejouer (exemples: la peur, j’halète, mon thorax est fermé, mes mains sont fermées et protège le haut de mon corps, la joie, j’ouvre mon thorax, des grandes respirations, la colère, j’ai un noeud dans le ventre, il grossit, ...)
 
 _Date de création : 2022-05-03T20:00:00_
@@ -919,7 +919,7 @@ Les comédiens se laissent transformer par ce qu’ils vivent, leurs émotions �
 
 Si je suis nerveux, un peu stressé, l’autre le verra et le dénoncera.
 
-Pour ce faire, "on évite les questions" -> elles déportent la responsabilité, font tourner autour du pot …
+Pour ce faire, "on évite les questions" → elles déportent la responsabilité, font tourner autour du pot …
 
 En impro, poser une question est un symptôme d’une crainte d’aller de l’avant (les comédiens se rassurent). En transformant une question en affirmation, un engagement plus clair et un choix plus judicieux sont proposés.
 
@@ -1182,7 +1182,7 @@ Le comédien jouant le personnage "appelé" entre en neutre, tranquillement, se 
 
 Il est très important que l'appelé soit **très précis sur son positionnement dans le regard** car le public "voit" le personnage fictif sur scène. Un léger décalage de positionnement, un échange de regards entre comédiens pendant la mise en place, un appel simple non suivi de jeu cassera la magie de cet effet hyper efficace si bien réalisé.
 
-De même, le comédien en jeu doit dérouler sa scène avec fluidité, on ne doit pas se rendre compte qu'il attend son partenaire, il pourrait presque jouer la scène en solo avec le personnage fictif => cela nécessite beaucoup d'entraînement.
+De même, le comédien en jeu doit dérouler sa scène avec fluidité, on ne doit pas se rendre compte qu'il attend son partenaire, il pourrait presque jouer la scène en solo avec le personnage fictif → cela nécessite beaucoup d'entraînement.
 
 Notes :
 - le personnage appelé peut déjà être dans la scène tuilée. A ce moment là, il sort tranquillement, puis ré-entre tranquillement.
@@ -1257,9 +1257,11 @@ L'animateur peut toucher le dos d'un autre comédien pour déclencher une second
 _Date de création : 2024-02-20T20:00:00_
 
 ## Les losanges du taïchi
-Un leader, 3 suiveurs, en musique, on répète les mouvements lents d’une sorte de taïchi.
+Un leader, 3 suiveurs, en musique.
+Les 4 comédiens se placent en losange, un leader débute un mouvement lent d’une sorte de taïchi, relayés par les 3 autres.
 
-Puis le leader se tourne vers une personne et donne le lead. Ça doit se faire en douceur, de manière fluide.
+Après un certain temps, le leader se tourne vers une personne et donne le lead. Ça doit se faire en douceur, de manière fluide.
+On peut accélérer la musique, pour changer le rythme, et accélérer les mouvements.
 
 _Date de création : 2024-02-20T20:00:00_
 
@@ -1282,7 +1284,7 @@ Outils du directeur :
 - "Respire !", revenir à la respiration nous remet dans le corps
 - “Occupe tes mains !” = faire une action simple (se servir un verre d’eau, couper du pain, se regarder dans le miroir, se recoiffer, etc …) → se remettre dans le corps nous redonne du jeu
 - “Dis-lui une vérité !” (presque comme "Faire un choix")
-- "Qu’est-ce que ça te fait ?" -> Prendre le temps de l’impact émotionnel, se demander ce que ça remue en nous.
+- "Qu’est-ce que ça te fait ?" → Prendre le temps de l’impact émotionnel, se demander ce que ça remue en nous.
 
 _Date de création : 2024-02-20T20:00:00_
 

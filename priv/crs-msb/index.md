@@ -107,15 +107,15 @@ Prendre le temps.
 Stanislavski demande de faire appel à sa mémoire émotionnelle, on revit un événement joyeux, triste. Comment étions-nous alors ?
 Lee Strasberg : il pense que l'acteur doit créer son personnage par sa mémoire affective et ses ressources émotives.
 Il dit qu'on doit se projeter dans l'émotion par une sensation :
-Sensation -> odeur du café
-Projection -> bien-être
-Emotion -> joie
+Sensation → odeur du café
+Projection → bien-être
+Emotion → joie
 
 Variantes : On peut incarner une émotion de notre choix, ou une émotion dictée par le coach.
 
 Tips de réussite :
 - On recherche le jeu sincère, pas de surjeu ni de caricature
-- Ne pas donner à VOIR mais à RESSENTIR -> on vit les choses
+- Ne pas donner à VOIR mais à RESSENTIR → on vit les choses
 
 
 ## Crocodile
@@ -126,7 +126,65 @@ Très rapide, on doit chercher la vitesse et la fluidité.
 En cercle, un premier comédien commence à chanter un rythme en 4 temps, puis un second comédien vient se greffer en ajoutant un "instrument", etc.
 On peut passer par des phases d'atténuation, de montée en puissance, etc.
 
-## Consentement en jeu
+## Confidences sous la pluie
+En cercle, une ambiance pluvieuse (bruit de pluie, lumière tamisée).
+Un comédien se dirige vers un autre comédien, mime de le placer sous la protection de sa cape de pluie et l'accompagne jusqu'à sa place.
+Pendant le trajet, il lui fait une courte confidence, quelque chose qui lui tient à cœur.
+
+## La force écrasante - Gravity
+Sur scène, quelques comédiens, debout, en neutre.
+Au signal, ils commencent à lutter contre une force venue d'en haut qui les écrasent. Ils luttent pour ne pas être écrabouillés, on doit sentir la tension, leur résistance.
+Ils finissent tous par être écrasés au sol.
+
+La deuxième étape consiste à tenter de se relever malgré cette force écrasante, et de se battre pour se redresser.
+On prend notre temps, on donne au public le temps de ressentir la tension, la lutte, la résistance.
+
+## L'ascenseur
+6 ou 7 comédiens tassés dans un ascenseur.
+Ils s'endorment progressivement, tous sauf un (être à l'écoute des autres pour qu'il n'y en ait un, et un seul, qui reste éveillé).
+Quand tout le monde dort, le personnage éveillé entame un monologue, sur le sujet de son choix.
+Puis, un à un, les comédiens se réveillent, prennent conscience de la situation, et écoutent le monologue. Se passionnent, puis commencent à toucher, absorber, recouvrir le personnage qui parle.
+Le personnage qui parle doit continuer son monologue, comme si c'était vital pour lui. Rien ne l'arrête jusqu'à être complètement submergé par les autres comédiens.
+Puis finalement les comédiens prennent conscience de la situation, s'en étonnent, et se rendorment lentement.
+Sauf un. Et on recommence.
+
+Tips de réussite :
+- On doit rester dans les limites de l'ascenseur, on ne doit pas en sortir. C'est difficile quand on passe au sol.
+
+## Danse guidée par le corps
+En musique, tous les comédiens se mettent en condition en commençant à se laisser transporter par la musique. 
+Ils commencent à bouger, à se laisser aller, à se laisser guider par leur corps.
+Puis, le coach va donner des indications : "Vous êtes guidés par votre main droite", et les comédiens vont devoir suivre cette indication, et laisser leur main droite les guider.
+Puis "Vous êtes guidés par votre genou gauche", "votre nez", "vos fesses", etc.
+Au bout d'un moment, on peut également composer : "Vous êtes guidés par votre main droite, et votre front", etc.
+
+## Les losanges du taïchi
+Un leader, 3 suiveurs, en musique.
+Les 4 comédiens se placent en losange, un leader débute un mouvement lent d’une sorte de taïchi, relayés par les 3 autres.
+
+Après un certain temps, le leader se tourne vers une personne et donne le lead. Ça doit se faire en douceur, de manière fluide.
+On peut accélérer la musique, pour changer le rythme, et accélérer les mouvements.
+
+## Les machines "mouvements"
+4 comédiens.
+Un comédien démarre un mouvement, accompagné d'un son. Il est rapidement rejoint par un autre comédien, qui va ajouter un autre mouvement, un autre son, etc.
+Contrairement aux machines "actions", ici on ne cherche pas à relayer une action, mais à relayer un mouvement, qui doit être fluide.
+
+Tips de réussite :
+- On doit être attentif à prolonger le mouvement, à ne pas le couper, à être fluides et synchronisés.
+- La première idée qui vient est la bonne, on ne cherche pas à intellectualiser, on suit son instinct.
+
+## Coloration corporelle
+Quatre comédiens sur scène, en neutre.
+Chacun va choisir une émotion, et commencer à se colorer doucement.
+Comment cette émotion anime-t-elle notre corps ? Comment la vit-on ?
+Le coach va progressivement augmenter le niveau de coloration, de 1 à 10.
+Les comédiens doivent faire gonfler, repérer des séquences du corps, et les amplifier.
+Puis, on se décolore progressivement, de 10 à 1. Plus rapidement, jusqu'à revenir au neutre.
+Le public va assister à un tableau varié.
+
+Tips de réussite :
+- Oublier l'esthétique de votre corps, choisir des segments de corps que l'on anime, en cherchant à vivre l'émotion.
 
 
 # Jeu scénique
@@ -230,7 +288,7 @@ Le comédien est responsable de sa protection, il peut dire "stop" si ça devien
 Tips de réussite :
 - Ce n'est pas une psycho-thérapie, le comédien doit rester en contrôle, le metteur en scène doit veiller à ce que ça reste du jeu.
 - Le metteur en scène entretient l'émotion, qui ne doit pas faiblir. Il peut y avoir une bascule (la tristesse peut devenir colère, par exemple. La joie devenir mélancolie, etc.).
-- Le piège est de partir dans sa tête et d'intellectualiser. "Tripes vs cerveau" -> On vit le truc, on ne se déconnecte pas, on lâche prise et on suit son instinct, on décrit ce qui nous touche.
+- Le piège est de partir dans sa tête et d'intellectualiser. "Tripes vs cerveau" → On vit le truc, on ne se déconnecte pas, on lâche prise et on suit son instinct, on décrit ce qui nous touche.
 - On est spécifique et directement dans le sujet
 
 ## Vieille connaissance
@@ -260,6 +318,26 @@ Puis ils se regardent enfin.
 Vivent la rencontre neutre/émotion.
 Puis se retournent, reculent vers le mur en faisant gonfler.
 Ils se retournent une dernière fois, et donnent au public un dernier regard.
+
+
+## Duo de personnages + Composition émotionnelle
+2 comédiens, 4 composeurs. Environ 8mn.
+Le duo de comédiens va jouer une scène, et les 4 composeurs vont composer les émotions d'un des personnages.
+On donne une relation + un contexte au duo.
+Il démarre une scène. À un moment, il va y avoir une annonce, quelque chose qui va atteindre émotionnellement un des 2 personnages.
+Ce personnage (P1) va s'arrêter de parler, et va vivre son émotion.
+Le second personnage va lui aussi rester dans son émotion, sans parler, en continuant de regarder P1.
+Un à un, et en musique, les composeurs vont venir colorer l'émotion, en se plaçant autour et derrière le personnage.
+Ils vont l'accompagner dans son émotion. Et lui donner une image.
+P2 ne doit pas regarder les composeurs, car ils n'existent pas en tant que personnages, mais en tant qu'émotion, c'est une allégorie, c'est onirique.
+De la même manière, P1 ne doit pas regarder / interagir avec les composeurs.
+Un à un, les composeurs vont se retirer, et P1 va terminer la scène, avec une dernière réplique.
+
+Tips de réussite :
+- Les composeurs doivent être attentifs à ne pas surjouer, à ne pas être dans la caricature.
+- Les composeurs ne doivent pas prendre le focus, ils doivent être là pour soutenir l'émotion, et non pour la voler.
+
+→ Effet huge quand c'est réussi !!
 
 
 # Outils
@@ -292,7 +370,7 @@ Les deux comédiens doivent s'adapter à cette contrainte.
 - Des personnages dans un ascenseur.
 - Des personnages dans une cabine téléphonique.
 - Des personnages dans une voiture.
-==> C'est drôle si on a plein de personnages dans un espace exigu.
+→ C'est drôle si on a plein de personnages dans un espace exigu.
 
 ### Espaces immenses
 A l'inverse, on peut jouer dans un espace immense, et jouer avec cette contrainte.
@@ -322,12 +400,12 @@ Exemple : "Tu es un menteur", "Tu es un lâche", "Tu es un héros", etc.
 Cela va débloquer une situation.
 
 Je peux également :
-- surenchérir -> Outil "Et en plus"
-- arrêter de parler -> Outil "Silence, regardez-vous"
-- faire un choix -> Outil "Je choisis de"
-- répéter quelque chose qui vient d'être dit -> Outil "Répétition"
-- respirer -> Outil "Respiration"
-- faire une action ! Se remettre dans le corps nous remet en jeu : boire un verre, couper du pain, se regarder dans un miroir, etc -> Outil "Occuper ses mains"
+- surenchérir → Outil "Et en plus"
+- arrêter de parler → Outil "Silence, regardez-vous"
+- faire un choix → Outil "Je choisis de"
+- répéter quelque chose qui vient d'être dit → Outil "Répétition"
+- respirer → Outil "Respiration"
+- faire une action ! Se remettre dans le corps nous remet en jeu : boire un verre, couper du pain, se regarder dans un miroir, etc → Outil "Occuper ses mains"
 
 
 

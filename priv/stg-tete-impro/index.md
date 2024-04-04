@@ -170,7 +170,7 @@ En cas de surprise, d'inattendu, de perte de contrôle du comédien, le personna
 
 Il ne doit pas être étonné, ne pas dénoncer son incompréhension, celà est indispensable à rendre la scène crédible pour le public !
 
-==> On surenchérit sur les propositions incongrues, même si on ne les comprend pas !
+→ On surenchérit sur les propositions incongrues, même si on ne les comprend pas !
 
 
 De même, si mon personnage perd le contrôle, je (comédien) doit être dans le contrôle.

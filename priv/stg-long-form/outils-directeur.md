@@ -39,7 +39,7 @@ Exemple:
 
 Il faut voir chaque répétition comme un coup de pompe pour gonfler l'enjeu "L'épouse n'est pas rentrée".
 
-Après ces répétitions, l'outil "Changer de sujet" met un coup de pompe supplémentaire ! => On élude le sujet, il nous gêne, il est donc important !!
+Après ces répétitions, l'outil "Changer de sujet" met un coup de pompe supplémentaire ! → On élude le sujet, il nous gêne, il est donc important !!
 
 
 ## Prénom + "Jeu physique"

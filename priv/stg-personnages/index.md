@@ -33,7 +33,7 @@ Pistes de réussite :
 - On veut voir ce qui se joue entre vous.
 - Ressentez plutôt que de chercher à montrer quelque chose !
 - Pas de question, vous amenez de l'information. Dotez les personnages !
-=> On veut de la précision !
+→ On veut de la précision !
 
 ## Exercice "Ma vie"
 4 comédiens face au mur, dos au public.
@@ -78,7 +78,7 @@ Pistes de réussite :
 - On ne coupe pas la parole.
 - Celui qui parle décide de la fin de sa réplique.
 - On prend son temps, chaque réplique est importante. Donc, on prend le temps d'être impacté par ce qu'on dit et ce qu'on reçoit.
-==> Sortir de l'urgence de la parole.
+→ Sortir de l'urgence de la parole.
 
 ## Pistes diverses (à classer)
 **Le public peut aider à renforcer le personnage.**
@@ -106,7 +106,7 @@ Pistes de réussite :
 - Prendre son temps pour être impacté par ce qu'on dit et ce qu'on reçoit.
 - Mettre des silences, des respirations.
 - Personnages énergiques.
-- Pas de plateau vide (responsabilité de tous les comédiens -> cohésion).
+- Pas de plateau vide (responsabilité de tous les comédiens → cohésion).
 - Rythme, et occupation de l'espace scénique.
 
 
@@ -125,7 +125,7 @@ Pistes de réussite :
 - Redescendre dans le jeu et dans le personnage, et être quelqu'un d'autre que nous-même sur scène !
 - Interdit de répondre du tac au tac.
 - Interdit de répondre par une question.
-=> Permet de résister au blabla
+→ Permet de résister au blabla
 
 ## Scribes
 

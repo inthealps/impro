@@ -86,7 +86,7 @@ Exemple : Le public rit sur un pléonasme, je refais d'autres pléonasmes. J'app
 
 **L'ancrage**
 S'ancrer aide à prendre conscience de l'importance des déplacements.
-Le comédien A CHOISIT d'aller vers B. C'est très différent des gestes automatiques et des déplacements parasites.
+Le comédien A CHOISI d'aller vers B. C'est très différent des gestes automatiques et des déplacements parasites.
 
 **Le lâcher-prise**
 Le lâcher-prise permet de ne pas être dans le contrôle, et de laisser les choses arriver. Cela amène des scènes plus diversifiées, plus riches et plus intéressantes. Avec de super personnages.

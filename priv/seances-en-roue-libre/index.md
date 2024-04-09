@@ -27,13 +27,13 @@ Un comédien P1 fixe et neutre, un autre comédien P2 arrive avec une propositio
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
 Exemple :
 - J’ai réussi mes examens !
-- Oui, c’est super, tu as réussi tes examens ... et en plus j’avais mis le champagne au frais !
+- Oui, c’est super, tu as réussi tes examens ... et en plus, j’avais mis le champagne au frais !
 
 Lorsqu’on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser la place à P2, et ainsi de suite.
 _Date de création : 2021-11-16T20:00:00_
 
 ## Le goaler "Émotions"
-Un comédien P1 fixe, se met de dos et incarne une émotion, visible du public mais pas de l’autre comédien P2. P2 arrive en incarnant lui aussi une émotion. P1 se retourne, les deux émotions se confrontent et on voit ce que ça donne. La scène peut durer un peu. 
+Un comédien P1 fixe, se met de dos et incarne une émotion, visible du public, mais pas de l’autre comédien P2. P2 arrive en incarnant lui aussi une émotion. P1 se retourne, les deux émotions se confrontent et on voit ce que ça donne. La scène peut durer un peu. 
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
 
 Lorsqu’on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser la place à P2, et ainsi de suite.
@@ -41,7 +41,7 @@ Lorsqu’on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser
 _Date de création : 2022-04-15T20:00:00_
 
 ## Le goaler "Zéro, un ou deux mots"
-Un comédien P1 fixe et neutre, un autre comédien P2 arrive de manière neutre. On laisse infuser et on voit ce que ça donne. L’idée est de cueillir ce qui vient. On parle pas ou très peu. La scène peut durer un peu ...
+Un comédien P1 fixe et neutre, un autre comédien P2 arrive de manière neutre. On laisse infuser et on voit ce que ça donne. L’idée est de cueillir ce qui vient. On ne parle pas ou très peu. La scène peut durer un peu ...
 
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".
 
@@ -52,7 +52,7 @@ _Date de création : 2022-04-15T20:00:00_
 ## Le goaler "Je t’aime" / "Je te déteste"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive et propose l’amour ou le désamour, la haine.
 
-Il s’en suit une mini-scène qu’on tente sincère, et en acceptation. P1 croit que c’est vrai (pas de minimisation, c’est soit super soit dramatique).
+Il s’en suit une mini-scène qu’on tente sincère, et en acceptation. P1 croit que c’est vrai (pas de minimisation, c’est soit super, soit dramatique).
 
 La scène peut durer un peu ...
 
@@ -112,11 +112,11 @@ On marche librement dans l’espace, d’abord sans consigne, puis avec une indi
 _Date de création : 2021-11-30T20:00:00_
 
 ## Nommer/renommer les choses
-On marche librement dans l’espace, on pointe des éléments de la pièce, des détails, en nommant leur nom à voix haute. On fait ça rapidement, avec énergie. Çà doit pulser ;)
+On marche librement dans l’espace, on pointe des éléments de la pièce, des détails, en nommant leur nom à voix haute. On fait ça rapidement, avec énergie. Ça doit pulser ;)
 
-Ensuite, on fait la même chose mais on pointe un élement en énonçant le nom du précédent élément ciblé. Exemple, je pointe d’abord un extincteur, je ne dis rien, puis pointe une chaise en disant "Extincteur !".
+Ensuite, on fait la même chose, mais on pointe un élement en énonçant le nom du précédent élément ciblé. Exemple, je pointe d’abord un extincteur, je ne dis rien, puis pointe une chaise en disant "Extincteur !".
 
-Ensuite on pointe des éléments, mais en disant des noms au hasard. Par exemple, je pointe un extincteur en disant "Fourchette !".
+Ensuite, on pointe des éléments, mais en disant des noms au hasard. Par exemple, je pointe un extincteur en disant "Fourchette !".
 
 Cet exercice vient du livre de Mark Jane, p.38
 
@@ -130,7 +130,7 @@ Cet exercice vient du livre de Mark Jane, p.70
 _Date de création : 2021-09-21T20:00:00_
 
 ## Respiration et mobilisation douce
-Exercice de respiration, on sent son diaphragme bouger, on se synchronise sur sa respiration, on peut chercher des partenaires ayant le même rythme. Puis on y ajoute de la mobilisation du corps, en douceur, et là encore, potentiellement en synchronisation corporelle et respiratoire.
+Exercice de respiration, on sent son diaphragme bouger, on se synchronise sur sa respiration, on peut chercher des partenaires ayant le même rythme. Puis, on y ajoute de la mobilisation du corps, en douceur, et là encore, potentiellement en synchronisation corporelle et respiratoire.
 
 _Date de création : 2022-03-25T20:00:00_
 
@@ -163,17 +163,17 @@ Cet exercice vient du livre de Mark Jane, p.41
 _Date de création : 2021-09-21T20:00:00_
 
 ## Assis/Debout synchronisé
-Départ tous assis en cercle, on se lève en même temps et en synchronisation, une fois debout on se déplace dans la pièce en occupant les espaces vides, après un moment on s’arrête, et on rassied en synchronisation.
+Départ tous assis en cercle, on se lève en même temps et en synchronisation, une fois debout, on se déplace dans la pièce en occupant les espaces vides, après un moment, on s’arrête, et on rassied en synchronisation.
 
 _Date de création : 2021-11-30T20:00:00_
 
 ## Clap synchro
-On passe le clap à un partenaire, en claquant des mains. Les sons doivent être synchro. on tourne d’abord en cercle, puis en choisissant un partenaire dans le cercle.
+On passe le clap à un partenaire, en claquant des mains. Les sons doivent être synchrones. On tourne d’abord en cercle, puis en choisissant un partenaire dans le cercle.
 
 _Date de création : 2021-11-30T20:00:00_
 
 ## Catch the ball
-On s’envoie une balle virtuelle avec énergie, on varie les manières d’envoyer, recevoir, on accélère et on voit se qui se passe.
+On s’envoie une balle virtuelle avec énergie, on varie les manières d’envoyer, recevoir, on accélère et on voit ce qui se passe.
 
 _Date de création : 2021-09-07T20:00:00_
 
@@ -185,7 +185,7 @@ Dans l’ordre du cercle, on appelle le suivant :
 - 2: "trois"
 - ...
 
-Puis on demande un numéro au hasard, le comédien doit se reconnaitre et appeler un autre numéro ...
+Puis, on demande un numéro au hasard, le comédien doit se reconnaitre et appeler un autre numéro ...
 
 _Date de création : 2021-11-30T20:00:00_
 
@@ -227,7 +227,7 @@ Tout le monde marche et se croise. Sur rencontre, l’un annonce une généralit
 Exemple :
 - Je t’aime bien.
 - Tu m’aimes bien parce que je suis riche
-- Je t’aime bien parce que tu es riche et en plus t’es canon !
+- Je t’aime bien parce que tu es riche, et en plus, t’es canon !
 
 _Date de création : 2022-02-15T20:00:00_
 
@@ -240,13 +240,13 @@ _Date de création : 2021-10-26T20:00:00_
 
 ## 7 nuances de rencontres
 On marche librement dans la pièce.
-- A l’état 1, nous sommes tous des inconnus, on ne s’ignore pas, mais on se jette un regard furtif, comme dans la vraie vie.
-- A l’état 2, nous nous connaissons vaguement, genre voisins, ou collègues éloignés.
-- A l’état 3, nous nous connaissons, on peut commencer à avoir un contact physique bref, on se touche le bras, l’épaule.
-- A l’état 4, nous nous connaissons très bien, l’échange physique peut se prolonger un peu.
-- A l’état 5, nous nous aimons, nous avons une réelle affection.
-- A l’état 6, nous nous aimons beaucoup, nous nous sommes manqués, de belles marques d’affection profonde.
-- A l’état 7, nous nous aimons éperdument, et ça fait longtemps que nous ne nous sommes pas vus.
+- À l’état 1, nous sommes tous des inconnus, on ne s’ignore pas, mais on se jette un regard furtif, comme dans la vraie vie.
+- À l’état 2, nous nous connaissons vaguement, genre des voisins, ou des collègues éloignés.
+- À l’état 3, nous nous connaissons, on peut commencer à avoir un contact physique bref, on se touche le bras, l’épaule.
+- À l’état 4, nous nous connaissons très bien, l’échange physique peut se prolonger un peu.
+- À l’état 5, nous nous aimons, nous avons une réelle affection.
+- À l’état 6, nous nous aimons beaucoup, nous nous sommes manqués, de belles marques d’affection profonde.
+- À l’état 7, nous nous aimons éperdument, et ça fait longtemps que nous ne nous sommes pas vus.
 
 → Travail du corps, du toucher, de nos réticences de comédiens à entrer dans la sphère intime de l’autre.
 
@@ -263,7 +263,7 @@ Variante 2 : Le même, mais très lentement, le corps doit être mobilisé, on p
 
 Variante 3 : Le même, toujours très lentement, on ne se lâche pas du regard, tout se passe en vision périphérique.
 
-→ Méga-efficace pour entrer en énergie, çà décoiffe, ça tend, ça détend, c’est très drôle !
+→ Méga-efficace pour entrer en énergie, ça décoiffe, ça tend, ça détend, c’est très drôle !
 
 _Date de création : 2022-02-08T20:00:00_
 
@@ -281,12 +281,12 @@ _Date de création : 2022-02-15T20:00:00_
 ## 7 niveaux d’intensité
 Passage par les 7 états de tension. On marche librement dans la pièce, on suit les niveaux de tensions suivants:
 
-1. Vous êtes épuisé, vous n’avez aucune envie d’être là. Vous faites votre travail en économisant votre énergie au maximum. Chaque mouvement est difficile
-2. Maintenant vous êtes décontracté, on ne sent aucun enjeu dans ce travail. Vous le faites car vous devez le faire, n’y mettez aucun cœur
+1. Vous êtes épuisé, vous n’avez aucune envie d’être là. Vous faites votre travail en économisant votre énergie au maximum. Chaque mouvement est difficile.
+2. Maintenant vous êtes décontracté, on ne sent aucun enjeu dans ce travail. Vous le faites car vous devez le faire, n’y mettez aucun cœur.
 3. Maintenant vous êtes technicien, vous faites votre travail comme demandé. Ni plus ni moins. Le travail est bien fait.
 4. Maintenant vous avez un enjeu dans votre travail, vous voulez qu’il soit parfait. Vous êtes efficace ! Les clients défilent, vous savez exactement ce que vous avez à faire et c’est bien fait !
-5. C’est la veille de Noël. Il y a beaucoup de clients qui attendent leurs colis, vous n’arrivez plus à fournir. Vous faites votre maximum pour satisfaire tout le monde mais des clients commencent à être mécontent ! Il ne reste que 20min avant la fermeture, vous devez aller vite !!!!!
-6. 2min avant la fermeture vous n’aurez jamais le temps de satisfaire tout le monde. Les clients s’énervent contre vous, leurs enfants n’auront rien sous le sapin par votre faute !!!!
+5. C’est la veille de Noël. Il y a beaucoup de clients qui attendent leurs colis, vous n’arrivez plus à fournir. Vous faites votre maximum pour satisfaire tout le monde, mais des clients commencent à être mécontent ! Il ne reste que 20min avant la fermeture, vous devez aller vite !!!!!
+6. 2 min avant la fermeture, vous n’aurez jamais le temps de satisfaire tout le monde. Les clients s’énervent contre vous, leurs enfants n’auront rien sous le sapin par votre faute !!!!
 7. Vous avez échoué ! Des enfants n’auront pas de cadeau et tout est de votre faute !!!!
 
 _Date de création : 2021-09-07T20:00:00_
@@ -325,7 +325,7 @@ Ce choix ne change plus une fois assis, puis, en prenant son temps, on entame un
 _Date de création : 2021-11-30T20:00:00_
 
 ## Un duo, 4 répliques du metteur en scène
-1- Scène libre, mais avec un texte fourni par le metteur en scène (appris par coeur).
+1- Scène libre, mais avec un texte fourni par le metteur en scène (appris par cœur).
 On cherche ici à incarner le texte, écrit avec une certaine intention par le metteur en scène et que l’on doit deviner.
 
 2- Variante : une fois tout cela fait, on laisse la scène se dérouler librement.
@@ -344,7 +344,7 @@ Pendant cette première scène, le duo 2 entre sur partie droite, sans parler. Q
 
 Le duo 1 reste sur scène et sans parole continue de jouer de façon minimaliste puis sort.
 
-Le duo 3 entre sur partie gauche etc.
+Le duo 3 entre sur partie gauche, etc.
 
 Règles : 
 - Les personnages se connaissent (famille, collègues de travail, groupe d’amis……)
@@ -366,7 +366,7 @@ _Date de création : 2022-03-25T20:00:00_
 ## Synchro chorégraphie
 En groupe, quelqu’un propose une chorégraphie, le groupe la suit, puis quelqu’un propose autre chose, et le groupe s’adapte, on s’écoute, ...
 
-Puis, un acteur se détache du groupe, va en face, donne un geste et une émotion. Le groupe le rejoint, et reprend geste + émotions. Puis reprise de la chorégraphie.
+Puis, un acteur se détache du groupe, va en face, donne un geste et une émotion. Le groupe le rejoint, et reprend geste + émotions. Ensuite, reprise de la chorégraphie.
 
 On se laisse happer par la musique, le moment présent, l'adhésion au groupe.
 
@@ -384,7 +384,7 @@ Tu places ton visage face à ma main, et tu dois respecter la distance et l’or
 
 _Date de création : 2022-03-25T20:00:00_
 
-## La feuille vaudou
+## La feuille "vaudou"
 Je prends une feuille A4 symbolisant ton corps.
 
 J’en fais ce que j’en veux, je la pivote, la plie, la fait évoluer dans l’espace, et tu suis ... au mieux. Attention, je vais la froisser ;)
@@ -394,9 +394,9 @@ _Date de création : 2022-03-25T20:00:00_
 ## La statue vivante
 Je modèle ton corps à ma guise, élément par élément.
 
-Puis je te donne vie d’une impulsion dans le dos, tu prends vie, tu évolues dans l’espace avec ce que je t’ai donné, tu peux ajouter des sons, croiser tes congénères ... qu’est ce que ça te fait ?
+Puis je te donne vie d’une impulsion dans le dos, tu prends vie, tu évolues dans l’espace avec ce que je t’ai donné, tu peux ajouter des sons, croiser tes congénères ... qu’est-ce que ça te fait ?
 
-Puis, quand tu as compris cette émotion , tu vas la pousser , ainsi que le geste au max d’intensité.
+Puis, quand tu as compris cette émotion, tu vas la pousser, ainsi que le geste au max d’intensité.
 
 _Date de création : 2022-03-25T20:00:00_
 
@@ -410,7 +410,7 @@ _Date de création : 2022-03-25T20:00:00_
 ## Les chimères
 Tu marches dans l’espace, tu penses à un animal, commence à l’incarner physiquement, quels sont ses caractéristiques, son caractère, ses interactions avec les autres.
 
-Puis tu reprends forme humaine, mais en gardant certaines des caractéristiques découvertes. Rencontre les autres chimères, et vois ce que ça te fait.
+Puis, tu reprends forme humaine, mais en gardant certaines des caractéristiques découvertes. Rencontre les autres chimères, et vois ce que ça te fait.
 
 _Date de création : 2022-03-25T20:00:00_
 
@@ -427,26 +427,26 @@ Celui du milieu commence une action, celui de gauche imite l’action en minimis
 _Date de création : 2022-03-25T20:00:00_
 
 ## Réincorporation et association
-Une histoire s’écrit grâce à la réincorporation. Tant que je raconte des évènements qui se suivent, mon histoire n’est pas finie ou alors elle pourrait se finir n’importe où. Avec la réincorporation, je peux « boucler la boucle ».
+Une histoire s’écrit grâce à la réincorporation. Tant que je raconte des évènements qui se suivent, mon histoire n’est pas finie ou alors, elle pourrait se finir n’importe où. Avec la réincorporation, je peux « boucler la boucle ».
 
-Il s’agit de marcher à reculons : je sais d’où je viens, et l’histoire peut mener n’importe où : c’est l’association libre d’idée successive. Cependant, pour équilibrer a mon histoire au fur et à mesure , il me faut lui donner une forme . Pour ça , je peux utiliser des éléments laissés de côté et les réintégrer. 
+Il s’agit de marcher à reculons : je sais d’où je viens, et l’histoire peut mener n’importe où : c’est l’association libre d’idée successive. Cependant, pour équilibrer à mon histoire au fur et à mesure, il me faut lui donner une forme. Pour ça, je peux utiliser des éléments laissés de côté et les réintégrer. 
 
 Exercice de réincorporation :
 - Paire d’acteurs A et B.
 - L’acteur A raconte une histoire pendant 30 secs en fournissant des éléments déconnectés les uns des autres (= association d’idée libre). Puis l’acteur B termine l’histoire en 30 secs, son rôle est de reconnecter les éléments d’une manière ou d’une autre (= réincorporation, on boucle la boucle). 
 
-Exemple:
+Exemple :
 - A: C’était une froide nuit d’hiver. Les loups hurlaient dans la forêt. Le pianiste remonta ses manches et commença à jouer. Une vieille femme déblayait la neige devant sa porte…
-- B: Quand elle entendit le piano, la vieille femme commença à déblayer à une vitesse fantastique. Quand elle atteignit la salle de concert elle s’écria : « ce pianiste et mon fils ! ». Les loups apparurent à la fenêtre, et le pianiste bondit sur le piano. Une fourrure épaisse poussait sous ses vêtements.
+- B: Quand elle entendit le piano, la vieille femme commença à déblayer à une vitesse fantastique. Quand elle atteignit la salle de concert, elle s’écria : « ce pianiste et mon fils ! ». Les loups apparurent à la fenêtre, et le pianiste bondit sur le piano. Une fourrure épaisse poussait sous ses vêtements.
 
 _Date de création : 2022-02-15T20:00:00_
 
 ## L’écriture automatique
-Utiliser la capacité d’intelligence collective qui dit que : « il y a en nous quelque chose de plus que nous ». Se laisser aller à ce que on ressent sur le moment, ce qui vient, ce qui sort, sans vouloir contrôler le déroulement de l’histoire à tout prix.  Car cette volonté de contrôle/ d’anticipation  ruinera notre capacité d’écoute et de créativité. 
+Utiliser la capacité d’intelligence collective qui dit que : « il y a en nous quelque chose de plus que nous ». Se laisser aller à ce que l'on ressent sur le moment, ce qui vient, ce qui sort, sans vouloir contrôler le déroulement de l’histoire à tout prix. Car cette volonté de contrôle/ d’anticipation ruinera notre capacité d’écoute et de créativité. 
 
 Exercice sur l’écriture automatique :
 
-Se mettre en cercle, et raconter une histoire le plus vite possible. Chaque participant donne un mot. Le premier qui bloque est exclu du cercle. Il est possible de corser le jeu en demandant à celui qui parle de désigner le suivant, diminuant ainsi la capacité d’anticipation. Oblige à accepter l’idée de l’autre même si c’est pas ce que j’avais en tête.
+Se mettre en cercle, et raconter une histoire le plus vite possible. Chaque participant donne un mot. Le premier qui bloque est exclu du cercle. Il est possible de corser le jeu en demandant à celui qui parle de désigner le suivant, diminuant ainsi la capacité d’anticipation. Oblige à accepter l’idée de l’autre même si ce n’est pas ce que j’avais en tête.
 
 Exemple : 
 - « Nous » (sommes partis en promenade)
@@ -511,7 +511,7 @@ _Date de création : 2022-04-12T20:00:00_
 ## Mise en présence
 En cercle, pieds au sol, alignés avec l’écartement du bassin. On ferme les yeux, on prend conscience des points d’appuis, des zônes de blocage, on se met bien ...
 
-Puis on commence à basculer, en avant, en arrière, sur le côté ... ce n’est pas juste le bassin qui se déplace mais tout le corps.
+Puis, on commence à basculer, en avant, en arrière, sur le côté ... ce n’est pas juste le bassin qui se déplace mais tout le corps.
 
 On fait des U, à la limite du décollement des pieds, on synchronise sur notre respiration.
 
@@ -526,7 +526,7 @@ En cercle, passage de témoin en énergie, à son voisin immédiat.
 - "Turulutte" (en mimant avec les mains un geste de saut périlleux) = on "saute" son voisin et le tour reprend au second voisin.
 - "Hold-on" (en faisait "YES !" avec les bras) = je choisis qq’un dans le cercle et permute avec lui. Le tour reprend à moi.
 - Petite musique (avec les deux indexs en l’air) = tout le monde se met à chanter la petite musique et chamboule tout le cercle. On reforme rapidement un nouveau cercle.
-- "Grille-pain" (en pointant un joueur) : les 2 voisins du joueurs forment une barrière de leur bras devant/derrière le joueur (c’est le grille-pain) et le joueur saute verticalement entre les barrières (c’est la tartine).
+- "Grille-pain" (en pointant un joueur) : les 2 voisins du joueur forment une barrière de leur bras devant/derrière le joueur (c’est le grille-pain) et le joueur saute verticalement entre les barrières (c’est la tartine).
 
 _Date de création : 2022-05-03T20:00:00_
 
@@ -1195,17 +1195,17 @@ _Date de création : 2023-12-19T20:00:00_
 
 En musique, un premier comédien commence à faire une proposition “dansée” (ou “gesticulée”). Il est rejoint par un autre comédien qui soutient la proposition.
 
-Les comédiens entrent et sortent, le plateau de doit jamais être vide.
+Les comédiens entrent et sortent, le plateau ne doit jamais être vide.
 
-Deux propositions différentes simultanées maximum !
+Deux propositions différentes simultanées au maximum !
 
-Les propositions peuvent être adaptées (amplitude différente, position fixe, rythme différent, etc …)
+Les propositions peuvent être adaptées (amplitude différente, position fixe, rythme différent, etc.)
 
 Puis, on installe 4 objets physiques (chaise, poubelle, caisse, cabas, chaîne de cadenas …) sur la scène.
 
 Les comédiens peuvent interagir avec les objets, danser avec, les déplacer.
 
-Au bout d’un moment on supprime les objets, uns à uns.
+Au bout d’un moment on supprime les objets, un à un.
 
 Les comédiens continuent avec les objets “virtuels” et doivent être vigilants aux déplacements de ces objets virtuels.
 
@@ -1246,7 +1246,7 @@ _Date de création : 2024-02-20T20:00:00_
 ## Cercle des massages
 En cercle, un comédien A s'avance vers un autre comédien B, s'arrête en sphère sociale puis s'approche en sphère intime.
 
-Les 2 comédiens pivotent en se regardant de manière à ce que A prenne la place de B (et respectivement B la place de A).
+Les 2 comédiens pivotent en se regardant afin que A prenne la place de B (et respectivement B la place de A).
 
 B se retourne alors, et A va lui prodiguer un court massage, puis y mettre fin.
 
@@ -1274,7 +1274,7 @@ _Date de création : 2024-02-20T20:00:00_
 Exemples :
 - Chez le coiffeur, 5 mois à vivre
 - Sur le quai, les retrouvailles
-- Avion, frère et soeur, vous ne vous supportez pas, annonce d’un crash
+- Avion, frère et sœur, vous ne vous supportez pas, annonce d’un crash
 
 Outils du directeur :
 - "Répétez 3 fois"
@@ -1282,7 +1282,7 @@ Outils du directeur :
 - "Fais un choix !" (fort)
 - "Silence, regardez-vous dans les yeux"
 - "Respire !", revenir à la respiration nous remet dans le corps
-- “Occupe tes mains !” = faire une action simple (se servir un verre d’eau, couper du pain, se regarder dans le miroir, se recoiffer, etc …) → se remettre dans le corps nous redonne du jeu
+- “Occupe tes mains !” = faire une action simple (se servir un verre d’eau, couper du pain, se regarder dans le miroir, se recoiffer, etc.) → se remettre dans le corps nous redonne du jeu
 - “Dis-lui une vérité !” (presque comme "Faire un choix")
 - "Qu’est-ce que ça te fait ?" → Prendre le temps de l’impact émotionnel, se demander ce que ça remue en nous.
 
@@ -1298,7 +1298,7 @@ Il est cool de commencer en musique, sans parole, et de finir en musique, toujou
 _Date de création : 2024-02-20T20:00:00_
 
 ## Échauffement en musique dans le noir
-On commence dans notre bulle, on se laisse imprégner par la musique, on infuse, ensuite on commence à copier des petites choses vues chez les copaines, on peut interagir avec les corps, se “frotter” en restant à l'écoute des signaux renvoyés par ses partenaires.
+On commence dans notre bulle, on se laisse imprégner par la musique, on infuse, ensuite, on commence à copier des petites choses vues chez les copaines, on peut interagir avec les corps, se “frotter” en restant à l'écoute des signaux renvoyés par ses partenaires.
 
 _Date de création : 2024-02-27T20:00:00_
 

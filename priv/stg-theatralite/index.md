@@ -146,7 +146,14 @@ Tips de réussite :
   Exemple : La bouée canard dans la valise peut préciser et enrichir la relation entre les personnages.
   Et amener un souvenir, de la nostalgie, etc.
 
+
 ## Exercice "Les retrouvailles"
+N comédiens.
+Le contexte ainsi que les relations sont données par le public.
+Exemple : "Des membres d'une famille se retrouvent à un enterrement".
+
+Une scène commence, puis à un moment donné, un comédien va dire "J'ai quelque chose à vous dire !" et va annoncer quelque chose d'important.
+Penser à la théâtralité de la scène.
 
 
 ## Recettes en vrac

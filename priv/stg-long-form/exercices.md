@@ -135,15 +135,15 @@ Le joueur A débute une histoire :
 - Tu te souviens quand nous étions en canoë … _<Il est coupé par B>_
 - … dans les gorges du Verdon, on était en camp scout … _<A coupe>_
 - … tu t'étais renversé dans les rapides … <B coupe>
-- … l’angoisse, Céline avait sauté à l’eau pour me chercher …<A coupe>
+- … l'angoisse, Céline avait sauté à l'eau pour me chercher …<A coupe>
 
 On raconte une histoire en “sautant dans le vide”, on commence une phrase sans savoir comment elle va finir …
 
-En jeu, on l’intègre (en affirmation, pas en question) :
+En jeu, on l'intègre (en affirmation, pas en question) :
 ”Ça me rappelle la fois où nous étions en canoë …”
 Plutôt que “Tu te souviens ?” qui peut être refusé par le partenaire.
 
-En ping-pong, on va faire avancer l’histoire et les enjeux.
+En ping-pong, on va faire avancer l'histoire et les enjeux.
 
 ## Fusion d'exercices
 

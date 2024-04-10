@@ -39,11 +39,11 @@ A se fige alors, se laisse impacter par cet abandon, en regardant B s'éloigner.
 A peut changer d'intention et de rythme, et B va devoir s'adapter.
 
 ## Into the jungle
-Un leader + 2 à 3 suiveurs forment un ‘groupe’. Autant de groupes que le permet le collectif.
-Les groupes progressent dans la jungle. Le leader est le premier de la file indienne. Le leader découvre son environnement, et place les obstacles dans le décor. Ici des branches légères que l’on écarte, là un tronc que l’on enjambe, ici une rivière à traverser. Chaque élément est posé avec précision. Il faut que les suiveurs visualisent tous les obstacles pour les franchir exactement comme le leader, à sa suite.
+Un leader + 2 à 3 suiveurs forment un ‘groupe'. Autant de groupes que le permet le collectif.
+Les groupes progressent dans la jungle. Le leader est le premier de la file indienne. Le leader découvre son environnement, et place les obstacles dans le décor. Ici des branches légères que l'on écarte, là un tronc que l'on enjambe, ici une rivière à traverser. Chaque élément est posé avec précision. Il faut que les suiveurs visualisent tous les obstacles pour les franchir exactement comme le leader, à sa suite.
 On ne parle pas.
 On peut faire un bruit pour exprimer un effort (han, heu, hin), une douleur (aïe, sssshh), une consigne (chuuutt, attention).
-On peut également faire des bruits de jungle (cris d’animaux, insectes, …)
+On peut également faire des bruits de jungle (cris d'animaux, insectes, …)
 
 Musique de jungle : https://www.youtube.com/watch?v=syeatzfzYuE
 
@@ -57,7 +57,7 @@ Les propositions peuvent être adaptées (amplitude différente, position fixe, 
 
 Puis on installe 4 objets physiques (chaise, poubelle, caisse, cabas, chaîne de cadenas …) sur la scène.
 Les comédiens peuvent interagir avec les objets, danser avec, les déplacer.
-Au bout d’un moment on supprime les objets, uns à uns.
+Au bout d'un moment on supprime les objets, uns à uns.
 Les comédiens continuent avec les objets “virtuels” et doivent être vigilants aux déplacements de ces objets virtuels.
 Pensons à nous amuser : Cela devient intéressant pour le public dès lors que l'on prend plaisir.
 
@@ -160,7 +160,7 @@ Au bout d'un moment, on peut également composer : "Vous êtes guidés par votre
 
 ## Les losanges du taïchi
 Un leader, 3 suiveurs, en musique.
-Les 4 comédiens se placent en losange, un leader débute un mouvement lent d’une sorte de taïchi, relayés par les 3 autres.
+Les 4 comédiens se placent en losange, un leader débute un mouvement lent d'une sorte de taïchi, relayés par les 3 autres.
 
 Après un certain temps, le leader se tourne vers une personne et donne le lead. Ça doit se faire en douceur, de manière fluide.
 On peut accélérer la musique, pour changer le rythme, et accélérer les mouvements.

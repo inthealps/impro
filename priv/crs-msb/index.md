@@ -38,6 +38,12 @@ Dans un duo, le comédien A doit poursuivre le comédien B, et B doit partir dè
 A se fige alors, se laisse impacter par cet abandon, en regardant B s'éloigner. B va s'arrêter à nouveau, A va le poursuivre, etc.
 A peut changer d'intention et de rythme, et B va devoir s'adapter.
 
+## Tableaux "Sphères intimes"
+4/5 comédiens sur scène.
+En musique, et tout à tour, les comédiens vont venir s'insérer dans la sphère intime d'un autre comédien.
+Une jambe, un bras, une main ... on se place, dans un mouvement, puis on bloque la position. Ces mélanges vont former un tableau éphémère.
+En fluidité, en douceur, en respectant l'intimité de l'autre.
+
 ## Into the jungle
 Un leader + 2 à 3 suiveurs forment un ‘groupe'. Autant de groupes que le permet le collectif.
 Les groupes progressent dans la jungle. Le leader est le premier de la file indienne. Le leader découvre son environnement, et place les obstacles dans le décor. Ici des branches légères que l'on écarte, là un tronc que l'on enjambe, ici une rivière à traverser. Chaque élément est posé avec précision. Il faut que les suiveurs visualisent tous les obstacles pour les franchir exactement comme le leader, à sa suite.
@@ -186,6 +192,11 @@ Le public va assister à un tableau varié.
 Tips de réussite :
 - Oublier l'esthétique de votre corps, choisir des segments de corps que l'on anime, en cherchant à vivre l'émotion.
 
+## Les monstres de la laideur
+5 comédiens.
+Un leader s'avance, et commence à se déformer, à se laisser envahir par la laideur.
+Il émet des bruits, des cris, des grognements, des râles.
+C'est le signal pour que les 4 autres comédiens (des "cellules" de monstre) viennent le rejoindre, s'animent pour former une "silhouette" qui va commencer à avancer vers le public.
 
 # Jeu scénique
 
@@ -338,6 +349,41 @@ Tips de réussite :
 - Les composeurs ne doivent pas prendre le focus, ils doivent être là pour soutenir l'émotion, et non pour la voler.
 
 → Effet huge quand c'est réussi !!
+
+## Composition "Silhouettes"
+5 comédiens (leader P1, et 4 composeurs A, B, C et Q), environ 5mn
+P1 est en avant-scène, face public. P1 entame un monologue censé le présenter, et donner des éléments sur sa personnalité.
+P1 : "Je suis Lisa, 45 ans, je suis professeur de danse, ..." et enchaine sans s'arrêter. Le flot de parole doit être continu.
+A va s'avancer et prendre une position, une silhouette, censée représenter une "force" ou un "creux" de P1.
+B, C et Q vont enchainer de même.
+P1 va alors s'approcher de chaque silhouette, et va les toucher pour les "activer".
+La silhouette va alors dévoiler sa force ou son creux, en les verbalisant : "Je suis perfectionniste, j'aime passer des heures à peaufiner mes chorégraphies" ...
+Q (activé en dernier) va s'avancer en avant-scène et dévoiler la quête de P1 : "Je rêve de visiter l'Australie, j'ai ce rêve depuis toute petite ...".
+
+P1 va alors revenir devant Q et A, B, C et Q vont s'animer autour de P1 en murmurant des petits bouts des phrases de leur discours "... à peaufiner mes chorégraphies ...", "... j'ai peur des araignées ...", "... visiter l'Australie et voir des koalas ...".
+Pour finir, P1 va résumer la composition "Bref, je suis Lisa, j'ai 45 ans, et c'est décidé, je vais partir en Australie".
+
+## Composition "Décisions"
+5 comédiens (P1 et P2, et 3 décisionnaires A, B et C), environ 5mn
+P1 et P2 débutent une scène, face à face, en neutre.
+Interdit d'inventer, on doit jouer ce qui est là, en repérant les signaux faibles chez l'autre.
+La scène va se jouer jusqu'à ce que P1 ou P2 soit mis devant une décision.
+(Ex, P1 : "Tu veux que je reste ou que je parte ?")
+
+A, B et C vont alors s'avancer sur le plateau et prendre une position, avec une émotion, censée représenter une réaction émotionnelle.
+P2 va parcourir les propositions des décisionnaires, en les inspectant, puis va en choisir un, clairement (afin d'indiquer aux autres, et au public, qu'il a fait son choix).  
+Les décisionnaires non choisis retournent en réserve.
+P2 va alors activer (en le touchant) le décisionnaire, qui va alors jouer la prise de décision (comme s'il était face à P1).
+Une fois effectué, P2 retourne face à P1 et on continue la scène.
+
+On peut faire appel une 2e fois aux décisionnaires.
+(voire, ce sont les décisionnaires qui viennent s'incruster dans la scène pour imposer une prise de décision)
+
+Tips de réussite :
+- Les décisionnaires doivent être attentifs à mettre de l'enjeu.
+- Les silhouettes doivent être précises, et refléter la prise de décision.
+- La fluidité est la clé de la réussite.
+- Ca fonctionne si on se laisse impacter par les émotions, et que l'on croit à ce qui est joué.
 
 
 # Outils

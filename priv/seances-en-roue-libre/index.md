@@ -878,7 +878,7 @@ On alterne narrateur/scénographe
 _Date de création : 2022-10-25T20:00:00_
 
 ## Les samouraïs
-Un.e samouraï S1 en attaque un.e autre (S2, en poussant un cri de samouraï).
+Un.e samouraï S1 en attaque un.e autre (S2), en poussant un cri de samouraï).
 
 Ce.tte dernier.e pare le coup en levant son sabre et faisant "chtink'" …
 
@@ -888,16 +888,27 @@ Les 2 samouraïs situé.e.s à gauche et à droite de S2 le/la tranchent au nive
 
 _Date de création : 2022-12-13T20:00:00_
 
+## Les samouraïs-raïs
+Un.e samouraï S1 en attaque un.e autre (S2), en poussant un cri de samouraï).
+
+Ce.tte dernier.e pare le coup en levant son sabre et faisant "chtink'" …
+
+Les 4 (oui, quatre !) samouraïs encadrant S2 le/la tranchent au niveau de l'abdomen en poussant un cri simultané.
+
+Ça doit être fluide, sonore et synchronisé.
+
+_Date de création : 2024-04-10T20:00:00_
+
 ## Bang bang, my lady shot me down
 Un.e comédien.ne au centre.
 
-Il/elle nomme une personne et lui tire dessus: "Machin.e, bang !"
+Il/elle nomme une personne et lui tire dessus : "Machin.e, bang !"
 
-Machin.e se baisse pour éviter le tir, les personnes l'entourant lèvent le/la tue en criant Bang.
+Machin.e se baisse pour éviter le tir, les personnes l'entourant le/la tue en criant Bang.
 
 On continue ainsi jusqu'à erreur, le/la comédien.ne qui se trompe passe au centre.
 
-Idem, fluide, sonore et synchronisé.
+Ça doit être fluide, sonore et synchronisé.
 
 _Date de création : 2022-12-13T20:00:00_
 

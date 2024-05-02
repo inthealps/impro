@@ -1337,3 +1337,69 @@ Tips de réussite :
 - Varier la position au plateau (occupation de l'espace)
 
 _Date de création : 2024-03-19T20:00:00_
+
+
+## Passage énergie en clap synchro
+
+En cercle, un premier comédien A cherche la connexion regard avec un autre comédien B, et ils doivent claper des mains ensemble. B cherche alors la connexion regard avec C, et clapent ensemble, etc.
+
+L’idée est de faire ça en rythme, sans interruption, sans se flageller quand on rate, sans ‘sortir du jeu’ … si erreur, on reprend en rythme, sans souligner l’erreur. Exactement comme sur scène, on ne va pas souligner nos erreurs, les dénoncer, on va les intégrer dans la scène.
+_Date de création : 2024-04-30T20:00:00_
+
+## Cercle des adieux
+En cercle, un comédien A cherche la connexion regard avec un autre comédien B, puis s'avance vers lui, et s'arrête en sphère sociale. Puis s'approche en sphère intime.
+
+Les 2 comédiens pivotent alors, en se regardant afin que A prenne la place de B (et respectivement B la place de A).
+
+Ils se regardent alors, et se disent 'Adieu' de la manière qu'ils le souhaitent (avec un geste, une parole, un regard, un sourire, une embrassade …).
+
+B cherche alors du regard un comédien C …
+
+L'animateur peut toucher le dos d'un autre comédien pour déclencher une seconde source, puis une troisième, etc.
+_Date de création : 2024-04-30T20:00:00_
+
+## Les statues de glace
+En binôme, un comédien debout s'ancre en neutre et ferme les yeux. Il symbolise une statue de glace, un bonhomme de neige.
+Petit à petit, il va commencer à fondre, à s'affaisser, à se ramollir.
+Le second comédien est là pour redonner des touches de froid, pour le maintenir en vie, pour le soutenir.
+Il va toucher des parties du corps de la statue, qui au contact du froid va se relever en mobilisant les parties touchées ...
+Il ne faut pas aller trop vite. Prendre le temps de fondre et laisser fondre, sans que les positions ne deviennent inconfortables pour la statue.
+
+_Date de création : 2024-04-30T20:00:00_
+
+## Mémoire émotionnelle (Stanislavski)
+En binôme, un comédien va fermer les yeux et se projeter dans une situation passée, réelle, qui lui a procuré une émotion forte.
+Il va se remémorer cette situation, et la revivre, en laissant l'émotion le submerger.
+Le second comédien est là pour aider à se réinstaller dans ce souvenir, par le biais de questions : "Le ciel était de quelle couleur ?", "Quelle était la température ?", "Quelle heure était-il ?", "Quelle était la première chose que tu as vue ?" ...
+
+Il ne s'agit pas de 'jouer' une émotion, mais bien de la revivre.
+
+Attention à se protéger, on a toujours la possibilité de sortir de la scène si l'émotion est trop forte.
+L'idée est de se reconnecter à une émotion, pas de se faire du mal. Droit de retrait primordial sur cet exercice.
+
+Idem en scène : si l'émotion est trop forte, on peut sortir de la scène, en précipiter la fin, changer de sujet.
+C'est vraiment une responsabilité personnelle de se protéger. Il est difficile pour un partenaire de savoir si on est toujours en contrôle ou si on a 'basculé' de l'autre côté, 
+
+On peut le faire en musique.
+Une fois qu'on a vécu l'émotion, on se reconnecte au présent en ouvrant les yeux, et on garde notre état émotionnel.
+
+À faire régulièrement, avec différentes émotions, afin de pouvoir, à terme, les convoquer à volonté en scène.
+_Date de création : 2024-04-30T20:00:00_
+
+## Coloration/décoloration (en 10 pas)
+Stanislavski : "Coloration émotionnelle"
+Alignés en fond de scène, en neutres (= niveau émotion 0), les comédiens s'avancent en se colorant à chaque pas, jusqu'à arriver en avant-scène (niveau émotion 10).
+Prendre le temps.
+Stanislavski demande de faire appel à sa mémoire émotionnelle, on revit un événement joyeux, triste. Comment étions-nous alors ?
+Lee Strasberg : il pense que l'acteur doit créer son personnage par sa mémoire affective et ses ressources émotives.
+Il dit qu'on doit se projeter dans l'émotion par une sensation :
+Sensation → odeur du café
+Projection → bien-être
+Emotion → joie
+
+Variantes : On peut incarner une émotion de notre choix, ou une émotion dictée par le coach.
+
+Tips de réussite :
+- On recherche le jeu sincère, pas de surjeu ni de caricature
+- Ne pas donner à VOIR mais à RESSENTIR → on vit les choses
+_Date de création : 2024-04-30T20:00:00_

@@ -98,7 +98,14 @@ On doit être précis dans le positionnement de ces objets, le public doit les v
 On doit ensuite être précis dans leur utilisation.
 
 ## Cercle des massages
-En cercle, un comédien A s'avance vers un autre comédien B, s'arrête en sphère sociale puis s'approche en sphère intime. Les 2 comédiens pivotent en se regardant de manière à ce que A prenne la place de B (et respectivement B la place de A). B se retourne alors, et A va lui prodiguer un court massage, puis y mettre fin. B cherche alors du regard un comédien C ...
+En cercle, un comédien A s'avance vers un autre comédien B, s'arrête en sphère sociale puis s'approche en sphère intime.
+
+Les 2 comédiens pivotent en se regardant afin que A prenne la place de B (et respectivement B la place de A).
+
+B se retourne alors, et A va lui prodiguer un court massage, puis y mettre fin.
+
+B cherche alors du regard un comédien C …
+
 L'animateur peut toucher le dos d'un autre comédien pour déclencher une seconde source de massage, puis une troisième, etc.
 
 ## Les aveugles
@@ -461,7 +468,7 @@ Les monologues doivent être suffisamment clairs pour que les autres comédiens 
 
 ### Solo
 Apporte de l'information sur l'état interne du personnage.
-On ne parle pas de tiers, ou d'un objet, on rapport toujours à ce que nous vivons intérieurement.
+On ne parle pas de tiers, ou d'un objet, on rapporte toujours à ce que nous vivons intérieurement.
 
 ### Aparté
 Un personnage se met en aparté (i.e. s'écarte), et casse le quatrième mur en s'adressant au public à voix haute sur ce qu'il pense, ressent, imagine, etc.

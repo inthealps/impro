@@ -85,19 +85,22 @@ Tips de réussite :
 ## “Yuri” (traversée en musique)
 N joueurs
 
-En musique, un premier comédien commence à faire une proposition “dansée” (ou “gesticulée”). Il est rejoint par un autre comédien qui soutient la proposition.
+En musique, un premier comédien commence à faire une proposition “dansée” (ou “gesticulée”).
+Il est rejoint par un autre comédien qui soutient la proposition.
 Les comédiens entrent et sortent, le plateau ne doit jamais être vide.
 Attention à ne pas trop superposer : Deux propositions différentes simultanées au maximum !
 Les propositions peuvent être adaptées (amplitude différente, position fixe, rythme différent, etc.)
 
 Tips de réussite :
+- On se laisse porter par la musique, "tout est déjà là !".
 - Pensons à nous amuser : Cela devient intéressant pour le public dès lors que l'on prend plaisir.
 - Ça fonctionne lorsque les propositions sont tenues (i.e. "pas lâchées trop rapidement").
 - De la même manière, prendre conscience de ses visuels, et les tenir !
 - Penser à se mettre dans le public pour voir ce que ça donne. S'exercer à être public, pour s'entraîner à s'auto-regarder de l'intérieur de la scène.
 - Pas de plateau vide.
-- Variété des rythmes.
+- Variété des rythmes, des propositions.
 - La symétrie fait du bien. On a l'impression que ça a été travaillé, que c'est réfléchi.
+- On entre en personnage, on sort en personnage. On le tient jusqu'au bout, le comédien ne ressort pas avant la coulisse !
 
 Le Yuri est vraiment un condensé de tout ce qu'on peut travailler en impro : le rapport à la proposition, la connexion aux autres, le lâcher-prise, l'ancrage, le rythme, l'occupation de l'espace scénique, ...
 Penser à ça dans nos scènes d'impro, à visualiser le plateau.

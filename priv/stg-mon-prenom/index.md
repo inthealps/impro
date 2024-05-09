@@ -75,9 +75,9 @@ Lorsque les deux sont chargés, ils se regardent (se connectent), la musique s'a
 
 Tips de réussite :
 - On est sur du jeu relationnel
-- On se connait ("depuis au moins 6 mois" -> on est déjà intimes, pas besoin de faire monter cette intimité)
+- On se connait ("depuis au moins 6 mois" → on est déjà intimes, pas besoin de faire monter cette intimité)
 - On est dans l'émotionnel, on prend le temps de ressentir
-- "Tout est déjà là" -> on repère les signaux faibles, on les utilise (Le partenaire a les yeux qui brillent, il est heureux de me voir. Il hoche la tête, il est d'accord. Etc.) 
+- "Tout est déjà là" → on repère les signaux faibles, on les utilise (Le partenaire a les yeux qui brillent, il est heureux de me voir. Il hoche la tête, il est d'accord. Etc.) 
 - Side-coaching : un.e metteureuse en scène peut donner des indications sur les choses visibles et non exploitées, demander à mettre des silences, etc.
 - On peut remettre la musique pour inciter les comédiens à se remettre dans le corps, à se reconnecter à l'émotionnel.
 
@@ -112,7 +112,7 @@ Un objet symbolise le texte des personnages (un livre par exemple).
 Les comédien.ne.s vont se passer l'objet, et leur personnage ne pourra parler QUE quand il aura le livre en main.
 C'est donc A qui maitrise quand B pourra parler (et inversement).
 On fait ça en se déplaçant dans la pièce, on se jette l'objet, on le rattrape, on le lance, on le rattrape, etc.
-On travaille la différenciation corps/cerveau -> spontanéité, lâcher-prise, réactivité, etc.
+On travaille la différenciation corps/cerveau → spontanéité, lâcher-prise, réactivité, etc.
 
 
 ## Exercice "Récupérer son texte"
@@ -121,7 +121,7 @@ Un objet symbolise le texte des personnages (un livre par exemple).
 Les comédien.ne.s vont se PRENDRE l'objet, et leur personnage ne pourra s'arrêter de parler QUE quand l'autre lui aura pris le livre des mains.
 C'est donc A qui maitrise quand B pourra s'arrêter de parler (et inversement).
 B va donc devoir meubler, parler, parler, parler, jusqu'à ce que A lui prenne le livre des mains.
-Là encore, on travaille la différenciation corps/cerveau -> spontanéité, lâcher-prise, réactivité, etc.
+Là encore, on travaille la différenciation corps/cerveau → spontanéité, lâcher-prise, réactivité, etc.
 
 
 ## Scène "Allers-retours fond de scène"
@@ -238,24 +238,78 @@ Ex: "Sabine"
 - Ça bine, ça abîme, ... quelqu'un qui blesse les autres, maladroite ? ou vicieuse ?
 
 ### Filtre 2 - Homonymie
-Ex: "Sandrine" -> "Sang-dring", "Sang-draine" - Draine le sang, vampire ? soignant ? quelqu'un colérique ?
+Ex: "Sandrine" → "Sang-dring", "Sang-draine" - Draine le sang, vampire ? soignant ? quelqu'un colérique ?
 
 ### Filtre 3 - Interversion
 On intervertit les syllabes, les lettres pour former de nouveaux mots.
 Ex: "Henri" devient "Hernie", quelqu'un de malade ? de fragile ? de fort ? ou "Rihen", riant, joyeux, ... ou "Rien", quelqu'un de vide, de creux, de sans intérêt, ...
 
-
 Exercice :
 En duo, on se donne un prénom, et on le fait passer dans les trois filtres en avant-scène devant le public, oralement et à voix haute, pour montrer notre cheminement mental.
 Puis on dit "Je m'appelle Chloé, je suis quelqu'un de ... " en s'appuyant sur les découvertes faites avec les filtres.
+
+## Théorie de l'identité
+Voici différentes facettes de l'identité, qui peuvent être des sources d'inspiration pour créer des personnages en impro :
+
+### Genre
+Masculin, féminin, non-binaire, fluide ...
+Affubler un personnage d'un genre différent de son genre de naissance peut être une source de jeu très riche.
+Ref: Série "Océan" sur France TV
+### Sexuelle
+### Ethnique
+### Religieuse
+### Sociale
+Classe sociale, origine sociale, ...
+"Kévin", "Dylan", etc, peuvent être des prénoms qui évoquent une certaine classe sociale ...
+Comment jouer avec sans tomber dans les stéréotypes ?
+### Familiale ("Constellation familiale")
+S'interroger sur la place de notre personnage dans la famille, dans les fratries, et sur les rôles attendus pour ces archétypes.
+Exemple Fratrie :
+- Ainé.e : Responsable, protecteur, rôle de soutien ...
+- Cadet.te : Rôle de mémoire de la famille, responsable du lien
+- Benjamin.e : Mémoire émotionnelle de la famille
+→ encore un moyen de rentrer dans un personnage, de lui donner de la profondeur, de la richesse, de la complexité.
+
+## Jeu pur
+3/4 comédien.ne.s en coulisse. Musique, on s'ancre, et on se "charge".
+On se trouve un prénom.
+On joue la scène, sans citer les prénoms.
+À la fin de la scène on demande au public quels sont les prénoms qu'ont inspirés les personnages.
+
+## Jeu pur + monologues "Prénom"
+4 comédien.ne.s en coulisse.
+Des consignes sont données secrètement à chacun.e :
+- un trait de caractère ("colérique", "naïf", "empathique", ...)
+- ou un fait ("s'est marié.e 4 fois", "veut recourir au suicide assisté", ...)
+ 
+Musique, on s'ancre, et on se "charge".
+On se trouve un prénom (qu'on utilisera si on n'est pas nommé par nos partenaires).
+Un.e premier.e comédien.ne entre en scène, et commence la scène.
+Les autres comédien.ne.s entrent au fur et à mesure.
+Importance du jeu relationnel. Pourquoi est-on lmà, qu'elle est notre relation.
+Quels sont les enjeux ?
+
+La régie va allumer un fauteuil, c'est le signal pour qu'un.e des comédien.ne.s vienne s'installer dessus et commence un long monologue dévoilant son identité intime :
+- "Je m'appelle Laurent, c'est ma mère qui a choisi mon prénom, mon père n'était pas présent. J'aime bien mon prénom, etc."
+→ on va répondre aux questions autour du prénom vues précédemment.
+
+L'idée est de se dévoiler, de faire un lien avec la scène, ou pas.
+
+Pendant le monologue les autres comédien.ne.s se figent.
+
+À la fin du monologue, on revient à la scène, on la continue.
+
+Les 4 comédien.ne.s vont tour à tour faire leur monologue.
 
 
 ## Recettes en vrac
 - Casser les habitudes de la répartie, du "je te réponds, tu me réponds". Trop souvent en impro, on répète les choses, on paraphrase, on boucle ... Il s'agit de le repérer et de prendre une décision (= faire un choix) et d'agir en conséquence (Une action physique, une parole qui fait bouger la scène, etc.).
 - Les prétextes pour ne pas jouer "vrai" : On va souvent parler d'un objet (un dessin, une peinture), ou d'un tiers (un personnage absent), pour ne pas parler vraiment de la relation de nos personnages, et de la vivre vraiment. Évacuons ces prétextes (le dessin s'envole, il n'est plus là, il n'y a plus que nous deux). 
-- "Tout est déjà là" -> Cherche le jeu dans les yeux de ton partenaire, dans sa gestuelle, dans son émotionnel.
+- "Tout est déjà là" → Cherche le jeu dans les yeux de ton partenaire, dans sa gestuelle, dans son émotionnel.
+- Se connaitre depuis au moins 6 mois. On est déjà intimes, on n'a pas besoin de construire cette intimité.
 - Chaque réplique compte (et est importante). On ne peut pas se permettre de dire des choses inutiles, qui ne font pas avancer la scène. Chaque réplique doit être un choix, une décision, qui fait avancer la scène. Et donc chaque réplique de son partenaire doit être entendue, reçue (= elle m'impacte), valorisée (= je construis dessus).
 - Laissons-nous surprendre ! La surprise amène du jeu.
-- Un personnage silencieux aura un impact très percutant quand il se mettra à parler. Il y a une promesse pour le public : Si il/elle parle, c'est que c'est important -> Bien choisir sa punch-line !
+- Un personnage silencieux aura un impact très percutant quand il se mettra à parler. Il y a une promesse pour le public : Si il/elle parle, c'est que c'est important → Bien choisir sa punch-line !
 - Pas plus de 2 focus simultanés sur scène. Et un, c'est mieux ! Le public ne sait plus où donner de la tête.
+- Idée pour spectacles : Intégrer un espace scénique pour des monologues, des apartés, des confidences, ... déclenchés par la régie.
 

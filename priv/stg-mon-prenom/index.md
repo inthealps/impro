@@ -31,9 +31,9 @@ On explore ça en douceur, en prenant le temps.
 ## “Yuri” (traversée en musique)
 N joueurs séparés en deux groupes, alignés à l'opposé du plateau.
 
-En musique, un premier comédien commence à faire une proposition “dansée” (ou “gesticulée”).
-Il est rejoint par un autre comédien qui soutient la proposition.
-Les comédiens entrent et sortent, le plateau ne doit jamais être vide.
+En musique, un.e premier.e comédien.ne commence à faire une proposition “dansée” (ou “gesticulée”).
+Il/elle est rejoint.e par un.e autre comédien.ne qui soutient la proposition.
+Les comédien.ne.s entrent et sortent, le plateau ne doit jamais être vide.
 Attention à ne pas trop superposer : Deux propositions différentes simultanées au maximum !
 Les propositions peuvent être adaptées (amplitude différente, position fixe, rythme différent, etc.)
 
@@ -46,7 +46,7 @@ Tips de réussite :
 - Pas de plateau vide.
 - Variété des rythmes, des propositions.
 - La symétrie fait du bien. On a l'impression que ça a été travaillé, que c'est réfléchi.
-- On entre en personnage, on sort en personnage. On le tient jusqu'au bout, le comédien ne ressort pas avant la coulisse !
+- On entre en personnage, on sort en personnage. On le tient jusqu'au bout, la facette "comédien" ne ressort pas avant la coulisse !
 
 Le Yuri est vraiment un condensé de tout ce qu'on peut travailler en impro : le rapport à la proposition, la connexion aux autres, le lâcher-prise, l'ancrage, le rythme, l'occupation de l'espace scénique, ...
 Penser à ça dans nos scènes d'impro, à visualiser le plateau.
@@ -79,13 +79,13 @@ Tips de réussite :
 - On est dans l'émotionnel, on prend le temps de ressentir
 - "Tout est déjà là" → on repère les signaux faibles, on les utilise (Le partenaire a les yeux qui brillent, il est heureux de me voir. Il hoche la tête, il est d'accord. Etc.) 
 - Side-coaching : un.e metteureuse en scène peut donner des indications sur les choses visibles et non exploitées, demander à mettre des silences, etc.
-- On peut remettre la musique pour inciter les comédiens à se remettre dans le corps, à se reconnecter à l'émotionnel.
+- On peut remettre la musique pour inciter les comédien.ne.s à se remettre dans le corps, à se reconnecter à l'émotionnel.
 
 
 ## Quatre gestes répétitifs pour une scène
 Trois comédien.ne.s sur scène.
 Une musique est lancée, on laisse infuser, on se laisse charger.
-Chacun.e des trois comédien.ne.s va enchainer 4 gestes répétitifs, qu'il va répéter indéfiniment.
+Chacun.e des trois comédien.ne.s va enchainer 4 gestes répétitifs, qu'il/elle va répéter indéfiniment.
 La musique va s'arrêter, et la scène démarre.
 Les comédien.ne.s vont continuer à faire leurs gestes, et vont commencer à parler.
 En s'appuyant sur leurs gestes, l'histoire doit intégrer ces mouvements, les justifier.
@@ -101,7 +101,7 @@ Tips de réussite :
 ## Jeu - 1 + N
 Un.e comédien.ne sur scène, les autres en coulisse.
 En musique, le/la comédien.ne commence à jouer, de manière corporelle et organique.
-Les autres comédien.ne.s vont entrer en scène, un par un, pour venir soutenir leur camarade.
+Les autres comédien.ne.s vont entrer en scène, un.e par un.e, pour venir soutenir leur camarade.
 Ils/elles vont s'ajouter à la scène, en apportant leur énergie, leur corps, leur voix, etc.
 On peut "tuiler". L'idée est vraiment de partir du "déjà-là" et de le renforcer, de le soutenir, de l'amplifier.
 
@@ -125,7 +125,7 @@ Là encore, on travaille la différenciation corps/cerveau → spontanéité, l�
 
 
 ## Scène "Allers-retours fond de scène"
-Deux comédien.ne.s sur scène, un en avant-scène, l'autre en fond de scène.
+Deux comédien.ne.s sur scène, un.e en avant-scène, l'autre en fond de scène.
 Après chaque réplique, ils/elles vont se déplacer en fond de scène, alternativement.
 Là encore, on travaille la différenciation corps/cerveau pour amener spontanéité et lâcher-prise.
 
@@ -137,7 +137,7 @@ Un comédien A va devoir éviter le regard de tous les autres.
 Tous les autres autour doivent collaborer pour "coincer" le regard de A.
 En le traquant, lui tourner autour, le suivre, etc.
 
-Au bout d'un moment, l'organisateur change de "cible" en donnant le nom du remplaçant, et on recommence.
+Au bout d'un moment, l'organisateur.rice change de "cible" en donnant le nom du/de la remplaçant.e, et on recommence.
 
 NB: Il s'agit peut-être de l'exercice "Yoga du regard" de Odile Cantero, mais inversé.
 À savoir que l'exercice originel pourrait être que A regarde vers un endroit et tous les autres vont se placer dans son regard.
@@ -173,7 +173,6 @@ Est-ce que ça me rappelle quelque chose ? Une situation ? Quelle émotion en d�
 # Prénoms, identité et porte d'entrée vers l'intime
 Un peu de théorie ...
 
-
 ## "Mon prénom et moi"
 Assis en cercle, on va parler de notre prénom (de comédien.ne).
 Et tenter de répondre à ces questions :
@@ -191,7 +190,7 @@ Trop souvent on se donne des prénoms bâteau, toujours les mêmes, sans réflé
 
 Il est important de se poser la question du prénom, de le choisir (pour soi) avec soin, de le donner (à l'autre) avec soin.
 
-Note personnelle : Combien de fois suis-je sorti d'une scène de plateforme en ne sachant plus comment je m'appelle !
+Note personnelle : Combien de fois suis-je sorti d'une scène de plateforme en ne sachant plus comment je m'appelais 😬!
 
 Le prénom de mon personnage est signifiant, il est choisi pour une bonne raison, il marque mon personnage (prénoms datés, ou classe sociale, etc.).
 
@@ -200,7 +199,7 @@ En duo, avec une musique.
 Face à face, on se regarde, on se connecte, on se laisse porter par la musique.
 On se laisse inspirer par l'autre, par ce qu'il/elle dégage.
 On trouve un prénom pour l'autre. Dès que c'est fait, on se tourne face public.
-Quand les deux se sont retournés face public, ils se retournent face à face et se donnent leur prénom.
+Quand les deux se sont retourné.e.s face public, ils/elles se retournent face à face et se donnent leur prénom.
 - "Tu t'appelles Clémence ..."
 - "Tu t'appelles Boris ..."
 
@@ -208,9 +207,10 @@ Tout à tour les deux comédien.ne.s vont se tourner face public et réagir à l
 - "Clémence, c'est un prénom doux, ça me fait penser à la mer, à la douceur, à la tendresse, ... Il me va bien. Je l'aime bien !"
 - "Boris, c'est un prénom fort, ça me fait penser à la Russie, à la force, à la détermination, ... Il me fait penser à quelqu'un qui sait ce qu'il veut. C'est un prénom qui me va bien. Je l'aime bien !"
 
-Juger le prénom qui nous est donné nous apporte de la matière et du jeu pour le personnage que l'on va incarner.
+→ Juger le prénom qui nous est donné nous apporte de la matière et du jeu pour le personnage que l'on va incarner.
 
-Le/la "coach" peut demander des précisions sur le prénom, sur ce qu'il évoque, sur ce qu'il inspire, etc. Quels seraient les traits de personnalité de ce personnage ?
+Le/la "coach" peut demander des précisions sur le prénom, sur ce qu'il évoque, sur ce qu'il inspire, etc.
+Quels seraient les traits de personnalité de ce personnage ?
 
 Tips de réussite :
 - Bien se laisse charger par la musique.
@@ -220,7 +220,7 @@ Tips de réussite :
 Différents filtres dans lesquels faire passer le prénom pour amener de l'inspiration :
 ### Filtre 1 - L'euphonie
 - Répéter le prénom plusieurs fois, pour en apprécier la sonorité.
-- L'épeler, qu'est ce que j'entends ?
+- L'épeler, qu'est-ce que j'entends ?
 
 Ex: "Gus, diminutif de Gustave"
 - Gusssss' c'est aigu, ça siffle ...
@@ -238,7 +238,7 @@ Ex: "Sabine"
 - Ça bine, ça abîme, ... quelqu'un qui blesse les autres, maladroite ? ou vicieuse ?
 
 ### Filtre 2 - Homonymie
-Ex: "Sandrine" → "Sang-dring", "Sang-draine" - Draine le sang, vampire ? soignant ? quelqu'un colérique ?
+Ex: "Sandrine" → "Sang-dring", "Sang-draine" - Draine le sang, vampire ? soignante ? quelqu'un colérique ?
 
 ### Filtre 3 - Interversion
 On intervertit les syllabes, les lettres pour former de nouveaux mots.
@@ -283,10 +283,10 @@ Des consignes sont données secrètement à chacun.e :
 - ou un fait ("s'est marié.e 4 fois", "veut recourir au suicide assisté", ...)
  
 Musique, on s'ancre, et on se "charge".
-On se trouve un prénom (qu'on utilisera si on n'est pas nommé par nos partenaires).
+On se trouve un prénom (qu'on utilisera si on n'est pas nommé.e par nos partenaires).
 Un.e premier.e comédien.ne entre en scène, et commence la scène.
 Les autres comédien.ne.s entrent au fur et à mesure.
-Importance du jeu relationnel. Pourquoi est-on lmà, qu'elle est notre relation.
+Importance du jeu relationnel. Pourquoi est-on là, qu'elle est notre relation ?
 Quels sont les enjeux ?
 
 La régie va allumer un fauteuil, c'est le signal pour qu'un.e des comédien.ne.s vienne s'installer dessus et commence un long monologue dévoilant son identité intime :
@@ -305,7 +305,7 @@ Les 4 comédien.ne.s vont tour à tour faire leur monologue.
 ## Recettes en vrac
 - Casser les habitudes de la répartie, du "je te réponds, tu me réponds". Trop souvent en impro, on répète les choses, on paraphrase, on boucle ... Il s'agit de le repérer et de prendre une décision (= faire un choix) et d'agir en conséquence (Une action physique, une parole qui fait bouger la scène, etc.).
 - Les prétextes pour ne pas jouer "vrai" : On va souvent parler d'un objet (un dessin, une peinture), ou d'un tiers (un personnage absent), pour ne pas parler vraiment de la relation de nos personnages, et de la vivre vraiment. Évacuons ces prétextes (le dessin s'envole, il n'est plus là, il n'y a plus que nous deux). 
-- "Tout est déjà là" → Cherche le jeu dans les yeux de ton partenaire, dans sa gestuelle, dans son émotionnel.
+- "Tout est déjà là" → Cherche le jeu dans les yeux de ton/ta partenaire, dans sa gestuelle, dans son émotionnel.
 - Se connaitre depuis au moins 6 mois. On est déjà intimes, on n'a pas besoin de construire cette intimité.
 - Chaque réplique compte (et est importante). On ne peut pas se permettre de dire des choses inutiles, qui ne font pas avancer la scène. Chaque réplique doit être un choix, une décision, qui fait avancer la scène. Et donc chaque réplique de son partenaire doit être entendue, reçue (= elle m'impacte), valorisée (= je construis dessus).
 - Laissons-nous surprendre ! La surprise amène du jeu.

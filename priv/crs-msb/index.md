@@ -229,7 +229,7 @@ On peut jouer plusieurs personnages.
 6 comédiens : 
 A et B deux personnages principaux.
 4 personnages secondaires.
-Les 4 personnages secondaires vont se place en arc de cercles derrière A, et composer son personnage.
+Les 4 personnages secondaires vont se placer en arc de cercles derrière A, et composer son personnage.
 - A va donner son prénom et son âge : "Bonjour je m'appelle Léo, j'ai 45 ans."
 - C va donner une habitude "Léo a toujours une tasse de café à la main, matin, midi et soir", plus une anecdote.
 - D va donner sa profession "Léo est plombier"
@@ -252,7 +252,7 @@ Puis A et B vont se rencontrer, et leurs destins vont se lier.
 Tips de réussite :
 - Nourrir la quête principale. Ne pas ajouter trop de pistes différentes.
 - Les quêtes secondaires doivent faire gonfler la quête principale.
-- 
+
 
 ## Format "L'apéro"
 6 comédiens

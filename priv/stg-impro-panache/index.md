@@ -7,12 +7,17 @@ date:  2024-08-11
 ## Échauffement - Hypnotiseur/Hypnotisé"
 
 En duo, l'hypnotiseur place sa main face au visage de l'hypnotisé.
+
 Le visage de l'hypnotisé doit garder une distance fixe avec la main de l'hypnotiseur.
+
 On s'amuse à jouer avec les distances, les vitesses, les directions.
 
 Un hypnotiseur peut décider de voler l'hypnotisé d'un autre hypnotiseur.
+
 Son propre hypnotisé doit continuer à suivre la même direction qu'avant, il est abandonné.
+
 C'est aux autres hypnotiseurs d'être vigilants et de récupérer l'hypnotisé avant qu'il ne s'écrase contre un mur.
+
 Un hypnotiseur peut contrôler 2 hypnotisés (un avec chacune de ses mains).
 
 Tips de réussite :
@@ -22,18 +27,26 @@ Tips de réussite :
 
 ## Killer
 En cercle, un joueur est désigné pour être le "killer".
+
 Il commence à donner un prénom du cercle (pas ses voisins).
+
 La personne visée se baisse et ses deux voisins immédiats le tuent avec un "pan" simultané.
+
 La personne devient "killer" et dit un autre prénom en se relevant.
 Ça doit être rapide.
+
 On fait quelques tours, puis on élimine quand erreur, latence, etc.
 
+
 ## Exercice - "Emotions"
-En déambulation dans l'espace, l'animateurice donne une "émotion" (joie, tristesse, amour, flemme, colère, stress, hypocrisie, ...).
+En déambulation dans l'espace, l'animateur.ice donne une "émotion" (joie, tristesse, amour, flemme, colère, stress, hypocrisie, ...).
+
 Les comédiens doivent se déplacer dans l'espace en incarnant cette émotion.
-L'animateurice peut faire varier les curseurs d'intensité ...
+
+L'animateur.ice peut faire varier les curseurs d'intensité ...
 
 Ne pas confondre "émotion" et "état interne" (ou "état de corps").
+
 L'émotion est ce que l'on rend visible aux spectateurs, l'état interne est invisible ... "Qu'est-ce que cela me fait ?"
 
 
@@ -42,28 +55,35 @@ Tips de réussite :
 - Changer d'énergie, mais toujours à fond sur nos moteurs internes, notre énergie intérieure.
 - Ne pas boucler, ne pas lâcher, ne pas s'ennuyer.
 - Changer les curseurs, et votre comment notre corps/visage réagit à ces changements et interprète cela.
+- Attention, pousser très haut les curseurs amène moins de sincérité de jeu, et plus de jeu clownesque ... MAIS c'est à travailler !
 
-Développements pour le jeu :
-"Mémoire corporelle"
+### Développements pour le jeu : Outil "Mémoire corporelle"
+
 Repérer nos gestes liés à une émotion en entrainement, pour pouvoir les reconvoquer en jeu et les réutiliser en scène.
-Que se passe-t-il dans mon corps quand je joue la colère ? Poings serrés, mâchoires fermées, etc.
-Est-ce-que serrer les poings me permet de retrouver la colère ?
-Partir du corps pour aller vers la tête (l'émotion). Plutôt que l'inverse, qui rend souvent faux.
 
-Attention, pousser très haut les curseurs amène moins de sincérité de jeu, et plus de jeu clownesque.
-MAIS c'est à travailler !
+Que se passe-t-il dans mon corps quand je joue la colère ? Poings serrés, mâchoires fermées, etc.
+
+Est-ce-que serrer les poings me permet de retrouver la colère ?
+
+Partir du corps pour aller vers la tête (l'émotion). Plutôt que l'inverse, qui rend souvent faux.
 
 
 ## Exercice - "Les chaises"
 En duo.
+
 En musique, on se balade dans l'espace avec une chaise pliée à la main.
+
 Dès que l'animateurice arrête la musique, on doit poser la chaise, et s'y asseoir dans la position que l'on veut, mais sans l'orienter.
 
+
 Une scène démarre.
+
 On commence à prendre un temps avec nous-même, à se connecter à notre état intérieur.
+
 La musique a pu être une impulse de jeu. Je connais cette musique, je l'aime ? je ne l'aime pas ? elle me met dans quel état ?
 
 On va jouer une impro simple, on joue le quotidien, c'est une impro "Passe-moi le sel ..."
+
 On focuse sur notre relation. Qui ? Quoi ? Où ?
 
 Tips de réussite :
@@ -75,30 +95,25 @@ Tips de réussite :
 - Alterner les moments où les personnages se regardent, et les moments où les personnages reviennent sur eux-mêmes.
 - Ne pas trop construire dans sa tête, laisser venir les choses.
 
-Jouer avec l'ironie dramatique.
-Il existe une grosse différence entre :
-- ce que les comédiens savent
-- ce que les personnages savent
-... et c'est très cool que ce ne soit pas toujours la même chose ! Cela amène des situations cocasses. On joue avec cette ironie dramatique.
-
-
-Attention à ne pas être didactique. "C'est la plaie du théâtre !".
-Mettre le contexte sans sur-expliciter, avec peu de mots.
-Laisser le public faire son job, boucher les trous, faire des ponts.
-Prendre conscience de tout ce qui existe déjà, et tout ce qui a déjà été raconté.
-
 
 ## Exercice - "Danse alternée"
 En duo.
+
 Sur la musique de "Total Eclipse of the Heart" de Bonie Tyler.
+
 On danse autour de son partenaire, qui reste fixe.
+
 À tout moment, la personne en action peut se figer, et l'autre prend le relais.
+
 À l'inverse, la personne fixe peut se mettre en mouvement, et l'autre doit s'arrêter.
+
 On se laisse impacter par la musique, sa puissance, son intensité, ses changements de rythme, etc.
+
 On envoie du pâté, ça doit être physiquement engagé !
 
 ## Exercice - "Les 7 nains"
 En trio.
+
 On pioche un "état de jeu" parmi les 7 nains de Blanche-Neige :
 - Grincheux
 - Dormeur
@@ -119,15 +134,18 @@ Tips de réussite :
 - Timide et Grincheux ne sont pas en colère de la même manière.
 
 
-Note : Cet exercice est compliqué car il faut penser à de nombreuses choses en même temps.
+Note : Cet exercice est compliqué, car il faut penser à de nombreuses choses en même temps.
 
 Attention à ne pas rester bloqué dans la contrainte de jeu (être Grincheux, etc). Ne pas hésiter à sortir de la contrainte, pour mieux y revenir.
-"Le Nain c'est mon petit trait de caractère en plus"
+
+Penser : "Le Nain c'est mon petit trait de caractère en plus"
 
 
-## Exercice - "Amour/Détestation/indifférence"
+## Exercice - "Amour/Détestation/Indifférence"
 En duo.
+
 On joue avec ces 3 états de jeu.
+
 Exemple :
 - A est amoureux de B, B déteste A.
 - ou A est amoureux de B, B est indifférent.
@@ -140,7 +158,9 @@ Tips de réussite :
 
 ## Exercice - "La pharmacie"
 En duo.
+
 Un.e pharmacien.ne et un.e client.e ...
+
 Le comédien jouant le pharmacien reçoit une caractéristique de jeu (lent, stressé, émotif, parle avec les mains etc).
 
 On voit ce qu'il se passe.
@@ -152,34 +172,46 @@ Tips de réussite :
 
 
 ## Mémos
-"Drop the bombs !"
+### "Drop the bombs !"
 Résolvez et passez à autre chose.
 Ne tournez pas autour du pot, ne restez pas dans l'attente, ne restez pas dans la répétition.
 Rester attentif ! "Ah c'est bien que tu sois reçu, toi ..." --> implique que l'autre n'est pas reçu.
 "Je suis contente de te voir" "Pas moi" --> On ne peut pas laisser passer ça, il faut rebondir dessus.
 
-
-"État de corps"
+### "État de corps"
 L'état de corps est notre moteur interne, libéré de la pression de la narration.
+
 On ne le lâche jamais !
 
+### Les "boucles"
+Prendre une décision radicale plutôt que de rester dans le flottement.
 
-"Prendre une décision radicale plutôt que de rester dans le flottement."
 
-
+### Conflit
 Attention aux confrontations/conflits.
+
 Plus faciles à jouer, c'est souvent le refuge de nos impros.
+
 Mais que se passe-t-il quand on est ensemble, unis ? Quel jeu cela amène-t-il ?
 
-Attention à ne pas être didactique !
-Plaie du théâtre.
-On veut expliquer aux personnages ce qu'ils sont déjà censés savoir, pour donner des précisions aux comédiens sur ce qu'on a dans la tête !
-Des fois, on le fait pour le public, mais il n'en a pas besoin. Il bouche les trous tout seul, c'est son job.
-On doit prendre conscience de tout ce qui existe déjà, et tout ce qui a déjà été raconté.
+### Attention à ne pas être didactique
+"C'est la plaie du théâtre !"
+
+Mettre le contexte sans sur-expliciter, avec peu de mots.
+On veut trop souvent expliquer aux personnages ce qu'ils sont déjà censés savoir, pour donner des précisions aux comédiens sur ce qu'on a dans la tête !
+
+Laisser le public faire son job, boucher les trous, faire des ponts.
+
+Prendre conscience de tout ce qui existe déjà, et tout ce qui a déjà été raconté.
+
+Il existe une grosse différence entre :
+- ce que les comédiens savent
+- ce que les personnages savent
+- ... et c'est très cool que ce ne soit pas toujours la même chose ! Cela amène des situations cocasses. On joue avec ça.
 
 
-"Donnez-vous des contraintes"
-En répétition, mais aussi en spectacle.
+### "Donnez-vous des contraintes"
+En répétition, mais aussi en spectacle !
 - "Ce soir, je ne joue que du positif"
 - "Ce soir, je joue un personnage émotif"
 - ...
@@ -188,14 +220,20 @@ En répétition, mais aussi en spectacle.
 
 ## Exercice - "Sous le vent, la chorégraphie"
 En duo. En musique.
+
 On s'entend sur une chorégraphie, avec quelques étapes, et des mouvements simples.
+
 On la joue une ou deux fois.
 
+
 On remet la musique au départ, et on démarre la chorégraphie, pour un public.
+
 C'est par exemple, une chorégraphie pour le pot de départ de Monique.
+
 On joue la chorégraphie, et on la joue à fond, avec des émotions, des intentions, des regards, etc.
 
 Au bout d'un moment, l'un des danseurs va faire une révélation fracassante, à l'oreille de l'autre.
+
 Mais toujours en continuant la chorégraphie.
 
 Les 2 danseurs sont censés continuer de danser, comme si de rien n'était, en donnant le change, et en sauvant les apparences, mais ils sont forcément impactés par la révélation (l'un et l'autre).
@@ -207,18 +245,22 @@ Tips de réussite :
 - Jouer les réactions, spontanément, sincèrement, ça vient du corps et des émotions, pas de la tête.
 
 Idée : À intégrer en spectacle, lorsque la régie envoie une musique adhoc ?? 
+
 Le public n'a pas besoin de savoir ce qui est dit entre les deux personnages, juste se régaler de l'impact de la révélation !
 
 Sur la musique "Sous le vent" de Garou et Céline Dion, d'où le titre de l'exercice.
-Et d'autres si ça nous inspire ;)
+Et d'autres si Garou nous insupporte ;)
 
 
 ## Échauffement - "L'évasion de prison à 5"
 (Ressemble à l'échauffement "Into the Jungle")
+
 À cinq joueurs, en musique.
 
 Un leader commence à se déplacer dans l'espace, il fait des propositions physiques liées à l'évasion, les autres le suivent, en file indienne.
+
 Il peut changer de direction, de rythme, etc.
+
 Au bout d'un moment, un autre joueur prend la tête de la file, et le leader se place en dernier.
 
 Idées de musiques :
@@ -233,9 +275,11 @@ Tips de réussite :
 
 ## Échauffement - "Association d'idées, la compèt'"
 On sépare le groupe en 2.
+
 Les deux groupes choisissent un mot de départ.
 
 On constitue des duos avec un joueur de chaque groupe.
+
 Process :
 - "1, 2, 3" → on dit le mot de départ simultanément
 - réflexion, les deux mots me font penser à quel autre mot ?
@@ -245,8 +289,11 @@ Process :
 
 ## Exercice - "Révélations"
 En duo.
+
 A est en action, une action répétitive, s'occuper du jardin, peindre un mûr, faire la cuisine.
+
 B arrive, et lui fait une révélation fracassante.
+
 Comme pour la révélation en chorégraphie, A continue son action, en prenant en compte la révélation.
 
 Tips de réussite :
@@ -259,6 +306,7 @@ Tips de réussite :
 
 ## Format de restitution - "La soirée + révélation"
 6 ou 7 joueurs
+
 Durée 25mn
 
 Une soirée, demander au public qui sont les gens, qu'est-ce qui les réunit, etc.
@@ -282,9 +330,6 @@ Tips de réussite :
 
 Conseil ciné : Les dieux du carnage, de Roman Polanski, avec Jodie Foster, Kate Winslet, Christoph Waltz, John C. Reilly.
 
-# Axes d'amélioration personnels
-
-## Déplacements parasites
 
 ## Scribes
 

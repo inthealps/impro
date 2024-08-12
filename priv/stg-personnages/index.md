@@ -48,7 +48,7 @@ Pistes de réussite :
 A tourne le dos à B, infuse un personnage puis se retourne.
 B accueille, puis A se retourne, se transforme en un autre personnage, puis en un troisième.
 
-Variante : A se retourne en neutre. Qu'est ce que ça change ?
+Variante : A se retourne en neutre. Qu'est-ce que ça change ?
 
 
 ## Exercice "Good morning"

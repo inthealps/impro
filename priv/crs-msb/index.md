@@ -205,6 +205,11 @@ Un leader s'avance, et commence à se déformer, à se laisser envahir par la la
 Il émet des bruits, des cris, des grognements, des râles.
 C'est le signal pour que les 4 autres comédiens (des "cellules" de monstre) viennent le rejoindre, s'animent pour former une "silhouette" qui va commencer à avancer vers le public.
 
+## Phrase / Emotion
+En duo, A va dire une phrase anodine, d'un ton neutre. Une phrase du quotidien.
+B va sur-réagir à cette phrase avec une émotion choisie à l'avance.
+
+
 # Jeu scénique
 
 ## Impro avec rupture
@@ -342,7 +347,7 @@ Ils se retournent une dernière fois, et donnent au public un dernier regard.
 2 comédiens, 4 composeurs. Environ 8mn.
 Le duo de comédiens va jouer une scène, et les 4 composeurs vont composer les émotions d'un des personnages.
 On donne une relation + un contexte au duo.
-Il démarre une scène. À un moment, il va y avoir une annonce, quelque chose qui va atteindre émotionnellement un des 2 personnages.
+Ils démarrent une scène. À un moment, il va y avoir une annonce, quelque chose qui va atteindre émotionnellement un des 2 personnages.
 Ce personnage (P1) va s'arrêter de parler, et va vivre son émotion.
 Le second personnage va lui aussi rester dans son émotion, sans parler, en continuant de regarder P1.
 Un à un, et en musique, les composeurs vont venir colorer l'émotion, en se plaçant autour et derrière le personnage.
@@ -479,6 +484,7 @@ Un personnage écrit dans son journal intime, ou lit ou écrit une lettre (en pa
 
 ### Voix d'un autre
 Un personnage fait la voix d'un autre personnage en jeu.
+
 
 ## Effet tempête
 2 scènes en parallèle, distinctes ou qui se répondent.

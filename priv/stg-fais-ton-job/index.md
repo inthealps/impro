@@ -26,7 +26,7 @@ Si ce n'est pas OK pour le comédien, il sort de scène. L'autre se démerde tou
 ## Faire son job c'est quoi ?
 
 - J'amène plus que mon idée à la con
-- De quoi la scène à besoin ? Peut-être de quelque chose, peut-être de rien.
+- De quoi la scène a besoin ? Peut-être de quelque chose, peut-être de rien.
 
 Cas n°1 : Apport complémentaire
 
@@ -38,16 +38,16 @@ Chaque comédien est en lutte pour savoir à quoi il joue.
 
 
 Cas n°2 : Rien !
-Souvent faire son job c'est ne rien faire. Mais ne rien faire vachement bien !
+Souvent, "faire son job" c'est ne rien faire. Mais ne rien faire vachement bien !
 Plutôt que de tenter de s'insérer dans quelque chose qui n'en n'a pas besoin.
 Faire son job ... pas celui des autres.
 
 Laisser de la place ... c'est mon job !
 
 
-## Faire son job ce n'est quoi ?
+## Faire son job ce n'est pas quoi ?
 
-- Sauver la scène
+- Vouloir sauver la scène
 - Se sentir responsable du spectacle
 - Entrer ajouter quelque chose sur une scène qui se suffit à elle-même.
 - Entrer pour entrer

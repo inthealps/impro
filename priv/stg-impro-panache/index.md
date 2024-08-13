@@ -4,7 +4,7 @@ title: "Stage L'impro avec panache ! Mathilde Cribier"
 date: 2024-08-11
 ---
 
-## Échauffement - Hypnotiseur/Hypnotisé"
+## Échauffement - "Hypnotiseur/Hypnotisé"
 En duo, l'hypnotiseur place sa main face au visage de l'hypnotisé.  
 Le visage de l'hypnotisé doit garder une distance fixe avec la main de l'hypnotiseur.  
 On s'amuse à jouer avec les distances, les vitesses, les directions.
@@ -19,7 +19,7 @@ Tips de réussite :
 - Ne jamais s'ennuyer.
 - Penser à ses moteurs internes, qu'est-ce qui me fait rire, pétiller, etc.
 
-## Killer
+## Échauffement - "Killer"
 En cercle, un joueur est désigné pour être le "killer".
 
 Il commence à donner un prénom du cercle (pas ses voisins).  
@@ -120,7 +120,8 @@ Penser : "Le Nain c'est mon petit trait de caractère en plus"
 ## Exercice - "Amour/Détestation/Indifférence"
 En duo.
 
-On joue avec les 3 états de jeu : Amour, détestation et iIndifférence
+On va jouer une scène avec les 3 états de jeu : Amour, détestation et indifférence.  
+Les comédiens décident avant quel sera leur état de jeu, ou l'animateurice leur donne en secret leurs états de jeu.
 
 Exemple :
 - A est amoureux de B, B déteste A.
@@ -148,10 +149,15 @@ Tips de réussite :
 ## Mémos
 
 ### "Drop the bombs !"
-Résolvez et passez à autre chose.  
-Ne tournez pas autour du pot, ne restez pas dans l'attente, ne restez pas dans la répétition.  
-Rester attentif ! "Ah c'est bien que tu sois reçu, toi ..." --> implique que l'autre n'est pas reçu.  
-"Je suis contente de te voir" "Pas moi" --> On ne peut pas laisser passer ça, il faut rebondir dessus.  
+Osez les révélations fracassantes, qui impactent les personnages en jeu.  
+Ne tournez pas autour du pot, ne restez pas dans une attente où l'on va induire la bombe ... lâchez-la !!  
+Puis résolvez et passez à autre chose.  
+Faites confiance à l'impro pour que quelque chose naisse de ça, intéressant, et qui va développer l'histoire.  
+L'histoire en impro doit toujours avancer !
+
+Rester attentif !  
+"Ah c'est bien que tu sois reçu, toi ..." → implique que l'autre n'est pas reçu.  
+"- Je suis contente de te voir" "- Pas moi" → On ne peut pas laisser passer ça, il faut rebondir dessus !  
 
 ### "État de corps"
 L'état de corps est notre moteur interne, libéré de la pression de la narration.  

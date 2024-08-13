@@ -41,7 +41,7 @@
 
 Création des plateformes et des personnages
 
-- "Tout va bien !" -> Entrer sans problème, calme, ne pas chercher le conflit et laisser venir l’étincelle
+- "Tout va bien !" → Entrer sans problème, calme, ne pas chercher le conflit et laisser venir l’étincelle
 
 - Les personnages sont précis (caractère, posture, attitude, voix, expression physique et psychologique récurrente ; position sociale …)
 

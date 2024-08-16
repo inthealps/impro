@@ -16,8 +16,10 @@ Un hypnotiseur peut contrôler 2 hypnotisés (un avec chacune de ses mains).
 
 Tips de réussite :
 - Amusez-vous !
-- Ne jamais s'ennuyer.
+- Ne jamais s'ennuyer. Jamais de routine.
 - Penser à ses moteurs internes, qu'est-ce qui me fait rire, pétiller, etc.
+- Mode Avancé : Créer des images de groupe (le collectif soutient des propositions, comme dans le Yuri)
+
 
 ## Échauffement - "Killer"
 En cercle, un joueur est désigné pour être le "killer".
@@ -28,6 +30,15 @@ La personne devient "killer" et dit un autre prénom en se relevant.
 Ça doit être rapide.  
 
 On fait quelques tours, puis on élimine quand erreur, latence, etc.
+
+
+## Exercice - "Mitraillette"
+Un duo en position.
+
+Le public donne un mot, une très courte impro démarre.  
+A la fin de l'impro (cuttée par l'animateurice), un nouveau duo prend place (dans l'exacte même position).  
+Le public donne un autre mot, et on redémarre une nouvelle impro.
+
 
 ## Exercice - "Emotions"
 En déambulation dans l'espace, l'animateur.ice donne une "émotion" (joie, tristesse, amour, flemme, colère, stress,
@@ -40,7 +51,7 @@ Ne pas confondre "émotion" et "état interne" (ou "état de corps").
 L'émotion est ce que l'on rend visible aux spectateurs, l'état interne est invisible ... "Qu'est-ce que cela me fait ?"
 
 Tips de réussite :
-- Jouer simple, rien d'extraordinaire, mais le vivre intensément.
+- Jouer simple : Ne pas jouer de choses extraordinaires ... mais les jouer de manière extraordinaire !
 - Changer d'énergie, mais toujours à fond sur nos moteurs internes, notre énergie intérieure.
 - Ne pas boucler, ne pas lâcher, ne pas s'ennuyer.
 - Changer les curseurs, et votre comment notre corps/visage réagit à ces changements et interprète cela.
@@ -69,12 +80,13 @@ On focuse sur notre relation. Qui ? Quoi ? Où ?
 
 Tips de réussite :
 - Sur scène la position neutre n'est pas intéressante.
-- Peu de texte, on laisse des silences !
+- Peu de texte, on laisse des silences ! (et ne dire que des choses qui apportent quelque chose à l'histoire)
 - On reste sur nos émotions propres, on peut se laisser happer par l'autre, mais on revient à notre émotion première.
-- Être dans 2 états très différents est très cool pour le spectateur.
-- Trouver le "Jeu de la scène" ... "À quoi joue-t-on ?" ... "Aah ! C'est à ÇA qu'on joue !!"
+- Voir des comédiens dans 2 états très différents est très cool pour le spectateur !
+- "Trouver le game" → Identifier très rapidement le "Jeu de la scène" : **"À quoi joue-t-on ?"** ... On doit se dire : "Aah ! C'est à ÇA qu'on joue !!"
 - Alterner les moments où les personnages se regardent, et les moments où les personnages reviennent sur eux-mêmes.
 - Ne pas trop construire dans sa tête, laisser venir les choses.
+
 
 ## Exercice - "Danse alternée"
 En duo.  
@@ -145,6 +157,8 @@ Tips de réussite :
 - L'histoire va se construire quasiment toute seule, si on est en lâcher-prise, en jouant avec le corps et en se
   laissant guider par nos émotions.
 - Notre personnage doit avoir un but, un seul, pas mille. Et doit se laisser surprendre.
+- Les retournements de situation entre les deux personnages sont très intéressants pour le public !
+
 
 ## Mémos
 
@@ -194,6 +208,12 @@ En répétition, mais aussi en spectacle !
 - "Ce soir, je joue un personnage émotif"
 - ...
 
+### Forme physique
+Être en forme et avoir une bonne maîtrise de son corps.
+Faire du sport, des étirements, de la danse, du yoga, etc.
+"Notre corps est ce que l'on montre au public, c'est notre outil de scène."
+
+
 ## Exercice - "Sous le vent, la chorégraphie"
 En duo. En musique.
 
@@ -220,8 +240,17 @@ Idée : À intégrer en spectacle, lorsque la régie envoie une musique adhoc ??
 Le public n'a pas besoin de savoir ce qui est dit entre les deux personnages, juste se régaler de l'impact de la
 révélation !
 
+Exemple de révélations :
+- Deux collègues à un séminaire d'entreprise : "Tu vas être licencié"
+- Mari et femme en club vacances : "Je veux divorcer"
+- Baptême du fils de l'autre, meilleurs amis : "J'ai besoin de 200 000 balles"
+- Marraine et filleule : "Je suis ta mère biologique"
+- Deux meilleures amies : "Je suis prise à The Voice"
+- Co-détenus à la cantine : "je t'ai dénoncé au juge"
+
 Sur la musique "Sous le vent" de Garou et Céline Dion, d'où le titre de l'exercice.  
 Et d'autres si Garou nous insupporte ;)
+
 
 ## Échauffement - "L'évasion de prison à 5"
 (Ressemble à l'échauffement "Into the Jungle")  
@@ -257,7 +286,10 @@ En duo.
 
 A est en action, une action répétitive, s'occuper du jardin, peindre un mûr, faire la cuisine.  
 B arrive, et lui fait une révélation fracassante.  
-Comme pour la révélation en chorégraphie, A continue son action, en prenant en compte la révélation.
+Comme pour la révélation en chorégraphie, A continue son action, en prenant en compte l'impact de la révélation.
+
+On fait monter l'enjeu : l'un dit un truc à l'autre qui surréagit et on monte en intensité.
+
 
 Tips de réussite :
 - Quand je fais mon action, je me pose la question "J'aime faire ça ?", "Je sais bien faire ça ? (expertise)"

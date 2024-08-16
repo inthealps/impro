@@ -327,15 +327,9 @@ Tips de réussite :
 Reilly.)
 
 ## Scribes
-<img src="{{ 'assets/images/scribes/stg-impro-panache/stage-impro-panache-1.jpg' | relative_url }}" width="800" alt="Scribe">
+<img src="{{ 'assets/images/scribes/stg-impro-panache/impro-panache-1.jpg' | relative_url }}" width="800" alt="Scribe">
 <br>
 <br>
-<img src="{{ 'assets/images/scribes/stg-impro-panache/stage-impro-panache-2.jpg' | relative_url }}" width="800" alt="Scribe">
-<br>
-<br>
-<img src="{{ 'assets/images/scribes/stg-impro-panache/stage-impro-panache-3.jpg' | relative_url }}" width="800" alt="Scribe">
-<br>
-<br>
-<img src="{{ 'assets/images/scribes/stg-impro-panache/stage-impro-panache-4.jpg' | relative_url }}" width="800" alt="Scribe">
+<img src="{{ 'assets/images/scribes/stg-impro-panache/impro-panache-2.jpg' | relative_url }}" width="800" alt="Scribe">
 <br>
 <br>

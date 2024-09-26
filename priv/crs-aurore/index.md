@@ -103,7 +103,10 @@ Nous sommes seulement chargés de notre personnage et de son état interne.
 
 Tips :
 Se poser la question "Quelle est la singularité de cette scène".
-Y répondre. Et pousser cette singularité (Mérédith en pratiquante de Capoeira, Aurore la pousse : "continue ! ne dis rien ! n'arrête pas !").
+Y répondre. Et accentuer cette singularité !
+Quels sont les décalages, comment les pousser encore plus loin ?
+Quelles sont les différences d'énergie, d'état -> les pousser encore plus loin.
+(Mérédith en pratiquante de Capoeira, Aurore la pousse : "continue ! ne dis rien ! n'arrête pas !").
 
 
 Pistes de réussite :
@@ -112,3 +115,11 @@ Pistes de réussite :
 - On veut savoir qui vous êtes l'un et l'autre.
 - On veut voir ce qui se joue entre vous.
 - Ressentez plutôt que de chercher à montrer quelque chose !
+
+
+Idée spectacle :
+Intéressant d'intégrer une scène d'inconnus dans les plateformes d'un long-form (on brise la règle "Vous vous connaissez !")
+
+
+Règles immuables (mais ce ne sont que des règles, hein)
+- Dire OUI pour que ça converge ! On perd trop de temps sinon ... #scènesàrallonge

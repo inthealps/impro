@@ -22,7 +22,7 @@ Au départ de l'incarnation, de la "descente", on part du lâcher prise, du corp
 Plus tard, on reconvoquera le cerveau pour savoir quoi faire de ce qu'on a trouvé.
 
 La détente permet de contrôler notre énergie.
-Souvent on entre sur scène feu-flamme ;)
+Souvent, on entre sur scène feu-flamme ;)
 Trop d'énergie va nous couper de l'écoute. Nous faire entrer dans du punch "déconnecté" de l'autre et de nous-même.
 
 L'état de jeu, c'est de sortir de notre journée, de notre facette de comédien.ne.
@@ -64,12 +64,23 @@ Là encore, on patiente jusqu'à arriver quelque part.
 ### 3. Descente via le corps
 Ancré au sol, yeux fermés, on va se concentrer sur notre corps. En faire le tour.
 Ressentir les tensions, se relâcher.
-Puis on va se concentrer sur une zone particulière, on va la ressentir.
+Ensuite, on va se concentrer sur une zone particulière, on va la ressentir.
 Par exemple un coude, un genou, un pied, ...
-Puis on va mobiliser cette zone doucement, avec différentes amplitudes, différentes vitesses.
+Puis, on va mobiliser cette zone doucement, avec différentes amplitudes, différentes vitesses.
 
 On explore ce que ça procure comme sensations corporelles, est-ce que ça "tire" d'autres mouvements, une posture corporelle, une manière de se déplacer, de regarder ?
 Prendre le temps de l'exploration.
+
+### 4. Descente via une position + une manière de respirer
+On adopte une position quelconque, mais fixe.
+On choisit une manière de respirer, une respiration particulière.
+On fait monter ses sensations, on patiente le temps que le personnage arrive ;)
+
+### 4. Descente via une démarche + un borborygme
+On déambule dans la pièce, on recherche une démarche particulière.
+On laisse sortir un borborygme, un son, un bruit, avec lequel on va jouer, que l'on va adapter jusqu'à trouver notre personnage.
+On choisit une manière de respirer, une respiration particulière.
+On fait monter ses sensations, on patiente le temps que le personnage arrive ;)
 
 Tous ces modes de descente vont nous permettre de trouver des choses sur notre personnage, de le construire, de l'incarner, de le rendre crédible et vivant.
 
@@ -80,8 +91,8 @@ Sous-sol -2, -3, -4 ... jusqu'à être à fond dans ce qu'on joue.
 C'est un exercice que l'on doit répéter et répéter encore.
 On peut le travailler en répétition (échauffements) ou à la maison, seul.e.
 
-Il est important de répéter tous les modes de descente, de bosser ces 3 entrées, en en bougeant les curseurs. 
-Repérer laquelle est la plus facile pour moi, la plus efficace ? Ou au contraire la p^lus difficile, et la travailler, encore ...
+Il est important de répéter tous les modes de descente, de bosser ces 3 entrées, en en modifiant les curseurs. 
+Repérer laquelle est la plus facile pour moi, la plus efficace ? Ou au contraire la plus difficile, et la travailler, encore ...
 
 
 Il va arriver que l'on sorte brièvement du personnage, que l'on remonte les étages.
@@ -106,7 +117,7 @@ Se poser la question "Quelle est la singularité de cette scène".
 Y répondre. Et accentuer cette singularité !
 Quels sont les décalages, comment les pousser encore plus loin ?
 Quelles sont les différences d'énergie, d'état -> les pousser encore plus loin.
-(Mérédith en pratiquante de Capoeira, Aurore la pousse : "continue ! ne dis rien ! n'arrête pas !").
+(Mérédith en pratiquante de Capoeira, Aurore la pousse : "Continue ! Ne dis rien ! N'arrête pas !").
 
 
 Pistes de réussite :
@@ -117,9 +128,16 @@ Pistes de réussite :
 - Ressentez plutôt que de chercher à montrer quelque chose !
 
 
-Idée spectacle :
+Idée pour les spectacles :
 Intéressant d'intégrer une scène d'inconnus dans les plateformes d'un long-form (on brise la règle "Vous vous connaissez !")
 
 
 Règles immuables (mais ce ne sont que des règles, hein)
-- Dire OUI pour que ça converge ! On perd trop de temps sinon ... #scènesàrallonge
+- Dire OUI pour que l'on converge dans l'écriture de l'histoire ! Pas de OUI MAIS, de vrais gros OUI sans négociation, on perd trop de temps sinon ... #scènesàrallonge
+- Ancrage, ancrage, ancrage ! Les déplacements sont des choix délibérés, pas une fuite du comédien en "risque".
+- Le personnage en status bas rend puissant le personnage en status haut. C'est son job ! Le status haut peut être gentil et bienveillant si le status bas est très bas.
+- Attention à la position "Frites" (2 comédien.ne.s à 1m50 de distance, face à face, qui blablatent) -> Pensez "distance", corporel différent, ...
+- Prendre un personnage permet de ne pas être nous-même sur scène -> Ça parait être une lapalissade, mais c'est important de le rappeler.
+- Tenir nos propositions, les exploiter au maximum sans les lâcher. La facilité est de faire de nouvelles propositions. C'est mal !
+- Pour les propositions physiques, ou d'états, ou de status, ne pas se faire absorber par la proposition de l'autre, garder la sienne ! Par mimétisme, des fois, on va se rééquilibrer pour adopter la proposition de l'autre. C'est mal !
+- 

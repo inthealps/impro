@@ -27,6 +27,32 @@ La personne derrière va faire des bruitages, la personne devant va s'animer en 
 
 L'objectif est de lâcher-prise et de travailler la spontanéité.
 
+## Exercice "Le banc de poissons"
+En groupe, on se déplace dans la pièce, en essayant de rester groupé.e.s.
+On va essayer d'adopter un mouvement commun, une chorégraphie, comme un banc de poissons.
+Chacun peut faire une proposition, et les autres vont suivre. C'est une négociation constante et nécessite une forte écoute.
+
+Pistes de réussite :
+- Être au taquet, réactif.ve et en écoute maximale
+- "Tirer le fil narratif" : on bâtit sur ce qui a été posé, sans multiplier les propositions concurrentes, et on la pousse jusqu'au bout (on va "épuiser" la situation)
+- Occuper l'espace scénique, rester conscient de notre positionnement, de ce qu'il raconte : est-ce qu'on nage à contre-courant, quel rythme a-t-on ?
+
+## Exercice "La plateforme"
+2 joueurs et un observateur.
+
+Les 2 joueurs vont jouer une scène, et l'observateur va la regarder.
+
+Dès que l'observateur sent que la scène a atteint ses objectifs de "plateforme" (qui sont les personnages ? leurs prénoms ? leur relation ? quels sont leurs enjeux ?) il va stopper la scène.
+Il va ensuite expliciter les enjeux, et ce qu'il verrait comme rebondissement possible. Bref, il va raconter la suite de l'histoire.
+
+Cet exercice permet de travailler la construction d'une histoire, et d'installer des plateformes efficaces.
+
+Pistes de réussite :
+- L'observateur peut side-coacher : il peut noter les refus ou négociations, il peut noter le conflit et le stopper direct, ...
+
+
+# Jeu
+
 ## Jeu "Freeze sans tag"
 2 personnes en scène.
 On leur donne un thème, et ils démarrent une scène.
@@ -69,6 +95,7 @@ Ca peut être une énergie différente (états de 1 à 7), ça peut être un sta
 ## Tenez vos propositions
 "Si tu chantes en début de scène, chante toute la scène !"
 "Tu fais une proposition corporelle, tiens-la !! Ne lâche pas !!"
+Rebondir sur ce qui a déjà été installé, et ne pas multiplier les propositions.
 
 ## "OUI ET" inconditionnel
 - Acceptez les propositions de vos partenaires SANS négociation. C'est un OUI franc et massif.
@@ -80,6 +107,8 @@ Ca peut être une énergie différente (états de 1 à 7), ça peut être un sta
 Votre nouvelle idée sera certainement à nouveau valable dans 5mn.
 Cela va éviter de s'éparpiller, de partir dans tous les sens, et de ne pas finir ce qu'on a commencé.
 Cela va éviter d'empiler les couches de lasagnes inutilement, de multiplier les "balles perdues", de complexifier l'histoire.
+
+Épuiser les situations, c'est avant tout rebondir sur ce qui a déjà été installé !
 
 ## Soyez subtils
 Ne pas tout dire, ne pas tout montrer.
@@ -93,4 +122,12 @@ Commencer la scène au milieu, sans préambule ni présentation : les personnage
 Trouver quel est le moteur qui fait que ça marche, et pousser ce moteur.
 Est-ce une mimique ? Est-ce une phrase que l'on répète ? Est-ce un tic ? Est-ce un état ? Est-ce un jeu de pouvoir ? ...
 
+## Avancer dans l'histoire
+Si on sent qu'on tourne en rond se passer la question "Qu'est-ce qui se passe dans 5mn ? Dans 5 heures ? Dans 5 jours ? Dans 5 ans ?"
+Ou si on a besoin de précisions sur les personnages, et apporter un éclairage nouveau, se poser la question "Qu'est-ce qui s'est passé avant ? Il y a 5 ans ? Il y a 5 jours ?"
 
+Répondre à cette question, et le jouer !
+
+## Faites les choses plutôt que de les raconter ! ("Show, don't tell")
+Jouer les scènes. Ne pas les raconter.
+C'est ce qui fait l'Histoire.

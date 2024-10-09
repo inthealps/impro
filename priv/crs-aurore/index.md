@@ -102,6 +102,26 @@ Toujours se poser la question : "Qu'est-ce que ça fait à mon personnage ?"
 
 Apprendre à "respirer dans son personnage" ... c'est-à-dire, comment est mon personnage lorsqu'il ne fait rien (pour éviter d'être toujours dans la proposition).
 
+## Exercice "La balle d'énergie"
+On est en cercle.
+On se passe une balle d'énergie. Elle peut avoir n'importe quelle forme, n'importe quelle taille, et nous mettre (i.e. "mettre notre personnage") dans un état quelconque.
+On va la ressentir, la faire exister, puis aller vers un autre personnage pour la donner.
+Ce personnage va la recevoir, se mettre dans le même état que le personnage qui vient de lui transmettre, puis, doucement, transformer la balle et son état pour une nouvelle proposition.
+
+Source : Caspar Schjelbred
+
+"Les gestes, les mimes et les émotions sont les avenues de l'impro. Les situations et les personnages sont les boulevards"
+
+
+## Jeu "Je suis vraiment d'accord avec toi"
+2 personnes en scène.
+On leur donne un thème, et ils démarrent une scène.
+La première phrase sera "Je suis vraiment d'accord avec toi".
+
+Pistes de réussite :
+- Des gros OUI. Si oon est vraiment d'accord, on est VRAIMENT d'accord, pas de négociation.
+- Le conflit empêche de construire un équilibre, nécessaire à la plateforme de l'histoire.
+
 
 ## Jeu "La salle d'attente"
 2 chaises rapprochées.
@@ -132,12 +152,62 @@ Idée pour les spectacles :
 Intéressant d'intégrer une scène d'inconnus dans les plateformes d'un long-form (on brise la règle "Vous vous connaissez !")
 
 
-Règles immuables (mais ce ne sont que des règles, hein)
-- Dire OUI pour que l'on converge dans l'écriture de l'histoire ! Pas de OUI MAIS, de vrais gros OUI sans négociation, on perd trop de temps sinon ... #scènesàrallonge
-- Ancrage, ancrage, ancrage ! Les déplacements sont des choix délibérés, pas une fuite du comédien en "risque".
-- Le personnage en status bas rend puissant le personnage en status haut. C'est son job ! Le status haut peut être gentil et bienveillant si le status bas est très bas.
-- Attention à la position "Frites" (2 comédien.ne.s à 1m50 de distance, face à face, qui blablatent) -> Pensez "distance", corporel différent, ...
-- Prendre un personnage permet de ne pas être nous-même sur scène -> Ça parait être une lapalissade, mais c'est important de le rappeler.
-- Tenir nos propositions, les exploiter au maximum sans les lâcher. La facilité est de faire de nouvelles propositions. C'est mal !
-- Pour les propositions physiques, ou d'états, ou de status, ne pas se faire absorber par la proposition de l'autre, garder la sienne ! Par mimétisme, des fois, on va se rééquilibrer pour adopter la proposition de l'autre. C'est mal !
-- 
+# Règles immuables (mais ce ne sont que des règles, hein)
+## OUI
+Dire OUI pour que l'on converge dans l'écriture de l'histoire ! Pas de OUI MAIS, de vrais gros OUI sans négociation, on perd trop de temps sinon ... #scènesàrallonge
+
+## Ancrage
+Ancrage, ancrage, ancrage ! Les déplacements sont des choix délibérés, pas une fuite du comédien en "risque".
+
+## Le status bas fait le status haut
+Le personnage en status bas rend puissant le personnage en status haut. C'est son job ! Le status haut peut être gentil et bienveillant si le status bas est très bas.
+
+## Les frites
+Attention à la position "Frites" (2 comédien.ne.s à 1m50 de distance, face à face, qui blablatent) -> Pensez "distance", corporel différent, ...
+
+## Incarner des personnages
+Prendre un personnage permet de ne pas être nous-même sur scène -> Ça parait être une lapalissade, mais c'est important de le rappeler. 
+
+## Tenir nos propositions
+Tenir nos propositions, les exploiter au maximum sans les lâcher. La facilité est de faire de nouvelles propositions. C'est mal !
+
+Pour les propositions physiques, ou d'états de jeu, ou de status, ne pas se faire absorber par la proposition de l'autre, garder la sienne !
+Par mimétisme, des fois, on va se rééquilibrer pour adopter la proposition de l'autre. C'est mal !
+
+De même, on a tendance à vouloir faire abandonner l'action à son partenaire.
+"Tu viens m'aider à ramasser les pommes ?"
+NON
+"Elles sont bonnes ces pommes, tiens en voilà une ..."
+=> On ne perd rien, tout le monde garde son action, et on peut continuer à jouer.
+
+
+## Contrastes
+Les contrastes sont importants pour enrichir la scène. Contraste d'énergie, de status, de posture, de voix, de regard, de mouvement, ...
+Ca amène plein de "possibles" ...
+
+## Conflit
+Si on perd du temps à se chamailler, on ne construit pas l'histoire.
+Le conflit empêche de construire un équilibre, nécessaire à la plateforme de l'histoire.
+
+Malheureusement, c'est un réflexe des improvisateurs, et il déstabilise le socle de la scène.
+
+Exemple :
+Si tu fais des comptes, et qu'il y a un problème dans ces comptes, ça amène un conflit.
+"Tout va bien !"
+
+Au lieu de ça, jouons avec la normalité PUIS amenons un déséquilibre.
+
+
+## Précision
+Plus on est précis, plus on est clair, plus on est lisible.
+Donc, précisons les relations, les enjeux ... qu'est-ce qui se joue ?
+Souvent on construit sur des fondations mouvantes, et on finit par ne plus savoir où on en est ...
+
+## Les trucs chelous
+Attention à ne pas sortir trop de trucs peu crédibles (meurtres, ...)
+Un truc rouge qui coule du plafond n'est pas nécessairement du sang, mais ça peut être de la peinture rouge.
+
+## Parler d'un tiers
+Ne vous laissez pas aspirer par le personnage fort quand il n'est pas là.
+Au lieu de parler de lui, de ce qu'il a fait, de ce qu'il a dit, ... tirez vos propres fils !
+

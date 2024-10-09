@@ -5,6 +5,9 @@ title:  "Table des matières"
 
 ## Table des matières
 
+### 2020-202X
+[Exercices, séances de la troupe 'En roue libre']({{ 'priv/seances-en-roue-libre ' | relative_url }})
+
 ### 2023
 [La tête en impro, Ludo]({{ 'priv/stg-tete-impro/' | relative_url }})
 

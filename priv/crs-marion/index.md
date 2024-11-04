@@ -50,6 +50,52 @@ Cet exercice permet de travailler la construction d'une histoire, et d'installer
 Pistes de réussite :
 - L'observateur peut side-coacher : il peut noter les refus ou négociations, il peut noter le conflit et le stopper direct, ...
 
+## Exercice "La bougie"
+Tous les comédiens en déambulation dans la pièce.
+
+Tous et toutes surveillent le groupe, et dès qu'ils voient une bougie fondre (i.e. quelqu'un qui s'arrête et se met à "fondre", c'est à dire s'effondrer sur elle-même), ils vont venir soutenir la personne en train de fondre pour éviter qu'elle s'écroule.
+
+Cet exercice permet de travailler l'écoute globale, la gestion du temps, quand proposer, etc.
+
+Pistes de réussite :
+- Je suis en soutien inconditionnel, et disponible tout le temps !
+- Attendre de la stabilité avant de vouloir proposer autre chose (i.e. "devenir soi-même une bougie")
+- Équilibre du plateau, pas d'endroit délaissé, pas besoin d'être nombreux pour soutenir une bougie qui serait loin.
+- Se rendre visible des autres.
+
+## Exercice "La porte"
+Tout le monde au plateau, mais chacun pour soi
+
+Notre personnage veut absolument ouvrir une porte, mais notre comédien ne doit pas l'ouvrir.
+Le but de l'exercice est de trouver des (bonnes) raisons de ne pas ouvrir la porte, et de les justifier en les rendant explicites du public.
+Exemples :
+- "J'ai perdu mes clés"
+- "Je ne peux pas ouvrir la porte, il y a un tigre derrière"
+- "Il y a du vent qui m'empêche d'atteindre la porte"
+
+Pistes de réussite :
+- Ne pas boucler ! Continuer à être dans la proposition, se renouveler ! La perte des clés des une raison suffisante, mais je ne peux pas faire une scène avec ça, donc je retrouve mes clés rapidement. Mais il se passe autre chose, etc.
+- Rendre explicite les raisons de ne pas ouvrir la porte, par des mimes des paroles, du corps ... il faut que le public comprenne facilement.
+
+
+## Exercice "Quel est le jeu de la scène ?"
+2 comédiens en scène, deux observateurs.
+
+Les comédiens vont jouer une scène, les observateurs vont tâcher de détecter le jeu de la scène, qu'est-ce qui fait que cette scène fonctionne, comment étirer encore plus ce jeu de la scène.
+Chaque observateur va indiquer par un son ("ding ding") quand il a détecté le jeu de la scène, au moment où les comédiens jouent, afin de souligner ce qui selon lui, fonctionne.  
+Les comédiens peuvent alors pousser dans ce sens, jusqu'au prochain "ding-ding", pour affiner le jeu de la scène.
+
+
+## Exercice "Contraintes du narrateur"
+2 comédiens en scène, un narrateur.
+
+Les comédiens vont jouer une scène, en intégrant des contraintes données par le narrateur.
+
+Exemples de contraintes :
+- "Sophie et Pascal sont toujours en miroir"
+- "Sophie tourne le dos à Pascal à chaque fois qu'elle lui parle"
+- "Sophie et Pascal sont toujours en contact physique"
+
 
 # Jeu
 
@@ -87,6 +133,11 @@ Pistes de réussite :
 
 # "Règles immuables" de l'impro selon Marion
 Préambule : ce ne sont que des règles ... qui ne sont là que pour être contredites ;)
+
+## Énergie d'implication
+Il faut être à 100% dans la scène, et ne pas être en retrait.
+Il faut y croire, toujours ! Nous n'avons pas le droit de baisser les bras !
+L'amusement est à la base de tout. Ce ne doit pas être un objectif, mais une conséquence. 
 
 ## Tuilages avec contraste
 Entrez dans la scène avec du contraste, afin d'apporter de la richesse à la scène et qu'elle puisse avoir des chances de devenir une super scène.
@@ -131,3 +182,9 @@ Répondre à cette question, et le jouer !
 ## Faites les choses plutôt que de les raconter ! ("Show, don't tell")
 Jouer les scènes. Ne pas les raconter.
 C'est ce qui fait l'Histoire.
+
+## Variété de rythme
+Alterner les scènes longues avec une scène courte.
+"Un long-form avec que des scènes de 3mn c'est la mort de l'Art" - Marion
+Ou des scènes de blabla avec une scène d'action pure, ou sans parole.
+

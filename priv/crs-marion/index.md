@@ -21,7 +21,7 @@ Pistes de réussite :
 - Regarder la personne à qui on lance la balle
 - Ne pas anticiper le lancer, mais attendre que la personne valide
 
-## Exercice "La boîte"
+## Exercice "Le bruiteur"
 Une personne devant, une personne derrière.
 La personne derrière va faire des bruitages, la personne devant va s'animer en fonction de ces bruitages.
 
@@ -97,6 +97,98 @@ Exemples de contraintes :
 - "Sophie et Pascal sont toujours en contact physique"
 
 
+## Exercice "Ronde accentuée"
+On se met en cercle, on repère la personne à notre droite. Elle sera notre modèle.
+Puis on se mélange dans la pièce, de manière aléatoire, mais en gardant notre modèle en visibilité, et chacun va trouver un endroit où s'arrêter, et se mettre dans une position neutre, pieds légèrement écartés, buste droit, bras le long du corps.
+
+On va devoir répliquer les mouvements de notre modèle. Même imperceptibles.
+Qui vont être accentués par celui dont on est le modèle, et ainsi de suite.
+
+Ça va s'accentuer mécaniquement, jusqu'à devenir frénétique. Puis se calmer progressivement.
+
+On peut ajouter des sons si nécessaire. Les déplacements sont bien sûr autorisés, mais on doit veiller à rester en contact visuel avec notre modèle.
+
+Tips de réussite :
+- Être très attentif.ve à son modèle, on réplique tout, même les micro-mouvements involontaires ! (c'est même la base de cet exercice, partir de rien)
+- Répliquer même les choses qui sont faites par la personne, et non par le comédien/personnage (se gratter, aller poser ses lunettes, etc)
+- Se positionner à tour de rôle en observateur, pour voir comment ça évolue, assister à ce que ça donne de l'extérieur.
+
+
+## Exercice "Un geste, puis un autre, puis un autre ..."
+En solo.
+En musique.
+
+On marche dans la pièce.
+On va proposer un geste A.
+Puis on va refaire ce geste A, et proposer un autre geste, B.
+Ainsi de suite jusqu'à se perdre dans la proposition de gestes.
+
+Un peu comme une chorégraphie, mais lente.
+Les gestes sont assumés.
+On les soutient du regard, du corps, de l'énergie.
+On n'est pas dans du mime, mais dans juste du geste.
+Tous nos gestes ne sont pas en rapport, on ne raconte pas une histoire, ça ne vient pas de notre tête.
+
+
+## Exercice "Yuri, mais pas vraiment"
+En musique.
+Traversées de scènes, en solo, uniquement des propositions corporelles. Mais incarnées.
+On doit voir des émotions.
+Dès que la personne a fini sa traversée, une autre personne entame la sienne, et ainsi de suite.
+
+Tips de réussite :
+- On croit à ce qu'on fait.
+- On ne raconte pas une histoire, mais notre traversée peut être une suite logique de la précédente.
+- Rester spontané et corporel, pas dans la tête.
+- Les gestes sont précis et assumés. Le public doit penser qu'il s'agit d'un choix du comédien (délibéré et non un mouvement parasite), s'il veut pouvoir se raconter une histoire.
+
+
+## Exercice "Un geste, l'un après l'autre"
+En duo.
+Avec ou sans musique.
+
+A se met dans une position quelconque.
+B va répliquer cette position et entamer une transition vers une nouvelle position.
+Et ainsi de suite.
+
+Tips de réussite :
+- On croit à ce qu'on fait, on n'est pas encore dans la narration, juste le corporel : "Vers quoi cette position amène-t-elle mon corps ?"
+
+Puis, même exercice, mais on réagit à la proposition de l'autre.
+"Qu'est-ce que ce geste qu'il a fait, me fait à moi ?", quelle émotion ? Quelle réaction ? Quelle action celà m'amène à faire ?
+
+Sans bruitage ni parole.
+Qu'est-ce qui va être le plus juste ?
+On n'est pas obligé de se précipiter. On peut laisser infuser.
+
+On n'est pas obligé d'en faire des tonnes, le minimalisme a du bon ;)
+
+
+## Exercice "Ben vas-y ! OK ! Suis-moi !"
+En duo.
+On se met en face de son partenaire.
+A va dire "Ben vas-y !" avec une intention.
+En réaction, B va répondre "Ben vas-y !" avec une autre intention.
+
+Comme on n'a pas la pression du texte, on va pouvoir travailler nos émotions, mais aussi faire varier nos états, nos positions (loin/près, face à face, ou pas, etc), le volume de nos voix, ...
+
+Puis même exercice avec "OK !", puis avec "Suis-moi !"
+
+Tips de réussite :
+- "Qu'est-ce que l'autre me renvoie comme info ?" (son corps, sa voix, son regard, ses gestes ?)
+- Je ne peux rien dire d'autre que "Ben vas-y !", alors je m'invente le sous-texte, je me raconte une histoire ("Suis-moi !" + sous-texte "... sinon je vais mourir !")
+- On peut se mettre en tête un mantra également : "Je veux ce travail ! Je VEUX ce travail ! JE VEUX CE TRAVAIL !" et voir comment ça influe sur notre jeu. 
+
+
+## Exercice "Que des regards"
+En duo.
+On se met côte à côte.
+
+A regarde B.
+B accueille, tourne la tête, infuse, qu'est-ce que ce regard lui fait ? et se retourne vers A pour lui renvoyer un autre regard.
+Et ainsi de suite ...
+
+
 # Jeu
 
 ## Jeu "Freeze sans tag"
@@ -130,6 +222,15 @@ Pistes de réussite :
 - On ajoute en mode OUI ET, on ne coupe pas les propositions, on les laisse se dérouler.
 - Trop de cérébral tue l'impro, on est dans l'instant présent, on se laisse porter par les propositions des autres.
 
+## Jeu "Mini-scènes à deux, sans parole"
+En duo.
+On va jouer des mini-scènes, sans parole, sans mime.
+Seuls les regards, les déplacements sont permis.
+
+Puis pareil, mais en musique.
+Quand la musique s'arrête, une seule phrase clot la scène.
+
+
 
 # "Règles immuables" de l'impro selon Marion
 Préambule : ce ne sont que des règles ... qui ne sont là que pour être contredites ;)
@@ -153,6 +254,9 @@ Rebondir sur ce qui a déjà été installé, et ne pas multiplier les propositi
 - Acceptez même le débile.
 - Acceptez même quand votre "idée est meilleure" ;)
 
+## Ne le créez pas, découvrez-le !
+Ne pas chercher à créer une situation, mais allez la découvrir chez votre partenaire.
+
 ## Épuisez les situations
 Épuisez les situations jusqu'au bout avant d'en proposer une nouvelle.
 Votre nouvelle idée sera certainement à nouveau valable dans 5mn.
@@ -164,6 +268,13 @@ Cela va éviter d'empiler les couches de lasagnes inutilement, de multiplier les
 ## Soyez subtils
 Ne pas tout dire, ne pas tout montrer.
 --> "Donner à comprendre"
+
+## Ne soyez pas caricaturaux
+On n'est pas obligé d'en faire des tonnes, le minimalisme a du bon ;)
+Chercher le minimalisme pour éviter le surjeu et trouver le jeu sincère.
+Tips : s'entrainer aux émotions devant son miroir (étonnement, joie, tristesse, colère, dégoût, peur, ...).
+Est-ce que je suis dans la caricature ? Est-ce que je suis dans le cliché ?
+En fais-je trop ? En fais-je assez ?
 
 ## "Start in the middle of"
 Commencer la scène au milieu, sans préambule ni présentation : les personnages sont déjà dans l'action !

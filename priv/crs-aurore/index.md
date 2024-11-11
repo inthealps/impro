@@ -102,6 +102,7 @@ Toujours se poser la question : "Qu'est-ce que ça fait à mon personnage ?"
 
 Apprendre à "respirer dans son personnage" ... c'est-à-dire, comment est mon personnage lorsqu'il ne fait rien (pour éviter d'être toujours dans la proposition).
 
+
 ## Exercice "La balle d'énergie"
 On est en cercle.
 On se passe une balle d'énergie. Elle peut avoir n'importe quelle forme, n'importe quelle taille, et nous mettre (i.e. "mettre notre personnage") dans un état quelconque.
@@ -111,6 +112,107 @@ Ce personnage va la recevoir, se mettre dans le même état que le personnage qu
 Source : Caspar Schjelbred
 
 "Les gestes, les mimes et les émotions sont les avenues de l'impro. Les situations et les personnages sont les boulevards"
+
+
+## Exercice "Transmission du regard"
+En cercle, quelqu'un décide de transmettre un "jeton" grâce à son regard.
+Pour se faire, il va regarder quelqu'un. Tous les autres vont regarder ostensiblement la personne "visée" (de manière à se synchroniser, on a bien compris qu'on regardait bien tous la même personne).
+On y va doucement, de manière à pas trop se paumer, ce n'est pas hyper évident de bien être certain de qui est visé.
+Mais en confiance, on va laisser un certain consensus apparaitre.
+
+
+Une fois que cet exercice est bien maitrisé, on peut le recommencer en se déplaçant doucement dans la pièce.
+
+
+## Exercice "Travail du Consentement"
+On déambule dan sla pièce, on va rencontrer un autre comédien.
+On va décider ensemble sans se parler, de ce qui est ok de faire ensemble, parmi les choix suivants :
+- Se regarder dans les yeux
+- Se prendre la main, les deux mains ...
+- Se mettre dos à dos et s'appuyer l'un contre l'autre.
+- Se placer côte à côte, en contact
+- Se prendre dans les bras
+
+Cet exercice peut être fait en "personnage", avec une émotion, mais toujours assez "proche de soi" tout de même.
+
+
+## Exercice "Synchronisation respiratoire"
+En duo, on va se synchroniser sur la respiration de l'autre.
+On peut se regarder dans les yeux, et se laisser porter par la respiration de l'autre.
+On est dans l'écoute fine, vision périphérique, écoute du souffle, ...
+
+Au bout d'un moment on va fusionner avec un autre groupe de 2.
+De manière identique, on va synchroniser nos respirations, en prenant notre temps.
+
+Puis à 8, etc ...
+
+Tips de réussite :
+- Juste chercher à se synchroniser, pas grave si on se perd momentanément, on se retrouve tranquillement.
+- C'est aussi un exercice de méditation, de lâcher-prise, de confiance en l'autre.
+
+
+
+## Exercice "Répliquer l'infime"
+(exo quasi identique à la "Ronde accentuée" de Marion G.)
+On se mélange dans la pièce, de manière aléatoire. On se fige, en se mettant dans une position neutre, pieds légèrement écartés, buste droit, bras le long du corps, puis on repère quelqu'un qui va être notre "modèle".
+
+
+On va devoir détecter les mouvements infimes de notre modèle. Même imperceptibles.
+Et les reproduire à l'identique.
+
+Tips de réussite :
+- Être très attentif.ve à son modèle, on réplique tout, même les micro-mouvements involontaires ! (c'est même la base de cet exercice, partir de rien)
+- Répliquer même les choses qui sont faites par la personne, et non par le comédien/personnage (se gratter, aller poser ses lunettes, etc)
+- Se positionner à tour de rôle en observateur, pour voir comment ça évolue, assister à ce que ça donne de l'extérieur.
+
+Cet exercice permet de se rendre compte que même lorsqu'il n'y a rien, il y a déjà quelque chose.
+"Tout est déjà là, n'inventez rien !" -> Un peu comme un mantra de Slow Impro de Mathieu Loos (NDLR)
+
+
+## Exercice "États 1-7 en 'personnage'"
+On glisse dans un personnage découvert par une des "descentes" travaillées.
+
+On va ensuite travailler sur les 7 états suivants (issu du bouquin de Mark Jane) :
+1. Vous êtes épuisé, vous n'avez aucune envie d'être là. Vous faites votre travail en économisant votre énergie au maximum. Chaque mouvement est difficile.
+2. Maintenant, vous êtes décontracté, on ne sent aucun enjeu dans ce travail. Vous le faites car vous devez le faire, n'y mettez aucun cœur.
+3. Maintenant, vous êtes technicien, vous faites votre travail comme demandé. Ni plus ni moins. Le travail est bien fait.
+4. Maintenant, vous avez un enjeu dans votre travail, vous voulez qu'il soit parfait. Vous êtes efficace ! Les clients défilent, vous savez exactement ce que vous avez à faire et c'est bien fait !
+5. C'est le coup de feu. Il y a beaucoup de clients, vous n'arrivez plus à fournir. Vous faites votre maximum pour satisfaire tout le monde, mais des clients commencent à être mécontent ! Vous devez aller vite !!!!!
+6. 2 min avant la fermeture, vous n'aurez jamais le temps de satisfaire tout le monde. Les clients s'énervent contre vous, et c'est de votre faute !!!!
+7. Vous avez échoué ! C'est fini, c'est mort, et tout est de votre faute !!!!
+
+L'animateur.ice raconte une histoire, illustrant chacune des deux étapes, sur un contexte quelconque (un restaurant, un magasin, une banque ...).
+Les étapes 5 et 6 doivent faire monter le stress et l'intensité :
+- "Y a t'il une bombe dans la pièce ??"
+- "IL Y A UNE BOMBE DANS LA PIÈCE !!!"
+
+
+## Exercice "Les présentations sont faites"
+À quatre. En musique.
+
+Par étape :
+1- Infusion personnelle sur la musique
+2- Se mettre en mouvement
+3- Une fois prêt.e, on s'avance en avant-scène et on se présente au public, sans parole, uniquement des regards, gestes, propositions physiques.
+
+Répéter l'exercice en effectuant une action en étape 3 (avec une musique différente).
+
+Puis répéter l'exercice en effectuant un monologue en étape 3 (là encore avec une musique différente).
+
+Bien faire attention à prendre le temps en étapes 1 et 2, pour que l'étape 3 soit vécue et ressentie.
+
+Ensuite, repasser les musiques pour glisser à nouveau dans les personnages, puis changer les musiques, de plus en plus rapidement, et voir si on arrive à retrouver nos personnages.
+
+
+**Truc en plus :**
+Possibilité d'utiliser les "personnages" découverts lors de cet exercice dans des scènes, voire dans un mid-form.
+Il est également possible de switcher de personnage lors de tuilages, ou de changements de scène.
+Pour se faire, repasser les musiques pour se remémorer les personnages infusés, et pouvoir redescendre dedans.
+
+En répétitions de troupe par exemple, on peut se mettre des contraintes pour aller chercher des personnages un peu plus marqués.
+
+Le travail du personnage c'est un entrainement de longue haleine, il faut le travailler, le retravailler, le répéter, le répéter encore, le retravailler, le retravailler encore ...
+
 
 
 ## Jeu "Je suis vraiment d'accord avec toi"
@@ -150,6 +252,43 @@ Pistes de réussite :
 
 Idée pour les spectacles :
 Intéressant d'intégrer une scène d'inconnus dans les plateformes d'un long-form (on brise la règle "Vous vous connaissez !")
+
+
+## Jeu "J'ai quelque chose à te dire ..."
+2 personnes en scène. Infusion en musique.
+
+La première phrase sera "J'ai quelque chose à te dire ...".
+(et c'est quelque chose d'important !)
+
+A est en jeu, il est en action, fait quelque chose, de précis, de concret.
+Une fois que l'action est claire, comprise, et avant que ça ne tourne en rond, B arrive, et lui dit "J'ai quelque chose à te dire ...".
+
+Pistes de réussite :
+- Attention à ne pas se faire aspirer par l'énergie de l'autre. On garde son énergie propre.
+- Idem, on garde ses gestes, sa posture, on reste dans son personnage. Et on ne le néglige pas à cause du dialogue.
+- Évidemment on réagit, mais on ne perd pas son personnage. On y revient.
+- Prendre le temps de recevoir ce qui est dit, de l'accueillir, d'y répondre sans l'atténuer.
+
+
+
+
+## Jeu long, garder un unique personnage pendant 45mn
+On va travailler sur un personnage unique, qu'on va garder pendant 45mn.
+
+Mon personnage se co-crée avec mes partenaires de jeu.
+Il est enrichi de nos interactions.
+Il est nourri de ce qui se passe autour de lui. Il faut que ça se transforme, que çàa ne reste pas figé.
+
+
+Se poser les questions :
+- N'en fais-je pas trop ? (travailler le minimalisme)
+- Quand est-ce que ça ne m'amuse plus ? (changer, aller chercher autre chose. C'est normal de traverser de l'ennui, mais réagir rapidement)
+
+Tips de réussite :
+- Garder le personnage, ne pas le lâcher
+- Penser corporalité. La corporalité, c'est le résidu qui reste du personnage incarné, c'est ce qu'on recherche.
+- Attention à ne pas rester bloqué.
+
 
 
 # Règles immuables (mais ce ne sont que des règles, hein)

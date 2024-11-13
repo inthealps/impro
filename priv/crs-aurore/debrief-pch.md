@@ -21,3 +21,12 @@ Il y a énormément à jouer avec ça.
 
 Empiler les propositions de fera qu'emberlificoter l'histoire, et ramener encore des zones de flou.
 
+
+
+### Personnage de Tristan
+Apporte plus de modulations dans le phrasé de ton personnage.
+Il porte des accélérations, des changements d'énergie.
+
+Il n'hésite pas à rentrer dans l'intime, parler de ses relations sexuelles et de ses envies.
+N'hésite pas à le déstabiliser.
+

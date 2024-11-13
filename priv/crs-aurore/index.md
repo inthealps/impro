@@ -291,21 +291,42 @@ Tips de réussite :
 
 
 
+## Personnages de podcasts
+On va construire des personnages grâce à des personnes qui témoignent d'événements vécus, dans les podcasts des Pieds sur Terre de Sonia Kronlund.
+
+### Retours d'Aurore en vrac sur nos performances
+- Inspirez-vous de sa manière de parler, de placer les silences, les hésitations. Quels sont ses tics de langage ? "Bon, bah, ...", "Voilà !", "Et pour tout dire ..." 
+- Repérez les changements de rythme. Où ont-ils lieu ? Pourquoi ?
+- Mettez une petite caractéristique corporelle à votre personnage, quelque chose qui va le distinguer de vous. Ce n'est pas une émotion, mais un truc physique. Comment il se tient ? Droit ? Voûté ? Quel est son port de tête ?
+- "Un personnage n'est vraiment défini que par sa vulnérabilité"
+- Mettre des silences sur les moments forts
+- Il faut être en empathie avec son personnage, on VIT à travers lui. Ca nous évitera le décrochage par exemple. Il pense vraiment ce qu'il dit, quoi qu'il dise.
+- S'ancrer et choisir les déplacements de notre personnage. Il ne se déplace pas pour se déplacer, mais pour une raison précise.
+- Plus notre personnage a vécu des choses dures, plus on peut être "fermé". Les choses vraiment dures vont durcir/blinder le personnage. Il peut les narrer sans tomber dans le pathos, mais les raconter de manière froide et clinique, avec de la distance. La résilience amène de la force, on n'est pas obligé d'être larmoyant.
+- Pour travailler la corporalité, on peut se dégager de l'Histoire racontée, et se raconter autre chose. Comment évolue-t-il dans son quotidien ? Comment sort-il les poubelles ? Se brosse les dents ? 
+- Sur scène, se poser la question "Comment accueille-t-il le regard des autres ?" : Est-il fuyant ? Tient-il le regard ? Comment se comporte-t-il face à un regard insistant ? Va-t-il chercher du soutien ? 
+
+
 # Règles immuables (mais ce ne sont que des règles, hein)
 ## OUI
 Dire OUI pour que l'on converge dans l'écriture de l'histoire ! Pas de OUI MAIS, de vrais gros OUI sans négociation, on perd trop de temps sinon ... #scènesàrallonge
 
+
 ## Ancrage
 Ancrage, ancrage, ancrage ! Les déplacements sont des choix délibérés, pas une fuite du comédien en "risque".
+
 
 ## Le status bas fait le status haut
 Le personnage en status bas rend puissant le personnage en status haut. C'est son job ! Le status haut peut être gentil et bienveillant si le status bas est très bas.
 
+
 ## Les frites
 Attention à la position "Frites" (2 comédien.ne.s à 1m50 de distance, face à face, qui blablatent) -> Pensez "distance", corporel différent, ...
 
+
 ## Incarner des personnages
 Prendre un personnage permet de ne pas être nous-même sur scène -> Ça parait être une lapalissade, mais c'est important de le rappeler. 
+
 
 ## Tenir nos propositions
 Tenir nos propositions, les exploiter au maximum sans les lâcher. La facilité est de faire de nouvelles propositions. C'est mal !
@@ -323,6 +344,7 @@ NON
 ## Contrastes
 Les contrastes sont importants pour enrichir la scène. Contraste d'énergie, de status, de posture, de voix, de regard, de mouvement, ...
 Ca amène plein de "possibles" ...
+
 
 ## Conflit
 Si on perd du temps à se chamailler, on ne construit pas l'histoire.
@@ -342,9 +364,11 @@ Plus on est précis, plus on est clair, plus on est lisible.
 Donc, précisons les relations, les enjeux ... qu'est-ce qui se joue ?
 Souvent on construit sur des fondations mouvantes, et on finit par ne plus savoir où on en est ...
 
+
 ## Les trucs chelous
 Attention à ne pas sortir trop de trucs peu crédibles (meurtres, ...)
 Un truc rouge qui coule du plafond n'est pas nécessairement du sang, mais ça peut être de la peinture rouge.
+
 
 ## Parler d'un tiers
 Ne vous laissez pas aspirer par le personnage fort quand il n'est pas là.

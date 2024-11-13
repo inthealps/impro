@@ -189,6 +189,84 @@ B accueille, tourne la tête, infuse, qu'est-ce que ce regard lui fait ? et se r
 Et ainsi de suite ...
 
 
+## Exercice "Amplifie ! Diminue ! Change !"
+En duo.
+En musique, ou pas.
+
+A entame un geste répétitif.
+Ce geste vient du corps, pas de la tête !
+
+B a 3 possibilités :
+- Demander à amplifier le geste
+- Demander à diminuer le geste
+- Demander à changer le geste
+
+Une amplification peut être réamplifiée, jusqu'à aller chercher les limites.
+Idem pour la diminution, qu'est-ce que le geste devient quand il est réduit à sa plus simple expression ?
+
+Si on voit que ça tourne en rond, ou que la proposition vient de la tête, on demande à changer, puis à changer, et changer encore.
+Jusqu'à que le comédien soit à bout d' "idées", pour revenir à des choses spontanées.
+
+C'est un excellent échauffement qui met vraiment le corps en mouvement et énergie.
+
+Tips de réussite :
+- On ne réfléchit pas, on est dans le corps, dans l'instant présent.
+- Jouer, trouver le rythme, B peut se laisser embarquer.
+- Se faire plaisir
+
+
+## Exercice "Geste + son"
+En duo.
+
+Alternativement, A et B vont proposer un geste plus un son.
+
+La proposition s'arrête quand le comédien s'arrête, l'autre prend la relève avec une autre proposition.
+
+
+## Exercice "Narration de 1 à 50"
+En cercle, un premier comédien entame une narration, en mode "je raconte une histoire".
+Pas de mime, pas d'autres gestes que ceux d'un narrateur.
+
+Au lieu de dire des phrases, il va compter : 1, 2 3, ...
+Quand il s'arrête, son voisin prend le relais, et continue la narration, en comptant 4, 5, 6, ...
+
+Tips de réussite :
+- On se concentre sur l'histoire, en essayant de se raconter sa propre histoire, d'essayer de savoir ce qui est joué. L'idée est de proposer une suite cohérente pour nous !
+- À notre tour, on continue avec cette histoire que l'on s'est créé.
+
+
+## Exercice "Monologue adressé, en gromelot"
+En duo.
+
+A va engager un monologue adressé à B, mais en gromelot.
+A va mettre les intentions qu'il veut.
+
+B ne répond pas, mais se laisse porter par le gromelot, et va accueillir ce qu'il ressent.
+
+A la fin du monologue, B va verbaliser ce qu'il a compris de la situation, qui sont les personnages, quel est leur lien.
+B va également dire ce qu'il a ressenti.
+
+A va ensuite expliciter ce qu'il a voulu dire, quelles étaient ses intentions.
+
+
+Variante pour en faire une "scène" :
+En duo, on se tourne le dos.
+Une musique est diffusée, on infuse et se laisse transporter par cette impulsion.
+
+Quand on est prêt, on se retourne, le jeu commence immédiatement, même si l'autre n'est pas prêt.e.
+
+Une scène sans parole démarre, portée par les émotions et nos réactions à ce que la situation, la musique, les réactions de l'autre nous inspirent.
+
+La musique s'arrête, A s'adresse à B en gromelot, une ou plusieurs phrases, puis B conclue avec une courte phrase de fin.
+
+Tips de réussite :
+- On est dans l'émotion, on est dans l'instant présent, on est dans le corps.
+- Prendre le temps d'accueillir et de réagir.
+- On dit plein de choses "juste" avec le corps, nos émotions, nos gestes et mouvements, le rythme, ...
+- Sans paroles, c'est souvent très juste et très fort.
+
+
+
 # Jeu
 
 ## Jeu "Freeze sans tag"
@@ -248,6 +326,8 @@ Ca peut être une énergie différente (états de 1 à 7), ça peut être un sta
 "Si tu chantes en début de scène, chante toute la scène !"
 "Tu fais une proposition corporelle, tiens-la !! Ne lâche pas !!"
 Rebondir sur ce qui a déjà été installé, et ne pas multiplier les propositions.
+
+Se fixer un mantra permet de rester focus sur sa proposition/ses enjeux.
 
 ## "OUI ET" inconditionnel
 - Acceptez les propositions de vos partenaires SANS négociation. C'est un OUI franc et massif.

@@ -21,11 +21,13 @@ Pistes de réussite :
 - Regarder la personne à qui on lance la balle
 - Ne pas anticiper le lancer, mais attendre que la personne valide
 
+
 ## Exercice "Le bruiteur"
 Une personne devant, une personne derrière.
 La personne derrière va faire des bruitages, la personne devant va s'animer en fonction de ces bruitages.
 
 L'objectif est de lâcher-prise et de travailler la spontanéité.
+
 
 ## Exercice "Le banc de poissons"
 En groupe, on se déplace dans la pièce, en essayant de rester groupé.e.s.
@@ -36,6 +38,7 @@ Pistes de réussite :
 - Être au taquet, réactif.ve et en écoute maximale
 - "Tirer le fil narratif" : on bâtit sur ce qui a été posé, sans multiplier les propositions concurrentes, et on la pousse jusqu'au bout (on va "épuiser" la situation)
 - Occuper l'espace scénique, rester conscient de notre positionnement, de ce qu'il raconte : est-ce qu'on nage à contre-courant, quel rythme a-t-on ?
+
 
 ## Exercice "La plateforme"
 2 joueurs et un observateur.
@@ -50,6 +53,7 @@ Cet exercice permet de travailler la construction d'une histoire, et d'installer
 Pistes de réussite :
 - L'observateur peut side-coacher : il peut noter les refus ou négociations, il peut noter le conflit et le stopper direct, ...
 
+
 ## Exercice "La bougie"
 Tous les comédiens en déambulation dans la pièce.
 
@@ -62,6 +66,7 @@ Pistes de réussite :
 - Attendre de la stabilité avant de vouloir proposer autre chose (i.e. "devenir soi-même une bougie")
 - Équilibre du plateau, pas d'endroit délaissé, pas besoin d'être nombreux pour soutenir une bougie qui serait loin.
 - Se rendre visible des autres.
+
 
 ## Exercice "La porte"
 Tout le monde au plateau, mais chacun pour soi
@@ -266,6 +271,70 @@ Tips de réussite :
 - Sans paroles, c'est souvent très juste et très fort.
 
 
+## Exercice "Déplacement avec Mantra"
+Déambulation dans la pièce.
+On se répète un mantra, une phrase, en boucle : On veut atteindre quelque chose visible dans la pièce, mais sans l'atteindre.
+
+Le coach va claper dans ses mains, on se fige, toujours avec le mantra en tête, la détermination d'atteindre notre objectif.
+Le coach va venir nous voir tour à tour pour étudier comment est positionné notre regard, notre corps.
+
+
+Tips de réussite :
+- On n'en fait pas trop, mais on doit voir la détermination, la concentration, la nécessité absolue d'atteindre cet objectif. 
+
+
+## Exercice "Fais ton job (jeu de Taquin)"
+12 joueurs.
+
+On se positionne dans la pièce comme dans le schéma ci-dessous :
+
+<img src="{{ 'assets/images/scribes/crs-marion/impro-carre.jpg' | relative_url }}" width="800" alt="Scribe">
+
+Initialement, la position centrale est inoccupée.
+Le but est de combler les places vides.
+Dès qu'une place est vide on doit la combler.
+Du coup, une nouvelle place est vide (i.e. le joueur a quitté sa place), un joueur doit se déplacer pour la combler.
+Etc.
+
+
+Tips de réussite :
+- Être à l'écoute
+- Ne pas anticiper, mais réagir
+- Négocier rapidement, réagir quand quelqu'un prend la place qu'on était censé occuper.
+
+Cet exercice permet de travailler la réactivité, l'écoute, la négociation, la disponibilité, ...
+Lorsqu'on est en réserve, on doit être vigilant à ce qui est nécessité par le spectacle :
+- La scène est vide ? Il faut rentrer.
+- La scène patine, on coupe, et on rentre.
+- La scène n'a besoin de rien, on ne fait rien.
+- etc.
+
+
+## Exercice "Narration avec carte de consignes"
+En duo.
+Un metteur en scène va diriger un narrateur avec les consignes suivantes :
+- Action ! (Le narrateur doit adapter immédiatement son récit pour décrire une ou plusieurs actions)
+- Détails ! (Le narrateur doit détailler un élément de la scène, décor, objet, ...)
+- Émotions ! (Le narrateur doit décrire finement les émotions des personnages, qu'est-ce qu'ils ressentent ?)
+
+On fait une tourne comme ça.
+
+On permute ensuite les rôles.
+
+Indications avancées :
+On va ajouter des consignes supplémentaires :
+- Silence ! (Le narrateur doit se taire, et laisser son corps parler)
+- Bruitage ! (Le narrateur doit faire des bruitages pour illustrer son récit)
+- Ralentis ! (Le narrateur doit ralentir le rythme de son récit)
+- Accélère ! (Le narrateur doit accélérer le rythme de son récit, les actions, ...)
+
+Tips de réussite :
+- Faire une carte pliée avec les 3 premières consignes, et les 4 autres consignes sur une autre face.
+- En tant que comédien, on peut penser à ces consignes en cours de jeu, et les appliquer à notre jeu.
+- Bien détecter, en tant que metteur en scène, ce dont la scène a besoin, et donner la consigne adéquate. 
+- En jeu, si la scène patine ou s'essouffle, ou prend une direction faible, ou non souhaitée, un comédien (oui oui) en réserve peut s'autoriser à interrompre une scène pour donner une consigne de jeu : j'aimerais une scène d'amour, sans parole, j'aimerais voir tous les comédiens en scène, etc. Pratiquer régulièrement le rôle de metteur en scène va nous donner l'aisance et la lecture de jeu nécessaire pour le faire !
+
+
 
 # Jeu
 
@@ -307,6 +376,40 @@ Seuls les regards, les déplacements sont permis.
 
 Puis pareil, mais en musique.
 Quand la musique s'arrête, une seule phrase clot la scène.
+
+
+## Jeu "Scènes avec carte de consignes"
+Un metteur en scène va diriger la scène avec les cartes de consignes :
+- Action !
+- Détails !
+- Émotions !
+- Silence !
+- Bruitage !
+- Ralentis !
+- Accélère !
+
+(voir détail des consignes dans exercice "Narration avec carte de consignes")
+
+Variantes :
+- Je veux voir une scène avec tous les comédiens, sans parole, et uniquement en action.
+
+Tips de réussite :
+- Des impulses claires du metteur en scène donnent des scènes claires ;)
+- Si j'ai une idée claire, je la propose, je la joue. Voire je dis "Laissez-moi faire, faites-moi confiance !". Les autres vont suivre. Cela pourrait être considéré comme une rudesse, mais ça peut âtre salvateur. Il faut juste veiller à ce que ça ne soit pas toujours les mêmes personnes qui prennent la parole. 
+
+## Jeu "Histoire Public, mise en scène Comédiens"
+Le public va dire ce qu'il veut voir comme Histoire, à chaque scène.
+Les comédiens vont jouer cette histoire, en décidant la mise en scène :
+- Nombre de personnes
+- Tempo (rapide / lent)
+- Durée de la scène
+- Quantité de paroles (aucune, peu, beaucoup)
+
+Libérés de la narration, les comédiens n'ont qu'à se concentrer sur leur jeu et bien être alignés sur la mise en scène :
+- Je ne parle pas si personne ne parle
+- J'essaie de trouver le jeu de la scène
+- Je m'adapte au tempo global
+- J'essaie de savoir ce dont la scène a besoin
 
 
 
@@ -363,6 +466,7 @@ Commencer la scène au milieu, sans préambule ni présentation : les personnage
 À quoi joue-t-on ?
 Trouver quel est le moteur qui fait que ça marche, et pousser ce moteur.
 Est-ce une mimique ? Est-ce une phrase que l'on répète ? Est-ce un tic ? Est-ce un état ? Est-ce un jeu de pouvoir ? ...
+Des fois le jeu de la scène c'est juste répéter ce que font les autres, de suivre le mouvement.
 
 ## Avancer dans l'histoire
 Si on sent qu'on tourne en rond se passer la question "Qu'est-ce qui se passe dans 5mn ? Dans 5 heures ? Dans 5 jours ? Dans 5 ans ?"

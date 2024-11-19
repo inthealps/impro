@@ -353,6 +353,7 @@ Reco de Marion :
 - "Samuël" sur Arte, une petite série où le perso part dans sa tête (et on voit ce qu'il se passe dans sa tête) -> ça donne à voir.
 - "Appel trop con de Martin" -> comment il fait pour reprendre les propos de ses interlocuteurs, en mode "OUI ET", et les détourner pour les amener à dire ce qu'il veut.
 
+
 ## Jeu "Univers en expansion"
 C'est l'inverse de la "Peau de chagrin".
 
@@ -368,6 +369,7 @@ Pistes de réussite :
 - On se permet de partir dans des directions différentes, mais on revient à la phrase de fin.
 - On ajoute en mode OUI ET, on ne coupe pas les propositions, on les laisse se dérouler.
 - Trop de cérébral tue l'impro, on est dans l'instant présent, on se laisse porter par les propositions des autres.
+
 
 ## Jeu "Mini-scènes à deux, sans parole"
 En duo.
@@ -397,6 +399,7 @@ Tips de réussite :
 - Des impulses claires du metteur en scène donnent des scènes claires ;)
 - Si j'ai une idée claire, je la propose, je la joue. Voire je dis "Laissez-moi faire, faites-moi confiance !". Les autres vont suivre. Cela pourrait être considéré comme une rudesse, mais ça peut âtre salvateur. Il faut juste veiller à ce que ça ne soit pas toujours les mêmes personnes qui prennent la parole. 
 
+
 ## Jeu "Histoire Public, mise en scène Comédiens"
 Le public va dire ce qu'il veut voir comme Histoire, à chaque scène.
 Les comédiens vont jouer cette histoire, en décidant la mise en scène :
@@ -411,6 +414,19 @@ Libérés de la narration, les comédiens n'ont qu'à se concentrer sur leur jeu
 - Je m'adapte au tempo global
 - J'essaie de savoir ce dont la scène a besoin
 
+
+## Jeu "6 impros en 10mn"
+6 comédiens.
+On va jouer 6 impros, en 10mn.
+On va alterner des impros courtes, et des longues, des scènes dans le texte et dans le corps.
+On fait des tuilages entre les scènes d'une impro.
+On marque la fin d'une impro par un "Fin de l'impro" et ça enchaine !
+On a un timer pour nous aider à tenir les 10mn.
+
+Très instructif pour travailler la variété de rythme, la variété de scènes, la variété de jeu, ...
+Très instructif pour que chacun.e puisse "faire son job" et sentir quand tuiler, quand couper, etc ...
+
+On a moins la pression que sur un long-form car au "pire", on ne foire qu'une impro !
 
 
 # "Règles immuables" de l'impro selon Marion
@@ -479,7 +495,15 @@ Jouer les scènes. Ne pas les raconter.
 C'est ce qui fait l'Histoire.
 
 ## Variété de rythme
-Alterner les scènes longues avec une scène courte.
+Alterner les scènes longues, avec une scène courte.
 "Un long-form avec que des scènes de 3mn c'est la mort de l'Art" - Marion
 Ou des scènes de blabla avec une scène d'action pure, ou sans parole.
+Varier les tempos, les énergies, les états des personnages, ...
 
+## Donner du visuel
+L'impro c'est du théâtre, on veut VOIR !
+On veut voir des personnages affairés à la même oeuvre collective, mais avec des tâches individuelles.
+Dans un labo, quelqu'un peut regarder dans un microscope, un autre peut observer et noter dans un carnet, un autre peut manipuler des tubes à essai, un autre peut consulter un dossier, ...
+On peut même jouer le rat de laboratoire, plutôt que de le décrire ...
+-> Show, don't tell !
+On veut voir des "passages", 

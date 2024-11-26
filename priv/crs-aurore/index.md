@@ -12,9 +12,15 @@ Dans ce module Impro Boost on va parler d'incarnation de personnages.
 Incarner c'est interpréter un personnage, en se sentant "lui".
 Lorsqu'on incarne un personnage, on est lui, on pense comme lui, on réagit comme lui, on parle comme lui, on bouge comme lui.
 On est en empathie avec notre personnage, on y croit, on s'y croit, on le respecte.
+Ce qui se passe se passe vraiment ! C'est pour de vrai !
 
 Aurore insiste sur le lâcher-prise nécessaire pour bien incarner un personnage.
+On parle d'Altérité : on est quelqu'un d'autre que soi, un personnage.
+C'est dur en improvisation, plus dur que dans le théâtre où on a un texte, une mise en scène, des répétitions, ...
+
 Aussi, pendant les cours avec Aurore, on doit se sentir en sécurité, en confiance, pour oser se lâcher, sans crainte du regard des autres ...
+
+On est dans le "réel", dans le jeu sincère, on va quitter les personnages caricaturaux dans ce module.
 
 
 ## Détente, État de jeu et Disponibilité
@@ -293,8 +299,38 @@ Tips de réussite :
 
 ## Personnages de podcasts
 On va construire des personnages grâce à des personnes qui témoignent d'événements vécus, dans les podcasts des Pieds sur Terre de Sonia Kronlund.
+Un personnage, on peut le travailler, et le retravailler.
 
-### Retours d'Aurore en vrac sur nos performances
+### Exercice "Mon personnage est triste"
+On va confronter ce personnage que l'on a travaillé à une situation triste.
+Il se remémore un événement triste, et on va voir comment il réagit.
+On va voir comment il se comporte, comment il réagit, comment il se déplace, comment il parle, comment il pense, comment il se sent, ...
+On vit le moment et l'émotion à travers lui.
+
+On déambule dans la pièce avec cette émotion, puis on s'arrête devant une personne.  
+On la regarde, elle "prend" ces regards, puis elle dit UNE phrase unique.
+
+À l'inverse, si une personnage s'arrête devant nous, on "prend" son regard (i.e. on réagit à ce regard, "qu'est-ce que cela me fait ?"), et on lui dit UNE phrase unique.
+
+Puis idem avec "Mon personnage est joyeux", "Mon personnage est en colère", "Mon personnage est amoureux", ...
+
+
+### Exercice "L'incident - Rappel des faits"
+4 comédiens en scène.
+
+En personnage, un premier comédien va relater un incident, on se concentrant sur les faits (et non sur ses émotions, ce qu'il a ressenti).
+On ne raconte que des faits. Ce qu'il s'est passé. Ce qu'il a vu. Ce qu'il a entendu.
+Une fois l'anecdote racontée, un autre comédien va venir l'enrichir de détails, il va mettre le focus sur un autre aspect de l'incident, mais il parle bien du même incident.
+
+Tips de réussite :
+- Lâcher-prise sur le contrôle de son personnage
+- Regarder le public : ancrer son regard sur certaines personnes du public permet de lâcher le cerveau. Cette connexion empathique nous aide à nous ancrer, il y a moins de stress du comédien. 
+- Quitter un regard peut aussi nous donner des idées, nous permettre de rebondir pour nous renouveler.
+- Ne pas sur-expliquer, laisser le public faire sa part du travail.
+
+
+
+# Retours d'Aurore en vrac sur nos performances
 - Inspirez-vous de sa manière de parler, de placer les silences, les hésitations. Quels sont ses tics de langage ? "Bon, bah, ...", "Voilà !", "Et pour tout dire ..." 
 - Repérez les changements de rythme. Où ont-ils lieu ? Pourquoi ?
 - Mettez une petite caractéristique corporelle à votre personnage, quelque chose qui va le distinguer de vous. Ce n'est pas une émotion, mais un truc physique. Comment il se tient ? Droit ? Voûté ? Quel est son port de tête ?

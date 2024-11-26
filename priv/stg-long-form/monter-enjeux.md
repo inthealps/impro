@@ -16,16 +16,16 @@ Liste des enjeux par ordre de préférence du public :
 5. Professionnel
 6. Administratif
 
-"Perdre son job" n'est pas forcément un enjeu professionnel.
+"Perdre son job" n'est pas forcément un enjeu professionnel.  
 
-Qui cela impacte ??
+Qui cela impacte ??  
 
 - Le couple ? → Enjeu "Amour"
 - La perte de la maison ? → "Famille"
-- etc...
+- etc...  
 
-## Comment ?
-Idéalement, monter les enjeux à DEUX, en ping-pong.
+## Comment ?  
+Idéalement, monter les enjeux à DEUX, en ping-pong.  
 
 Exemple (outil "répéter")
 - A: "J'ai perdu mon téléphone" (Problème)
@@ -35,7 +35,7 @@ Exemple (outil "répéter")
 (La répétition donne une importance au problème, et synchronise les 2 joueurs)
 
 Alors B surenchérit :
-- B regardant son téléphone: "Et puis le mien est déchargé !
+- B regardant son téléphone: "Et puis le mien est déchargé !  
 
 Voici un super OUTIL pour les comédiens qui ont tendance à minimiser les enjeux :
 → Mettre des "merdes" et des "putains" partout ;)
@@ -48,12 +48,12 @@ Versus :
 - A: "J'ai perdu mon téléphone ... putain !!"
 - A. "Et puis le tien est déchargé, merde ..." (Affirmation, A ne questionne pas B)
 
-Le "putain" a aidé le comédien à croire à la gravité du truc.
-Ce n'est pas anodin !
+Le "putain" a aidé le comédien à croire à la gravité du truc.  
+Ce n'est pas anodin !  
 
-Affirmer (plutôt que questionner) permet de faire des choix !
+Affirmer (plutôt que questionner) permet de faire des choix !  
 
-La question a beaucoup plus de chances de tomber à plat ...
+La question a beaucoup plus de chances de tomber à plat ...  
 
 Faire souffrir le plus possible les personnages :
 - "Je n'aime pas perdre" → NON

@@ -12,7 +12,7 @@ Dans ce module Impro Boost on va parler d'incarnation de personnages.
 Incarner c'est interpréter un personnage, en se sentant "lui".  
 Lorsqu'on incarne un personnage, on est lui, on pense comme lui, on réagit comme lui, on parle comme lui, on bouge comme lui.  
 On est en empathie avec notre personnage, on y croit, on s'y croit, on le respecte.  
-Ce qui se passe se passe vraiment ! C'est pour de vrai !
+Ce qui se passe se passe vraiment ! C'est pour de vrai !  
 
 Aurore insiste sur le lâcher-prise nécessaire pour bien incarner un personnage.  
 On parle d'Altérité : on est quelqu'un d'autre que soi, un personnage.  
@@ -33,7 +33,7 @@ Trop d'énergie va nous couper de l'écoute. Nous faire entrer dans du punch "d�
 
 L'état de jeu, c'est de sortir de notre journée, de notre facette de comédien.ne.  
 Je prends conscience de mon état interne, lié à ma journée, à mon humeur, à mon stress, à ma fatigue, à mon énergie.  
-Comment j'en tiens compte ?
+Comment j'en tiens compte ?  
 
 Un peu de méditation va nous permettre de prendre conscience de ce qui nous entoure, de nous détacher de notre journée, d'affiner notre écoute, notre vision périphérique, ...  
 
@@ -53,13 +53,13 @@ Cet état de jeu va nous permettre de "descendre" dans nos personnages.
 
 ### 1. Descente via un objet
 Ancré au sol, yeux fermés, on nous donne un objet.  
-On va palper cet objet, le ressentir, son poids, sa texture, est-il rigide, souple ?
-Sait-on ce que c'est ?
+On va palper cet objet, le ressentir, son poids, sa texture, est-il rigide, souple ?  
+Sait-on ce que c'est ?  
 
 On passe un moment à étudier ce que cet objet nous raconte, où est-ce qu'il nous amène.  
-Ai-je une émotion ? Un souvenir ?
-Qu'est-ce que cet objet me dit de moi, de mon personnage ?
-Comment s'en empare-t-il ? Dans quelles circonstances l'utilise-t-il ?
+Ai-je une émotion ? Un souvenir ?  
+Qu'est-ce que cet objet me dit de moi, de mon personnage ?  
+Comment s'en empare-t-il ? Dans quelles circonstances l'utilise-t-il ?  
 
 ### 2. Descente via une musique
 Ancré au sol, yeux fermés, on écoute une musique, on se laisse porter par elle.  
@@ -74,7 +74,7 @@ Ensuite, on va se concentrer sur une zone particulière, on va la ressentir.
 Par exemple un coude, un genou, un pied, ...  
 Puis, on va mobiliser cette zone doucement, avec différentes amplitudes, différentes vitesses.  
 
-On explore ce que ça procure comme sensations corporelles, est-ce que ça "tire" d'autres mouvements, une posture corporelle, une manière de se déplacer, de regarder ?
+On explore ce que ça procure comme sensations corporelles, est-ce que ça "tire" d'autres mouvements, une posture corporelle, une manière de se déplacer, de regarder ?  
 Prendre le temps de l'exploration.  
 
 ### 4. Descente via une position + une manière de respirer
@@ -182,10 +182,10 @@ On va ensuite travailler sur les 7 états suivants (issu du bouquin de Mark Jane
 1. Vous êtes épuisé, vous n'avez aucune envie d'être là. Vous faites votre travail en économisant votre énergie au maximum. Chaque mouvement est difficile.  
 2. Maintenant, vous êtes décontracté, on ne sent aucun enjeu dans ce travail. Vous le faites car vous devez le faire, n'y mettez aucun cœur.  
 3. Maintenant, vous êtes technicien, vous faites votre travail comme demandé. Ni plus ni moins. Le travail est bien fait.  
-4. Maintenant, vous avez un enjeu dans votre travail, vous voulez qu'il soit parfait. Vous êtes efficace ! Les clients défilent, vous savez exactement ce que vous avez à faire et c'est bien fait !
-5. C'est le coup de feu. Il y a beaucoup de clients, vous n'arrivez plus à fournir. Vous faites votre maximum pour satisfaire tout le monde, mais des clients commencent à être mécontent ! Vous devez aller vite !!!!!
-6. 2 min avant la fermeture, vous n'aurez jamais le temps de satisfaire tout le monde. Les clients s'énervent contre vous, et c'est de votre faute !!!!
-7. Vous avez échoué ! C'est fini, c'est mort, et tout est de votre faute !!!!
+4. Maintenant, vous avez un enjeu dans votre travail, vous voulez qu'il soit parfait. Vous êtes efficace ! Les clients défilent, vous savez exactement ce que vous avez à faire et c'est bien fait !  
+5. C'est le coup de feu. Il y a beaucoup de clients, vous n'arrivez plus à fournir. Vous faites votre maximum pour satisfaire tout le monde, mais des clients commencent à être mécontent ! Vous devez aller vite !!!!!  
+6. 2 min avant la fermeture, vous n'aurez jamais le temps de satisfaire tout le monde. Les clients s'énervent contre vous, et c'est de votre faute !!!!  
+7. Vous avez échoué ! C'est fini, c'est mort, et tout est de votre faute !!!!  
 
 L'animateur.ice raconte une histoire, illustrant chacune des deux étapes, sur un contexte quelconque (un restaurant, un magasin, une banque ...).  
 Les étapes 5 et 6 doivent faire monter le stress et l'intensité :
@@ -236,14 +236,14 @@ Pistes de réussite :
 On est dans une salle d'attente.  
 
 On va rentrer avec un des personnages découverts lors des 3 modes de descente.  
-Nous incarnons des personnages qui ne se connaissent pas !
+Nous incarnons des personnages qui ne se connaissent pas !  
 Nous sommes seulement chargés de notre personnage et de son état interne.  
 
 
 Tips :
 Se poser la question "Quelle est la singularité de cette scène".  
-Y répondre. Et accentuer cette singularité !
-Quels sont les décalages, comment les pousser encore plus loin ?
+Y répondre. Et accentuer cette singularité !  
+Quels sont les décalages, comment les pousser encore plus loin ?  
 Quelles sont les différences d'énergie, d'état -> les pousser encore plus loin.  
 (Mérédith en pratiquante de Capoeira, Aurore la pousse : "Continue ! Ne dis rien ! N'arrête pas !").  
 
@@ -253,7 +253,7 @@ Pistes de réussite :
 - On s'intéresse à la relation
 - On veut savoir qui vous êtes l'un et l'autre.  
 - On veut voir ce qui se joue entre vous.  
-- Ressentez plutôt que de chercher à montrer quelque chose !
+- Ressentez plutôt que de chercher à montrer quelque chose !  
 
 
 Idée pour les spectacles :
@@ -332,8 +332,8 @@ Tips de réussite :
 
 # Retours d'Aurore en vrac sur nos performances
 - Inspirez-vous de sa manière de parler, de placer les silences, les hésitations. Quels sont ses tics de langage ? "Bon, bah, ...", "Voilà !", "Et pour tout dire ..." 
-- Repérez les changements de rythme. Où ont-ils lieu ? Pourquoi ?
-- Mettez une petite caractéristique corporelle à votre personnage, quelque chose qui va le distinguer de vous. Ce n'est pas une émotion, mais un truc physique. Comment il se tient ? Droit ? Voûté ? Quel est son port de tête ?
+- Repérez les changements de rythme. Où ont-ils lieu ? Pourquoi ?  
+- Mettez une petite caractéristique corporelle à votre personnage, quelque chose qui va le distinguer de vous. Ce n'est pas une émotion, mais un truc physique. Comment il se tient ? Droit ? Voûté ? Quel est son port de tête ?  
 - "Un personnage n'est vraiment défini que par sa vulnérabilité"
 - Mettre des silences sur les moments forts
 - Il faut être en empathie avec son personnage, on VIT à travers lui. Ca nous évitera le décrochage par exemple. Il pense vraiment ce qu'il dit, quoi qu'il dise.  
@@ -365,10 +365,10 @@ Prendre un personnage permet de ne pas être nous-même sur scène -> Ça parait
 
 
 ## Tenir nos propositions
-Tenir nos propositions, les exploiter au maximum sans les lâcher. La facilité est de faire de nouvelles propositions. C'est mal !
+Tenir nos propositions, les exploiter au maximum sans les lâcher. La facilité est de faire de nouvelles propositions. C'est mal !  
 
-Pour les propositions physiques, ou d'états de jeu, ou de status, ne pas se faire absorber par la proposition de l'autre, garder la sienne !
-Par mimétisme, des fois, on va se rééquilibrer pour adopter la proposition de l'autre. C'est mal !
+Pour les propositions physiques, ou d'états de jeu, ou de status, ne pas se faire absorber par la proposition de l'autre, garder la sienne !  
+Par mimétisme, des fois, on va se rééquilibrer pour adopter la proposition de l'autre. C'est mal !  
 
 De même, on a tendance à vouloir faire abandonner l'action à son partenaire.  
 "Tu viens m'aider à ramasser les pommes ?"
@@ -397,7 +397,7 @@ Au lieu de ça, jouons avec la normalité PUIS amenons un déséquilibre.
 
 ## Précision
 Plus on est précis, plus on est clair, plus on est lisible.  
-Donc, précisons les relations, les enjeux ... qu'est-ce qui se joue ?
+Donc, précisons les relations, les enjeux ... qu'est-ce qui se joue ?  
 Souvent on construit sur des fondations mouvantes, et on finit par ne plus savoir où on en est ...  
 
 
@@ -408,5 +408,5 @@ Un truc rouge qui coule du plafond n'est pas nécessairement du sang, mais ça p
 
 ## Parler d'un tiers
 Ne vous laissez pas aspirer par le personnage fort quand il n'est pas là.  
-Au lieu de parler de lui, de ce qu'il a fait, de ce qu'il a dit, ... tirez vos propres fils !
+Au lieu de parler de lui, de ce qu'il a fait, de ce qu'il a dit, ... tirez vos propres fils !  
 

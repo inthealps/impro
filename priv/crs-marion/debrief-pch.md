@@ -13,6 +13,6 @@ Debriefs divers de Marion Genet sur mon jeu, mes pistes d'amélioration, Sept 20
 
 
 ### Reste bien à l'écoute de ton partenaire
-Tu joues le dominé, mais ce faisant, tu regardes le sol, tu ne regardes pas ton partenaire.
-Tu n'as pas vu qu'elle se rapprochait avec un air menaçant.
+Tu joues le dominé, mais ce faisant, tu regardes le sol, tu ne regardes pas ton partenaire.  
+Tu n'as pas vu qu'elle se rapprochait avec un air menaçant.  
 

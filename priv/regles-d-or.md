@@ -5,12 +5,12 @@
 
 
 ## Make your partner look good
-- Valorisation des propositions : rien n’est ignoré ! Pas de balles perdues !
+- Valorisation des propositions : rien n’est ignoré ! Pas de balles perdues !  
 
 
 ## Infuser
 - Jouer lentement
-- Je prends le temps de me laisser percuter, de vivre le changement et de le donner à l’autre.
+- Je prends le temps de me laisser percuter, de vivre le changement et de le donner à l’autre.  
 - Vivre les émotions corps et tête
 
 
@@ -47,19 +47,19 @@ Création des plateformes et des personnages
 
 - Où ? Les lieux sont clairement définis
 
-- Quand ?
+- Quand ?  
 
 - La relation entre les personnages est clairement définie
 
-- Quoi ? Que font-ils là ensemble ?
+- Quoi ? Que font-ils là ensemble ?  
 
 
 
 Créer des histoires et faire vivre l’improvisation
 
-- Les personnages voyagent, en changeant : d’émotion, d’état, de statut, en allant chercher leur couleur opposé à celle d’entré.
+- Les personnages voyagent, en changeant : d’émotion, d’état, de statut, en allant chercher leur couleur opposé à celle d’entré.  
 
-- Les personnages ont du relief les uns par rapport aux autres, en créant le déséquilibre : d’émotion, d’état, de statut.
+- Les personnages ont du relief les uns par rapport aux autres, en créant le déséquilibre : d’émotion, d’état, de statut.  
 
 - Il existe des enjeux percutants qui implique l’ensemble des personnages sur scène
 

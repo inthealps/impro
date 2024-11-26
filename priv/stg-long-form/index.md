@@ -4,25 +4,25 @@ title:  "Stage de long-form de Candice et Polo"
 ---
 
 # Propriété intellectuelle
-Même si ce sont mes notes, elles s'appuient sur le travail de nos formateurs, dont c'est le job.
+Même si ce sont mes notes, elles s'appuient sur le travail de nos formateurs, dont c'est le job.  
 
 Sauf consigne contraire explicite de leur part, merci de respecter en gardant ça pour nous. 
 
 ## Disclaimers
 ### Disclaimer #1
-Ce qui suit vient directement du stage de Candice et Polo qu'on a suivi ensemble.
+Ce qui suit vient directement du stage de Candice et Polo qu'on a suivi ensemble.  
 
-Même si Candice nous a dit que les exercices venaient pour la plupart du bouquin de Mark Jane, je me suis interdit d'aller les consulter pour rester sur les enseignements du stage.
+Même si Candice nous a dit que les exercices venaient pour la plupart du bouquin de Mark Jane, je me suis interdit d'aller les consulter pour rester sur les enseignements du stage.  
 
 Évidemment, aucune garantie que ce qui suit est 100% fidèle à ce qui a été dit pendant le stage, mais j'ai essayé de faire au mieux ... avec mon filtre ;)
 
 ### Disclaimer #2
-Je n'ai pas utilisé l'écriture inclusive dans ce document ... par flemme (shame).
+Je n'ai pas utilisé l'écriture inclusive dans ce document ... par flemme (shame).  
 
 ### Disclaimer #3
 Il est mentionné le mot "Règles" dans ce document, comme si c'était la vérité de l'impro ;)
 
-En impro, "Fuck the rules!" → Évidemment, les règles sont faites pour être contournées et oubliées ... une fois qu'on en a compris et intégré les bénéfices.
+En impro, "Fuck the rules!" → Évidemment, les règles sont faites pour être contournées et oubliées ... une fois qu'on en a compris et intégré les bénéfices.  
 
 ## Table des matières
 

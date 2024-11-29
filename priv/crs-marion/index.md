@@ -429,6 +429,104 @@ Très instructif pour que chacun.e puisse "faire son job" et sentir quand tuiler
 On a moins la pression que sur un long-form car au "pire", on ne foire qu'une impro !  
 
 
+## Jeu "Différentes manières de commencer une scène"
+
+### 1- Commencer par une position
+En duo.
+A se met dans une position.  
+B vient s'inclure dans cet univers, et s'adapte.
+
+### 2- Mon idée, ta proposition physique
+En duo.
+A tourne le dos à B, cherche une idée de scène, mais ne la verbalise pas, et se retourne quand il est prêt.
+Pendant ce temps, B fait une proposition physique : un geste, une position, un mime.
+
+A va venir, par inclusion, se servir de la proposition de B pour bâtir la scène en partant de son idée.
+
+Intérêts :
+- Ça permet de travailler en inclusion, et pas en choix (mon idée est meilleure que ta proposition physique, donc je m'accroche à mon idée ... et inversement).
+
+### 3- Deux postures se rencontrent
+En duo.
+A et B se tournent le dos, infusent une idée, et se mettent dans une posture.
+Ils se retournent en même temps, et la scène démarre.
+
+Tips de réussite :
+- On ne verbalise pas immédiatement, on reste dans le corps, dans l'instant présent.
+- On tente des "postures qui respirent"
+- On prend le temps d'expliquer, tranquillement. Le public a de quoi "voir", il n'est pas préssé de nous voir parler.
+
+### 4- Explication de scène
+Un narrateur et N comédiens.
+En musique, les comédiens vont se mettre en action, en mouvement, ...
+La musique s'arrête, les comédiens se figent.
+
+Le narrateur va inspecter la scène, décider de faire sortir de comédiens (ou pas), puis il explique la scène ...
+
+Variante :
+On se met à jouer la scène décrite par le narrateur, qui guide les comédiens dans leur jeu.
+
+Tips de réussite :
+- Le narrateur doit être en énergie haute, il raconte ce qui se passe sans trop attendre ni hésiter.
+- Les comédiens doivent être en intensité corporelle, regards précis, etc.
+
+### 5- La position commune
+N comédiens.
+
+Un premier comédien prend une position au plateau.
+Très rapidement les autres comédiens adoptent cette position, et la scène démarre.
+On se met en action en se synchronisant.
+Puis, on raconte une histoire.
+
+### 6- Dans le noir, ou en coulisses
+N comédiens.
+
+On va jouer une scène dans le noir.
+Ou depuis les coulisses.
+
+Le but est de donner à entendre :
+- Les bruits de déplacements
+- Des bruitages
+- Des voix différentes, et aux intensités différentes
+- etc
+
+Un thème du public aidera à lâcher le cerveau et à partir de cette suggestion.
+
+Pour nos spectacles, ça peut être très stylé !  
+Une partie des comédiens au plateau, une autre partie dans les coulisses.
+
+
+### 7- Débout ou assis dans le public
+N comédiens.
+Certains comédiens sont dans le public, d'autres au plateau.
+
+### 8- Synchronisation émotionnelle
+N comédiens.
+Tout le monde déambule au plateau avec une même émotion.
+On se regarde, on se comprend.
+
+Qu'est-ce qu'on raconte ?
+
+Tips de réussite :
+- Des affirmations, plutôt que des questions (règle universelle) afin de co-construire.
+
+### 9- Scene painting
+N comédiens.
+Même exercice que "Décor installé".
+
+- A: "Ici un arbre, grand, feuillu, majestueux"
+- B: "Ici un banc, en bois, avec des inscriptions dessus"
+- C: "Ici un lampadaire, qui éclaire faiblement"
+
+puis on enrichit ce qui est déjà posé :
+
+- D: "Scotchée au lampadaire, une feuille 'Perdu chat tigré, récompense'"
+- E: "Sur le banc, un livre ouvert, avec un marque-page"
+- etc ...
+
+On démarre la scène dans ce décor, et on le respecte.
+
+
 # "Règles immuables" de l'impro selon Marion
 Préambule : ce ne sont que des règles ... qui ne sont là que pour être contredites ;)
 
@@ -446,12 +544,14 @@ Ca peut être une énergie différente (états de 1 à 7), ça peut être un sta
 "Tu fais une proposition corporelle, tiens-la !! Ne lâche pas !!"
 Rebondir sur ce qui a déjà été installé, et ne pas multiplier les propositions.  
 
-Se fixer un mantra permet de rester focus sur sa proposition/ses enjeux.  
+Se fixer un **mantra** permet de rester focus sur sa proposition/ses enjeux.  
 
 ## "OUI ET" inconditionnel
 - Acceptez les propositions de vos partenaires SANS négociation. C'est un OUI franc et massif.  
 - Acceptez même le débile.  
 - Acceptez même quand votre "idée est meilleure" ;)
+
+Oui --> Oui --> Oui : On avance dans l'Histoire !  
 
 ## Ne le créez pas, découvrez-le !  
 Ne pas chercher à créer une situation, mais allez la découvrir chez votre partenaire.  

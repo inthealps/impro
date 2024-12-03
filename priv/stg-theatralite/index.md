@@ -100,7 +100,9 @@ Tips de réussite :
 - Pas de plateau vide.  
 - Variété des rythmes, des propositions.  
 - La symétrie fait du bien. On a l'impression que ça a été travaillé, que c'est réfléchi.  
-- On entre en personnage, on sort en personnage. On le tient jusqu'au bout, le comédien ne ressort pas avant la coulisse !  
+- On entre en personnage, on sort en personnage. On le tient jusqu'au bout, le comédien ne ressort pas avant la coulisse !
+- Les contrastes marchent ! Amener l'exact opposé d'une proposition est intéressant. Si proposition A est tenue collectivement, alors B peut contraster individuellement.
+- Répéter plusieurs fois sur la même musique pour chopper les différences de rythme, et savoir quand accélérer.
 
 Le Yuri est vraiment un condensé de tout ce qu'on peut travailler en impro : le rapport à la proposition, la connexion aux autres, le lâcher-prise, l'ancrage, le rythme, l'occupation de l'espace scénique, ...  
 Penser à ça dans nos scènes d'impro, à visualiser le plateau.  

@@ -217,8 +217,7 @@ Pour se faire, repasser les musiques pour se remémorer les personnages infusés
 
 En répétitions de troupe par exemple, on peut se mettre des contraintes pour aller chercher des personnages un peu plus marqués.  
 
-Le travail du personnage c'est un entrainement de longue haleine, il faut le travailler, le retravailler, le répéter, le répéter encore, le retravailler, le retravailler encore ...  
-
+Le travail du personnage c'est un entrainement de longue haleine, il faut le travailler, le retravailler, le répéter, le répéter encore, le retravailler, le retravailler encore ...
 
 
 ## Jeu "Je suis vraiment d'accord avec toi"
@@ -327,6 +326,27 @@ Tips de réussite :
 - Regarder le public : ancrer son regard sur certaines personnes du public permet de lâcher le cerveau. Cette connexion empathique nous aide à nous ancrer, il y a moins de stress du comédien. 
 - Quitter un regard peut aussi nous donner des idées, nous permettre de rebondir pour nous renouveler.  
 - Ne pas sur-expliquer, laisser le public faire sa part du travail.  
+
+
+## Format "Galerie" (format créé par Aurore avec Marion Genet)
+4 comédiens.
+
+A va faire un monologue, en incarnant un personnage.  
+Une fois terminé, B va venir le rejoindre pour entamer une scène de plateforme à deux. C'est le monde normal, habituel, de ce personnage.  
+Puis C va venir rejoindre A pour une scène à 2.  
+Puis D.
+
+L'idée ici est que les 3 comédiens qui rejoignent A vont amener des "chargements" différents pour le personnage central, A.  
+Il est important que les 3 personnages s'illustrent dans des contextes très différents, afin d'enrichir au mieux le personnage central.  
+Souvent en forme longue, on a tendance à s'accrocher qu'à une composante du personnage. Amener du contraste, de la diversité, va enrichir le personnage.  
+Ça évite de tomber dans la "forme chiante" ;)
+
+Tips de réussite :
+- Travail de l'acceptation pleine et entière du comédien A !
+- Ne pas trop expliquer pour laisser le public faire le lien.
+- Attention à amener trop de narration trop tôt ! Ce sont des scènes de plateforme !
+- Varier et varier encore : Amener autre chose, chercher une autre couleur !
+- Couper avant que la scène ne retombe.
 
 
 

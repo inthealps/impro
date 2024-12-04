@@ -344,9 +344,10 @@ Souvent en forme longue, on a tendance à s'accrocher qu'à une composante du pe
 Tips de réussite :
 - Travail de l'acceptation pleine et entière du comédien A !
 - Ne pas trop expliquer pour laisser le public faire le lien.
-- Attention à amener trop de narration trop tôt ! Ce sont des scènes de plateforme !
+- Attention à la cavalcade de la construction (i.e. amener trop de narration trop tôt) ! Ce sont des scènes de plateforme !
 - Varier et varier encore : Amener autre chose, chercher une autre couleur !
 - Couper avant que la scène ne retombe.
+- Personnages, accrochez-vous à vos enjeux propres !
 
 
 

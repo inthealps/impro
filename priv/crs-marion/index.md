@@ -335,6 +335,35 @@ Tips de réussite :
 - En jeu, si la scène patine ou s'essouffle, ou prend une direction faible, ou non souhaitée, un comédien (oui oui) en réserve peut s'autoriser à interrompre une scène pour donner une consigne de jeu : j'aimerais une scène d'amour, sans parole, j'aimerais voir tous les comédiens en scène, etc. Pratiquer régulièrement le rôle de metteur en scène va nous donner l'aisance et la lecture de jeu nécessaire pour le faire !  
 
 
+## Exercice "Les habitations"
+En groupe, nombreux.  
+(Il ne faut pas être un multiple de 3.)
+
+/o\  <-- Ceci est une habitation avec une personne dedans.
+Deux comédiens font le toit avec leurs bras, un comédien se réfugie en dessous.
+
+1 ou 2 comédiens se trouvent seuls. Ils vont dire "Habitations" s'ils désirent que les habitations bougent. "Humains" s'ils veulent que ls humains changent. "Tempête" s'ils veulent tout mélanger.
+Le but du jeu est de refaire des groupes de 3 /o\ et de ne pas se retrouver seuls !
+
+
+## Exercice "Raconte-moi ... en ..."
+En cercle, un comédien s'approche d'un autre et lui dit "Raconte moi la recette de la tarte citron en japonais"
+Et le comédien s'exécute.
+Ex:
+- ta journée/en pleurant
+- la météo/en mimes
+- ton premier flirt/en chantant
+
+Tips de réussite :
+- Lâcher-prise, on y va tout de suite, on ne réfléchit pas !!
+
+
+## Exercice "Je te dicte ton personnage"
+En duo.  
+A commence "Iris est une petite grand-mère voutée, souriante, à la voix faible et aigüe".  
+B incarne cette proposition, puis toujours en personnage, va décrire un nouveau personnage, que A va incarner.  
+
+
 
 # Jeu
 
@@ -525,6 +554,27 @@ puis on enrichit ce qui est déjà posé :
 - etc ...
 
 On démarre la scène dans ce décor, et on le respecte.
+
+
+
+## Jeu "Constellations"
+À 4 comédiens.  
+  
+S'entraîner à charger les personnages dans des scènes d'installation.  
+Scène avec A et B. 
+C entre et tuile avec A ou B (qui devient perso principal).  
+Puis D tuile avec le perso principal.
+
+On ne fait que des scènes de plateforme, c'est le monde normal, habituel. Si conflit il y a, il est normal, c'est toujours comme ça entre ces deux personnages.  
+
+Tips de réussite :
+- Donner de l'épaisseur aux personnages
+- Nourrir la relation
+- Nourrir le monde
+- Les personnages se connaissent forcément
+- Diversité des scènes et des types de relations (si couple en S1, travail en S2, copains en S3, ...)
+- Attention à la cavalcade de la construction ! Trop de narration dans les plateformes ferme le monde !
+
 
 
 # "Règles immuables" de l'impro selon Marion

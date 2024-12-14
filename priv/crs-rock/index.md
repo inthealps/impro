@@ -240,25 +240,3 @@ Pour "5 et 6", le danseur va récupérer la main droite de la danseuse avec sa m
 
 **Sixième bloc de 6 temps :** Retour dans les bras.
 
-
-
-
-
-
-## Scribes
-
-<img src="{{ 'assets/images/scribes/crs-msb/msb-tuilage-1.jpg' | relative_url }}" width="800" alt="Scribe">
-<br>
-<br>
-<img src="{{ 'assets/images/scribes/crs-msb/msb-composition.jpg' | relative_url }}" width="800" alt="Scribe">
-<br>
-<br>
-<img src="{{ 'assets/images/scribes/crs-msb/msb-format-1.jpg' | relative_url }}" width="800" alt="Scribe">
-<br>
-<br>
-<img src="{{ 'assets/images/scribes/crs-msb/msb-format-2.jpg' | relative_url }}" width="800" alt="Scribe">
-<br>
-<br>
-<img src="{{ 'assets/images/scribes/crs-msb/msb-trajectoires.jpg' | relative_url }}" width="800" alt="Scribe">
-<br>
-<br>

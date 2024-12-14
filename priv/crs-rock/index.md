@@ -29,7 +29,7 @@ En souplesse, le corps légèrement penché en avant, on ne bascule pas en arri�
 # Les passes
 
 ## 0 - Le face à face initial
-À pour but que le danseur et la danseuse se synchronisent.  
+Le but de cette passe "Zéro" est que le danseur et la danseuse se synchronisent.  
 
 Dans les bras, danseur et danseuse se font face.  
 "1, 2, 3 et 4, 5 et 6"  
@@ -69,9 +69,10 @@ Retour dans les bras.
 **Premier bloc de 6 temps :** Quart de tour.  
 
 **Deuxième bloc de 6 temps :** Passe de côté.  
-1, 2, à 3 le danseur plonge son bras droit pour passer à gauche de la danseuse (à la droite de la danseuse pour elle).  
+"1, 2" → normaux.  
+"3 ..." → le danseur plonge son bras droit pour passer à gauche de la danseuse (à la droite de la danseuse pour elle).  
 
-"et 4" → les deux danseurs pivotent d'un demi-tour, "5 et 6" ils sont face à face.  
+"... et 4" → les deux danseurs pivotent d'un demi-tour, "5 et 6" ils sont face à face pour le _"piétinement"_.  
 
 **Troisième bloc de 6 temps :** Passe de côté (la même chose, une seconde fois)  
 
@@ -104,7 +105,7 @@ Retour dans les bras.
 ## 6 - La promenade
 Départ dans les bras  
 "1, 2", les deux danseurs se tiennent dans les bras.  
-Ils pivotent vers la gauche(danseur) et la droite(danseuse) sur le temps 2.  
+Ils pivotent vers la gauche (danseur) et la droite (danseuse) sur le temps 2.  
 "3 et 4" les deux danseurs font de mini-pas-châssés pour avancer : pied droit devant (danseur), pied gauche devant (danseuse).  
 "5 et 6" les deux danseurs font de mini-pas-châssés pour avancer : pied gauche devant (danseur), pied droit devant (danseuse).  
 "7 et 8" le danseur fait pivoter la danseuse d'un demi-tour.  
@@ -120,7 +121,7 @@ Départ dans les bras
 **Premier bloc de 6 temps :** Quart de tour.  
 
 **Deuxième bloc de 6 temps :** "1, 2 ..."  
-Sur "1" le danseur ne mert pas son pied gauche en arrière, mais à sa gauche (pas de côté)  
+Sur "1" le danseur ne met pas son pied gauche en arrière, mais à sa gauche (pas de côté)  
 Sur "2" il ramène son pied droit à côté du pied gauche.  
 "3 et 4" il fait pivoter la danseuse d'un demi-tour.  
 "5 et 6" les deux danseurs sont face à face.  

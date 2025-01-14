@@ -364,6 +364,112 @@ A commence "Iris est une petite grand-mère voutée, souriante, à la voix faibl
 B incarne cette proposition, puis toujours en personnage, va décrire un nouveau personnage, que A va incarner.  
 
 
+## Exercice "La rime lancée"
+En cercle, comme le "mot lancé", on se synchronise avec un mouvement de balancier de bras, puis on va lâcher un mot, puis le suivant va rimer dessus, etc.  
+
+
+## Exercice "La battle de rimes"
+En duo.
+
+
+## Exercice "La battle des voeux de bonne année (en serpent)"
+On coupe le groupe en deux, en ligne, face à face.
+
+En mode battle de hip-hop, A s'avance vers B, mais ne va dire que des choses vraiment positives à l'autre personnage.  
+Pour autant, c'est vraiment une battle.  
+B ne répond pas autrement que par sa posture, son regard, son énergie.  
+
+Puis A revient en place, mais toujours en fixant B du regard.  
+
+Au tour de B de s'avancer vers C, cette fois, etc.
+
+
+## Exercice "La battle des voeux de bonne année (en duo)"
+En duo, face à face.
+
+En mode battle de hip-hop, A s'avance vers B, mais ne va dire que des choses vraiment positives à l'autre personnage.  
+Pour autant, c'est vraiment une battle.  
+Pour le moment, B ne répond pas autrement que par sa posture, son regard, son énergie.  
+
+Quand A a fini, c'est au tour de B.  
+
+On peut partir en mode clash/défense, mais toujours dans la bienveillance du texte.
+
+Tips de réussite :
+- Lâcher le cerveau, on peut dire n'importe quoi : "Je te souhaite de manger du fenouil tous les midis" 
+
+## Exercice "L'objet mystère"
+En cercle autour d'un objet posé au sol.  
+
+Chacun va tour à tour s'emparer de l'objet, et le décrire.  
+Exemple : "Ceci est un microscope électronique, il permet de voir des virus infimes"  
+
+On incarne un personnage en le faisant, que nous fait cet objet, quel est notre rapport à lui, ...
+
+## Exercice "Enfiler son costume"
+Chacun dans son coin, on va "entrer dans sa facette Comédien" en s'imaginant enfiler un vrai costume de comédien, et mimer de s'habiller.  
+En musique, on va prendre le temps de s'habiller.  
+On ne doit pas avoir terminé de s'habiller avant que la musique s'arrête.  
+Si on a fini, on se maquille, on se coiffe, on vérifie les boutons de sa chemise, ...
+
+Incarné, calme, sans précipitation ni paroles.
+
+## Exercice "Claps en cercle"
+Tout le groupe en cercle.  
+Première phase : on se regarde, on se connecte, on clape en même temps.
+Deuxième phase : un clapeur va regarder une autre personne et claper avec elle en même temps... cette personne recommence avec une autre personne, etc.
+
+## Exercice "C'est génial"
+De Mark Jane.
+
+
+## Exercice "Les narrateurs"
+En duo.
+A va commencer à raconter une histoire. B peut enchainer à tout moment, et continuer la narration.  
+
+Tips de réussite :
+- Réincorporation
+- Ne pas se couper la parole, mais laisser la parole
+- Une bonne histoire nécessite une quête
+- En mode "c'est génial", on est vraiment enchanté par les propositions de l'autre.
+
+
+## Exercice "Déambulation des chaises" 
+En groupe. Une sorte d'expérience théâtrale.
+
+Chacun se munit d'une chaise, et va se déplacer dans la pièce avec sa chaise.    
+On ne peut pas parler lorsqu'on est debout, mais on peut parler lorsqu'on est assis.  
+
+On a le droit d'intéragir avec les autres, ou de rester seul dans son monde.  
+Le jeu s'arrête lorsque tout le monde est installé en cercle, assis sur sa chaise.  
+
+Tips de réussite :
+- Sortir du cadre
+- Expérimenter
+- Être dans l'instant présent
+- Être attentif.ve à ce qui se passe autour de soi, qu'est-ce qui se joue ?
+- Être attentif.ve à ce qui se passe en soi
+
+
+## Exercice "Le toaster"
+Le jeu classique du match d'impro.
+Lâcher la tête.
+
+## Exercice "1001 façons de ..."
+Le jeu classique du match d'impro.
+Lâcher la tête.
+Penser "qu'est ce qui n'a pas déjà été fait ?"
+
+## Exercice "Jeu dans le noir"
+On joue dans le noir.
+
+On utilise les bruitages, les voix, ...
+
+## Exercice "Musiques de films"
+On joue des scènes.  
+La régie déclenche des musiques de films.  
+On adapte notre jeu / l'histoire à la musique.  
+
 
 # Jeu
 
@@ -574,6 +680,69 @@ Tips de réussite :
 - Les personnages se connaissent forcément
 - Diversité des scènes et des types de relations (si couple en S1, travail en S2, copains en S3, ...)
 - Attention à la cavalcade de la construction ! Trop de narration dans les plateformes ferme le monde !
+
+# Catégories de match d'impro
+
+## La rimée
+
+Tips de réussite :
+- Rimer sur soi-même
+- Ne pas se couper la parole, l'autre doit terminer sa rime
+- Prendre le temps de trouver la rime, ne pas se précipiter. Si on ne trouve pas tout de suite, on remet du corporel
+- Attention au tac-au-tac, penser à poser une plateforme
+- S'entrainer chez soi
+- Donner un rythme, une musicalité ...
+- Attention aux phrases à rallonge
+- Assumer les rimes simples, assumer les rimes approximatives, les mots inventés ...
+- On est H2S, on ne souffre pas, on est content d'être là ... c'est la décomplexion et le lâcher-prise qui vont nous permettre de rimer !
+- Attention, on se focuse souvent sur le verbe et on en perd le corps.
+
+
+## Le doublage
+Deux joueurs en jeu, deux joueurs qui font leurs voix.
+
+L'idée vient du doubleur, ou du doublé !
+
+Tips de réussite :
+- Être dans l'écoute hyper active !
+- Attention en doubleur, à ne pas louper les propositions du doublé.
+- Le faire rire, pleurer ...
+
+## Avec accessoires
+Un accessoire physique est introduit dans la scène.  
+Il doit être utilisé, mais toujours détourné de son usage initial.  
+Un chapeau va devenir une canne à pêche, puis un portefeuille, un tube de crême solaire, ...  
+
+Tips de réussite :
+- Prendre le temps de bâtir une plateforme (en utilisant peu l'accessoire, on doit avoir une histoire, ne pas se laisser happer par la frénésie de l'objet),
+- Puis, accélérer son utilisation
+- Y CROIRE ! Oui, ce chapeau est bien une bague de fiançailles, et je vais la mettre au doigt de mon partenaire, et il va me dire "oui" ! 
+
+## Personnage principal / Personnages secondaires
+En duo, A va jouer le personnage principal, B va jouer tous les personnages secondaires.
+
+Tips de réussite :
+- Des personnages différents (voix, posture, énergie, positionnement dans la scène, ...)
+- Les deux comédiens peuvent être à l'initiative de la convocation des personnages secondaires.
+
+
+## Le magnétoscope
+Une scène en jeu, un metteur en scène va demander de :
+- Mettre en pause
+- Avance rapide x2 x5 x10
+- Marche arrière x1 x2 x5
+- Changement de langue
+- Mute (sans son)
+- Bande rayée (bégaiement)
+- Scène d'avant / scène d'après
+- ...
+
+Tips de réussite :
+- Tranquille dans les changements au début
+- Garder la cohérence de l'histoire
+- Changer au bon moment et jouer avec ça
+- Mettre du fun sur les commandes
+- Pour les comédiens, peu de paroles, beaucoup de jeu corporel, de l'émotion, des regards, ... (plus facile à reproduire, et à rembobiner)
 
 
 

@@ -470,6 +470,22 @@ On joue des scènes.
 La régie déclenche des musiques de films.  
 On adapte notre jeu / l'histoire à la musique.  
 
+## Exercice "Je suis ..."
+En cercle, un comédien va au centre, se met en position et dit "Je suis + proposition".  
+Ex: "Je suis la feuille" et se met en forme de feuille (avec les bras, les jambes, ...)  
+
+Un second comédien va venir enrichir ce tableau.  
+"Je suis le stylo qui écrit sur la feuille"  
+Et va se mettre en position de stylo, et écrire sur la feuille.  
+
+Un troisième comédien va venir enrichir le tableau également :  
+"Je suis l'inspiration qui vient à l'écrivain"  
+
+Puis, un autre comédien sort du cercle, et va garder un unique élément.  
+"Je garde le stylo" et va libérer les 2 comédiens qui étaient la feuille et l'inspiration.  
+
+Il enrichit la proposition du stylo, mais dans un autre contexte.  
+Et on continue ainsi.  
 
 # Jeu
 
@@ -604,6 +620,7 @@ On se met à jouer la scène décrite par le narrateur, qui guide les comédiens
 Tips de réussite :
 - Le narrateur doit être en énergie haute, il raconte ce qui se passe sans trop attendre ni hésiter.
 - Les comédiens doivent être en intensité corporelle, regards précis, etc.
+- Si les comédiens jouent la scène, peu de parole (= pas de blabla), mais jouer avec la situation et le corporel que l'on a installé.
 
 ### 5- La position commune
 N comédiens.

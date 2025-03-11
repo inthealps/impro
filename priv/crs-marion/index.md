@@ -347,7 +347,7 @@ Le but du jeu est de refaire des groupes de 3 /o\ et de ne pas se retrouver seul
 
 
 ## Exercice "Raconte-moi ... en ..."
-En cercle, un comédien s'approche d'un autre et lui dit "Raconte moi la recette de la tarte citron en japonais"
+En cercle, un comédien s'approche d'un autre et lui dit "Raconte-moi la recette de la tarte citron en japonais"
 Et le comédien s'exécute.
 Ex:
 - ta journée/en pleurant
@@ -486,6 +486,103 @@ Puis, un autre comédien sort du cercle, et va garder un unique élément.
 
 Il enrichit la proposition du stylo, mais dans un autre contexte.  
 Et on continue ainsi.  
+
+
+# Exercice pour chauffer la voix et le corps.
+En musique.  
+On occupe tout l'espace.  
+On va respirer par le nez, et souffler par la bouche en faisant passer un filet d'air comme à travers une paille.  
+Tout en soufflant, on va graffer les lettres de notre prénom, en immense, lentement. Comme si on tagguait un mur avec une bombe de peinture.  
+Lorsqu'on inspire, on peut secouer la bombe.  
+
+Tips de réussite :
+- On graffe lentement, on fait des gestes amples, on va chercher loin pour s'étirer.
+- On tente de controller le flux d'air, il doit être constant.
+
+
+## Exercice "Non, c'est une fraise-aspirateur !"
+En cercle, un comédien désigne un objet fictif au centre du cercle.
+A: "C'est une fraise-aspirateur", en donnant son regard au reste du cercle.
+Le suivant va lui répondre avec une autre proposition : "Non, c'est un vélo astronomique !", en donnant son regard à A, ou à l'audience (choix conscient).
+
+Tips de réussite :
+- Ne pas réfléchir en amont. On dit la première chose qui nous vient à l'esprit.
+- Prendre le temps.
+
+## Exercice "C'est plus que ça !"
+En cercle, et en rythme (tout le monde se balance de droite à gauche, en rythme).  
+On va faire une description sous forme de monologue instinctif.  
+Dès que quelqu'un (A) ressent une hésitation, ou que ça s'essouffle, il dit "Non, c'est plus que ça !".  
+Le groupe reprend alors "NON, C'EST PLUS QUE ÇA !", et A va au centre et entame une nouvelle description.
+
+Cet exercice force le lâcher-prise, on ne peut pas anticiper plus que quelques phrases.
+
+
+## Exercice "C'est parce que ..."
+Un exercice de narration, on va faire avancer l'histoire.
+
+En cercle, A attaque un récit :
+- "Maurice est un libraire qui lit tous les livres de sa librairie".
+- B continue "C'est parce que Maurice lit tous les livres de sa librairie qu'il est devenu aveugle".
+- C continue "C'est parce que Maurice est devenu aveugle qu'il ne peut plus s'occuper de ses clients".
+- etc.
+
+On va tirer un fil narratif, et le pousser jusqu'au dernier du cercle, qui finira par "C'est ainsi que ..." et conclura l'histoire.
+
+## Exercice "Il faut dire que ..."
+Un exercice de narration, on va rembobiner l'histoire.
+
+En cercle, A attaque un récit "par la fin" :
+- "Maurice n'osa pas appuyer sur l'interphone".
+- B continue "Il faut dire qu'il savait que son ex-femme l'attendait dans l'appartement".
+- C continue "Il faut dire que son ex-femme était accompagnée de son avocat".
+- etc.
+
+
+## Exercice "Narrateur description"
+Un exercice de narration qui permet de construire des univers riches pendant nos plateformes.  
+
+En trio.  
+A va se lancer dans une description déclenchée par un mot donné par B ou C.  
+B sera la "police des Euh..." -> B va lever la main dès qu'il détectera une hésitation, ou tout ce qui trahit l'embarras de A.  
+C sera la "police de la caméra" -> C va lever la main et dire "Caméra" dès qu'il détectera que l'on sort du purement descriptif, ou que l'on commence à raconter une histoire. A devra revenir à la description proprement dite.  
+
+La description doit durer 1mn, B va signifier à A quand il rentre dans les 15 dernières secondes.
+
+Tips de réussite :
+- Ne pas anticiper, ne pas réfléchir, mais visualiser la scène, se projeter dans le décor.  
+- Ne pas se laisser déstabiliser par les "polices", ne pas s'arrêter, c'est vraiment à voir comme un side-coaching pour nous aider, et revenir à la description.
+- Ne pas s'arrêter quand les polices interviennent, on reste mobilisé et concentré sur notre description.
+- Déposer des "potentiels" (les "saucisses" de Mark Jane), des éléments qui pourront être utilisés pour "faire l'histoire" si on devait la continuer.
+- "Tout ce qui ne peut pas être dessiné est superflu" -> on supprime le verbiage, on ne fait que "charger le décor"
+
+
+
+## Exercice "L'objet éclairant"
+Un exercice de narration qui permet de surprendre nos spectateurs.  
+
+En duo.
+
+B va donner un "thème" (un mot à A).  
+A va réfléchir 20 secondes et va entamer une description de scène en lien avec le thème.  
+Il doit conclure sa description en introduisant quelque chose qui va éclairer la scène d'une manière totalement différente.
+La narration doit durer 1mn environ.
+
+Exemple, le thème est "la plage" :
+Sur la plage, il y a un parasol. Une serviette de bain est étalée en dessous.  
+Au loin un enfant joue avec un cerf-volant. Il rit.
+Les vagues ... bla bla bla ...
+Puis à la fin : "Posé sur la serviette, un revolver. Il est chargé."
+
+Le revolver va éclairer la scène d'une manière totalement différente, et va donner une toute autre dimension à la scène.  
+Il amène un twist, une surprise, une tension, ...
+
+Tips de réussite :
+- Avoir une vague idée dès le départ de l'objet, ou se laisser surprendre par l'inspiration du moment.
+- La police des "Euh" peut intervenir.
+- Visualiser la scène, se projeter dans le décor.
+
+
 
 # Jeu
 
@@ -697,6 +794,53 @@ Tips de réussite :
 - Les personnages se connaissent forcément
 - Diversité des scènes et des types de relations (si couple en S1, travail en S2, copains en S3, ...)
 - Attention à la cavalcade de la construction ! Trop de narration dans les plateformes ferme le monde !
+
+
+## Jeu "Débuts d'histoire"
+Un exercice de narration, on va faire initier l'histoire.  
+
+On va faire des solos, où on va commencer une histoire, en mode narrateur.  
+
+Le metteur en scène va faire attention aux éléments qui trahissent le trac du comédien :
+- Hésitations : "Euh ...", mimiques qui montrent l'inconfort, tics de langage ...
+- Manque de clarté (on ne comprend pas où on va).
+- Qualité narrative.
+- Répétitions inutiles.
+- Eléments inutiles "pour meubler".
+
+À chaque fois, le metteur en scène va donner un élément d'amélioration, et va faire recommencer le comédien.
+
+Tips de réussite :
+- On ne se précipite pas, on prend le temps de poser son univers.
+- On peut visualiser la scène, les personnages, les lieux, ...
+- On donne son regard au public, on est dans l'instant présent.
+- On met des détails, des couleurs, des odeurs, des sons, des sensations, ... mais sans verbiage, et sans répétitions.
+
+
+## Jeu "Fins d'histoire"
+Un exercice de narration, on va terminer une histoire.  
+
+On va faire des solos, où on va terminer une histoire, en mode narrateur.
+L'idée va être de conclure une histoire, de donner une chute.
+Il faut que l'histoire soit terminée, et que le public ne soit pas frustré.
+Il faut qu'on comprenne que c'est la fin (le narrateur doit mettre les inflexions de voix qui permettent de le faire comprendre, par exemple pour une régie qui cutterait au noir).
+
+
+Le metteur en scène va faire attention aux éléments qui trahissent le trac du comédien :
+- Hésitations : "Euh ...", mimiques qui montrent l'inconfort, tics de langage ...
+- Manque de clarté.
+- Qualité narrative.
+- Répétitions inutiles.
+- Eléments inutiles "pour meubler".
+
+À chaque fois, le metteur en scène va donner un élément d'amélioration, et va faire recommencer le comédien.
+
+Tips de réussite :
+- On ne se précipite pas, on prend le temps de poser son univers.  
+- On donne son regard au public, on est dans l'instant présent.  
+- On met des détails, des couleurs, des odeurs, des sons, des sensations, ... mais sans verbiage, et sans répétitions.  
+- On place tous les élements qui permettent rapidement de savoir où on en est dans l'histoire. Chaque brique posée est importante.  
+
 
 # Catégories de match d'impro
 

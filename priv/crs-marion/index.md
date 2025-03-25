@@ -455,20 +455,24 @@ Tips de réussite :
 Le jeu classique du match d'impro.
 Lâcher la tête.
 
+
 ## Exercice "1001 façons de ..."
 Le jeu classique du match d'impro.
 Lâcher la tête.
 Penser "qu'est ce qui n'a pas déjà été fait ?"
+
 
 ## Exercice "Jeu dans le noir"
 On joue dans le noir.
 
 On utilise les bruitages, les voix, ...
 
+
 ## Exercice "Musiques de films"
 On joue des scènes.  
 La régie déclenche des musiques de films.  
 On adapte notre jeu / l'histoire à la musique.  
+
 
 ## Exercice "Je suis ..."
 En cercle, un comédien va au centre, se met en position et dit "Je suis + proposition".  
@@ -488,7 +492,7 @@ Il enrichit la proposition du stylo, mais dans un autre contexte.
 Et on continue ainsi.  
 
 
-# Exercice pour chauffer la voix et le corps.
+## Exercice pour chauffer la voix et le corps.
 En musique.  
 On occupe tout l'espace.  
 On va respirer par le nez, et souffler par la bouche en faisant passer un filet d'air comme à travers une paille.  
@@ -496,7 +500,7 @@ Tout en soufflant, on va graffer les lettres de notre prénom, en immense, lente
 Lorsqu'on inspire, on peut secouer la bombe.  
 
 Tips de réussite :
-- On graffe lentement, on fait des gestes amples, on va chercher loin pour s'étirer.
+- On graphe lentement, on fait des gestes amples, on va chercher loin pour s'étirer.
 - On tente de controller le flux d'air, il doit être constant.
 
 
@@ -508,6 +512,7 @@ Le suivant va lui répondre avec une autre proposition : "Non, c'est un vélo as
 Tips de réussite :
 - Ne pas réfléchir en amont. On dit la première chose qui nous vient à l'esprit.
 - Prendre le temps.
+
 
 ## Exercice "C'est plus que ça !"
 En cercle, et en rythme (tout le monde se balance de droite à gauche, en rythme).  
@@ -528,6 +533,7 @@ En cercle, A attaque un récit :
 - etc.
 
 On va tirer un fil narratif, et le pousser jusqu'au dernier du cercle, qui finira par "C'est ainsi que ..." et conclura l'histoire.
+
 
 ## Exercice "Il faut dire que ..."
 Un exercice de narration, on va rembobiner l'histoire.
@@ -582,6 +588,31 @@ Tips de réussite :
 - La police des "Euh" peut intervenir.
 - Visualiser la scène, se projeter dans le décor.
 
+
+## Exercice "Narration / Heureusement/Malheureusement'
+Le groupe est séparé en deux groupes de comédiens en file indienne.
+
+Le premier comédien de la première file entame une histoire ...  
+Le comédien qui lui fait face va dire "Heureusement" et va ajouter un élément positif à l'histoire.  
+Puis l'autre comédien va dire "Malheureusement" et va ajouter un élément négatif à l'histoire.  
+
+Et on continue ainsi, en alternant les groupes.  
+Chaque comédien qui a parlé va se mettre à la fin de sa file.  
+
+Tips de réussite :
+- Continuer le fil logique, ne pas trop entasser de problèmes, ni de solutions.
+- Ne pas partir dans du conflit, même sur les "Malheureusement".
+
+
+## Exercice "Un fait, l'autre explique"
+En duo.  
+
+Le premier comédien va jouer une anecdote qui lui est arrivée. Sans parole. Juste en mimant et en engageant le corps.    
+Une fois terminé, le second comédien va raconter cette anecdote, en laissant parler son imagination.  
+
+Tips de réussite :
+- S'accrocher à la première idée qui nous vient. Elle est bonne.
+- Puis tout expliquer en déroulant ce même fil. Ne pas douter ni revenir sur notre compréhension première de la scène.
 
 
 # Jeu
@@ -801,6 +832,10 @@ Un exercice de narration, on va faire initier l'histoire.
 
 On va faire des solos, où on va commencer une histoire, en mode narrateur.  
 
+On doit donner au public l’impression qu’on connaît l’histoire par cœur, et surtout pas qu’elle est inventée en live.
+
+_“Paul passe devant la boulangerie Lepic tous les matins. Ce n’est pas à proprement parler sur le chemin du travail, mais il fait ce léger détour. Il n’ose pas s’arrêter habituellement. Certains matins, il ose un regard discret pour savoir si Léa est derrière le comptoir … Ce matin, il sent son cœur battre dans sa poitrine, il s’est donné la mission d’aller acheter un pain aux raisins … bla bla “_
+
 Le metteur en scène va faire attention aux éléments qui trahissent le trac du comédien :
 - Hésitations : "Euh ...", mimiques qui montrent l'inconfort, tics de langage ...
 - Manque de clarté (on ne comprend pas où on va).
@@ -811,10 +846,13 @@ Le metteur en scène va faire attention aux éléments qui trahissent le trac du
 À chaque fois, le metteur en scène va donner un élément d'amélioration, et va faire recommencer le comédien.
 
 Tips de réussite :
+- On narre au présent !
 - On ne se précipite pas, on prend le temps de poser son univers.
+- Il faut mieux des phases de narration propres entrecoupées de silences qu’un flux continu de parole entrecoupé de “Euh …”
 - On peut visualiser la scène, les personnages, les lieux, ...
 - On donne son regard au public, on est dans l'instant présent.
 - On met des détails, des couleurs, des odeurs, des sons, des sensations, ... mais sans verbiage, et sans répétitions.
+- Trouver les potentiels et poser des saucisses, quelque chose qu’il faudra résoudre dans l’histoire.
 
 
 ## Jeu "Fins d'histoire"
@@ -842,10 +880,40 @@ Tips de réussite :
 - On place tous les élements qui permettent rapidement de savoir où on en est dans l'histoire. Chaque brique posée est importante.  
 
 
+## Jeu "Le proverbe inventé"
+En trio.
+En musique.
+
+Une sorte de catégorie "contée".
+
+Quelques personnes du public vont inventer un proverbe, qu'ils vont écrire sur une feuille, et le proposer aux comédiens.    
+Les comédiens A, B et C vont lire à voix basse le proverbe, et faire un caucus de quelques dizaines de secondes pour voir ce qu'ils peuvent en faire.  
+
+Puis, ils se lancent dans la narration.  
+
+A va installer la plateforme.  
+B va continuer l'histoire.  
+C également.  
+Puis on revient sur A, etc.    
+
+A la fin, un des comédiens va conclure l'histoire en intégrant le proverbe inventé par le public.
+Cela doit être la dernière phrase de l'histoire.
+
+Tips de réussite :
+- Ne pas se précipiter, prendre le temps de bâtir l'histoire.
+- Ne pas se laisser déstabiliser par le proverbe, il doit être intégré naturellement à l'histoire.
+- Laisser de la place à l'imaginaire, à la créativité, à l'émotion, ...
+- Ne pas jouer, mais se laisser happer par la narration, on peut être un narrateur convaincant et "corporel".
+- Les transitions doivent être fluides.
+- Se laisser transporter par la musique, elle doit nous guider, nous inspirer. On doit accueillir les changements de ses rythmes.
+
+
+
 # Catégories de match d'impro
 
-## La rimée
+**"Aller chercher dans les contraintes donne du dynamisme et de la variété"**
 
+## La rimée
 Tips de réussite :
 - Rimer sur soi-même
 - Ne pas se couper la parole, l'autre doit terminer sa rime

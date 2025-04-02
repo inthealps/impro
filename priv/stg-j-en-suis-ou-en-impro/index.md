@@ -106,7 +106,12 @@ Tips de réussite :
 
 
 ## Échauffement - "Objet + caractéristique"
-Passage d'objet qui a une caractéristique
+En cercle.  
+On se passe un objet qui a une caractéristique.    
+Il est chaud, par exemple.  
+On vit sa réception, puis on le passe à la personne à côté de nous.  
+Au bout d'un moment la caractéristique change. L'objet devient lourd, ou il pue, bref ...  on s'adapte et on continue à recevoir/transmettre cet objet.  
+
 
 
 ## Échauffement - "Tennis en duo"
@@ -184,9 +189,21 @@ Le comédien répond, et le coach lui demande de développer.
 Puis les comédiens au plateau vont jouer cette scène.
 
 
+## Exercice "Grappe de raisin"
+En groupe, serrés les uns contre les autres, comme une grappe de raisin.  
+On entame une narration collective, chacun·e son tour, en prenant la parole à tour de rôle.  
+
+À tout moment la grappe peut éclater pour laisser place à une impro qui va imager le récit.  
+Puis elle va se reformer, et on reprend la narration collective.
+
+
+Tips de réussite :
+- La grappe de raisin respire ensemble, synchronisé.
+
+
+
 ## Recommandations (en vrac, à trier)
 - Lieu : faire vivre le lieu mais jouer la relation
-- Blabla grappe de raisin qui s'éclate
 - Un bon improvisateur est quelqu'un qui fait des choix
 - Attention aux impros "Passe-moi le sel" (des impros sans propos, juste du blabla insipide)
 - Varier les rythmes, les énergies

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Où j'en suis en impro, Alexandre Chetail - mes debriefs"
+title:  "Où j'en suis en impro, Alexandre Chetail"
 date: 2025-03-29
 ---
 

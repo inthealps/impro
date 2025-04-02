@@ -36,7 +36,8 @@ Le cerveau ne peut pas tout faire en même temps, il faut choisir un curseur à 
 - Mon amusement
 - Ma concentration
 
-Par exemple, je vais être attentif à mes tics, mes gestes parasites ... et j'en fais quelque chose !
+Par exemple, je vais être attentif à mes tics, mes gestes parasites intéressants ... et je les répète, jusqu'à en faire quelque chose !  
+L'idée est de s'auto-mettre-en-scène !
 
 
 ### P comme "PARTENAIRE"

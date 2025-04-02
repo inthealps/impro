@@ -31,3 +31,5 @@ title:  "Table des matières"
 
 [Ateliers 2024-2025, Marion Genet]({{ 'priv/crs-marion/' | relative_url }})
 
+### 2025
+[Stage Où j'en suis en impro, Alex Chetail]({{ 'priv/stg-j-en-suis-ou-en-impro/' | relative_url }})

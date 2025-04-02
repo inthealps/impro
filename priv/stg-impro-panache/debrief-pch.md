@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Impro Boost, Aurore Desgranges - mes debriefs"
+title:  "Impro avec Panache, Mathilde Cribier - mes debriefs"
 ---
 
 Debriefs de Mathilde sur mon jeu, mes pistes d'amélioration, Aoû t 2024

@@ -358,8 +358,18 @@ Tips de réussite :
 Histoires à deux niveaux de lecture
 
 ## Échauffement - "Youpi 7"
-Tape sur l'épaule, on donne la direction et on compte jusqu'à 7
-Le 7 est un signe et on ne dit pas le 7
+On se tape sur l'épaule droite ou gauche. L'épaule que l'on tape donne la direction.  
+On compte comme ça jusqu'à 7 : "1, 2, 3, 4, 5, 6 ".  
+On ne verbalise pas le 7, et on change son signe : on va mettre ses 2 avant-bras à l'horizontale autour de son visage.  
+Le bras en haut spécifie la direction.  
+
+Si on se trompe, on hésite, ou n'importe quoi d'autre, on crie "Youpi !" et on change de position dans le cercle.  
+
+Tips de réussite :
+- Amusement
+- Concentration
+- Énergie
+- Écoute
 
 
 ## Jeu "Slow impro - Mathieu Loos"

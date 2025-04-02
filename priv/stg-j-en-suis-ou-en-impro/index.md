@@ -9,9 +9,8 @@ date: 2025-03-29
 - Le feu sacré de l'enfant
 - Creuser / développer
 - Ne pas faire parfait !
-L'improvisation est un monde de recherche et d'imperfection.  
--> Si c'est trop nickel, trop propre, c'est qu'on ne s'est pas mis en déséquilibre.  
-"Si à votre 3e scène, vous n'avez toujours pas fait de mauvaise scène, vous avez un problème" Keith Johnstone.  
+L'improvisation est un monde de recherche et d'imperfection. Si c'est trop nickel, trop propre, c'est qu'on ne s'est pas mis en déséquilibre :  
+_"Si à votre 3e scène, vous n'avez toujours pas fait de mauvaise scène, vous avez un problème !"_ - Keith Johnstone.  
 - Un bon improvisateur est quelqu'un qui fait des choix.
 - Un bon improvisateur est quelqu'un qui est impliqué à 100%, qui y va, qui ne lâche rien, qui tente des choses, et qui est généreux. 
 - 100% engagement et plaisir
@@ -61,12 +60,12 @@ Par exemple, je vais être attentif à mes tics, mes gestes parasites ... et j'e
 - Un changement de rythme
 - Une nouvelle esthétique
 
-C'est grâce à ça que ce qu'on fait devient du théâtre !
+C'est grâce aux ruptures amenées par "Brise la glace" que ce qu'on fait devient du théâtre !
 
 
 ## To perform / To act
 
-"To perform" c'est jouer à jouer, on quitte le jeu sincère et naturaliste pour 
+"To perform" c'est "jouer à jouer", on quitte le jeu sincère et naturaliste pour entrer dans quelque chose de plus artificiel, peut-être plus cabot.
 
 "To act" c'est vivre pleinement ses réactions et ses émotions.
 
@@ -76,7 +75,7 @@ On va passer de l'un à l'autre, mais on ne peut pas faire les deux en même tem
 
 ## Échauffement - "Prénom + chose que j'aime"
 En cercle.  
-Je dis mon prénom, puis quelque chose que j'aime et enfin je fais un geste lié à cette chose.
+Je dis mon prénom, puis quelque chose que j'aime et enfin je fais un geste lié à cette chose.  
 On tourne jusqu'à ce que tout le monde se soit présenté.  
 Ensuite, on s'appelle.  
 J'appelle "Lucie qui aime lire".  
@@ -84,18 +83,17 @@ Enfin, on s'appelle que par les gestes.
 
 
 ## Échauffement - "Connexion ensemble"
-En duo.
+En duo.  
 Se connecter par le regard.  
-Respirer ensemble.
+Respirer ensemble.  
 Se baisser ensemble, toujours en connexion "regard", s'allonger, rouler par terre, se relever ...
 
 
-
 ## Échauffement - "La boule de cire"
-En cercle.
+En cercle.  
 Passage d'objet qui se transforme en le malaxant, émerveillement.
 
-On dispose d'une boule de cire. On prend le temps de la malaxer, et d'en faire quelque chose.  
+On dispose d'une boule de cire. On prend le temps de la malaxer, et d'en faire quelque chose.    
 On la modèle, on ne parle pas, on mime, on peut faire un son, mais pas plus.  
 Une fois que l'objet a pris forme, et masse, et volume, on passe un objet à la personne à côté de nous, qui doit l'accueillir, le manipuler quelques instants, puis le malaxer, le transformer en autre chose.
 
@@ -112,8 +110,8 @@ Passage d'objet qui a une caractéristique
 
 
 ## Échauffement - "Tennis en duo"
-En cercle et en binômes.
-Un membre du binôme A envoie la balle en clappant des mains en direction d'un membre du binôme B.  
+En cercle et en binômes.  
+Un membre du binôme A envoie la balle en clappant des mains en direction d'un membre du binôme B.    
 Ce dernier clappe des mains pour réceptionner la balle. Mais c'est l'autre membre du binôme B qui renvoie la balle à un autre binôme.  
 
 Tips de réussite :
@@ -124,7 +122,7 @@ Tips de réussite :
 
 ## Échauffement - "Bataille de boule de neige"
 Une bataille de boule de neige.  
-Première bataille : on laisse les joueurs en autonomie.  
+Première bataille : on laisse les joueurs en autonomie.    
 Il y a de fortes chances que ça parte en cacahuète, qu'il n'y ait pas d'écoute, que les joueurs ne fassent qu'attaquer et esquiver.  
 
 Or on doit perdre, prendre les boules dans la tête, le jouer théâtralement, dramatiquement, attaquer quand c'est son tour.  
@@ -168,38 +166,39 @@ Tips de réussite :
 
 
 ## Jeu - "Impros pendant 30min"
-Avec caucus
-Avec position de départ
-Avec musique
+On va jouer pendant 30 minutes, sans interruption.
+
+À chaque nouvelle impro, on va donner un thème.  
+
+On peut alterner les impros :
+- Avec caucus  
+- Avec impulsion "position de départ"  
+- Avec impulsion "musique"  
 
 
 ## Jeu - "Life time"
-Impro qui démarre d'un récit
+Impro qui démarre d'une interview d'un comédien "public" par le coach.  
+"Quelle est ta plus grande passion ?".
+Le comédien répond, et le coach lui demande de développer.
+
+Puis les comédiens au plateau vont jouer cette scène.
 
 
-## Recommandations
-Lieu : faire vivre le lieu mais jouer la relation
+## Recommandations (en vrac, à trier)
+- Lieu : faire vivre le lieu mais jouer la relation
+- Blabla grappe de raisin qui s'éclate
+- Un bon improvisateur est quelqu'un qui fait des choix
+- Attention aux impros "Passe-moi le sel" (des impros sans propos, juste du blabla insipide)
+- Varier les rythmes, les énergies
+- Parler de relations
+- On joue à quoi ?
+- Respirer dans la situation
+- Prendre le temps, respirer, prendre son temps
+- Laisser le champ libre et découvrir au fur et à mesure
+- Droit au silence
+- Vivre les choses pleinement, et de temps en temps prendre la caméra ext
+- Être de meilleurs comédiens (au sens théâtral)
 
-Blabla grappe de raisin qui s'éclate
-
-
-Un bon improvisateur est quelqu'un qui fait des choix
-Attention aux impros "Passe-moi le sel" (des impros sans propos, juste du blabla insipide)
-Varier les rythmes, les énergies
-Parler de relations
-On joue à quoi ?
-Respirer dans la situation
-
-Prendre le temps, respirer, prendre son temps
-Laisser le champ libre et découvrir au fur et à mesure
-Droit au silence
-
-Vivre les choses pleinement, et de temps en temps prendre la caméra ext
-Être de meilleurs comédiens (au sens théâtral)
-
-To act/to perform
-On ne peut pas faire les deux en même temps, on navigue
-Idem pour Moi/Partenaire/Développer/Briser la glace
 
 ## Exercice - "Le Graal sacré"
 En cercle.
@@ -213,7 +212,6 @@ Tips de réussite :
 - Énergie
 - Chaque phrase est dite de plus en plus en emphase.
 - Répétitions, contagion, mimétisme, même état ...
-
 
 
 ## Jeu - "L'appartement"
@@ -275,6 +273,13 @@ Tips de réussite :
 
 
 ## Exercice - confiance en aveugle place des terreaux
+En duo, on se déplace pendant 15mn.  
+L'un guide l'autre, qui a les yeux fermés.  
+On ne le guide que par le corps, pas par la voix.  
+On l'incite à se déplacer, à avancer, à reculer, à se baisser, à se lever, à tourner ...
+On le fait interagir avec l'environnement. S'asseoir sur un banc. Toucher un parasol de terrasse ...
+
+Puis on intervertit les rôles.
 
 
 ## Jeu - "Écrits de la vie quotidienne"
@@ -306,6 +311,12 @@ C'est graphique et lyrique.
 
 ## Échauffement - "Accélérer, décélérer, s'arrêter"
 Déplacement dans l'espace accélérer, décélérer, s'arrêter en rythme.
+
+Tips de réussite :
+- Occuper tout l'espace
+- Anticiper les collisions
+- Être conscient de tout l'environnement
+
 
 ## Échauffement - "Point moteur"
 On marche dans la pièce.  

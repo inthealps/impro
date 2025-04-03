@@ -114,7 +114,6 @@ On vit sa réception, puis on le passe à la personne à côté de nous.
 Au bout d'un moment la caractéristique change. L'objet devient lourd, ou il pue, bref ...  on s'adapte et on continue à recevoir/transmettre cet objet.  
 
 
-
 ## Échauffement - "Tennis en duo"
 En cercle et en binômes.  
 Un membre du binôme A envoie la balle en clappant des mains en direction d'un membre du binôme B.    

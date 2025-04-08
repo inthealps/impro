@@ -615,6 +615,36 @@ Tips de réussite :
 - Puis tout expliquer en déroulant ce même fil. Ne pas douter ni revenir sur notre compréhension première de la scène.
 
 
+## Exercice "Boucliers et épées"
+Tout le monde s'attribue secrètement deux partenaires.  
+Nous serons le bouclier qui protège une victime de l'épée.
+
+On marche dans la pièce.  
+Au signal, on doit rapidement se positionner entre les deux partenaires choisis, donc en protection de la victime vis-à-vis de l'épée.
+
+C'est un peu le chaos, on doit garder notre objectif de se replacer entre les partenaires, il s'agit de viser une stabilisation.
+
+À tout moment le coach peut siffler, et ça fige le groupe.  
+On compte alors les boucliers qui ont réussi à protéger leur victime de l'épée.
+
+## Exercice "Les compliments"
+On sépare le groupe en deux lignes.  
+Chaque joueur se trouve face à un autre joueur. Se mettre à 2 joueurs, si le groupe est impair.  
+
+On va complimenter son partenaire, en lui disant ce qu'on aime chez lui, mais sur un thème donné.
+Par exemple, si le thème est "un fruit ou un légume", on va dire "Tu es une fraise fantastique, tu es rouge et sucrée. La lumière du soleil vient se refléter sur toi et tu irradies de couleurs rouges flamboyantes, ...".
+
+Ca dure 2mn.
+
+Puis le partenaire fait de même.
+
+On change de thème, et on recommence (un outil, un meuble, un animal, une couleur, etc).
+
+Tips de réussite :
+- On doit vraiment faire un compliment sincère.
+- Ne pas hésiter, on fait attention aux "Euh", on regarde dans les yeux, on y croit et on se laisse porter.
+
+
 # Jeu
 
 ## Jeu "Freeze sans tag"

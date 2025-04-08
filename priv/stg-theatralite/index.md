@@ -10,7 +10,7 @@ Notes du stage avec Aurore, Avril 2024
 L'idée derrière la mise en jeu est de se connecter à soi, à son corps, à ses sensations, afin de commencer à se gérer soi-même, son stress, sa respiration, son ancrage, AVANT de commencer à gérer la relation à l'autre. 
 
 
-## Se connecter à soi
+## Échauffement "Se connecter à soi"
 S'ancrer au sol, sentir son corps, sa respiration, son poids.  
 Se connecter à ses émotions, à ses sensations.  
 
@@ -25,7 +25,7 @@ L'ancrage permet de moins ressentir le stress, de se sentir plus en sécurité.
 Être ancré permettra également de considérer les déplacements comme des choix, et non comme des gestes parasites. On prend donc conscience de ses déplacements, ils sont motivés par un vrai intérêt scénique. Ils vont alors amener du jeu.  
 
 
-## Échauffement voix
+## Échauffement "Voix"
 Exercices de respiration : on inspire en gonflant le ventre, en 3 temps. Puis le buste, également en 3 temps.  
 L'expiration se fait en 3 temps aussi, en commençant par le buste, ensuite le ventre.  
 Il est normal que la tête se relève légèrement lorsque l'on inspire par le thorax, et qu'elle se baisse légèrement lorsque l'on expire.  
@@ -82,7 +82,7 @@ Tips de réussite :
 - Prendre conscience de ce l'on dit. La parole a de la valeur, on peut répéter, et répéter encore pour emphaser le truc. La répétition donne de l'importance à ce que l'on dit et libère de la production de texte.  
 
 
-## “Yuri” (traversée en musique)
+## Exercice “Yuri (traversée en musique)"
 N joueurs
 
 En musique, un premier comédien commence à faire une proposition “dansée” (ou “gesticulée”).  

@@ -5,8 +5,7 @@ title:  "Stage Personnages, Aurore Desgranges"
 
 Notes du stage avec Aurore, Octobre/Novembre 2023
 
-## Entrée dans le personnage
-
+## Exercice "Entrée dans le personnage"
 - Par un geste quelconque, que l'on répète jusqu'à ce qu'on trouve ce que c'est.  
 
 - Par une émotion

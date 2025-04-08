@@ -647,11 +647,15 @@ _Date de création : 2022-09-13T20:00:00_
 
 ## Boucliers et épées
 Tout le monde s'attribue secrètement deux partenaires.  
+Nous serons le bouclier qui protège une victime de l'épée.  
 
 On marche dans la pièce.  
-Au signal, on doit rapidement se positionner entre les deux partenaires choisis.  
+Au signal, on doit rapidement se positionner entre les deux partenaires choisis, donc en protection de la victime vis-à-vis de l'épée.
 
 C'est un peu le chaos, on doit garder notre objectif de se replacer entre les partenaires, il s'agit de viser une stabilisation.  
+
+À tout moment le coach peut siffler, et ça fige le groupe.  
+On compte alors les boucliers qui ont réussi à protéger leur victime de l'épée.
 
 _Date de création : 2022-09-13T20:00:00_
 

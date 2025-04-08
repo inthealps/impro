@@ -18,7 +18,7 @@ Notes du stage avec Kathleen et Gaël, Mai 2024
 Nous (comédiennes et comédiens) sommes protégés par nos personnages ! "Riez autant que vous voulez, je suis protégé par mon personnage !" (Anecdote du clown)
 
 
-## Connexion à soi et aux autres
+## Échauffement "Connexion à soi et aux autres"
 On marche dans la pièce, on se connecte à la musique, on se connecte à soi.  
 Puis on lève les yeux, on commence à chercher des regards, à se connecter aux autres ("La première connexion à son partenaire de jeu est le regard").  
 D'abord brièvement. On prend ensuite le temps de se connecter plus longtemps, de soutenir les regards, en s'approchant de l'autre.  
@@ -28,7 +28,7 @@ Recherche du consentement. QUe peut-on faire ? Qu'est-ce qui est OK pour l'autre
 On explore ça en douceur, en prenant le temps.  
 
 
-## “Yuri” (traversée en musique)
+## Exercice “Yuri (traversée en musique)"
 N joueurs séparés en deux groupes, alignés à l'opposé du plateau.  
 
 En musique, un.e premier.e comédien.ne commence à faire une proposition “dansée” (ou “gesticulée”).  
@@ -52,7 +52,7 @@ Le Yuri est vraiment un condensé de tout ce qu'on peut travailler en impro : le
 Penser à ça dans nos scènes d'impro, à visualiser le plateau.  
 
 
-## "Tout est déjà là" (Meisner)
+## Exercice "Tout est déjà là (Meisner)"
 En mode Slow Impro chère à Matthieu Loos, on prend le temps de visualiser les choses, de les ressentir.  
 En duo, comédien.ne A et comédien.ne B se font face et se regardent.  
 - A va dire ce qu'il voit en B.  
@@ -65,7 +65,7 @@ En duo, comédien.ne A et comédien.ne B se font face et se regardent.
 On n'invente rien, on ne fait que dire ce que l'on voit. "Tout est déjà là !"
 
 
-## "La terrasse de café"
+## Jeu "La terrasse de café"
 Deux chaises au plateau.  
 
 Les deux comédien.ne.s sont assis et regardent le sol.  
@@ -82,7 +82,7 @@ Tips de réussite :
 - On peut remettre la musique pour inciter les comédien.ne.s à se remettre dans le corps, à se reconnecter à l'émotionnel.  
 
 
-## Quatre gestes répétitifs pour une scène
+## Exercice "Quatre gestes répétitifs pour une scène"
 Trois comédien.ne.s sur scène.  
 Une musique est lancée, on laisse infuser, on se laisse charger.  
 Chacun.e des trois comédien.ne.s va enchainer 4 gestes répétitifs, qu'il/elle va répéter indéfiniment.  
@@ -98,7 +98,7 @@ Tips de réussite :
 - Si la scène nécessite des ajustements des gestes, c'est OK.  
 
 
-## Jeu - 1 + N
+## Jeu "1 + N"
 Un.e comédien.ne sur scène, les autres en coulisse.  
 En musique, le/la comédien.ne commence à jouer, de manière corporelle et organique.  
 Les autres comédien.ne.s vont entrer en scène, un.e par un.e, pour venir soutenir leur camarade.  
@@ -124,13 +124,13 @@ B va donc devoir meubler, parler, parler, parler, jusqu'à ce que A lui prenne l
 Là encore, on travaille la différenciation corps/cerveau → spontanéité, lâcher-prise, réactivité, etc.  
 
 
-## Scène "Allers-retours fond de scène"
+## Jeu "Allers-retours fond de scène"
 Deux comédien.ne.s sur scène, un.e en avant-scène, l'autre en fond de scène.  
 Après chaque réplique, ils/elles vont se déplacer en fond de scène, alternativement.  
 Là encore, on travaille la différenciation corps/cerveau pour amener spontanéité et lâcher-prise.  
 
 
-## Yoga du regard
+## Échauffement "Yoga du regard"
 Source : Odile Cantero
 Tout le groupe au plateau.  
 Un comédien A va devoir éviter le regard de tous les autres.  
@@ -144,7 +144,7 @@ NB: Il s'agit peut-être de l'exercice "Yoga du regard" de Odile Cantero, mais i
 À vérifier.  
 
 
-## Prise de focus "Fin de phrase"
+## Exercice "Prise de focus 'Fin de phrase'"
 Quatre comédien.ne.s sur scène.  
 Deux scènes se jouent alternativement, en parallèle.  
 

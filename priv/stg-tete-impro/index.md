@@ -5,26 +5,26 @@ title:  "Stage La tête en impro, Ludovic Lecordier"
 
 Notes du stage "La tête en impro", Ludovic Lecordier, Avril 2023
 
-## Jour 1
-### Exercice 1 - Tour de prénoms
+# Jour 1
+## Exercice "Tour de prénoms"
 En cercle chacun donne son prénom, un mot commençant par la lettre de son prénom et un mime associé.  
 
 Ex: Nina, Nénuphar, effectue une action symbolisant un nénuphar
 
-### Exercice 2 - Mot lancé
+## Exercice "Mot lancé"
 En cercle, on dit un mot inspiré du dernier mot lancé.  
 Vite, sans réfléchir, c'est difficile
 
-### Exercice 3 - à 4
+## Exercice "Déstabilisation à 4"
 C1 raconte une anecdote réelle à C2, en face de lui.  
 A sa gauche C3 lui murmure des compliments pour le déstabiliser.  
 A sa droite, C4 lui murmure des insultes.  
 
-### Exercice 4
+## Jeu "Scène en duo + thème, très rapide"
 Comédiens en réserve.  
 Le prof appelle 2 comédiens sur scène et leur donne un thème. Impro immédiate sur ce thème, en duo. Scènes très rapides, coupées par le prof quand il le décide.  
 
-### Exercice 5
+## Jeu "Deux premières répliques imposées"
 Une situation de départ : C1 assis sur une chaise devant une table par exemple.  
 C2 est briefé par le prof pour rentrer en jeu avec quelque chose (une intention, une émotion, un tic, une action ...)
 Les premières répliques de C1 et C2 sont définies à l'avance :
@@ -37,16 +37,16 @@ C2 : "J'ai connu mieux ..."
 
 Selon l'impulsion de départ, on va assister à des scènes très différentes.  
 
-### Exercice 6
+## Exercice "Le/la perturbateur.ice"
 Un duo débute une scène sur un thème donné par le prof ou les autres comédiens.  
 Un 3e comédien observe la scène et à un moment donné va se faire remarquer en intervenant dans la scène. Il DOIT se faire remarquer par les comédiens et les surprendre. Ces derniers ne doivent pas feindre la surprise, elle doit être réelle.  
 
-### OBJECTIFS :
+### Objectifs :
 Démontrer que les idées peuvent venir d'impulsions quelconques. Des situations. Des émotions. Du rythme. Et pas uniquement du texte !  
 
-## Jour 2
+# Jour 2
 
-### Exercice 1 - Prénom, adjectif, animal
+## Échauffement "Prénom, adjectif, animal"
 En cercle, on pointe une personne avec le doigt et on donne son prénom. On garde le doigt levé. On recommence, en pointant toujours la même personne. Luc, pointé par Eric, va pointer Nina. Toujours.  
 
 Ensuite, on recommence une nouvelle tourne mais avec des adjectifs. Luc, pointé par Ludo avec l'adjectif "Lumineux", var pointer Anne en disant l'adjectif "Douée" ...  
@@ -57,7 +57,7 @@ Mathieu (ours) pointe Pierre (mouette) qui pointe Marion (pangolin).
 
 Et ensuite, ben on fait des tours en mixant tout ça. Il peut y avoir 3 concepts différents qui tournent dans le cercle.  
 
-### Exercice 2 - La fresque
+## Exercice "La fresque humaine"
 
 Le prof demande à ce que 8 comédiens fassent une fresque immobile sur un thème.  
 
@@ -79,7 +79,7 @@ On travaille la compréhension.
 
 La recherche de la deuxième idée permet de se renouveler, et de ne pas refaire 100 fois les mêmes scènes ;)
 
-### Exercice 3
+## Exercice "Tableau en aveugle"
 En trio, chacun ferme les yeux et prend une position. Au signal, tout le monde ouvre les yeux et découvre la scène. Le public dit ce qu'il voit. Les 3 comédiens le jouent immédiatement. Le prof coupe, les comédiens reprennent leurs positions initiales et c'est au tour d'une autre idée de prendre vie ...  
 
 On continue ainsi jusqu'à user la situation.  
@@ -87,9 +87,7 @@ Permet de travailler l'imagination.
 
 Comme la position de départ permet tout, les gestes parasites des comédiens peuvent être assumés, et non gommés comme on peut parfois le faire en jeu. Et puis on se reconnecte à la scène.  
 
-### Exercice 4
-Dedans / dehors
-
+## Exercice "Dedans / dehors"
 Un personnage P1 est chez lui, un autre personnage P2 dehors. 
 
 P2 VEUT ENTRER chez P1.  
@@ -115,19 +113,19 @@ Ne pas résoudre une situation bloquée amène du jeu, du décalage, du fun. Sc�
 
 Très éclairant sur la notion d'acceptation et de refus. Permet de partir dans des choses très créatives !  
 
-## Jour 5 - Spectacle
+# Jour 5 - Spectacle
 
-### Ex 1 - Une danse, geste par geste, en duo.  
+## Exercice "Une danse, geste par geste, en duo"  
 On essaie de croiser nos corps, en s'accordant sur le tempo de la musique. Pas de contact, on s'entremêle juste.  
 
-### Ex 2 - Chorégraphie a 6
+## Exercice "Chorégraphie à 6"
 On débute en arc de cercle, face public.  
 
 Sur la musique, les uns après les autres, tour à tour, on change de position. On peut se déplacer mais on garde l'ordre de changement initial.  
 
 On reste figé lorsque ce n'est pas à notre tour de changer.  
 
-### Ex 3 - Histoire passionnante, buzzée par le public.  
+## Exercice "Histoire passionnante, buzzée par le public"  
 En ligne face public, un comédien s'avance et initie une histoire passionnante.  
 
 A la moindre hésitation du comédien, ou dès que le public en a marre, il peut buzzer.  
@@ -138,17 +136,19 @@ On doit se battre pour entrer en scène, on doit être le premier, c'est vital.
 
 Cela nous aide à entrer sans savoir, notre seul but étant d'entrer, pas de savoir ce qu'il va se passer.  
 
-### Ex 4 - Mots lancés sans lien.  
+## Exercice "Mots lancés sans lien"  
 A trois, on lance des mots, sans liens.  
 
 Dès qu'une hésitation apparait, ou qu'un lien est détecté, le public buzze.  
 
 Le "fautif" est remplacé.  
 
-### Ex 5 - Que des questions
-On fait une scène en duo avec QUE des questions. Dès qu'une affirmation apparait, le public buzze.  
+## Exercice "Que des questions"
+On fait une scène en duo avec QUE des questions.  
+Dès qu'une affirmation apparait, le public buzze.  
 
-### JEU - Une émotion, une réplique, une position
+
+## Jeu "Une émotion, une réplique, une position"
 3 comédiens vont faire une scène.  
 
 Avant la scène, le 1er choisit une émotion, le 2nd une réplique, le 3e une position.  
@@ -157,9 +157,9 @@ On joue la scène, dès que le prof le décide, il va appeler un des 3 comédien
 
 L'idée est de FAIRE immédiatement, et de justifier a posteriori.  
 
-## Jour 3
+# Jour 3
 
-### Paradoxe de contrôle comédien / personnage
+## Paradoxe de contrôle comédien / personnage
 Le paradoxe de contrôle comédien / personnage est une situation dans laquelle le comédien doit à la fois être conscient de ce qui se passe sur scène et en même temps être totalement engagé dans son personnage. Cela signifie que si le comédien perd le contrôle, son personnage doit être en contrôle, et inversement.  
 
 Exemple :
@@ -179,7 +179,7 @@ De même, si mon personnage perd le contrôle, je (comédien) doit être dans le
 
 Si comédien et personnage sont hors contrôle, le public ne peut pas comprendre.  
 
-### Exercice 1 - Princesse et monstre
+## Exercice "Princesse et monstre"
 
 En cercle, deux par deux, épaule contre épaule, un monstre poursuit une princesse.  
 
@@ -187,14 +187,14 @@ Il hurle et gesticule, elle hurle a peur et gesticule. Le but est de collaborer,
 
 La princesse peut décider de venir se coller aux "remparts" (un duo épaule contre épaule). Elle remplace le rempart opposé, lequel devient monstre (et donc le monstre devient la princesse).  
 
-### Exercice 2 - histoires mot à mot
+## Exercice "Histoire mot à mot"
 En duo, on invente une histoire mot après mot, chacun son tour.  
 
 Puis en trio, à 4, à 5 ...  
 
 Au plus on est nombreux au moins on a le contrôle. Ca force à rafraîchir son cache et accepter de ne pas tout contrôler.  
 
-### Jeu
+## Jeu "Relation + contexte"
 Le public donne la relation et le contexte.  
 
 Il donne également une position (endroit de la scène ET position corporelle) que le 3e comédien devra reproduire pendant la scène !!  
@@ -219,7 +219,7 @@ Ce n'est pas parce qu'une scène d'anniversaire de mémé est perturbée par un 
 
 On joue avec ce qu'on ne contrôle pas !!  
 
-### JEU
+## Jeu "Ça y est, c'est fait !"
 En duo, un personnage en action en contre-scène.  
 
 Le 2e personnage arrive et dit avec l'intention qu'il veut : "Ca y est, c'est fait !"
@@ -240,36 +240,36 @@ Alors on sort des sentiers battus avec des propositions aléatoires, le lien vie
 
 Un excellent antidote aux scènes qu'on a joué 30 fois (un couple, un conflit, du bla bla) !  
 
-## Jour 4
+# Jour 4
 "Thème imitation et performance"
 
-### Ex 1 - la blague drôle
+## Exercice "La blague drôle"
 En cercle, on raconte des blagues sur un thème donné par le prof.  
 
 On est en mode 'performance', on assume d'être bon !  
 
 On raconte notre histoire drôle avec aplomb, certain qu'elle est drôle.  
 
-Le public doit rire d'un rire franc (même s'il st forcé, il ne doit PAS paraitre forcé)
+Le public doit rire d'un rire franc (même s'il est forcé, il ne doit PAS paraitre forcé)
 
 "C'est l'histoire d'un belge qui tombe, une fois" AHAHAHAHAHA
 
-### Ex 2 - Miroir
+## Échauffement "Miroir"
 Face à face, on agit en miroir, les deux peuvent proposer.  
 
-### Ex 3 - En rythme, décalés
+## Échauffement "En rythme, décalés"
 Sur un son de métronome, face à face, un comédien propose un geste à son partenaire, qui attend 1 temps avant de reproduire ce geste.  
 
 On accélère le tempo peu à peu.  
 
-### JEU
+## Exercice "Le Goaler Jumeau"
 Goaler "en scène".  
 
 Tour à tour les comédiens viennent au centre de la scène en incarnant un personnage.  
 
 Le comédien 'goaler' agit en personnage Jumeau et on joue une scène courte.  
 
-### JEU
+## Exercice "Scène + performance"
 2 en scène + un 3e qui amène une 'performance'
 
 Deux comédiens jouent une scène sur un thème donné par le public.  

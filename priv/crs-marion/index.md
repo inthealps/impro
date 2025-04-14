@@ -57,7 +57,7 @@ Pistes de réussite :
 ## Exercice "La bougie"
 Tous les comédiens en déambulation dans la pièce.  
 
-Tous et toutes surveillent le groupe, et dès qu'ils voient une bougie fondre (i.e. quelqu'un qui s'arrête et se met à "fondre", c'est à dire s'effondrer sur elle-même), ils vont venir soutenir la personne en train de fondre pour éviter qu'elle s'écroule.  
+Tous et toutes surveillent le groupe, et dès qu'ils voient une bougie fondre (i.e. quelqu'un qui s'arrête et se met à "fondre", c'est-à-dire s'effondrer sur elle-même), ils vont venir soutenir la personne en train de fondre pour éviter qu'elle s'écroule.  
 
 Cet exercice permet de travailler l'écoute globale, la gestion du temps, quand proposer, etc.  
 
@@ -627,6 +627,7 @@ C'est un peu le chaos, on doit garder notre objectif de se replacer entre les pa
 À tout moment le coach peut siffler, et ça fige le groupe.  
 On compte alors les boucliers qui ont réussi à protéger leur victime de l'épée.
 
+
 ## Exercice "Les compliments"
 On sépare le groupe en deux lignes.  
 Chaque joueur se trouve face à un autre joueur. Se mettre à 2 joueurs, si le groupe est impair.  
@@ -643,6 +644,41 @@ On change de thème, et on recommence (un outil, un meuble, un animal, une coule
 Tips de réussite :
 - On doit vraiment faire un compliment sincère.
 - Ne pas hésiter, on fait attention aux "Euh", on regarde dans les yeux, on y croit et on se laisse porter.
+
+
+## Exercice "Que des questions"
+On fait une scène en duo avec QUE des questions.  
+Dès qu'une affirmation apparait, le public buzze.
+
+"Pourquoi à chaque fois que je te vois, tu es en train de pleurer ?"
+
+
+## Exercice "Des débuts clairs et subtils ..."
+En cercle.  
+
+Un comédien va se mettre au centre, et va faire une proposition de début de scène avec pour objectif de fixer la relation en une phrase :
+- "Fabrice, j'aurais besoin que tu m'aides à vider la maison de maman ce week-end. Après tout, tu es l'aîné."
+
+Si on a un doute sur la relation, on voit collectivement comment affiner la relation.
+
+Tips de réussite :
+- On fait subtil ! "Je suis ton père et je suis là pour t'aider" ce n'est PAS subtil !
+- On essaie de varier les types de relations
+
+
+## Exercice "Des fins claires et nettes !"
+Rien de pire qu'une scène qui touche à sa fin, et qui repart en blabla inutile et sans intérêt.  
+On se dit "Et merde ! J'aurais dû couper avant !" et la scène s'essouffle et rame, et a perdu tout son intérêt.
+On veut des fins claires pour faciliter les tuilages et ajouter de la fluidité à nos spectacles.
+
+Deux comédiens vont jouer une mini-scène.  
+À tout moment, quand il sent que la scène a rempli son rôle, le coach peut dire "Fin de l'impro dans 5 secondes", et la scène doit se terminer dans les 5 secondes.  
+
+S'il n'est pas satisfait de la fin, il peut dire "On continue" ...
+
+Tips de réussite :
+- Punch-line bienvenue, en forme de conclusion
+- Réincorporation d'éléments de la scène
 
 
 # Jeu

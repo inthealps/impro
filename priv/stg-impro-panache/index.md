@@ -4,7 +4,7 @@ title: "Stage L'impro avec panache ! Mathilde Cribier"
 date: 2024-08-11
 ---
 
-## Échauffement - "Hypnotiseur/Hypnotisé"
+## Échauffement "Hypnotiseur/Hypnotisé"
 En duo, l'hypnotiseur place sa main face au visage de l'hypnotisé.  
 Le visage de l'hypnotisé doit garder une distance fixe avec la main de l'hypnotiseur.  
 On s'amuse à jouer avec les distances, les vitesses, les directions.  
@@ -21,7 +21,7 @@ Tips de réussite :
 - Mode Avancé : Créer des images de groupe (le collectif soutient des propositions, comme dans le Yuri)
 
 
-## Échauffement - "Killer"
+## Échauffement "Killer"
 En cercle, un joueur est désigné pour être le "killer".  
 
 Il commence à donner un prénom du cercle (pas ses voisins).  
@@ -32,7 +32,7 @@ La personne devient "killer" et dit un autre prénom en se relevant.
 On fait quelques tours, puis on élimine quand erreur, latence, etc.  
 
 
-## Exercice - "Mitraillette"
+## Exercice "Mitraillette"
 Un duo en position.  
 
 Le public donne un mot, une très courte impro démarre.  
@@ -40,22 +40,22 @@ A la fin de l'impro (cuttée par l'animateurice), un nouveau duo prend place (da
 Le public donne un autre mot, et on redémarre une nouvelle impro.  
 
 
-## Exercice - "Emotions"
+## Exercice "Emotions"
 En déambulation dans l'espace, l'animateur.ice donne une "émotion" (joie, tristesse, amour, flemme, colère, stress,
-hypocrisie, ...).  
+hypocrisie, …).  
 
 Les comédiens doivent se déplacer dans l'espace en incarnant cette émotion.  
-L'animateur.ice peut faire varier les curseurs d'intensité ...  
+L'animateur.ice peut faire varier les curseurs d'intensité …  
 
 Ne pas confondre "émotion" et "état interne" (ou "état de corps").  
-L'émotion est ce que l'on rend visible aux spectateurs, l'état interne est invisible ... "Qu'est-ce que cela me fait ?"
+L'émotion est ce que l'on rend visible aux spectateurs, l'état interne est invisible … "Qu'est-ce que cela me fait ?"
 
 Tips de réussite :
-- Jouer simple : Ne pas jouer de choses extraordinaires ... mais les jouer de manière extraordinaire !  
+- Jouer simple : Ne pas jouer de choses extraordinaires … mais les jouer de manière extraordinaire !  
 - Changer d'énergie, mais toujours à fond sur nos moteurs internes, notre énergie intérieure.  
 - Ne pas boucler, ne pas lâcher, ne pas s'ennuyer.  
 - Changer les curseurs, et votre comment notre corps/visage réagit à ces changements et interprète cela.  
-- Attention, pousser très haut les curseurs amène moins de sincérité de jeu, et plus de jeu clownesque ... MAIS c'est à
+- Attention, pousser très haut les curseurs amène moins de sincérité de jeu, et plus de jeu clownesque … MAIS c'est à
   travailler !  
 
 ### Développements pour le jeu : Outil "Mémoire corporelle"
@@ -64,7 +64,7 @@ Que se passe-t-il dans mon corps quand je joue la colère ? Poings serrés, mâc
 Est-ce-que serrer les poings me permet de retrouver la colère ?  
 Partir du corps pour aller vers la tête (l'émotion). Plutôt que l'inverse, qui rend souvent faux.  
 
-## Exercice - "Les chaises"
+## Exercice "Les chaises"
 En duo.  
 
 En musique, on se balade dans l'espace avec une chaise pliée à la main.  
@@ -75,7 +75,7 @@ Une scène démarre.
 On commence à prendre un temps avec nous-même, à se connecter à notre état intérieur.  
 La musique a pu être une impulse de jeu. Je connais cette musique, je l'aime ? je ne l'aime pas ? elle me met dans quel
 état ?  
-On va jouer une impro simple, on joue le quotidien, c'est une impro "Passe-moi le sel ..."  
+On va jouer une impro simple, on joue le quotidien, c'est une impro "Passe-moi le sel …"  
 On focuse sur notre relation. Qui ? Quoi ? Où ?  
 
 Tips de réussite :
@@ -83,12 +83,12 @@ Tips de réussite :
 - Peu de texte, on laisse des silences ! (et ne dire que des choses qui apportent quelque chose à l'histoire)
 - On reste sur nos émotions propres, on peut se laisser happer par l'autre, mais on revient à notre émotion première.  
 - Voir des comédiens dans 2 états très différents est très cool pour le spectateur !  
-- "Trouver le game" → Identifier très rapidement le "Jeu de la scène" : **"À quoi joue-t-on ?"** ... On doit se dire : "Aah ! C'est à ÇA qu'on joue !!"
+- "Trouver le game" → Identifier très rapidement le "Jeu de la scène" : **"À quoi joue-t-on ?"** … On doit se dire : "Aah ! C'est à ÇA qu'on joue !!"
 - Alterner les moments où les personnages se regardent, et les moments où les personnages reviennent sur eux-mêmes.  
 - Ne pas trop construire dans sa tête, laisser venir les choses.  
 
 
-## Exercice - "Danse alternée"
+## Exercice "Danse alternée"
 En duo.  
 Sur la musique de "Total Eclipse of the Heart" de Bonie Tyler.  
 
@@ -99,7 +99,7 @@ On se laisse impacter par la musique, sa puissance, son intensité, ses changeme
 
 On envoie du pâté, ça doit être physiquement engagé !  
 
-## Exercice - "Les 7 nains"
+## Exercice "Les 7 nains"
 En trio.  
 
 On pioche un "état de jeu" parmi les 7 nains de Blanche-Neige :
@@ -129,7 +129,7 @@ contrainte, pour mieux y revenir.
 
 Penser : "Le Nain c'est mon petit trait de caractère en plus"
 
-## Exercice - "Amour/Détestation/Indifférence"
+## Exercice "Amour/Détestation/Indifférence"
 En duo.  
 
 On va jouer une scène avec les 3 états de jeu : Amour, détestation et indifférence.  
@@ -145,10 +145,10 @@ Tips de réussite :
 - Choix forts
 - Le public aime les personnages qui vont mal ;)
 
-## Exercice - "La pharmacie"
+## Exercice "La pharmacie"
 En duo.  
 
-Un.e pharmacien.ne et un.e client.e ...  
+Un.e pharmacien.ne et un.e client.e …  
 Le comédien jouant le pharmacien reçoit une caractéristique de jeu (lent, stressé, émotif, parle avec les mains etc).  
 On voit ce qu'il se passe.  
 
@@ -164,13 +164,13 @@ Tips de réussite :
 
 ### "Drop the bombs !"
 Osez les révélations fracassantes, qui impactent les personnages en jeu.  
-Ne tournez pas autour du pot, ne restez pas dans une attente où l'on va induire la bombe ... lâchez-la !!  
+Ne tournez pas autour du pot, ne restez pas dans une attente où l'on va induire la bombe … lâchez-la !!  
 Puis résolvez et passez à autre chose.  
 Faites confiance à l'impro pour que quelque chose naisse de ça, intéressant, et qui va développer l'histoire.  
 L'histoire en impro doit toujours avancer !  
 
 Rester attentif !  
-"Ah c'est bien que tu sois reçu, toi ..." → implique que l'autre n'est pas reçu.  
+"Ah c'est bien que tu sois reçu, toi …" → implique que l'autre n'est pas reçu.  
 "- Je suis contente de te voir" "- Pas moi" → On ne peut pas laisser passer ça, il faut rebondir dessus !  
 
 ### "État de corps"
@@ -198,7 +198,7 @@ Prendre conscience de tout ce qui existe déjà, et tout ce qui a déjà été r
 Il existe une grosse différence entre :
 - ce que les comédiens savent
 - ce que les personnages savent
-- ... et c'est très cool que ce ne soit pas toujours la même chose ! Cela amène des situations cocasses. On joue avec
+- … et c'est très cool que ce ne soit pas toujours la même chose ! Cela amène des situations cocasses. On joue avec
   ça.  
 
 ### "Donnez-vous des contraintes"
@@ -206,7 +206,7 @@ En répétition, mais aussi en spectacle !
 
 - "Ce soir, je ne joue que du positif"
 - "Ce soir, je joue un personnage émotif"
-- ...  
+- …  
 
 ### Forme physique
 Être en forme et avoir une bonne maîtrise de son corps.  
@@ -214,7 +214,7 @@ Faire du sport, des étirements, de la danse, du yoga, etc.
 "Notre corps est ce que l'on montre au public, c'est notre outil de scène."
 
 
-## Exercice - "Sous le vent, la chorégraphie"
+## Exercice "Sous le vent, la chorégraphie"
 En duo. En musique.  
 
 On s'entend sur une chorégraphie, avec quelques étapes, et des mouvements simples.  
@@ -252,7 +252,7 @@ Sur la musique "Sous le vent" de Garou et Céline Dion, d'où le titre de l'exer
 Et d'autres si Garou nous insupporte ;)
 
 
-## Échauffement - "L'évasion de prison à 5"
+## Échauffement "L'évasion de prison à 5"
 (Ressemble à l'échauffement "Into the Jungle")  
 À cinq joueurs, en musique.  
 
@@ -270,7 +270,7 @@ Tips de réussite :
 - Prendre des décisions radicales et franches sur la prise de lead.  
 - Ne pas hésiter à changer de direction, de rythme, etc.  
 
-## Échauffement - "Association d'idées, la compèt'"
+## Échauffement "Association d'idées, la compèt'"
 On sépare le groupe en 2.  
 Les deux groupes choisissent un mot de départ.  
 On constitue des duos avec un joueur de chaque groupe.  
@@ -281,7 +281,7 @@ Process :
 - quand je suis prêt, je dis "prêt". Si l'autre l'est également, on recommence, "1, 2, 3"
 - on s'arrête quand on a trouvé un mot commun.  
 
-## Exercice - "Révélations"
+## Exercice "Révélations"
 En duo.  
 
 A est en action, une action répétitive, s'occuper du jardin, peindre un mûr, faire la cuisine.  
@@ -293,7 +293,7 @@ On fait monter l'enjeu : l'un dit un truc à l'autre qui surréagit et on monte 
 
 Tips de réussite :
 - Quand je fais mon action, je me pose la question "J'aime faire ça ?", "Je sais bien faire ça ? (expertise)"
-- ... mais je crois en ce que je fais (mais je peux être nul)
+- … mais je crois en ce que je fais (mais je peux être nul)
 - Investissement corporel, s'il fait un truc à moitié, le comédien ne sent pas bien, ça le met mal à l'aise. Ne pas
   hésiter à mettre les watts. Engagez le corps, complètement, et restez dans l'action ! Le corps est votre outil de
   scène !  
@@ -315,8 +315,8 @@ Déroulé :
 - À un moment donné, un comédien fait une révélation, fracassante, qui impacte tout le monde. DROP THE BOMB !  
 - Il s'en suit une période de silence (chaque personnage accuse le coup, et commence à tirer les conséquences de la
   révélation), puis, les réactions arrivent.  
-- On doit arriver jusqu'à un paroxysme, presque chaotique ... les réactions peuvent être démesurées.  
-- ... puis on redescend, et on réintègre une nouvelle normalité ("Qu'est-ce qu'il reste après le chaos ?")
+- On doit arriver jusqu'à un paroxysme, presque chaotique … les réactions peuvent être démesurées.  
+- … puis on redescend, et on réintègre une nouvelle normalité ("Qu'est-ce qu'il reste après le chaos ?")
 
 Tips de réussite :
 - Bien être à l'écoute, on est nombreux.  

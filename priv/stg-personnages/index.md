@@ -14,7 +14,7 @@ Notes du stage avec Aurore, Octobre/Novembre 2023
 - Par une situation, un contexte, s'ils arrivent directement.  
 
 Exercice :
-Deux comédiens se tournent le dos. Chacun doit trouver et infuser un personnage (par un geste, une émotion, un mime, un personnage, une situation, ...).  
+Deux comédiens se tournent le dos. Chacun doit trouver et infuser un personnage (par un geste, une émotion, un mime, un personnage, une situation, …).  
 Ils se retournent et doivent jouer ensemble, en s'appuyant sur ce qu'ils ont trouvé.  
 Que se passe-t-il ? Qu'est-ce qui se joue ?  
 

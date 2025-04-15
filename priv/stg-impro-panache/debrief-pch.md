@@ -18,4 +18,4 @@ Debriefs de Mathilde sur mon jeu, mes pistes d'amélioration, Aoû t 2024
 ## Points d'amélioration
 - Fais-toi plus confiance. Non ! Tu n'es pas écrasant pour les autres !  
 - Va chercher des zones moins confortables (cf scène avec la contrainte "le personnage est LENT")
-- Ton moteur de jeu doit être "Fais-toi plaisir !" maintenant ... Lâche le cerveau encore plus !
+- Ton moteur de jeu doit être "Fais-toi plaisir !" maintenant … Lâche le cerveau encore plus !

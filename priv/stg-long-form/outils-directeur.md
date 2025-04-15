@@ -22,9 +22,9 @@ L'idée est d'appuyer une proposition (même faible) qui été faite par A en fa
 
 Exemple:
 - Directeur : "Florence. Je sais pourquoi tu dis ça"
-- Florence : "Je sais pourquoi tu dis ça, tu dis ça parce que ..." et elle invente la suite.  
+- Florence : "Je sais pourquoi tu dis ça, tu dis ça parce que …" et elle invente la suite.  
 
-Particulièrement efficace pour mettre en valeur les paroles d'un comédien moins expérimenté, ou d'un comédien en surcharge, ... et pour faire avancer l'histoire.  
+Particulièrement efficace pour mettre en valeur les paroles d'un comédien moins expérimenté, ou d'un comédien en surcharge, … et pour faire avancer l'histoire.  
 
 À travailler et retravailler pour que ça devienne un réflexe, et que A laisse le temps à B de développer après le "Je sais pourquoi tu dis çà".  
 
@@ -50,7 +50,7 @@ Si aucun prénom n'est cité alors les 2 se mettent en action.
 Exemple:
 - A vient de se passer la main dans les cheveux
 - Directeur dit "B, remarque !"
-- B cite le geste et invente une explication : "Je vois que tu passes la main dans tes cheveux de manière sensuelle. Tu as envie de moi ..."
+- B cite le geste et invente une explication : "Je vois que tu passes la main dans tes cheveux de manière sensuelle. Tu as envie de moi …"
 
 ## "Silence. Riez"
 Après une phrase, ou une répétition.  
@@ -74,4 +74,4 @@ En ping-pong, en se coupant très rapidement afin d'emmener l'histoire là où e
 - A: Ça me rappelle quand nous étions en canoë … <Il est coupé par B>
 - B: … mais oui !! Dans les gorges du Verdon, on était en camp scout … <A coupe>
 - A: … tu t'étais renversé dans les rapides … <B coupe>
-- etc ...  
+- etc …  

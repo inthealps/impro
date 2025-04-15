@@ -6,11 +6,11 @@ title:  "Être compétent"
 ## Être compétent
 
 ### Affirmer les choses
-Le personnage affirme les choses, il ne les suppose pas ... ni ne les interroge !  
+Le personnage affirme les choses, il ne les suppose pas … ni ne les interroge !  
 
 Exemple: "Ton mari, ça va ?" → Pas glop
 
-"Je sais que ton mari et toi ça ne va pas fort en ce moment ..." → Glop glop, gonflage beaucoup plus efficace !  
+"Je sais que ton mari et toi ça ne va pas fort en ce moment …" → Glop glop, gonflage beaucoup plus efficace !  
 
 On essaie au mieux !  
 Et on utilise les erreurs (on n'en a pas honte, on ne les cache pas) pour les transformer en quelque chose.  
@@ -22,9 +22,9 @@ Les DEUX comédiens bossent ENSEMBLE pour les expliquer.
 Etre un expert, et ne pas hésiter à citer des éléments du domaine d'expertise.  
 
 - A se lance dans la liste des villes qu'il a visitées en Moldavie (même s'il ne connait pas)
-- A: "On est allé à ... euh ... Kuka puis euh Ammazou ...euh ..."
+- A: "On est allé à … euh … Kuka puis euh Ammazou …euh …"
 
-Il bloque par manque d'inspiration ...  
+Il bloque par manque d'inspiration …  
 
 B doit l'aider immédiatement :
 
@@ -48,7 +48,7 @@ Une solution pour B serait de dire "Je parle japonais couramment, je te conseill
 
 Deuxième solution, différente :
 
-- B "T'as 47 ans toi ... et 2 enfants ... <B réfléchit>
+- B "T'as 47 ans toi … et 2 enfants … <B réfléchit>
 - B "4+7, 11 +2 13. Je prends le plat E13"
 
 → Même sans être expert (parler japonais) B est compétent, il solutionne tous les problèmes.  
@@ -78,7 +78,7 @@ Autre exemple de clarification :
 NON
 
 B peut clarifier :
-- B: "Oui, j'ai encore perdu un point ... si ça continue à ce rythme, je serai aveugle dans 3 ans"
+- B: "Oui, j'ai encore perdu un point … si ça continue à ce rythme, je serai aveugle dans 3 ans"
 
 OUI, B accepte en "Oui et en plus"
 

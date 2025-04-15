@@ -22,7 +22,7 @@ Qui cela impacte ??
 
 - Le couple ? → Enjeu "Amour"
 - La perte de la maison ? → "Famille"
-- etc...  
+- etc…  
 
 ## Comment ?  
 Idéalement, monter les enjeux à DEUX, en ping-pong.  
@@ -42,18 +42,18 @@ Voici un super OUTIL pour les comédiens qui ont tendance à minimiser les enjeu
 
 Exemple:
 - A: "J'ai perdu mon téléphone" (Problème, mais il n'y croit pas vraiment)
-- A, toujours: "Bah ... au pire j'utiliserai le tien." (Solution que trouve A pour ne plus suivre sa piste qu'il pense faible)
+- A, toujours: "Bah … au pire j'utiliserai le tien." (Solution que trouve A pour ne plus suivre sa piste qu'il pense faible)
 
 Versus :
-- A: "J'ai perdu mon téléphone ... putain !!"
-- A. "Et puis le tien est déchargé, merde ..." (Affirmation, A ne questionne pas B)
+- A: "J'ai perdu mon téléphone … putain !!"
+- A. "Et puis le tien est déchargé, merde …" (Affirmation, A ne questionne pas B)
 
 Le "putain" a aidé le comédien à croire à la gravité du truc.  
 Ce n'est pas anodin !  
 
 Affirmer (plutôt que questionner) permet de faire des choix !  
 
-La question a beaucoup plus de chances de tomber à plat ...  
+La question a beaucoup plus de chances de tomber à plat …  
 
 Faire souffrir le plus possible les personnages :
 - "Je n'aime pas perdre" → NON

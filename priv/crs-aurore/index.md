@@ -16,15 +16,15 @@ Ce qui se passe se passe vraiment ! C'est pour de vrai !
 
 Aurore insiste sur le lâcher-prise nécessaire pour bien incarner un personnage.  
 On parle d'Altérité : on est quelqu'un d'autre que soi, un personnage.  
-C'est dur en improvisation, plus dur que dans le théâtre où on a un texte, une mise en scène, des répétitions, ...  
+C'est dur en improvisation, plus dur que dans le théâtre où on a un texte, une mise en scène, des répétitions, …  
 
-Aussi, pendant les cours avec Aurore, on doit se sentir en sécurité, en confiance, pour oser se lâcher, sans crainte du regard des autres ...  
+Aussi, pendant les cours avec Aurore, on doit se sentir en sécurité, en confiance, pour oser se lâcher, sans crainte du regard des autres …  
 
 On est dans le "réel", dans le jeu sincère, on va quitter les personnages caricaturaux dans ce module.  
 
 
 ## Détente, État de jeu et Disponibilité
-Au départ de l'incarnation, de la "descente", on part du lâcher prise, du corps, de ce qui se passe au plateau ... en lâchant le cerveau.  
+Au départ de l'incarnation, de la "descente", on part du lâcher prise, du corps, de ce qui se passe au plateau … en lâchant le cerveau.  
 Plus tard, on reconvoquera le cerveau pour savoir quoi faire de ce qu'on a trouvé.  
 
 La détente permet de contrôler notre énergie.  
@@ -35,13 +35,13 @@ L'état de jeu, c'est de sortir de notre journée, de notre facette de comédien
 Je prends conscience de mon état interne, lié à ma journée, à mon humeur, à mon stress, à ma fatigue, à mon énergie.  
 Comment j'en tiens compte ?  
 
-Un peu de méditation va nous permettre de prendre conscience de ce qui nous entoure, de nous détacher de notre journée, d'affiner notre écoute, notre vision périphérique, ...  
+Un peu de méditation va nous permettre de prendre conscience de ce qui nous entoure, de nous détacher de notre journée, d'affiner notre écoute, notre vision périphérique, …  
 
 Cette méditation nous apporte de la détente.  
-La détente amène le tempo de jeu ... pas trop vite, pas de tac-au-tac, elle donne à infuser ...  
+La détente amène le tempo de jeu … pas trop vite, pas de tac-au-tac, elle donne à infuser …  
 
-La détente amène d'être plus sûr.e de nous sur scène, de ne pas être dans l'urgence, d'avoir confiance en nos propositions, et notre capacité à en faire ...  
-Plus de précision ... moins de précipitation, moins de jeu brouillon ...  
+La détente amène d'être plus sûr.e de nous sur scène, de ne pas être dans l'urgence, d'avoir confiance en nos propositions, et notre capacité à en faire …  
+Plus de précision … moins de précipitation, moins de jeu brouillon …  
 
 Nous sommes dans un état de jeu, dans une disponibilité à l'autre et à la scène.  
 
@@ -71,7 +71,7 @@ Là encore, on patiente jusqu'à arriver quelque part.
 Ancré au sol, yeux fermés, on va se concentrer sur notre corps. En faire le tour.  
 Ressentir les tensions, se relâcher.  
 Ensuite, on va se concentrer sur une zone particulière, on va la ressentir.  
-Par exemple un coude, un genou, un pied, ...  
+Par exemple un coude, un genou, un pied, …  
 Puis, on va mobiliser cette zone doucement, avec différentes amplitudes, différentes vitesses.  
 
 On explore ce que ça procure comme sensations corporelles, est-ce que ça "tire" d'autres mouvements, une posture corporelle, une manière de se déplacer, de regarder ?  
@@ -92,21 +92,21 @@ Tous ces modes de descente vont nous permettre de trouver des choses sur notre p
 
 Ces 3 descentes vont nous amener à un premier sous-sol (-1). C'est une première étape. 
 On va ensuite pousser le personnage que l'on a découvert, sans le caricaturer.  
-Sous-sol -2, -3, -4 ... jusqu'à être à fond dans ce qu'on joue.  
+Sous-sol -2, -3, -4 … jusqu'à être à fond dans ce qu'on joue.  
 
 C'est un exercice que l'on doit répéter et répéter encore.  
 On peut le travailler en répétition (échauffements) ou à la maison, seul.e.  
 
 Il est important de répéter tous les modes de descente, de bosser ces 3 entrées, en en modifiant les curseurs. 
-Repérer laquelle est la plus facile pour moi, la plus efficace ? Ou au contraire la plus difficile, et la travailler, encore ...  
+Repérer laquelle est la plus facile pour moi, la plus efficace ? Ou au contraire la plus difficile, et la travailler, encore …  
 
 
 Il va arriver que l'on sorte brièvement du personnage, que l'on remonte les étages.  
-Il va falloir se remobiliser pour retourner dans le personnage, redescendre ...  
+Il va falloir se remobiliser pour retourner dans le personnage, redescendre …  
 
 Toujours se poser la question : "Qu'est-ce que ça fait à mon personnage ?"
 
-Apprendre à "respirer dans son personnage" ... c'est-à-dire, comment est mon personnage lorsqu'il ne fait rien (pour éviter d'être toujours dans la proposition).  
+Apprendre à "respirer dans son personnage" … c'est-à-dire, comment est mon personnage lorsqu'il ne fait rien (pour éviter d'être toujours dans la proposition).  
 
 
 ## Exercice "La balle d'énergie"
@@ -134,7 +134,7 @@ Une fois que cet exercice est bien maitrisé, on peut le recommencer en se dépl
 On déambule dan sla pièce, on va rencontrer un autre comédien.  
 On va décider ensemble sans se parler, de ce qui est ok de faire ensemble, parmi les choix suivants :
 - Se regarder dans les yeux
-- Se prendre la main, les deux mains ...  
+- Se prendre la main, les deux mains …  
 - Se mettre dos à dos et s'appuyer l'un contre l'autre.  
 - Se placer côte à côte, en contact
 - Se prendre dans les bras
@@ -145,12 +145,12 @@ Cet exercice peut être fait en "personnage", avec une émotion, mais toujours a
 ## Exercice "Synchronisation respiratoire"
 En duo, on va se synchroniser sur la respiration de l'autre.  
 On peut se regarder dans les yeux, et se laisser porter par la respiration de l'autre.  
-On est dans l'écoute fine, vision périphérique, écoute du souffle, ...  
+On est dans l'écoute fine, vision périphérique, écoute du souffle, …  
 
 Au bout d'un moment on va fusionner avec un autre groupe de 2.  
 De manière identique, on va synchroniser nos respirations, en prenant notre temps.  
 
-Puis à 8, etc ...  
+Puis à 8, etc …  
 
 Tips de réussite :
 - Juste chercher à se synchroniser, pas grave si on se perd momentanément, on se retrouve tranquillement.  
@@ -172,7 +172,7 @@ Tips de réussite :
 - Se positionner à tour de rôle en observateur, pour voir comment ça évolue, assister à ce que ça donne de l'extérieur.  
 
 Cet exercice permet de se rendre compte que même lorsqu'il n'y a rien, il y a déjà quelque chose.  
-"Tout est déjà là, n'inventez rien !" -> Un peu comme un mantra de Slow Impro de Mathieu Loos (NDLR)
+"Tout est déjà là, n'inventez rien !" → Un peu comme un mantra de Slow Impro de Mathieu Loos (NDLR)
 
 
 ## Exercice "États 1-7 en 'personnage'"
@@ -187,7 +187,7 @@ On va ensuite travailler sur les 7 états suivants (issu du bouquin de Mark Jane
 6. 2 min avant la fermeture, vous n'aurez jamais le temps de satisfaire tout le monde. Les clients s'énervent contre vous, et c'est de votre faute !!!!  
 7. Vous avez échoué ! C'est fini, c'est mort, et tout est de votre faute !!!!  
 
-L'animateur.ice raconte une histoire, illustrant chacune des deux étapes, sur un contexte quelconque (un restaurant, un magasin, une banque ...).  
+L'animateur.ice raconte une histoire, illustrant chacune des deux étapes, sur un contexte quelconque (un restaurant, un magasin, une banque …).  
 Les étapes 5 et 6 doivent faire monter le stress et l'intensité :
 - "Y a t'il une bombe dans la pièce ??"
 - "IL Y A UNE BOMBE DANS LA PIÈCE !!!"
@@ -217,7 +217,7 @@ Pour se faire, repasser les musiques pour se remémorer les personnages infusés
 
 En répétitions de troupe par exemple, on peut se mettre des contraintes pour aller chercher des personnages un peu plus marqués.  
 
-Le travail du personnage c'est un entrainement de longue haleine, il faut le travailler, le retravailler, le répéter, le répéter encore, le retravailler, le retravailler encore ...
+Le travail du personnage c'est un entrainement de longue haleine, il faut le travailler, le retravailler, le répéter, le répéter encore, le retravailler, le retravailler encore …
 
 
 ## Jeu "Je suis vraiment d'accord avec toi"
@@ -243,7 +243,7 @@ Tips :
 Se poser la question "Quelle est la singularité de cette scène".  
 Y répondre. Et accentuer cette singularité !  
 Quels sont les décalages, comment les pousser encore plus loin ?  
-Quelles sont les différences d'énergie, d'état -> les pousser encore plus loin.  
+Quelles sont les différences d'énergie, d'état → les pousser encore plus loin.  
 (Mérédith en pratiquante de Capoeira, Aurore la pousse : "Continue ! Ne dis rien ! N'arrête pas !").  
 
 
@@ -259,14 +259,14 @@ Idée pour les spectacles :
 Intéressant d'intégrer une scène d'inconnus dans les plateformes d'un long-form (on brise la règle "Vous vous connaissez !")
 
 
-## Jeu "J'ai quelque chose à te dire ..."
+## Jeu "J'ai quelque chose à te dire …"
 2 personnes en scène. Infusion en musique.  
 
-La première phrase sera "J'ai quelque chose à te dire ...".  
+La première phrase sera "J'ai quelque chose à te dire …".  
 (et c'est quelque chose d'important !)
 
 A est en jeu, il est en action, fait quelque chose, de précis, de concret.  
-Une fois que l'action est claire, comprise, et avant que ça ne tourne en rond, B arrive, et lui dit "J'ai quelque chose à te dire ...".  
+Une fois que l'action est claire, comprise, et avant que ça ne tourne en rond, B arrive, et lui dit "J'ai quelque chose à te dire …".  
 
 Pistes de réussite :
 - Attention à ne pas se faire aspirer par l'énergie de l'autre. On garde son énergie propre.  
@@ -303,7 +303,7 @@ Un personnage, on peut le travailler, et le retravailler.
 ### Exercice "Mon personnage est triste"
 On va confronter ce personnage que l'on a travaillé à une situation triste.  
 Il se remémore un événement triste, et on va voir comment il réagit.  
-On va voir comment il se comporte, comment il réagit, comment il se déplace, comment il parle, comment il pense, comment il se sent, ...  
+On va voir comment il se comporte, comment il réagit, comment il se déplace, comment il parle, comment il pense, comment il se sent, …  
 On vit le moment et l'émotion à travers lui.  
 
 On déambule dans la pièce avec cette émotion, puis on s'arrête devant une personne.  
@@ -311,7 +311,7 @@ On la regarde, elle "prend" ces regards, puis elle dit UNE phrase unique.
 
 À l'inverse, si une personnage s'arrête devant nous, on "prend" son regard (i.e. on réagit à ce regard, "qu'est-ce que cela me fait ?"), et on lui dit UNE phrase unique.  
 
-Puis idem avec "Mon personnage est joyeux", "Mon personnage est en colère", "Mon personnage est amoureux", ...  
+Puis idem avec "Mon personnage est joyeux", "Mon personnage est en colère", "Mon personnage est amoureux", …  
 
 
 ### Exercice "L'incident - Rappel des faits"
@@ -352,7 +352,7 @@ Tips de réussite :
 
 
 # Retours d'Aurore en vrac sur nos performances
-- Inspirez-vous de sa manière de parler, de placer les silences, les hésitations. Quels sont ses tics de langage ? "Bon, bah, ...", "Voilà !", "Et pour tout dire ..." 
+- Inspirez-vous de sa manière de parler, de placer les silences, les hésitations. Quels sont ses tics de langage ? "Bon, bah, …", "Voilà !", "Et pour tout dire …" 
 - Repérez les changements de rythme. Où ont-ils lieu ? Pourquoi ?  
 - Mettez une petite caractéristique corporelle à votre personnage, quelque chose qui va le distinguer de vous. Ce n'est pas une émotion, mais un truc physique. Comment il se tient ? Droit ? Voûté ? Quel est son port de tête ?  
 - "Un personnage n'est vraiment défini que par sa vulnérabilité"
@@ -366,7 +366,7 @@ Tips de réussite :
 
 # Règles immuables (mais ce ne sont que des règles, hein)
 ## OUI
-Dire OUI pour que l'on converge dans l'écriture de l'histoire ! Pas de OUI MAIS, de vrais gros OUI sans négociation, on perd trop de temps sinon ... #scènesàrallonge
+Dire OUI pour que l'on converge dans l'écriture de l'histoire ! Pas de OUI MAIS, de vrais gros OUI sans négociation, on perd trop de temps sinon … #scènesàrallonge
 
 
 ## Ancrage
@@ -378,11 +378,11 @@ Le personnage en status bas rend puissant le personnage en status haut. C'est so
 
 
 ## Les frites
-Attention à la position "Frites" (2 comédien.ne.s à 1m50 de distance, face à face, qui blablatent) -> Pensez "distance", corporel différent, ...  
+Attention à la position "Frites" (2 comédien.ne.s à 1m50 de distance, face à face, qui blablatent) → Pensez "distance", corporel différent, …  
 
 
 ## Incarner des personnages
-Prendre un personnage permet de ne pas être nous-même sur scène -> Ça parait être une lapalissade, mais c'est important de le rappeler. 
+Prendre un personnage permet de ne pas être nous-même sur scène → Ça parait être une lapalissade, mais c'est important de le rappeler. 
 
 
 ## Tenir nos propositions
@@ -394,13 +394,13 @@ Par mimétisme, des fois, on va se rééquilibrer pour adopter la proposition de
 De même, on a tendance à vouloir faire abandonner l'action à son partenaire.  
 "Tu viens m'aider à ramasser les pommes ?"
 NON
-"Elles sont bonnes ces pommes, tiens en voilà une ..."
+"Elles sont bonnes ces pommes, tiens en voilà une …"
 => On ne perd rien, tout le monde garde son action, et on peut continuer à jouer.  
 
 
 ## Contrastes
-Les contrastes sont importants pour enrichir la scène. Contraste d'énergie, de status, de posture, de voix, de regard, de mouvement, ...  
-Ca amène plein de "possibles" ...  
+Les contrastes sont importants pour enrichir la scène. Contraste d'énergie, de status, de posture, de voix, de regard, de mouvement, …  
+Ca amène plein de "possibles" …  
 
 
 ## Conflit
@@ -418,16 +418,16 @@ Au lieu de ça, jouons avec la normalité PUIS amenons un déséquilibre.
 
 ## Précision
 Plus on est précis, plus on est clair, plus on est lisible.  
-Donc, précisons les relations, les enjeux ... qu'est-ce qui se joue ?  
-Souvent on construit sur des fondations mouvantes, et on finit par ne plus savoir où on en est ...  
+Donc, précisons les relations, les enjeux … qu'est-ce qui se joue ?  
+Souvent on construit sur des fondations mouvantes, et on finit par ne plus savoir où on en est …  
 
 
 ## Les trucs chelous
-Attention à ne pas sortir trop de trucs peu crédibles (meurtres, ...)
+Attention à ne pas sortir trop de trucs peu crédibles (meurtres, …)
 Un truc rouge qui coule du plafond n'est pas nécessairement du sang, mais ça peut être de la peinture rouge.  
 
 
 ## Parler d'un tiers
 Ne vous laissez pas aspirer par le personnage fort quand il n'est pas là.  
-Au lieu de parler de lui, de ce qu'il a fait, de ce qu'il a dit, ... tirez vos propres fils !  
+Au lieu de parler de lui, de ce qu'il a fait, de ce qu'il a dit, … tirez vos propres fils !  
 

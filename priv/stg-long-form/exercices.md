@@ -24,13 +24,13 @@ Exemple :
 - B: "De part et d'autre de la table, deux chaises en paille, elles se font face" (en se déplaçant et montrant l'emplacement exact des chaises)
 - C: "Posé sur la table dans un vase en verre jauni, un bouquet de roses, fanées. Un petit mot : "Bon anniversaire mon amour""
 - A: "Sur le mur le plus proche une photo est encadrée. On y voit un couple posant souriant devant un lac gelé"
-- etc ...  
+- etc …  
 
 Il est impératif que chacun respecte les emplacements du décor déjà mis en place.  
 
 Il est efficace de réutiliser des éléments mis en place par d'autres :
 
-"Dans la poche droite du vieux pardessus gris, un journal dépasse, on ne voit que le début d'un titre 'Explosion de gaz dans un immeuble ...' "
+"Dans la poche droite du vieux pardessus gris, un journal dépasse, on ne voit que le début d'un titre 'Explosion de gaz dans un immeuble …' "
 
 
 Ne pas hésiter à être très spécifique, précis.  
@@ -39,7 +39,7 @@ En cas d'erreur, l'exploiter immédiatement, ne pas la gommer ou la nier.
 
 IDEE : Utiliser cet exercice en spectacle, en faisant installer le décor soit par les comédiens (sans jouer de rôle), soit par les personnages déjà présentés.  
 
-TIP EFFICACE : Ajouter un objet non contextuel (= "divergent") dans le décor (Un nounours dans un pédalo, un vélo dans une boucherie ...). Il sera certainement réutilisé plus tard !  
+TIP EFFICACE : Ajouter un objet non contextuel (= "divergent") dans le décor (Un nounours dans un pédalo, un vélo dans une boucherie …). Il sera certainement réutilisé plus tard !  
 
 ## Exercice "Charger le décor"
 
@@ -52,9 +52,9 @@ On débute une scène, chaque comédien doit faire évoluer son personnage en in
 - A: "Je te laisse la petite chambre avec la vue sur les montagnes" (en montrant la chambre)
 - B: "Merci, j'ai posé ton sac à dos à côté de la cheminée" (en montrant la cheminée)
 - A: "Cette vieille paire de crampons accrochée au mur me rappelle notre ascension au Mont-Blanc en 2003" (continue à installer le décor, précise la relation)
-- etc ...  
+- etc …  
 
-Le but est de poser le décor lentement, mais sûrement, et en même temps d'installer la relation ... POUR LES UTILISER PLUS TARD !!  
+Le but est de poser le décor lentement, mais sûrement, et en même temps d'installer la relation … POUR LES UTILISER PLUS TARD !!  
 
 Il est impératif d'être précis car on va réutiliser ce lieu sur une autre scène. Le public doit pouvoir "voir" le lieu !  
 
@@ -68,7 +68,7 @@ On décrit le personnage de son partenaire.
 - B. "Mon frère Paul est dentiste. Il ne fait pas ça par conviction, il considère son métier comme un simple gagne-pain, certes rémunérateur. Quand nous étions petits il voulait être pilote automobile. Il a toujours ce rêve"
 - A. "Martine est en train de se séparer. Elle est souvent triste, et dans ses pensées. Elle est venue s'installer temporairement à la maison"
 - B. "Paul a toujours été quelqu'un sur qui je pouvais compter, il est solide et fiable. Ça me rassure. Il a été très présent lors du décès de nos parents"
-- etc ...  
+- etc …  
 
 ## Exercice "Charger un duo"
 
@@ -82,8 +82,8 @@ On décrit son partenaire.
 
 - C. "Clara est grande. Elle regarde les gens de haut, souvent. Ça lui donne un air hautain et strict. Dans la vie cependant, elle est plutôt réservée."
 - C. "Arnaud pense souvent à la mort, il adopte généralement une position voutée, regarde ses pieds. Il n'est pas ouvert aux autres, qu'il ignore"
-- C. "Clara se demande pourquoi Arnaud n'a pas plus d'enthousiasme a sa proposition de séminaire. Ça serait super pour la boite. Et Arnaud se changerait les idées, même si elle ne sait jamais ..."
-- etc ...  
+- C. "Clara se demande pourquoi Arnaud n'a pas plus d'enthousiasme a sa proposition de séminaire. Ça serait super pour la boite. Et Arnaud se changerait les idées, même si elle ne sait jamais …"
+- etc …  
 
 ## Exercice "Charger son partenaire"
 
@@ -120,11 +120,11 @@ Exemple de scène :
 - A. "Je suis content que tu prennes du temps pour moi" (montre que B est prévenant)
 - B. "Tu es une personne intelligente et attachante, Nathalie. Tu me donnes envie de t'aider. Tu le ferais pour moi"
 - A. "Ta manière d'aborder la vie avec insouciance est incroyable. J'envie tellement ta force."
-- B. "Tes problèmes sont liés à ton boulot, Nathalie, et tu le sais ! Tu n'as jamais osé changer de taf' ... tu es trop prudente ... prends plus de risques !"
-- etc ...  
+- B. "Tes problèmes sont liés à ton boulot, Nathalie, et tu le sais ! Tu n'as jamais osé changer de taf' … tu es trop prudente … prends plus de risques !"
+- etc …  
 
-Interrogation : Le " Tu n'as jamais osé changer de taf' ... tu es trop prudente ... prends plus de risques !" est déjà trop ?  
-A échanger ...  
+Interrogation : Le " Tu n'as jamais osé changer de taf' … tu es trop prudente … prends plus de risques !" est déjà trop ?  
+A échanger …  
 
 ## Exercice "Souvenir"
 
@@ -165,11 +165,11 @@ On fusionne les exercices précédents en chargeant :
 
 == N joueurs, en cercle ==
 
-- Il était une fois ...  
-- Et tous les jours ...  
-- Mais un jour ...  
-- A cause de cà ...  
-- Jusqu'à ce que finalement ...  
+- Il était une fois …  
+- Et tous les jours …  
+- Mais un jour …  
+- A cause de cà …  
+- Jusqu'à ce que finalement …  
 
 Les phases "À cause de ça" seront les développements (= mise dans la merde) de l'Acte 2.  
 
@@ -187,7 +187,7 @@ A donne un titre d'histoire à B (ex: "Le fauteuil rouge")
 
 B se lance dans la narration d'une histoire de 3mn
 
-## Exercice "Raconte-moi une histoire" dirigé
+## Exercice "Raconte-moi une histoire (dirigé)"
 
 == 2 joueurs ==
 
@@ -197,7 +197,7 @@ B se lance dans la narration d'une histoire de 3mn
 
 A dirige l'histoire en disant :
 
-- Détail ! (demande de décrire un élément différent de l'état interne du héros (décor, élément vestimentaire, ...)
+- Détail ! (demande de décrire un élément différent de l'état interne du héros (décor, élément vestimentaire, …)
 - Action ! (le héros doit effectuer une action)
 - Emotion ! (B doit détailler l'état émotionnel du héros)
 - Réincorporation ! (B doit réincorporer un élément précédent)
@@ -205,21 +205,19 @@ A dirige l'histoire en disant :
 → Travail sur la spontanéité, l'installation et la réincorporation
 
 ## Exercice "Physique / Parole"
-
 == 3 joueurs ==
 
 Le directeur C donne aux comédiens A et B une relation (voisins) et un lieu (gymnase).  
 
-Il donne à A la consigne "Physique" → A ne pourra que faire une action, sans parler. A peut faire des bruitages, soupirer, imiter le moteur d'une voiture, d'une machine à café ...  
+Il donne à A la consigne "Physique" → A ne pourra que faire une action, sans parler. A peut faire des bruitages, soupirer, imiter le moteur d'une voiture, d'une machine à café …  
 
 L'action peut être minimaliste ("attendre" est une action). En revanche il s'agit bien de prendre le temps de faire vivre les objets, et non de multiplier les objets/actions inutiles.  
 
-Il donne à B la consigne "Parole" → B ne pourra que parler, sans se déplacer, ni faire une action. B n'est pas figé pour autant, il peut suivre A des yeux, opiner, ...  
+Il donne à B la consigne "Parole" → B ne pourra que parler, sans se déplacer, ni faire une action. B n'est pas figé pour autant, il peut suivre A des yeux, opiner, …  
 
 À tout moment, C peut changer les consignes.  
 
 ## Exercice "5s pour convaincre"
-
 == 3 équipes de N joueurs ==
 
 Équipe A et équipe B sont en concurrence pour convaincre les joueurs de l'équipe C.  
@@ -230,14 +228,13 @@ Ce dernier, s'il est convaincu, se déplace vers le camp A. Sinon, il ne bouge p
 
 Après 5s, le joueur de B interrompt, et tente à son tour de convaincre.  
 
-Tous les moyens sont bons, saufs les moyens physiques dirigés vers le joueur de C (on ne peut pas le tirer, ni le porter, ...)
+Tous les moyens sont bons, saufs les moyens physiques dirigés vers le joueur de C (on ne peut pas le tirer, ni le porter, …)
 
-Ça peut être une danse, le début d'une blague, une promesse de chocolat, ...  
+Ça peut être une danse, le début d'une blague, une promesse de chocolat, …  
 
 Pas d'interaction entre les joueurs de A et B. Sauf pour lui indiquer que les 5 secondes sont écoulées.  
 
 ## Exercice "Poser des potentiels"
-
 == 2 joueurs + 1 directeur ==
 
 A et B commencent une scène
@@ -247,11 +244,11 @@ Ils jouent lentement (parce que ça évite de partir en surcharge ET de laisser 
 Les outils du directeur :
 
 - "Silence. Regardez-vous."
-- Prénom du joueur + "Je sais pourquoi tu dis ça" (ex: "Florence. Je sais pourquoi tu dis ça" et Florence va dire "Je sais pourquoi tu dis ça, tu dis ça parce que ..." et elle invente la suite.  
+- Prénom du joueur + "Je sais pourquoi tu dis ça" (ex: "Florence. Je sais pourquoi tu dis ça" et Florence va dire "Je sais pourquoi tu dis ça, tu dis ça parce que …" et elle invente la suite.  
 - (Après une bombe potentielle) Prénom + "Répète" (ex: B vient de dire "mon épouse n'est pas rentrée de la nuit", le directeur : "A, répète" et A va répéter "Ton épouse n'est pas rentrée de la nuit", et B va répéter également "Mon épouse n'est pas rentrée de la nuit". Il faut voir chaque répétition comme un coup de pompe pour gonfler l'enjeu "L'épouse n'est pas rentrée". Après les répétitions, l'outil "Changer de sujet" met un coup de pompe supplémentaire ! → On élude le sujet, il nous gêne, il est donc important !!  
-- Prénom + "Jeu physique". Le joueur cité doit faire une action, utiliser un objet, etc .... Si aucun prénom n'est cité alors les 2 se mettent en action.  
+- Prénom + "Jeu physique". Le joueur cité doit faire une action, utiliser un objet, etc …. Si aucun prénom n'est cité alors les 2 se mettent en action.  
   Une fois que les comédiens sont à l'aise avec ces consignes, on en ajoute une autre :
-- Prénom + "Remarque" - Ex: A vient de se passer la main dans les cheveux, le directeur dit "A, remarque" ... alors A dit et invente "Je vois que tu as passé la main dans tes cheveux de manière sensuelle. C'est parce que tu as envie de moi"
+- Prénom + "Remarque" - Ex: A vient de se passer la main dans les cheveux, le directeur dit "A, remarque" … alors A dit et invente "Je vois que tu as passé la main dans tes cheveux de manière sensuelle. C'est parce que tu as envie de moi"
 
 Encore un autre outil :
 
@@ -278,7 +275,7 @@ A se lance alors dans une histoire avec plus d'enjeux
 
 S'il n'y arrive pas il dit "Bravo ! Tu as gagné !"
 
-## Exercice  "1 mot, 10 mots, tu perds"
+## Exercice "1 mot, 10 mots, tu perds"
 
 == N joueurs en cercle ==
 
@@ -310,7 +307,7 @@ Bref d'avancer dans l'inconnu.
 
 ## Mise en oeuvre (JEU)
 
-### Jeu en duo
+## Jeu "Relation/lieu en duo"
 == 2 joueurs ===
 
 On joue une scène sur un thème "Relation/Lieu".  
@@ -321,7 +318,7 @@ Tous les outils servent !
 
 La scène dure 10mn
 
-## Jeu en duo + freeze
+## Jeu "Relation/lieu en duo + freeze"
 == N joueurs ==
 
 2 joueurs jouent une scène sur un thème "Relation/Lieu" donné par le "public".  
@@ -335,7 +332,7 @@ Les joueurs en observation peuvent "freezer" la scène à tout moment pour rempl
 - le nouvel arrivant C peut démarrer une autre scène (proposer une nouvelle idée, un nouveau lieu, une nouvelle relation avec le personnage toujours en place).  
 - le personnage sortant (A ou B) justifie sa sortie de scène et C continue alors la scène avec le personnage restant.  
 
-## Jeu à 4
+## Jeu "Relation/lieu à 4"
 == 4 joueurs ==
 
 Le public (= les autres joueurs) donne "Relation/Lieu" pour A/B, B/C et C/D

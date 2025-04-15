@@ -70,9 +70,9 @@ Retour dans les bras.
 
 **Deuxième bloc de 6 temps :** Passe de côté.  
 "1, 2" → normaux.  
-"3 ..." → le danseur plonge son bras droit pour passer à gauche de la danseuse (à la droite de la danseuse pour elle).  
+"3 …" → le danseur plonge son bras droit pour passer à gauche de la danseuse (à la droite de la danseuse pour elle).  
 
-"... et 4" → les deux danseurs pivotent d'un demi-tour, "5 et 6" ils sont face à face pour le _"piétinement"_.  
+"… et 4" → les deux danseurs pivotent d'un demi-tour, "5 et 6" ils sont face à face pour le _"piétinement"_.  
 
 **Troisième bloc de 6 temps :** Passe de côté (la même chose, une seconde fois)  
 
@@ -96,7 +96,7 @@ Retour dans les bras.
 ## 5 - Le blocage taille
 **Premier bloc de 6 temps :** Quart de tour.  
 
-**Deuxième bloc de 6 temps :** "1, 2 ..."  
+**Deuxième bloc de 6 temps :** "1, 2 …"  
 "3" le danseur amène sa main droite sur la hanche droite de la danseuse.  
 "et 4" la danseuse pivote vers sa gauche, de trois quarts de tour, pour se retrouver face au danseur.  
 "5 et 6" les deux danseurs sont face à face, dans les bras.  
@@ -120,7 +120,7 @@ Note : La promenade peut durer un peu plus si on le désire.
 Départ dans les bras  
 **Premier bloc de 6 temps :** Quart de tour.  
 
-**Deuxième bloc de 6 temps :** "1, 2 ..."  
+**Deuxième bloc de 6 temps :** "1, 2 …"  
 Sur "1" le danseur ne met pas son pied gauche en arrière, mais à sa gauche (pas de côté)  
 Sur "2" il ramène son pied droit à côté du pied gauche.  
 "3 et 4" il fait pivoter la danseuse d'un demi-tour.  
@@ -135,7 +135,7 @@ Départ dans les bras
 **Premier bloc de 6 temps :** Quart de tour, "présente la main"  
 Comme un quart de tour classique, mais sur "5 et 6" le danseur présente la main droite à la danseuse, qui la prend avec sa main gauche.  
 
-**Deuxième bloc de 6 temps :** "1, 2 ..."  
+**Deuxième bloc de 6 temps :** "1, 2 …"  
 Sur "1 et 2" le danseur fait un pas de côté  
 "3 et 4" il amène la danseuse en la faisant pivoter d'un demi-tour.  
 "5 et 6" les deux danseurs sont face à face, le danseur lâche (de sa main droite) la main gauche de la danseuse.  
@@ -173,8 +173,8 @@ Départ dans les bras
 **Deuxième bloc de 6 temps :**  
 "1" → pied gauche en arrière  
 "2" → pied droit en avant  
-"3 ..." → Le danseur va amener la danseuse vers sa droite (à lui), et au passage prendre la main droite de la danseuse avec sa main droite.  
-"... et 4" → Il finit de l'amener derrière. Ses pieds à lui restent dans la position initiale.  
+"3 …" → Le danseur va amener la danseuse vers sa droite (à lui), et au passage prendre la main droite de la danseuse avec sa main droite.  
+"… et 4" → Il finit de l'amener derrière. Ses pieds à lui restent dans la position initiale.  
 Afin de ne pas tourner le dos à la danseuse, il va pivoter son corps vers la droite pour rester en connexion.  
 "5 et 6" → Les deux danseurs piétinent dans cette position.  
 
@@ -190,8 +190,8 @@ Départ dans les bras
 **Deuxième bloc de 6 temps :**  
 "1" → pied gauche en arrière  
 "2" → pied droit en avant  
-"3 et ..." → le danseur met sa paume gauche contre la paume droite de la danseuse  
-"... 4" → ils mettent une impulsion pour faire tourner la danseuse d'un tour complet  
+"3 et …" → le danseur met sa paume gauche contre la paume droite de la danseuse  
+"… 4" → ils mettent une impulsion pour faire tourner la danseuse d'un tour complet  
 "5 et 6" → les deux danseurs piétinent face à face  
 
 **Quatrième bloc de 6 temps :** Retour dans les bras.  

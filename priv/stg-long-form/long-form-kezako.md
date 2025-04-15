@@ -14,9 +14,9 @@ C'est un spectacle qui peut être joué en autonomie, ou en impro dirigée (avec
 Il est vital que le public soit en empathie avec les personnages !  
 L'enjeu est donc de capter son attention grâce à des rebondissements, et de faire se développer cette empathie.  
 
-Attention, en long-form le "burlesque", le WTF, les situations incroyables (= "non croyables") vont provoquer le décrochage du public ... donc faire chuter son empathie.  
+Attention, en long-form le "burlesque", le WTF, les situations incroyables (= "non croyables") vont provoquer le décrochage du public … donc faire chuter son empathie.  
 
-Le monde doit donc être normal, les scènes jouées avec le même rythme que dans la vraie vie, les relations et les lieux chargés ... NE PAS TROP EN FAIRE !  
+Le monde doit donc être normal, les scènes jouées avec le même rythme que dans la vraie vie, les relations et les lieux chargés … NE PAS TROP EN FAIRE !  
 
 ## Les 3 grandes étapes d'un Long Form
 
@@ -33,7 +33,7 @@ On ne peut faire une histoire intéressante qui dure que si on a assez d'éléme
 
 Sinon, on va tourner en rond, les comédiens vont ramer, être dans la tête et apporter des éléments à enjeux sortis de nulle part.  
 
-Pour finalement se perdre ...  
+Pour finalement se perdre …  
 
 
 ### Acte II : Emergence
@@ -48,21 +48,21 @@ Pour finalement se perdre ...
 ## Règles de base (en vrac)
 
 ### L'attitude en acte I
-Sur les premières scènes ON ENVOIE DU POSITIF ! Les personnages apprécient le lieu (il n'est pas sale, les objets fonctionnent, le café est bon ...) la situation (pas de malaise, pas de conflit ...) !  
+Sur les premières scènes ON ENVOIE DU POSITIF ! Les personnages apprécient le lieu (il n'est pas sale, les objets fonctionnent, le café est bon …) la situation (pas de malaise, pas de conflit …) !  
 
 On est FEEL GOOD !  
-Bref, on se retient de foutre la merde ... pour le moment !  
+Bref, on se retient de foutre la merde … pour le moment !  
 Les comédiens doivent lutter contre les propensions naturelles de leur cerveau à chercher les emmerdes.  
 
-Bon, après, on a le droit quand même de poser 5% d'emmerdes ... mais pas 95% ;)
+Bon, après, on a le droit quand même de poser 5% d'emmerdes … mais pas 95% ;)
 
 Les meilleures situations de l'Acte 2 seront les problèmes engendrés (= gonflés) par les bombes posées ou suggérées en Acte 1.  
 
 Le POSITIF engendre des scènes :
-- plus naturelles ...  
-- plus joyeuses ...  
+- plus naturelles …  
+- plus joyeuses …  
 
-... et la merde peut arriver plus tard ;)
+… et la merde peut arriver plus tard ;)
 
 ### Les personnages sont compétents.  
 Les personnages sont compétents, on ne joue pas des personnages qui ne savent pas faire les choses.  
@@ -81,7 +81,7 @@ L'idée principale en Acte 1 est de DIVERGER.
 On ouvre, sans résoudre !!  
 
 ### Centré sur la relation !  
-Le long-form s'appuie sur les relations entre les personnages ... donc les relations entre les comédiens. Il faut être connectés. Se regarder. S'écouter.  
+Le long-form s'appuie sur les relations entre les personnages … donc les relations entre les comédiens. Il faut être connectés. Se regarder. S'écouter.  
 
 ### Faire simple
 Se simplifier la vie et FAIRE SIMPLE !  
@@ -92,7 +92,7 @@ Ne pas essayer d'être drôle. On décrit un monde normal.
 
 Le nom du personnage joué par son partenaire est important, il doit être cité 3 fois MINIMUM dans la première scène où il apparait !  
 
-Le risque est de se retrouver avec 2 personnages qui n'ont pas de nom ... et donc de ne pas pouvoir les réutiliser dans une autre scène, de se tromper en les appelant différemment ...  
+Le risque est de se retrouver avec 2 personnages qui n'ont pas de nom … et donc de ne pas pouvoir les réutiliser dans une autre scène, de se tromper en les appelant différemment …  
 
 S'il n'y a pas de noms clairs, les comédiens seront en difficulté, et le public sera perdu.  
 
@@ -139,10 +139,10 @@ _→ Méga sujet, à retravailler dans la Troupe (mémo Pierre)_
 ### Pas de diminution
 Ne pas diminuer ce qui a été installé !  
 
-On se casse la tête à gonfler des trucs ... ce n'est pas pour les dégonfler juste derrière !  
+On se casse la tête à gonfler des trucs … ce n'est pas pour les dégonfler juste derrière !  
 
 - A: "La perte de ton boulot a dû être un choc !"
-- B: "Oh pas grave, tu sais, au pire j'irais bosser chez McDo ..."
+- B: "Oh pas grave, tu sais, au pire j'irais bosser chez McDo …"
 NON !  
 
 Le truc est de se dire tout le temps "Ce qu'on me dit est important !"

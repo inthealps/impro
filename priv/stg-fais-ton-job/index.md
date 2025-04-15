@@ -3,7 +3,7 @@ layout: page
 title:  "Stage Fais ton job, Séb Chambres"
 ---
 
-## Échauffement - Consentement "STOP/Attention"
+## Échauffement "Consentement STOP/Attention"
 
 On se cherche du regard dans la salle.  
 Dès contact visuel, un des deux comédiens entame un déplacement vers l'autre.  
@@ -40,9 +40,9 @@ Chaque comédien est en lutte pour savoir à quoi il joue.
 Cas n°2 : Rien !  
 Souvent, "faire son job" c'est ne rien faire. Mais ne rien faire vachement bien !  
 Plutôt que de tenter de s'insérer dans quelque chose qui n'en n'a pas besoin.  
-Faire son job ... pas celui des autres.  
+Faire son job … pas celui des autres.  
 
-Laisser de la place ... c'est mon job !  
+Laisser de la place … c'est mon job !  
 
 
 ## Faire son job ce n'est pas quoi ?  
@@ -52,7 +52,7 @@ Laisser de la place ... c'est mon job !
 - Entrer ajouter quelque chose sur une scène qui se suffit à elle-même.  
 - Entrer pour entrer
 
-## Exercice : En ligne
+## Échauffement "En ligne"
 2 groupes en ligne se font face.  
 On met une musique.  
 Chaque groupe part ensemble, et arrive ensemble. 
@@ -63,7 +63,7 @@ Variante, on peut stopper au milieu.
 Pivoter.  
 C'est assez libre.  
 
-## Exercice : En ligne, coordonnés dans l'action, en vision périphérique
+## Échauffement "En ligne, coordonnés dans l'action, en vision périphérique"
 En musique.  
 Attention on se fait "gauler" par l'animateur si on regarde explicitement les autres.  
 Tout doit être dans l'intention de faire comme le groupe, sans se regarder explicitement.  
@@ -75,7 +75,7 @@ Attention à la musique qui va nous piéger dans une rythmique.
 Faire son job c'est de proposer quelque chose qui n'existe pas encore, qui complète ce qui existe déjà (leader)
 Faire son job c'est de suivre le mouvement, en pétillance (suiveurs).  
 
-## Exercice : Duo + 1
+## Exercice "Duo + observateur"
 
 Un duo débute une scène, un "observateur" vient les rejoindre et les observe.  
 
@@ -111,7 +111,7 @@ Si la scène se suffit à elle-même, il repart sans rien faire, c'est son job d
 Attention, on ne change pas la scène, on ne remet pas en cause ce qu'il s'est passé.  
 
 
-## Exercice : Bibliothèque (à 9)
+## Exercice "La Bibliothèque (à 9)"
 S
 
    X X      A B
@@ -149,14 +149,14 @@ Les perturbateurs perturbent, les X souffrent, le surveillant a l'autorité (for
 
 Les 6 X doivent souffrir, on peut voir de l'injustice, de la fayotterie, de la surprise, etc.  
 
-## Exercice : Freeform à 6
+## Exercice "Freeform à 6"
 
 Un premier duo commence une scène.  
 
 En plus d'écouter, les 4 "réservistes" vont décider de qui va aller couper la scène, une fois qu'elle sera terminée.  
 Le premier à avoir une idée lève la main, et signifie à un autre réserviste qu'il devra entrer avec lui.  
 
-## Exercice / Échauffement
+## Échauffement "Adresses claires"
 Musique, déambulation dans l'espace.  
 
 Pas aléatoirement. Des adresses claires.  
@@ -169,7 +169,7 @@ Je suis occupé, je ne cherche pas quoi faire.
 
 Je ne regarde pas par terre, je ne cherche pas à me cacher, je pétille.  
 
-## Exercice : Pairs ou impairs (merdier de résolution)
+## Échauffement "Pairs ou impairs (merdier de résolution)"
 À 8. En musique. En pétillance.  
 
 Déambulation dans l'espace.  
@@ -190,7 +190,7 @@ Faire ensemble = résoudre ensemble en même temps.
 Il devrait avoir au moins la moitié du groupe qui ne fait rien.  
 
 
-## Exercice - Remplir les besoins de chacun.e
+## Exercice "Remplir les besoins de chacun.e"
 En trio.  
 On discute AVANT la scène de nos envies.  
 - A: "J'ai envie de contact physique"
@@ -249,11 +249,11 @@ Arrêtons de proposer, mais continuous de réutiliser.
 
 Très souvent il s'agit juste de résoudre. Pas de nouvel enjeu.  
 
-Résister à l'envie d'intervenir c'est difficile ... mais c'est mon job !!  
+Résister à l'envie d'intervenir c'est difficile … mais c'est mon job !!  
 
 
 ## Introspection "Faiseur, ou non ?"
-En scène, spectacle, entraînement ...  
+En scène, spectacle, entraînement …  
 
 Suis-je faiseur, ou non-faiseur ?  
 
@@ -283,7 +283,7 @@ Exemple du stage : Thème "Pâquerette en apesanteur"
   - Qqun qui veit la couper
   - Qqun qui ne veut pas la couper 
 S'en est suivi une super scène d'explication de pourquoi il était plus important de laisser la pâquerette vivante.  
-Sans conflit. Sans négociation. "Tu viens de m'ouvrir les yeux, je prends conscience que ... grâce à toi ..."
+Sans conflit. Sans négociation. "Tu viens de m'ouvrir les yeux, je prends conscience que … grâce à toi …"
 
 Autre exemple du stage : Anne, relatant le décès d'une grand-mère de 99 ans
 Les 2 autres comédiens ont adopté une émotion de tristesse.  
@@ -294,7 +294,7 @@ Très bien incarnée ! Certes ! Mais 3 fois la même chose !!
 Le public est pris en otage !  
 - "Que puis-je faire pour eux ? A part les prendre d'en mes bras ?"
 
-Une idée aurait pu être, pour un autre des comédiens, d'incarner la défunte dans sa nouvelle vie, en pétillance, en renaissance ...  
+Une idée aurait pu être, pour un autre des comédiens, d'incarner la défunte dans sa nouvelle vie, en pétillance, en renaissance …  
 
 
 ## C'est grâce à moi / à cause de moi et c'est fait exprès !  
@@ -309,7 +309,7 @@ Si mon idée est vraiment bonne, elle sera toujours là dans 15 secondes, 30 sec
 
 Je peux prendre le temps de la laisser mûrir, de la laisser grandir.  
 
-... et de la perdre si elle n'est pas bonne. Ou si on est passé à autre chose.  
+… et de la perdre si elle n'est pas bonne. Ou si on est passé à autre chose.  
 
 Une clé au "Ne pas jouer trop vite"
 
@@ -320,40 +320,39 @@ Je ne laisse pas mes camarades seuls en galère sur scène.
 
 Mais je ne prends pas toute la place ! En spectacle, être regardé booste l'envie de monter !  
 
-## Exercice - Textes ciselés
-
-**Exo solo :** Ecrire le dialogues d'une histoire.  
+## Exercice "Des textes ciselés"
+**Exo solo :** Écrire les dialogues d'une histoire.  
 
 Au début ça va prendre 4 pages.  
 
 Reprise du texte, gommer le superflu.  
 
-Recherche des meilleurs répliques possibles.  
+Recherche des meilleures répliques possibles.  
 
 **En duo,** on démarre une scène.  
 
 On a le droit de dire qu'une seule phrase.  
 
-Alors on prend le temps de la bosser !  
+Alors, on prend le temps de la bosser !  
 
 L'autre fait pareil.  
 
 A un moment l'un des 2 peut partir dans un monologue, en amenant des choses spécifiques.  
 
 Tips :
-- Pas de "T'es quelqu'un d'incroyable, sans toi blabla" ... Mais "Lorsque tu m'as aidé pour mon mémoire de thèse, ta présence, ton écoute ... ont été très soutenants ! Grâce à toi j'ai décroché mon diplôme ! Je t'en serai éternellement reconnaissant !"
+- Pas de "T'es quelqu'un d'incroyable, sans toi blabla" … Mais "Lorsque tu m'as aidé pour mon mémoire de thèse, ta présence, ton écoute … ont été très soutenants ! Grâce à toi j'ai décroché mon diplôme ! Je t'en serai éternellement reconnaissant !"
 - Après ce long monologue, l'autre peut répondre par une phrase. Qui va apporter la touche finale !  
-- "Ce n'est pas un téléfilm ... c'est du cinéma !"
+- "Ce n'est pas un téléfilm … c'est du cinéma !"
 
 Bosser son texte c'est prendre le temps d'être spécifique !  
 
 - J'ai mal dormi !  
-- Je n'ai pas bien dormi non plus ...  
+- Je n'ai pas bien dormi non plus …  
 
 NOPE !  
 
 - J'ai mal dormi !  
-- Tu dormiras mal tant que tu ressasseras la fin de ta relation ...  
+- Tu dormiras mal tant que tu ressasseras la fin de ta relation …  
 
 Tips :
 - Retourner le compliment
@@ -367,7 +366,7 @@ En pétillance tout me va.
 ## Déplacements parasites
 Allers/retours incessants.  
 
-Pieds dans le béton ... pendant un an !  
+Pieds dans le béton … pendant un an !  
 
 ## Mouvements parasites
 Chercher du regard, aller de l'un à l'autre, du public à son partenaire, à un objet.  

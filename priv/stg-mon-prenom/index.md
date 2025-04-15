@@ -28,7 +28,7 @@ Recherche du consentement. QUe peut-on faire ? Qu'est-ce qui est OK pour l'autre
 On explore ça en douceur, en prenant le temps.  
 
 
-## Exercice “Yuri (traversée en musique)"
+## Exercice "Yuri (traversée en musique)"
 N joueurs séparés en deux groupes, alignés à l'opposé du plateau.  
 
 En musique, un.e premier.e comédien.ne commence à faire une proposition “dansée” (ou “gesticulée”).  
@@ -48,7 +48,7 @@ Tips de réussite :
 - La symétrie fait du bien. On a l'impression que ça a été travaillé, que c'est réfléchi.  
 - On entre en personnage, on sort en personnage. On le tient jusqu'au bout, la facette "comédien" ne ressort pas avant la coulisse !  
 
-Le Yuri est vraiment un condensé de tout ce qu'on peut travailler en impro : le rapport à la proposition, la connexion aux autres, le lâcher-prise, l'ancrage, le rythme, l'occupation de l'espace scénique, ...  
+Le Yuri est vraiment un condensé de tout ce qu'on peut travailler en impro : le rapport à la proposition, la connexion aux autres, le lâcher-prise, l'ancrage, le rythme, l'occupation de l'espace scénique, …  
 Penser à ça dans nos scènes d'impro, à visualiser le plateau.  
 
 
@@ -90,7 +90,7 @@ La musique va s'arrêter, et la scène démarre.
 Les comédien.ne.s vont continuer à faire leurs gestes, et vont commencer à parler.  
 En s'appuyant sur leurs gestes, l'histoire doit intégrer ces mouvements, les justifier.  
 
-Cet exercice travaille la spontanéité et le lâcher-prise ...  
+Cet exercice travaille la spontanéité et le lâcher-prise …  
 
 Tips de réussite :
 - Si les gestes se rencontrent, c'est bien. Si ce n'est pas le cas, ce n'est pas grave.  
@@ -171,7 +171,7 @@ Est-ce que ça me rappelle quelque chose ? Une situation ? Quelle émotion en d�
 
 
 # Prénoms, identité et porte d'entrée vers l'intime
-Un peu de théorie ...  
+Un peu de théorie …  
 
 ## "Mon prénom et moi"
 Assis en cercle, on va parler de notre prénom (de comédien.ne).  
@@ -200,12 +200,12 @@ Face à face, on se regarde, on se connecte, on se laisse porter par la musique.
 On se laisse inspirer par l'autre, par ce qu'il/elle dégage.  
 On trouve un prénom pour l'autre. Dès que c'est fait, on se tourne face public.  
 Quand les deux se sont retourné.e.s face public, ils/elles se retournent face à face et se donnent leur prénom.  
-- "Tu t'appelles Clémence ..."
-- "Tu t'appelles Boris ..."
+- "Tu t'appelles Clémence …"
+- "Tu t'appelles Boris …"
 
 Tout à tour les deux comédien.ne.s vont se tourner face public et réagir à leur prénom :
-- "Clémence, c'est un prénom doux, ça me fait penser à la mer, à la douceur, à la tendresse, ... Il me va bien. Je l'aime bien !"
-- "Boris, c'est un prénom fort, ça me fait penser à la Russie, à la force, à la détermination, ... Il me fait penser à quelqu'un qui sait ce qu'il veut. C'est un prénom qui me va bien. Je l'aime bien !"
+- "Clémence, c'est un prénom doux, ça me fait penser à la mer, à la douceur, à la tendresse, … Il me va bien. Je l'aime bien !"
+- "Boris, c'est un prénom fort, ça me fait penser à la Russie, à la force, à la détermination, … Il me fait penser à quelqu'un qui sait ce qu'il veut. C'est un prénom qui me va bien. Je l'aime bien !"
 
 → Juger le prénom qui nous est donné nous apporte de la matière et du jeu pour le personnage que l'on va incarner.  
 
@@ -223,49 +223,49 @@ Différents filtres dans lesquels faire passer le prénom pour amener de l'inspi
 - L'épeler, qu'est-ce que j'entends ?  
 
 Ex: "Gus, diminutif de Gustave"
-- Gusssss' c'est aigu, ça siffle ...  
-- G.U.S ... G.U ... j'ai eu ... j'ai eu quoi ? il me manque quelque chose ... quoi ?  
-- Gustave, suave, ça me fait penser à la douceur, à la tendresse, à la rondeur, à la bienveillance, ... 
+- Gusssss' c'est aigu, ça siffle …  
+- G.U.S … G.U … j'ai eu … j'ai eu quoi ? il me manque quelque chose … quoi ?  
+- Gustave, suave, ça me fait penser à la douceur, à la tendresse, à la rondeur, à la bienveillance, … 
 
 On découpe les sons, on étudie leur musicalité.  
 
 Ex: "Pierre"
-- Pierre, c'est dur, c'est froid, c'est tranchant, ...  
-- Pierre ... ça me fait penser à la pierre, à la solidité, à la stabilité, ...  
-- P-I-ERRE, Pa-ys Erre, il erre de pays en pays, un migrant, un voyageur, un déraciné, ...  
+- Pierre, c'est dur, c'est froid, c'est tranchant, …  
+- Pierre … ça me fait penser à la pierre, à la solidité, à la stabilité, …  
+- P-I-ERRE, Pa-ys Erre, il erre de pays en pays, un migrant, un voyageur, un déraciné, …  
 
 Ex: "Sabine"
-- Ça bine, ça abîme, ... quelqu'un qui blesse les autres, maladroite ? ou vicieuse ?  
+- Ça bine, ça abîme, … quelqu'un qui blesse les autres, maladroite ? ou vicieuse ?  
 
 ### Filtre 2 - Homonymie
 Ex: "Sandrine" → "Sang-dring", "Sang-draine" - Draine le sang, vampire ? soignante ? quelqu'un colérique ?  
 
 ### Filtre 3 - Interversion
 On intervertit les syllabes, les lettres pour former de nouveaux mots.  
-Ex: "Henri" devient "Hernie", quelqu'un de malade ? de fragile ? de fort ? ou "Rihen", riant, joyeux, ... ou "Rien", quelqu'un de vide, de creux, de sans intérêt, ...  
+Ex: "Henri" devient "Hernie", quelqu'un de malade ? de fragile ? de fort ? ou "Rihen", riant, joyeux, … ou "Rien", quelqu'un de vide, de creux, de sans intérêt, …  
 
 Exercice :
 En duo, on se donne un prénom, et on le fait passer dans les trois filtres en avant-scène devant le public, oralement et à voix haute, pour montrer notre cheminement mental.  
-Puis on dit "Je m'appelle Chloé, je suis quelqu'un de ... " en s'appuyant sur les découvertes faites avec les filtres.  
+Puis on dit "Je m'appelle Chloé, je suis quelqu'un de … " en s'appuyant sur les découvertes faites avec les filtres.  
 
 ## Théorie de l'identité
 Voici différentes facettes de l'identité, qui peuvent être des sources d'inspiration pour créer des personnages en impro :
 
 ### Genre
-Masculin, féminin, non-binaire, fluide ...  
+Masculin, féminin, non-binaire, fluide …  
 Affubler un personnage d'un genre différent de son genre de naissance peut être une source de jeu très riche.  
 Ref: Série "Océan" sur France TV
 ### Sexuelle
 ### Ethnique
 ### Religieuse
 ### Sociale
-Classe sociale, origine sociale, ...  
-"Kévin", "Dylan", etc, peuvent être des prénoms qui évoquent une certaine classe sociale ...  
+Classe sociale, origine sociale, …  
+"Kévin", "Dylan", etc, peuvent être des prénoms qui évoquent une certaine classe sociale …  
 Comment jouer avec sans tomber dans les stéréotypes ?  
 ### Familiale ("Constellation familiale")
 S'interroger sur la place de notre personnage dans la famille, dans les fratries, et sur les rôles attendus pour ces archétypes.  
 Exemple Fratrie :
-- Ainé.e : Responsable, protecteur, rôle de soutien ...  
+- Ainé.e : Responsable, protecteur, rôle de soutien …  
 - Cadet.te : Rôle de mémoire de la famille, responsable du lien
 - Benjamin.e : Mémoire émotionnelle de la famille
 → encore un moyen de rentrer dans un personnage, de lui donner de la profondeur, de la richesse, de la complexité.  
@@ -279,8 +279,8 @@ On joue la scène, sans citer les prénoms.
 ## Jeu pur + monologues "Prénom"
 4 comédien.ne.s en coulisse.  
 Des consignes sont données secrètement à chacun.e :
-- un trait de caractère ("colérique", "naïf", "empathique", ...)
-- ou un fait ("s'est marié.e 4 fois", "veut recourir au suicide assisté", ...)
+- un trait de caractère ("colérique", "naïf", "empathique", …)
+- ou un fait ("s'est marié.e 4 fois", "veut recourir au suicide assisté", …)
  
 Musique, on s'ancre, et on se "charge".  
 On se trouve un prénom (qu'on utilisera si on n'est pas nommé.e par nos partenaires).  
@@ -303,7 +303,7 @@ Les 4 comédien.ne.s vont tour à tour faire leur monologue.
 
 
 ## Recettes en vrac
-- Casser les habitudes de la répartie, du "je te réponds, tu me réponds". Trop souvent en impro, on répète les choses, on paraphrase, on boucle ... Il s'agit de le repérer et de prendre une décision (= faire un choix) et d'agir en conséquence (Une action physique, une parole qui fait bouger la scène, etc.).  
+- Casser les habitudes de la répartie, du "je te réponds, tu me réponds". Trop souvent en impro, on répète les choses, on paraphrase, on boucle … Il s'agit de le repérer et de prendre une décision (= faire un choix) et d'agir en conséquence (Une action physique, une parole qui fait bouger la scène, etc.).  
 - Les prétextes pour ne pas jouer "vrai" : On va souvent parler d'un objet (un dessin, une peinture), ou d'un tiers (un personnage absent), pour ne pas parler vraiment de la relation de nos personnages, et de la vivre vraiment. Évacuons ces prétextes (le dessin s'envole, il n'est plus là, il n'y a plus que nous deux). 
 - "Tout est déjà là" → Cherche le jeu dans les yeux de ton/ta partenaire, dans sa gestuelle, dans son émotionnel.  
 - Se connaitre depuis au moins 6 mois. On est déjà intimes, on n'a pas besoin de construire cette intimité.  
@@ -311,5 +311,5 @@ Les 4 comédien.ne.s vont tour à tour faire leur monologue.
 - Laissons-nous surprendre ! La surprise amène du jeu.  
 - Un personnage silencieux aura un impact très percutant quand il se mettra à parler. Il y a une promesse pour le public : Si il/elle parle, c'est que c'est important → Bien choisir sa punch-line !  
 - Pas plus de 2 focus simultanés sur scène. Et un, c'est mieux ! Le public ne sait plus où donner de la tête.  
-- Idée pour spectacles : Intégrer un espace scénique pour des monologues, des apartés, des confidences, ... déclenchés par la régie.  
+- Idée pour spectacles : Intégrer un espace scénique pour des monologues, des apartés, des confidences, … déclenchés par la régie.  
 

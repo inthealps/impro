@@ -26,14 +26,14 @@ Le prof appelle 2 comédiens sur scène et leur donne un thème. Impro immédiat
 
 ## Jeu "Deux premières répliques imposées"
 Une situation de départ : C1 assis sur une chaise devant une table par exemple.  
-C2 est briefé par le prof pour rentrer en jeu avec quelque chose (une intention, une émotion, un tic, une action ...)
+C2 est briefé par le prof pour rentrer en jeu avec quelque chose (une intention, une émotion, un tic, une action …)
 Les premières répliques de C1 et C2 sont définies à l'avance :
 C1 : "Alors, ça s'est bien passé ?"
-C2 : "Comme d'habitude ..."
+C2 : "Comme d'habitude …"
 
 ou
-C1 : "Il fait beau aujourd'hui ..."
-C2 : "J'ai connu mieux ..."
+C1 : "Il fait beau aujourd'hui …"
+C2 : "J'ai connu mieux …"
 
 Selon l'impulsion de départ, on va assister à des scènes très différentes.  
 
@@ -49,7 +49,7 @@ Démontrer que les idées peuvent venir d'impulsions quelconques. Des situations
 ## Échauffement "Prénom, adjectif, animal"
 En cercle, on pointe une personne avec le doigt et on donne son prénom. On garde le doigt levé. On recommence, en pointant toujours la même personne. Luc, pointé par Eric, va pointer Nina. Toujours.  
 
-Ensuite, on recommence une nouvelle tourne mais avec des adjectifs. Luc, pointé par Ludo avec l'adjectif "Lumineux", var pointer Anne en disant l'adjectif "Douée" ...  
+Ensuite, on recommence une nouvelle tourne mais avec des adjectifs. Luc, pointé par Ludo avec l'adjectif "Lumineux", var pointer Anne en disant l'adjectif "Douée" …  
 
 Ensuite, des animaux.  
 
@@ -65,13 +65,13 @@ Le prof demande à ce que 8 comédiens fassent une fresque immobile sur un thèm
 
 Les comédiens s'exécutent.  
 
-Le prof demande à un autre comédien de venir décrire la scène. Il le torture un peu. Ah bon, c'est une voile ? mais la voile devrait être à l'avant du bateau non ? etc ...  
+Le prof demande à un autre comédien de venir décrire la scène. Il le torture un peu. Ah bon, c'est une voile ? mais la voile devrait être à l'avant du bateau non ? etc …  
 
 Ensuite, il demande à un autre comédien :
 
-"Et si ce n'était pas un bateau ça serait quoi ??" Le comédien répond "Une cuisine moderne" NON CE N'EST PAS CA "Euh, une fête de mariage" NON "Un plateau de fromage" OUI, décris-le moi ...  
+"Et si ce n'était pas un bateau ça serait quoi ??" Le comédien répond "Une cuisine moderne" NON CE N'EST PAS CA "Euh, une fête de mariage" NON "Un plateau de fromage" OUI, décris-le moi …  
 
-Etc ...  
+Etc …  
 
 Le but est de décrire la fresque en usant de détails et de précision sur les éléments visibles.  
 
@@ -80,7 +80,7 @@ On travaille la compréhension.
 La recherche de la deuxième idée permet de se renouveler, et de ne pas refaire 100 fois les mêmes scènes ;)
 
 ## Exercice "Tableau en aveugle"
-En trio, chacun ferme les yeux et prend une position. Au signal, tout le monde ouvre les yeux et découvre la scène. Le public dit ce qu'il voit. Les 3 comédiens le jouent immédiatement. Le prof coupe, les comédiens reprennent leurs positions initiales et c'est au tour d'une autre idée de prendre vie ...  
+En trio, chacun ferme les yeux et prend une position. Au signal, tout le monde ouvre les yeux et découvre la scène. Le public dit ce qu'il voit. Les 3 comédiens le jouent immédiatement. Le prof coupe, les comédiens reprennent leurs positions initiales et c'est au tour d'une autre idée de prendre vie …  
 
 On continue ainsi jusqu'à user la situation.  
 Permet de travailler l'imagination.  
@@ -115,7 +115,7 @@ Très éclairant sur la notion d'acceptation et de refus. Permet de partir dans 
 
 # Jour 5 - Spectacle
 
-## Exercice "Une danse, geste par geste, en duo"  
+## Exercice "Une danse, geste par geste, en duo"
 On essaie de croiser nos corps, en s'accordant sur le tempo de la musique. Pas de contact, on s'entremêle juste.  
 
 ## Exercice "Chorégraphie à 6"
@@ -125,7 +125,7 @@ Sur la musique, les uns après les autres, tour à tour, on change de position. 
 
 On reste figé lorsque ce n'est pas à notre tour de changer.  
 
-## Exercice "Histoire passionnante, buzzée par le public"  
+## Exercice "Histoire passionnante, buzzée par le public"
 En ligne face public, un comédien s'avance et initie une histoire passionnante.  
 
 A la moindre hésitation du comédien, ou dès que le public en a marre, il peut buzzer.  
@@ -136,7 +136,7 @@ On doit se battre pour entrer en scène, on doit être le premier, c'est vital.
 
 Cela nous aide à entrer sans savoir, notre seul but étant d'entrer, pas de savoir ce qu'il va se passer.  
 
-## Exercice "Mots lancés sans lien"  
+## Exercice "Mots lancés sans lien"
 A trois, on lance des mots, sans liens.  
 
 Dès qu'une hésitation apparait, ou qu'un lien est détecté, le public buzze.  
@@ -175,7 +175,7 @@ Il ne doit pas être étonné, ne pas dénoncer son incompréhension, celà est 
 
 De même, si mon personnage perd le contrôle, je (comédien) doit être dans le contrôle.  
 
-"Ecoute je ne comprends plus rien ..." = le comédien a très bien compris la situation.  
+"Ecoute je ne comprends plus rien …" = le comédien a très bien compris la situation.  
 
 Si comédien et personnage sont hors contrôle, le public ne peut pas comprendre.  
 
@@ -190,7 +190,7 @@ La princesse peut décider de venir se coller aux "remparts" (un duo épaule con
 ## Exercice "Histoire mot à mot"
 En duo, on invente une histoire mot après mot, chacun son tour.  
 
-Puis en trio, à 4, à 5 ...  
+Puis en trio, à 4, à 5 …  
 
 Au plus on est nombreux au moins on a le contrôle. Ca force à rafraîchir son cache et accepter de ne pas tout contrôler.  
 
@@ -228,7 +228,7 @@ De là, le duo doit jouer une belle scène, centrée sur la relation MAIS doit r
 
 Subtilement.  
 
-Ici l'arène ne doit pas être résolue en 1mn (qui ? quand ? où ? quoi ?) ... on prend le temps de découvrir.  
+Ici l'arène ne doit pas être résolue en 1mn (qui ? quand ? où ? quoi ?) … on prend le temps de découvrir.  
 
 On se met dans la merde.  
 
@@ -280,14 +280,14 @@ Lorsque le public le juge nécessaire, il manifeste son envie avec un "Ahh" de p
 
 Le 3e comédien doit trouver quelque chose pour clore la scène.  
 
-Une punch-line, une performance (physique, vocale, rimée, chantée ...)
+Une punch-line, une performance (physique, vocale, rimée, chantée …)
 
 ### TIPS
 1. Si on sait pas quoi faire, plusieurs pistes :
-- Je ne fais rien (et manifeste un silence, une posture fixe ...)
+- Je ne fais rien (et manifeste un silence, une posture fixe …)
 - Je fais pareil (en mode jumeau)
 - Je fais n'importe quoi (en mode proposition aléatoire)
-- Je lâche prise et me laisse aller ...  
+- Je lâche prise et me laisse aller …  
 - Prendre position peut faire basculer une scène molle
 - Entrer pour sauver la scène est ok aussi, en mode Superman
 

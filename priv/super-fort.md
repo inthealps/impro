@@ -18,10 +18,10 @@
 ## À éviter !
 1. "Bonjour !" / "Salut, ça va ?" / "Qu'est-ce que tu fais ?"
 2. Hésiter / être indécis / ne pas savoir
-3. Piétiner, se balancer -> Ancrage !
+3. Piétiner, se balancer → Ancrage !
 4. Négocier
 5. Rentrer dans des rapports profs / élèves, ou transactionnels.
 6. Conflit en début de scène
-7. Discours explicatif, bla bla bla ...
+7. Discours explicatif, bla bla bla …
 8. Mimer l'autre inconsciemment, par tropisme.
 9. Se parler au centre du plateau à un mètre de distance (position frites)

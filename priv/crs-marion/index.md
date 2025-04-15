@@ -51,7 +51,7 @@ Il va ensuite expliciter les enjeux, et ce qu'il verrait comme rebondissement po
 Cet exercice permet de travailler la construction d'une histoire, et d'installer des plateformes efficaces.  
 
 Pistes de réussite :
-- L'observateur peut side-coacher : il peut noter les refus ou négociations, il peut noter le conflit et le stopper direct, ...  
+- L'observateur peut side-coacher : il peut noter les refus ou négociations, il peut noter le conflit et le stopper direct, …  
 
 
 ## Exercice "La bougie"
@@ -80,7 +80,7 @@ Exemples :
 
 Pistes de réussite :
 - Ne pas boucler ! Continuer à être dans la proposition, se renouveler ! La perte des clés des une raison suffisante, mais je ne peux pas faire une scène avec ça, donc je retrouve mes clés rapidement. Mais il se passe autre chose, etc.  
-- Rendre explicite les raisons de ne pas ouvrir la porte, par des mimes des paroles, du corps ... il faut que le public comprenne facilement.  
+- Rendre explicite les raisons de ne pas ouvrir la porte, par des mimes des paroles, du corps … il faut que le public comprenne facilement.  
 
 
 ## Exercice "Quel est le jeu de la scène ?"
@@ -119,7 +119,7 @@ Tips de réussite :
 - Se positionner à tour de rôle en observateur, pour voir comment ça évolue, assister à ce que ça donne de l'extérieur.  
 
 
-## Exercice "Un geste, puis un autre, puis un autre ..."
+## Exercice "Un geste, puis un autre, puis un autre …"
 En solo.  
 En musique.  
 
@@ -175,13 +175,13 @@ On se met en face de son partenaire.
 A va dire "Ben vas-y !" avec une intention.  
 En réaction, B va répondre "Ben vas-y !" avec une autre intention.  
 
-Comme on n'a pas la pression du texte, on va pouvoir travailler nos émotions, mais aussi faire varier nos états, nos positions (loin/près, face à face, ou pas, etc), le volume de nos voix, ...  
+Comme on n'a pas la pression du texte, on va pouvoir travailler nos émotions, mais aussi faire varier nos états, nos positions (loin/près, face à face, ou pas, etc), le volume de nos voix, …  
 
 Puis même exercice avec "OK !", puis avec "Suis-moi !"
 
 Tips de réussite :
 - "Qu'est-ce que l'autre me renvoie comme info ?" (son corps, sa voix, son regard, ses gestes ?)
-- Je ne peux rien dire d'autre que "Ben vas-y !", alors je m'invente le sous-texte, je me raconte une histoire ("Suis-moi !" + sous-texte "... sinon je vais mourir !")
+- Je ne peux rien dire d'autre que "Ben vas-y !", alors je m'invente le sous-texte, je me raconte une histoire ("Suis-moi !" + sous-texte "… sinon je vais mourir !")
 - On peut se mettre en tête un mantra également : "Je veux ce travail ! Je VEUX ce travail ! JE VEUX CE TRAVAIL !" et voir comment ça influe sur notre jeu. 
 
 
@@ -191,7 +191,7 @@ On se met côte à côte.
 
 A regarde B.  
 B accueille, tourne la tête, infuse, qu'est-ce que ce regard lui fait ? et se retourne vers A pour lui renvoyer un autre regard.  
-Et ainsi de suite ...  
+Et ainsi de suite …  
 
 
 ## Exercice "Amplifie ! Diminue ! Change !"
@@ -232,8 +232,8 @@ La proposition s'arrête quand le comédien s'arrête, l'autre prend la relève 
 En cercle, un premier comédien entame une narration, en mode "je raconte une histoire".  
 Pas de mime, pas d'autres gestes que ceux d'un narrateur.  
 
-Au lieu de dire des phrases, il va compter : 1, 2 3, ...  
-Quand il s'arrête, son voisin prend le relais, et continue la narration, en comptant 4, 5, 6, ...  
+Au lieu de dire des phrases, il va compter : 1, 2 3, …  
+Quand il s'arrête, son voisin prend le relais, et continue la narration, en comptant 4, 5, 6, …  
 
 Tips de réussite :
 - On se concentre sur l'histoire, en essayant de se raconter sa propre histoire, d'essayer de savoir ce qui est joué. L'idée est de proposer une suite cohérente pour nous !  
@@ -267,7 +267,7 @@ La musique s'arrête, A s'adresse à B en gromelot, une ou plusieurs phrases, pu
 Tips de réussite :
 - On est dans l'émotion, on est dans l'instant présent, on est dans le corps.  
 - Prendre le temps d'accueillir et de réagir.  
-- On dit plein de choses "juste" avec le corps, nos émotions, nos gestes et mouvements, le rythme, ...  
+- On dit plein de choses "juste" avec le corps, nos émotions, nos gestes et mouvements, le rythme, …  
 - Sans paroles, c'est souvent très juste et très fort.  
 
 
@@ -302,7 +302,7 @@ Tips de réussite :
 - Ne pas anticiper, mais réagir
 - Négocier rapidement, réagir quand quelqu'un prend la place qu'on était censé occuper.  
 
-Cet exercice permet de travailler la réactivité, l'écoute, la négociation, la disponibilité, ...  
+Cet exercice permet de travailler la réactivité, l'écoute, la négociation, la disponibilité, …  
 Lorsqu'on est en réserve, on doit être vigilant à ce qui est nécessité par le spectacle :
 - La scène est vide ? Il faut rentrer.  
 - La scène patine, on coupe, et on rentre.  
@@ -314,7 +314,7 @@ Lorsqu'on est en réserve, on doit être vigilant à ce qui est nécessité par 
 En duo.  
 Un metteur en scène va diriger un narrateur avec les consignes suivantes :
 - Action ! (Le narrateur doit adapter immédiatement son récit pour décrire une ou plusieurs actions)
-- Détails ! (Le narrateur doit détailler un élément de la scène, décor, objet, ...)
+- Détails ! (Le narrateur doit détailler un élément de la scène, décor, objet, …)
 - Émotions ! (Le narrateur doit décrire finement les émotions des personnages, qu'est-ce qu'ils ressentent ?)
 
 On fait une tourne comme ça.  
@@ -326,7 +326,7 @@ On va ajouter des consignes supplémentaires :
 - Silence ! (Le narrateur doit se taire, et laisser son corps parler)
 - Bruitage ! (Le narrateur doit faire des bruitages pour illustrer son récit)
 - Ralentis ! (Le narrateur doit ralentir le rythme de son récit)
-- Accélère ! (Le narrateur doit accélérer le rythme de son récit, les actions, ...)
+- Accélère ! (Le narrateur doit accélérer le rythme de son récit, les actions, …)
 
 Tips de réussite :
 - Faire une carte pliée avec les 3 premières consignes, et les 4 autres consignes sur une autre face.  
@@ -346,7 +346,7 @@ Deux comédiens font le toit avec leurs bras, un comédien se réfugie en dessou
 Le but du jeu est de refaire des groupes de 3 /o\ et de ne pas se retrouver seuls !
 
 
-## Exercice "Raconte-moi ... en ..."
+## Exercice "Raconte-moi … en …"
 En cercle, un comédien s'approche d'un autre et lui dit "Raconte-moi la recette de la tarte citron en japonais"
 Et le comédien s'exécute.
 Ex:
@@ -404,20 +404,20 @@ En cercle autour d'un objet posé au sol.
 Chacun va tour à tour s'emparer de l'objet, et le décrire.  
 Exemple : "Ceci est un microscope électronique, il permet de voir des virus infimes"  
 
-On incarne un personnage en le faisant, que nous fait cet objet, quel est notre rapport à lui, ...
+On incarne un personnage en le faisant, que nous fait cet objet, quel est notre rapport à lui, …
 
 ## Exercice "Enfiler son costume"
 Chacun dans son coin, on va "entrer dans sa facette Comédien" en s'imaginant enfiler un vrai costume de comédien, et mimer de s'habiller.  
 En musique, on va prendre le temps de s'habiller.  
 On ne doit pas avoir terminé de s'habiller avant que la musique s'arrête.  
-Si on a fini, on se maquille, on se coiffe, on vérifie les boutons de sa chemise, ...
+Si on a fini, on se maquille, on se coiffe, on vérifie les boutons de sa chemise, …
 
 Incarné, calme, sans précipitation ni paroles.
 
 ## Exercice "Claps en cercle"
 Tout le groupe en cercle.  
 Première phase : on se regarde, on se connecte, on clape en même temps.
-Deuxième phase : un clapeur va regarder une autre personne et claper avec elle en même temps... cette personne recommence avec une autre personne, etc.
+Deuxième phase : un clapeur va regarder une autre personne et claper avec elle en même temps… cette personne recommence avec une autre personne, etc.
 
 ## Exercice "C'est génial"
 De Mark Jane.
@@ -434,7 +434,7 @@ Tips de réussite :
 - En mode "c'est génial", on est vraiment enchanté par les propositions de l'autre.
 
 
-## Exercice "Déambulation des chaises" 
+## Exercice "Déambulation des chaises"
 En groupe. Une sorte d'expérience théâtrale.
 
 Chacun se munit d'une chaise, et va se déplacer dans la pièce avec sa chaise.    
@@ -456,7 +456,7 @@ Le jeu classique du match d'impro.
 Lâcher la tête.
 
 
-## Exercice "1001 façons de ..."
+## Exercice "1001 façons de …"
 Le jeu classique du match d'impro.
 Lâcher la tête.
 Penser "qu'est ce qui n'a pas déjà été fait ?"
@@ -465,7 +465,7 @@ Penser "qu'est ce qui n'a pas déjà été fait ?"
 ## Exercice "Jeu dans le noir"
 On joue dans le noir.
 
-On utilise les bruitages, les voix, ...
+On utilise les bruitages, les voix, …
 
 
 ## Exercice "Musiques de films"
@@ -474,9 +474,9 @@ La régie déclenche des musiques de films.
 On adapte notre jeu / l'histoire à la musique.  
 
 
-## Exercice "Je suis ..."
+## Exercice "Je suis …"
 En cercle, un comédien va au centre, se met en position et dit "Je suis + proposition".  
-Ex: "Je suis la feuille" et se met en forme de feuille (avec les bras, les jambes, ...)  
+Ex: "Je suis la feuille" et se met en forme de feuille (avec les bras, les jambes, …)  
 
 Un second comédien va venir enrichir ce tableau.  
 "Je suis le stylo qui écrit sur la feuille"  
@@ -492,7 +492,7 @@ Il enrichit la proposition du stylo, mais dans un autre contexte.
 Et on continue ainsi.  
 
 
-## Exercice pour chauffer la voix et le corps.
+## Échauffement "Chauffer la voix et le corps"
 En musique.  
 On occupe tout l'espace.  
 On va respirer par le nez, et souffler par la bouche en faisant passer un filet d'air comme à travers une paille.  
@@ -523,7 +523,7 @@ Le groupe reprend alors "NON, C'EST PLUS QUE ÇA !", et A va au centre et entame
 Cet exercice force le lâcher-prise, on ne peut pas anticiper plus que quelques phrases.
 
 
-## Exercice "C'est parce que ..."
+## Exercice "C'est parce que …"
 Un exercice de narration, on va faire avancer l'histoire.
 
 En cercle, A attaque un récit :
@@ -532,10 +532,10 @@ En cercle, A attaque un récit :
 - C continue "C'est parce que Maurice est devenu aveugle qu'il ne peut plus s'occuper de ses clients".
 - etc.
 
-On va tirer un fil narratif, et le pousser jusqu'au dernier du cercle, qui finira par "C'est ainsi que ..." et conclura l'histoire.
+On va tirer un fil narratif, et le pousser jusqu'au dernier du cercle, qui finira par "C'est ainsi que …" et conclura l'histoire.
 
 
-## Exercice "Il faut dire que ..."
+## Exercice "Il faut dire que …"
 Un exercice de narration, on va rembobiner l'histoire.
 
 En cercle, A attaque un récit "par la fin" :
@@ -550,8 +550,8 @@ Un exercice de narration qui permet de construire des univers riches pendant nos
 
 En trio.  
 A va se lancer dans une description déclenchée par un mot donné par B ou C.  
-B sera la "police des Euh..." -> B va lever la main dès qu'il détectera une hésitation, ou tout ce qui trahit l'embarras de A.  
-C sera la "police de la caméra" -> C va lever la main et dire "Caméra" dès qu'il détectera que l'on sort du purement descriptif, ou que l'on commence à raconter une histoire. A devra revenir à la description proprement dite.  
+B sera la "police des Euh…" → B va lever la main dès qu'il détectera une hésitation, ou tout ce qui trahit l'embarras de A.  
+C sera la "police de la caméra" → C va lever la main et dire "Caméra" dès qu'il détectera que l'on sort du purement descriptif, ou que l'on commence à raconter une histoire. A devra revenir à la description proprement dite.  
 
 La description doit durer 1mn, B va signifier à A quand il rentre dans les 15 dernières secondes.
 
@@ -560,7 +560,7 @@ Tips de réussite :
 - Ne pas se laisser déstabiliser par les "polices", ne pas s'arrêter, c'est vraiment à voir comme un side-coaching pour nous aider, et revenir à la description.
 - Ne pas s'arrêter quand les polices interviennent, on reste mobilisé et concentré sur notre description.
 - Déposer des "potentiels" (les "saucisses" de Mark Jane), des éléments qui pourront être utilisés pour "faire l'histoire" si on devait la continuer.
-- "Tout ce qui ne peut pas être dessiné est superflu" -> on supprime le verbiage, on ne fait que "charger le décor"
+- "Tout ce qui ne peut pas être dessiné est superflu" → on supprime le verbiage, on ne fait que "charger le décor"
 
 
 
@@ -577,11 +577,11 @@ La narration doit durer 1mn environ.
 Exemple, le thème est "la plage" :
 Sur la plage, il y a un parasol. Une serviette de bain est étalée en dessous.  
 Au loin un enfant joue avec un cerf-volant. Il rit.
-Les vagues ... bla bla bla ...
+Les vagues … bla bla bla …
 Puis à la fin : "Posé sur la serviette, un revolver. Il est chargé."
 
 Le revolver va éclairer la scène d'une manière totalement différente, et va donner une toute autre dimension à la scène.  
-Il amène un twist, une surprise, une tension, ...
+Il amène un twist, une surprise, une tension, …
 
 Tips de réussite :
 - Avoir une vague idée dès le départ de l'objet, ou se laisser surprendre par l'inspiration du moment.
@@ -589,10 +589,10 @@ Tips de réussite :
 - Visualiser la scène, se projeter dans le décor.
 
 
-## Exercice "Narration / Heureusement/Malheureusement'
+## Exercice "Narration / Heureusement/Malheureusement"
 Le groupe est séparé en deux groupes de comédiens en file indienne.
 
-Le premier comédien de la première file entame une histoire ...  
+Le premier comédien de la première file entame une histoire …  
 Le comédien qui lui fait face va dire "Heureusement" et va ajouter un élément positif à l'histoire.  
 Puis l'autre comédien va dire "Malheureusement" et va ajouter un élément négatif à l'histoire.  
 
@@ -633,7 +633,7 @@ On sépare le groupe en deux lignes.
 Chaque joueur se trouve face à un autre joueur. Se mettre à 2 joueurs, si le groupe est impair.  
 
 On va complimenter son partenaire, en lui disant ce qu'on aime chez lui, mais sur un thème donné.
-Par exemple, si le thème est "un fruit ou un légume", on va dire "Tu es une fraise fantastique, tu es rouge et sucrée. La lumière du soleil vient se refléter sur toi et tu irradies de couleurs rouges flamboyantes, ...".
+Par exemple, si le thème est "un fruit ou un légume", on va dire "Tu es une fraise fantastique, tu es rouge et sucrée. La lumière du soleil vient se refléter sur toi et tu irradies de couleurs rouges flamboyantes, …".
 
 Ca dure 2mn.
 
@@ -653,7 +653,7 @@ Dès qu'une affirmation apparait, le public buzze.
 "Pourquoi à chaque fois que je te vois, tu es en train de pleurer ?"
 
 
-## Exercice "Des débuts clairs et subtils ..."
+## Exercice "Des débuts clairs et subtils …"
 En cercle.  
 
 Un comédien va se mettre au centre, et va faire une proposition de début de scène avec pour objectif de fixer la relation en une phrase :
@@ -674,7 +674,7 @@ On veut des fins claires pour faciliter les tuilages et ajouter de la fluidité 
 Deux comédiens vont jouer une mini-scène.  
 À tout moment, quand il sent que la scène a rempli son rôle, le coach peut dire "Fin de l'impro dans 5 secondes", et la scène doit se terminer dans les 5 secondes.  
 
-S'il n'est pas satisfait de la fin, il peut dire "On continue" ...
+S'il n'est pas satisfait de la fin, il peut dire "On continue" …
 
 Tips de réussite :
 - Punch-line bienvenue, en forme de conclusion
@@ -691,12 +691,12 @@ Une nouvelle scène se joue, mais dans la même histoire.
 
 Pistes de réussite :
 - Tagguer dès que la scène a terminé son propos
-- Ne pas laisser les copains en galère. On taggue, même si on ne sait pas quoi faire ensuite ... on improvise, et on est 2 pour le faire, ensemble !  
+- Ne pas laisser les copains en galère. On taggue, même si on ne sait pas quoi faire ensuite … on improvise, et on est 2 pour le faire, ensemble !  
 - Apporter de la variété dans les scènes, du rythme. On peut alterner des scènes courtes/longues, dans le texte ou dans le corps.  
 
 Reco de Marion :
-- "Samuël" sur Arte, une petite série où le perso part dans sa tête (et on voit ce qu'il se passe dans sa tête) -> ça donne à voir.  
-- "Appel trop con de Martin" -> comment il fait pour reprendre les propos de ses interlocuteurs, en mode "OUI ET", et les détourner pour les amener à dire ce qu'il veut.  
+- "Samuël" sur Arte, une petite série où le perso part dans sa tête (et on voit ce qu'il se passe dans sa tête) → ça donne à voir.  
+- "Appel trop con de Martin" → comment il fait pour reprendre les propos de ses interlocuteurs, en mode "OUI ET", et les détourner pour les amener à dire ce qu'il veut.  
 
 
 ## Jeu "Univers en expansion"
@@ -768,8 +768,8 @@ On fait des tuilages entre les scènes d'une impro.
 On marque la fin d'une impro par un "Fin de l'impro" et ça enchaine !  
 On a un timer pour nous aider à tenir les 10mn.  
 
-Très instructif pour travailler la variété de rythme, la variété de scènes, la variété de jeu, ...  
-Très instructif pour que chacun.e puisse "faire son job" et sentir quand tuiler, quand couper, etc ...  
+Très instructif pour travailler la variété de rythme, la variété de scènes, la variété de jeu, …  
+Très instructif pour que chacun.e puisse "faire son job" et sentir quand tuiler, quand couper, etc …  
 
 On a moins la pression que sur un long-form car au "pire", on ne foire qu'une impro !  
 
@@ -789,7 +789,7 @@ Pendant ce temps, B fait une proposition physique : un geste, une position, un m
 A va venir, par inclusion, se servir de la proposition de B pour bâtir la scène en partant de son idée.
 
 Intérêts :
-- Ça permet de travailler en inclusion, et pas en choix (mon idée est meilleure que ta proposition physique, donc je m'accroche à mon idée ... et inversement).
+- Ça permet de travailler en inclusion, et pas en choix (mon idée est meilleure que ta proposition physique, donc je m'accroche à mon idée … et inversement).
 
 ### 3- Deux postures se rencontrent
 En duo.
@@ -803,10 +803,10 @@ Tips de réussite :
 
 ### 4- Explication de scène
 Un narrateur et N comédiens.
-En musique, les comédiens vont se mettre en action, en mouvement, ...
+En musique, les comédiens vont se mettre en action, en mouvement, …
 La musique s'arrête, les comédiens se figent.
 
-Le narrateur va inspecter la scène, décider de faire sortir de comédiens (ou pas), puis il explique la scène ...
+Le narrateur va inspecter la scène, décider de faire sortir de comédiens (ou pas), puis il explique la scène …
 
 Variante :
 On se met à jouer la scène décrite par le narrateur, qui guide les comédiens dans leur jeu.
@@ -868,7 +868,7 @@ puis on enrichit ce qui est déjà posé :
 
 - D: "Scotchée au lampadaire, une feuille 'Perdu chat tigré, récompense'"
 - E: "Sur le banc, un livre ouvert, avec un marque-page"
-- etc ...
+- etc …
 
 On démarre la scène dans ce décor, et on le respecte.
 
@@ -889,7 +889,7 @@ Tips de réussite :
 - Nourrir la relation
 - Nourrir le monde
 - Les personnages se connaissent forcément
-- Diversité des scènes et des types de relations (si couple en S1, travail en S2, copains en S3, ...)
+- Diversité des scènes et des types de relations (si couple en S1, travail en S2, copains en S3, …)
 - Attention à la cavalcade de la construction ! Trop de narration dans les plateformes ferme le monde !
 
 
@@ -903,7 +903,7 @@ On doit donner au public l’impression qu’on connaît l’histoire par cœur,
 _“Paul passe devant la boulangerie Lepic tous les matins. Ce n’est pas à proprement parler sur le chemin du travail, mais il fait ce léger détour. Il n’ose pas s’arrêter habituellement. Certains matins, il ose un regard discret pour savoir si Léa est derrière le comptoir … Ce matin, il sent son cœur battre dans sa poitrine, il s’est donné la mission d’aller acheter un pain aux raisins … bla bla “_
 
 Le metteur en scène va faire attention aux éléments qui trahissent le trac du comédien :
-- Hésitations : "Euh ...", mimiques qui montrent l'inconfort, tics de langage ...
+- Hésitations : "Euh …", mimiques qui montrent l'inconfort, tics de langage …
 - Manque de clarté (on ne comprend pas où on va).
 - Qualité narrative.
 - Répétitions inutiles.
@@ -915,9 +915,9 @@ Tips de réussite :
 - On narre au présent !
 - On ne se précipite pas, on prend le temps de poser son univers.
 - Il faut mieux des phases de narration propres entrecoupées de silences qu’un flux continu de parole entrecoupé de “Euh …”
-- On peut visualiser la scène, les personnages, les lieux, ...
+- On peut visualiser la scène, les personnages, les lieux, …
 - On donne son regard au public, on est dans l'instant présent.
-- On met des détails, des couleurs, des odeurs, des sons, des sensations, ... mais sans verbiage, et sans répétitions.
+- On met des détails, des couleurs, des odeurs, des sons, des sensations, … mais sans verbiage, et sans répétitions.
 - Trouver les potentiels et poser des saucisses, quelque chose qu’il faudra résoudre dans l’histoire.
 
 
@@ -931,7 +931,7 @@ Il faut qu'on comprenne que c'est la fin (le narrateur doit mettre les inflexion
 
 
 Le metteur en scène va faire attention aux éléments qui trahissent le trac du comédien :
-- Hésitations : "Euh ...", mimiques qui montrent l'inconfort, tics de langage ...
+- Hésitations : "Euh …", mimiques qui montrent l'inconfort, tics de langage …
 - Manque de clarté.
 - Qualité narrative.
 - Répétitions inutiles.
@@ -942,7 +942,7 @@ Le metteur en scène va faire attention aux éléments qui trahissent le trac du
 Tips de réussite :
 - On ne se précipite pas, on prend le temps de poser son univers.  
 - On donne son regard au public, on est dans l'instant présent.  
-- On met des détails, des couleurs, des odeurs, des sons, des sensations, ... mais sans verbiage, et sans répétitions.  
+- On met des détails, des couleurs, des odeurs, des sons, des sensations, … mais sans verbiage, et sans répétitions.  
 - On place tous les élements qui permettent rapidement de savoir où on en est dans l'histoire. Chaque brique posée est importante.  
 
 
@@ -968,7 +968,7 @@ Cela doit être la dernière phrase de l'histoire.
 Tips de réussite :
 - Ne pas se précipiter, prendre le temps de bâtir l'histoire.
 - Ne pas se laisser déstabiliser par le proverbe, il doit être intégré naturellement à l'histoire.
-- Laisser de la place à l'imaginaire, à la créativité, à l'émotion, ...
+- Laisser de la place à l'imaginaire, à la créativité, à l'émotion, …
 - Ne pas jouer, mais se laisser happer par la narration, on peut être un narrateur convaincant et "corporel".
 - Les transitions doivent être fluides.
 - Se laisser transporter par la musique, elle doit nous guider, nous inspirer. On doit accueillir les changements de ses rythmes.
@@ -986,10 +986,10 @@ Tips de réussite :
 - Prendre le temps de trouver la rime, ne pas se précipiter. Si on ne trouve pas tout de suite, on remet du corporel
 - Attention au tac-au-tac, penser à poser une plateforme
 - S'entrainer chez soi
-- Donner un rythme, une musicalité ...
+- Donner un rythme, une musicalité …
 - Attention aux phrases à rallonge
-- Assumer les rimes simples, assumer les rimes approximatives, les mots inventés ...
-- On est H2S, on ne souffre pas, on est content d'être là ... c'est la décomplexion et le lâcher-prise qui vont nous permettre de rimer !
+- Assumer les rimes simples, assumer les rimes approximatives, les mots inventés …
+- On est H2S, on ne souffre pas, on est content d'être là … c'est la décomplexion et le lâcher-prise qui vont nous permettre de rimer !
 - Attention, on se focuse souvent sur le verbe et on en perd le corps.
 
 
@@ -1001,12 +1001,12 @@ L'idée vient du doubleur, ou du doublé !
 Tips de réussite :
 - Être dans l'écoute hyper active !
 - Attention en doubleur, à ne pas louper les propositions du doublé.
-- Le faire rire, pleurer ...
+- Le faire rire, pleurer …
 
 ## Avec accessoires
 Un accessoire physique est introduit dans la scène.  
 Il doit être utilisé, mais toujours détourné de son usage initial.  
-Un chapeau va devenir une canne à pêche, puis un portefeuille, un tube de crême solaire, ...  
+Un chapeau va devenir une canne à pêche, puis un portefeuille, un tube de crême solaire, …  
 
 Tips de réussite :
 - Prendre le temps de bâtir une plateforme (en utilisant peu l'accessoire, on doit avoir une histoire, ne pas se laisser happer par la frénésie de l'objet),
@@ -1017,7 +1017,7 @@ Tips de réussite :
 En duo, A va jouer le personnage principal, B va jouer tous les personnages secondaires.
 
 Tips de réussite :
-- Des personnages différents (voix, posture, énergie, positionnement dans la scène, ...)
+- Des personnages différents (voix, posture, énergie, positionnement dans la scène, …)
 - Les deux comédiens peuvent être à l'initiative de la convocation des personnages secondaires.
 
 
@@ -1030,19 +1030,19 @@ Une scène en jeu, un metteur en scène va demander de :
 - Mute (sans son)
 - Bande rayée (bégaiement)
 - Scène d'avant / scène d'après
-- ...
+- …
 
 Tips de réussite :
 - Tranquille dans les changements au début
 - Garder la cohérence de l'histoire
 - Changer au bon moment et jouer avec ça
 - Mettre du fun sur les commandes
-- Pour les comédiens, peu de paroles, beaucoup de jeu corporel, de l'émotion, des regards, ... (plus facile à reproduire, et à rembobiner)
+- Pour les comédiens, peu de paroles, beaucoup de jeu corporel, de l'émotion, des regards, … (plus facile à reproduire, et à rembobiner)
 
 
 
 # "Règles immuables" de l'impro selon Marion
-Préambule : ce ne sont que des règles ... qui ne sont là que pour être contredites ;)
+Préambule : ce ne sont que des règles … qui ne sont là que pour être contredites ;)
 
 ## Énergie d'implication
 Il faut être à 100% dans la scène, et ne pas être en retrait.  
@@ -1051,7 +1051,7 @@ L'amusement est à la base de tout. Ce ne doit pas être un objectif, mais une c
 
 ## Tuilages avec contraste
 Entrez dans la scène avec du contraste, afin d'apporter de la richesse à la scène et qu'elle puisse avoir des chances de devenir une super scène.  
-Ca peut être une énergie différente (états de 1 à 7), ça peut être un status différent (dominé/dominant), ça peut être une posture différente, être dans le corps si son partenaire est dans le texte, ...  
+Ca peut être une énergie différente (états de 1 à 7), ça peut être un status différent (dominé/dominant), ça peut être une posture différente, être dans le corps si son partenaire est dans le texte, …  
 
 ## Tenez vos propositions
 "Si tu chantes en début de scène, chante toute la scène !"
@@ -1085,7 +1085,7 @@ Ne pas tout dire, ne pas tout montrer.
 ## Ne soyez pas caricaturaux
 On n'est pas obligé d'en faire des tonnes, le minimalisme a du bon ;)
 Chercher le minimalisme pour éviter le surjeu et trouver le jeu sincère.  
-Tips : s'entrainer aux émotions devant son miroir (étonnement, joie, tristesse, colère, dégoût, peur, ...).  
+Tips : s'entrainer aux émotions devant son miroir (étonnement, joie, tristesse, colère, dégoût, peur, …).  
 Est-ce que je suis dans la caricature ? Est-ce que je suis dans le cliché ?  
 En fais-je trop ? En fais-je assez ?  
 
@@ -1095,7 +1095,7 @@ Commencer la scène au milieu, sans préambule ni présentation : les personnage
 ## Trouvez le jeu de la scène
 À quoi joue-t-on ?  
 Trouver quel est le moteur qui fait que ça marche, et pousser ce moteur.  
-Est-ce une mimique ? Est-ce une phrase que l'on répète ? Est-ce un tic ? Est-ce un état ? Est-ce un jeu de pouvoir ? ...  
+Est-ce une mimique ? Est-ce une phrase que l'on répète ? Est-ce un tic ? Est-ce un état ? Est-ce un jeu de pouvoir ? …  
 Des fois le jeu de la scène c'est juste répéter ce que font les autres, de suivre le mouvement.  
 
 ## Avancer dans l'histoire
@@ -1112,12 +1112,12 @@ C'est ce qui fait l'Histoire.
 Alterner les scènes longues, avec une scène courte.  
 "Un long-form avec que des scènes de 3mn c'est la mort de l'Art" - Marion
 Ou des scènes de blabla avec une scène d'action pure, ou sans parole.  
-Varier les tempos, les énergies, les états des personnages, ...  
+Varier les tempos, les énergies, les états des personnages, …  
 
 ## Donner du visuel
 L'impro c'est du théâtre, on veut VOIR !  
 On veut voir des personnages affairés à la même oeuvre collective, mais avec des tâches individuelles.  
-Dans un labo, quelqu'un peut regarder dans un microscope, un autre peut observer et noter dans un carnet, un autre peut manipuler des tubes à essai, un autre peut consulter un dossier, ...  
-On peut même jouer le rat de laboratoire, plutôt que de le décrire ...  
+Dans un labo, quelqu'un peut regarder dans un microscope, un autre peut observer et noter dans un carnet, un autre peut manipuler des tubes à essai, un autre peut consulter un dossier, …  
+On peut même jouer le rat de laboratoire, plutôt que de le décrire …  
 -> Show, don't tell !  
 On veut voir des "passages", 

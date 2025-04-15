@@ -36,7 +36,7 @@ Le cerveau ne peut pas tout faire en même temps, il faut choisir un curseur à 
 - Mon amusement
 - Ma concentration
 
-Par exemple, je vais être attentif à mes tics, mes gestes parasites intéressants ... et je les répète, jusqu'à en faire quelque chose !  
+Par exemple, je vais être attentif à mes tics, mes gestes parasites intéressants … et je les répète, jusqu'à en faire quelque chose !  
 L'idée est de s'auto-mettre-en-scène !
 
 
@@ -74,7 +74,7 @@ Les deux sont OK !
 On va passer de l'un à l'autre, mais on ne peut pas faire les deux en même temps !
 
 
-## Échauffement - "Prénom + chose que j'aime"
+## Échauffement "Prénom + chose que j'aime"
 En cercle.  
 Je dis mon prénom, puis quelque chose que j'aime et enfin je fais un geste lié à cette chose.  
 On tourne jusqu'à ce que tout le monde se soit présenté.  
@@ -83,14 +83,14 @@ J'appelle "Lucie qui aime lire".
 Enfin, on s'appelle que par les gestes.
 
 
-## Échauffement - "Connexion ensemble"
+## Échauffement "Connexion ensemble"
 En duo.  
 Se connecter par le regard.  
 Respirer ensemble.  
-Se baisser ensemble, toujours en connexion "regard", s'allonger, rouler par terre, se relever ...
+Se baisser ensemble, toujours en connexion "regard", s'allonger, rouler par terre, se relever …
 
 
-## Échauffement - "La boule de cire"
+## Échauffement "La boule de cire"
 En cercle.  
 Passage d'objet qui se transforme en le malaxant, émerveillement.
 
@@ -106,15 +106,15 @@ Tips de réussite :
 - En tant que receveur, on est très concentré pendant le modelage de l'objet. On s'amuse, on s'émerveille, on joue.
 
 
-## Échauffement - "Objet + caractéristique"
+## Échauffement "Objet + caractéristique"
 En cercle.  
 On se passe un objet qui a une caractéristique.    
 Il est chaud, par exemple.  
 On vit sa réception, puis on le passe à la personne à côté de nous.  
-Au bout d'un moment la caractéristique change. L'objet devient lourd, ou il pue, bref ...  on s'adapte et on continue à recevoir/transmettre cet objet.  
+Au bout d'un moment la caractéristique change. L'objet devient lourd, ou il pue, bref …  on s'adapte et on continue à recevoir/transmettre cet objet.  
 
 
-## Échauffement - "Tennis en duo"
+## Échauffement "Tennis en duo"
 En cercle et en binômes.  
 Un membre du binôme A envoie la balle en clappant des mains en direction d'un membre du binôme B.    
 Ce dernier clappe des mains pour réceptionner la balle. Mais c'est l'autre membre du binôme B qui renvoie la balle à un autre binôme.  
@@ -125,7 +125,7 @@ Tips de réussite :
 - C'est de l'écoute, on a tous nos sens en éveil !
 
 
-## Échauffement - "Bataille de boule de neige"
+## Échauffement "Bataille de boule de neige"
 Une bataille de boule de neige.  
 Première bataille : on laisse les joueurs en autonomie.    
 Il y a de fortes chances que ça parte en cacahuète, qu'il n'y ait pas d'écoute, que les joueurs ne fassent qu'attaquer et esquiver.  
@@ -136,7 +136,7 @@ On est vraiment sur de l'écoute, sur le principe d'action/réaction.
 On lance une deuxième bataille de boule de neige, mais cette fois-ci, en respectant ces consignes.
 
 
-## Échauffement - "Tout peut arriver"
+## Échauffement "Tout peut arriver"
 Les comédien·ne·s marchent dans l'espace.  
 
 À tout moment, le coach peut "claper" pour stopper le groupe.  
@@ -157,7 +157,7 @@ Tips de réussite :
 - Varier les propositions scéniques
 
 
-## Échauffement - "Le phare"
+## Échauffement "Le phare"
 En cercle.  
 Un passage de regards depuis un joueur vers un autre joueur.  
 Puis mettre du mouvement et du corps.  
@@ -170,7 +170,7 @@ Tips de réussite :
 
 
 
-## Jeu - "Impros pendant 30min"
+## Jeu "Impros pendant 30min"
 On va jouer pendant 30 minutes, sans interruption.
 
 À chaque nouvelle impro, on va donner un thème.  
@@ -181,7 +181,7 @@ On peut alterner les impros :
 - Avec impulsion "musique"  
 
 
-## Jeu - "Life time"
+## Jeu "Life time"
 Impro qui démarre d'une interview d'un comédien "public" par le coach.  
 "Quelle est ta plus grande passion ?".
 Le comédien répond, et le coach lui demande de développer.
@@ -217,7 +217,7 @@ Tips de réussite :
 - Être de meilleurs comédiens (au sens théâtral)
 
 
-## Exercice - "Le Graal sacré"
+## Exercice "Le Graal sacré"
 En cercle.
 Quelqu'un se déplace vers un autre, et lui dit "Je te donne le Graal sacré".  
 En réaction, le receveur doit faire un geste et dire "J'ai le Graal sacré".  
@@ -228,16 +228,16 @@ Tips de réussite :
 - Fluidité
 - Énergie
 - Chaque phrase est dite de plus en plus en emphase.
-- Répétitions, contagion, mimétisme, même état ...
+- Répétitions, contagion, mimétisme, même état …
 
 
-## Jeu - "L'appartement"
+## Jeu "L'appartement"
 Le coach explicite le plan d'un appartement sur la scène :
 - "Ici, la porte d'entrée"
 - "Ici un porte-manteaux"
 - "Un long couloir qui va jusque ici"
 - "Ici la cuisine"
-- etc ...
+- etc …
 Il effectue ensuite une entrée dans l'appartement, en respectant le plan de l'appartement.
 
 Les comédien·es font chacun·e un parcours chacun·e leur tour.
@@ -268,14 +268,14 @@ Il va donc s'alterner des phases de "bordel", où tout est un peu brouillon, les
 
 ## Jeu "Mi piace / No mi piace"
 Un premier comédien rentre et se met en position.  
-Un metteur en scène valide ou non la position ("Mi piace" / "No mi piace" -> ça me plaît / change !).  
+Un metteur en scène valide ou non la position ("Mi piace" / "No mi piace" → ça me plaît / change !).  
 Le deuxième comédien idem.  
 Puis une courte scène improvisée démarre de ces positions.
 
 On peut mettre 20 secondes de silence/musique avant de commencer à parler.  
 Déjà plein de choses sont là, pas besoin de verbaliser.
 
-Cet exercice nous montre qu'il est facile de démarrer des scènes en variant les scénographies, les corps ...  
+Cet exercice nous montre qu'il est facile de démarrer des scènes en variant les scénographies, les corps …  
 Et qu'on pourrait s'en inspirer pour nos impros.
 
 Tips de réussite :
@@ -283,23 +283,23 @@ Tips de réussite :
 - Faire un choix simple
 - Terminer la scène par une punch-line naturelle.
 - En tant que metteur en scène, ne pas hésiter à faire changer jusqu'à ce que quelque chose nous plaise vraiment. Idem, essayer de sortir les comédiens de leur zone de confort. C’est un espace d’expérimentation et de découverte.
-- On ne commence pas par justifier la position du partenaire (*) ! Car en faisant cela, on ferme les possibles plutôt que de les ouvrir ... --> On va ramer pour la suite !
+- On ne commence pas par justifier la position du partenaire (*) ! Car en faisant cela, on ferme les possibles plutôt que de les ouvrir … --> On va ramer pour la suite !
 - Les comédiens doivent prendre des risques, être organiques !
 
 (*) Par exemple, ta position me fait penser à un mannequin, je vais t'attribuer un rôle de mannequin. Pourquoi pas, mais pas trop tôt, car le faire trop tôt ferme la porte.
 
 
-## Exercice - confiance en aveugle place des terreaux
+## Exercice "Confiance en aveugle, place des Terreaux"
 En duo, on se déplace pendant 15mn.  
 L'un guide l'autre, qui a les yeux fermés.  
 On ne le guide que par le corps, pas par la voix.  
-On l'incite à se déplacer, à avancer, à reculer, à se baisser, à se lever, à tourner ...
-On le fait interagir avec l'environnement. S'asseoir sur un banc. Toucher un parasol de terrasse ...
+On l'incite à se déplacer, à avancer, à reculer, à se baisser, à se lever, à tourner …
+On le fait interagir avec l'environnement. S'asseoir sur un banc. Toucher un parasol de terrasse …
 
 Puis on intervertit les rôles.
 
 
-## Jeu - "Écrits de la vie quotidienne"
+## Jeu "Écrits de la vie quotidienne"
 Faire un choix simple, une direction.
 Je choisis un truc, je l'observe.
 J'écris un texte.
@@ -312,7 +312,7 @@ Le narrateur peut répéter des bouts de texte.
 Les comédiens eux-mêmes peuvent répéter des mots du texte.  
 Là encore, "créer de l'image" !! Imager, esthétiser la proposition !
 
-Les comédiens peuvent symboliser les choses de manière lyrique, poétique ... Ils peuvent incarner le vent, la fumée de cigarette, l'émotion ressentie par le personnage au centre de l'histoire.  
+Les comédiens peuvent symboliser les choses de manière lyrique, poétique … Ils peuvent incarner le vent, la fumée de cigarette, l'émotion ressentie par le personnage au centre de l'histoire.  
 
 Tips de réussite :
 - Travail de chœurs de la part des comédiens : être plusieurs à répéter la même chose lui donne une puissance incroyable ! (*)
@@ -326,7 +326,7 @@ C'est graphique et lyrique.
 
 
 
-## Échauffement - "Accélérer, décélérer, s'arrêter"
+## Échauffement "Accélérer, décélérer, s'arrêter"
 Déplacement dans l'espace accélérer, décélérer, s'arrêter en rythme.
 
 Tips de réussite :
@@ -335,14 +335,14 @@ Tips de réussite :
 - Être conscient de tout l'environnement
 
 
-## Échauffement - "Point moteur"
+## Échauffement "Point moteur"
 On marche dans la pièce.  
 On est comme tiré par un fil imaginaire relié à une partie de notre corps (nez, épaule, genou, etc).
 
 Varier les vitesses, les rythmes sur ce premier travail individuel.
 
 Puis en duo, on entame un travail de développement : "Qu'est-ce qui me vient ?"  
-Puis une fois que les deux ont "trouvé" : rencontre/interaction des deux personnages ainsi créés -> On joue une scène !
+Puis une fois que les deux ont "trouvé" : rencontre/interaction des deux personnages ainsi créés → On joue une scène !
 
 --> Vivre, ressentir, se connecter à son partenaire
 Les mots on s'en fout, résister au blabla !
@@ -356,7 +356,7 @@ Tips de réussite :
 
 Histoires à deux niveaux de lecture
 
-## Échauffement - "Youpi 7"
+## Échauffement "Youpi 7"
 On se tape sur l'épaule droite ou gauche. L'épaule que l'on tape donne la direction.  
 On compte comme ça jusqu'à 7 : "1, 2, 3, 4, 5, 6 ".  
 On ne verbalise pas le 7, et on change son signe : on va mettre ses 2 avant-bras à l'horizontale autour de son visage.  
@@ -374,16 +374,16 @@ Tips de réussite :
 ## Jeu "Slow impro - Mathieu Loos"
 Comme pour le "No mi piace", un comédien se met en position, le matiériste lui dit "Change !" si ça ne lui plaît pas.  
 Quand ça lui plaît, il nomme ce qu'il voit en envoyant des "flèches" d'impulsion :  
-- "Cette femme s'appelle Marie ..."
-- "Elle adore venir dans ce parc ..."
-- "Aujourd'hui, elle est triste, ça fait un an que blabla ..."
+- "Cette femme s'appelle Marie …"
+- "Elle adore venir dans ce parc …"
+- "Aujourd'hui, elle est triste, ça fait un an que blabla …"
 
 L'impro démarre ensuite !
 (avec le matiériste qui devient comédien, ou avec un autre comédien)
 
 Tips de réussite :
 - Il faut se mettre en danger pour se surprendre
-- On prend l'action en cours, on était déjà là ! "Start in the middle of ..."
+- On prend l'action en cours, on était déjà là ! "Start in the middle of …"
 - Si tu rentres c'est pour affirmer un truc, pas poser une question ou interroger.
 
 
@@ -400,7 +400,7 @@ Tips de réussite :
 Tips de réussite :
 - On veut voir des comédiens qui bossent, qui essaient, qui développent, qui creusent ! On va au turbin !
 - Le "coach" peut checker l'énergie d'implication et l'amusement.
-- Importance de nos choix corporels, la décomposition de nos gestes, ...
+- Importance de nos choix corporels, la décomposition de nos gestes, …
 - Dans cet exercice, on développe le "Moi" de l'acronyme "MPDB" (voir plus haut). 
 
 

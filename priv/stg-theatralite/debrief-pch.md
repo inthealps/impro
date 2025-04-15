@@ -8,7 +8,7 @@ Debrief d'Aurore sur mes pistes d'amélioration, Avril 2024
 ### Avancées depuis le stage de Novembre 2023
 - Plus ancré
 - Plus calme (pas d'urgence à parler)
-- Propositions précises, et tenues, non imposées ...  
+- Propositions précises, et tenues, non imposées …  
 - Grosse fluidité, co-construction avec les partenaires
 - Très bonne stabilité de jeu
 

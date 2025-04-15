@@ -14,22 +14,22 @@ Ce qui suit vient directement du stage de Candice et Polo qu'on a suivi ensemble
 
 Même si Candice nous a dit que les exercices venaient pour la plupart du bouquin de Mark Jane, je me suis interdit d'aller les consulter pour rester sur les enseignements du stage.  
 
-Évidemment, aucune garantie que ce qui suit est 100% fidèle à ce qui a été dit pendant le stage, mais j'ai essayé de faire au mieux ... avec mon filtre ;)
+Évidemment, aucune garantie que ce qui suit est 100% fidèle à ce qui a été dit pendant le stage, mais j'ai essayé de faire au mieux … avec mon filtre ;)
 
 ### Disclaimer #2
-Je n'ai pas utilisé l'écriture inclusive dans ce document ... par flemme (shame).  
+Je n'ai pas utilisé l'écriture inclusive dans ce document … par flemme (shame).  
 
 ### Disclaimer #3
 Il est mentionné le mot "Règles" dans ce document, comme si c'était la vérité de l'impro ;)
 
-En impro, "Fuck the rules!" → Évidemment, les règles sont faites pour être contournées et oubliées ... une fois qu'on en a compris et intégré les bénéfices.  
+En impro, "Fuck the rules!" → Évidemment, les règles sont faites pour être contournées et oubliées … une fois qu'on en a compris et intégré les bénéfices.  
 
 ## Table des matières
 
 [Le long-form c'est quoi ?]({{ 'priv/stg-long-form/long-form-kezako' | relative_url }})
 
 [Liste des exercices]({{ 'priv/stg-long-form/exercices' | relative_url }})
-... par ordre d'apparition dans le stage
+… par ordre d'apparition dans le stage
 
 [Outils du directeur/comédien]({{ 'priv/stg-long-form/outils-directeur' | relative_url }})
 

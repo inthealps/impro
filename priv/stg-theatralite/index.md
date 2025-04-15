@@ -30,7 +30,7 @@ Exercices de respiration : on inspire en gonflant le ventre, en 3 temps. Puis le
 L'expiration se fait en 3 temps aussi, en commençant par le buste, ensuite le ventre.  
 Il est normal que la tête se relève légèrement lorsque l'on inspire par le thorax, et qu'elle se baisse légèrement lorsque l'on expire.  
 
-Ensuite, en expirant, on commence à faire des babillements avec la bouche "bbrrrr brrrr" ...  
+Ensuite, en expirant, on commence à faire des babillements avec la bouche "bbrrrr brrrr" …  
 
 On va ensuite passer sa langue contre ses dents en faisant de grands cercles. Ça fait mal aux muscles de la langue, mais c'est normal.  
 
@@ -73,7 +73,7 @@ Pour ce faire, on part dans un monologue adressé au public, en avant-scène.
 Tips de réussite :
 - S'ancrer.  
 - Donner vie à l'objet, tranquillement, pas de précipitation.  
-- Le regard est important, il doit suivre l'objet. Lui donner sa taille, son volume ...  
+- Le regard est important, il doit suivre l'objet. Lui donner sa taille, son volume …  
 - Emotion, qu'est-ce que ça me fait ?  
 - Choisir ses mots, le rythme de sa parole. Doit être cohérent avec l'objet et l'émotion.  
 - Le monologue adressé au public doit partir en lâcher-prise, en laissant les choses arriver. On doit se sentir partir dans l'histoire.  
@@ -82,7 +82,7 @@ Tips de réussite :
 - Prendre conscience de ce l'on dit. La parole a de la valeur, on peut répéter, et répéter encore pour emphaser le truc. La répétition donne de l'importance à ce que l'on dit et libère de la production de texte.  
 
 
-## Exercice “Yuri (traversée en musique)"
+## Exercice "Yuri (traversée en musique)"
 N joueurs
 
 En musique, un premier comédien commence à faire une proposition “dansée” (ou “gesticulée”).  
@@ -104,7 +104,7 @@ Tips de réussite :
 - Les contrastes marchent ! Amener l'exact opposé d'une proposition est intéressant. Si proposition A est tenue collectivement, alors B peut contraster individuellement.
 - Répéter plusieurs fois sur la même musique pour chopper les différences de rythme, et savoir quand accélérer.
 
-Le Yuri est vraiment un condensé de tout ce qu'on peut travailler en impro : le rapport à la proposition, la connexion aux autres, le lâcher-prise, l'ancrage, le rythme, l'occupation de l'espace scénique, ...  
+Le Yuri est vraiment un condensé de tout ce qu'on peut travailler en impro : le rapport à la proposition, la connexion aux autres, le lâcher-prise, l'ancrage, le rythme, l'occupation de l'espace scénique, …  
 Penser à ça dans nos scènes d'impro, à visualiser le plateau.  
 
 
@@ -112,7 +112,7 @@ Penser à ça dans nos scènes d'impro, à visualiser le plateau.
 2 joueurs
 Texte défini à l'avance : "Il faut qu'on en parle" et "Pas maintenant".  
 On joue une scène en ces deux répliques seulement.  
-Une scène du quotidien, en pensant théâtralité, mise en scène, ...  
+Une scène du quotidien, en pensant théâtralité, mise en scène, …  
 
 Autres répliques possibles : "Mais comment fais-tu ?" et "Je ne sais pas".  
 
@@ -145,7 +145,7 @@ Tips de réussite :
 - Prendre le temps de "voir" la scène. Qu'est-ce qu'elle nous inspire ?  
 - En tant que narrateur, se laisser emporter par l'histoire, et la jouer.  
 - En tant que joueur, réfléchir à "Quand est-ce que je prends le focus ?" → cf Sébastien Chambres, "Souvent, mon job c'est de ne rien faire !"
-- Patienter et penser "Yuri" : Pas trop de superposition ...  
+- Patienter et penser "Yuri" : Pas trop de superposition …  
 - "Montre ton jeu !" (Séléna Hernandez) → "Plus d'énergie en début de scène pour crédibiliser ce qu'il s'y passe" vs "Voir un comédien qui cherche et qui doute" !!  
 - Poser des détails, ils vont donner du sens à la scène.  
   Exemple : La bouée canard dans la valise peut préciser et enrichir la relation entre les personnages.  

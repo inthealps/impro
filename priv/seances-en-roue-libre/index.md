@@ -3,7 +3,7 @@ layout: page
 title:  "Exercices, séances de la troupe 'En roue libre'"
 ---
 
-## Le goaler simple
+## Exercice "Le goaler simple"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive avec une proposition (une phrase et/ou une action). P1 réagit, P2 réagit puis sort …
 
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".  
@@ -12,7 +12,7 @@ Lorsqu'on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser l
 
 _Date de création : 2021-09-07T20:00:00_
 
-## Le goaler Tout va bien !  
+## Exercice "Le goaler Tout va bien !"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive avec une proposition (une phrase et/ou une action). L'idée est d'essayer d'éviter de se réfugier dans le conflit … Pas facile ;) La scène peut durer un peu.  
 
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".  
@@ -21,7 +21,7 @@ Lorsqu'on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser l
 
 _Date de création : 2021-09-14T20:00:00_
 
-## Le goaler "Oui et en plus"
+## Exercice "Le goaler 'Oui et en plus'"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive avec une proposition (une phrase et/ou une action). P1 répète la proposition pour la laisser infuser, et ajouter un truc en mode "et en plus", P2 réagit puis sort …
 
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".  
@@ -32,7 +32,7 @@ Exemple :
 Lorsqu'on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser la place à P2, et ainsi de suite.  
 _Date de création : 2021-11-16T20:00:00_
 
-## Le goaler "Émotions"
+## Exercice "Le goaler 'Émotions'"
 Un comédien P1 fixe, se met de dos et incarne une émotion, visible du public, mais pas de l'autre comédien P2. P2 arrive en incarnant lui aussi une émotion. P1 se retourne, les deux émotions se confrontent et on voit ce que ça donne. La scène peut durer un peu. 
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".  
 
@@ -40,7 +40,7 @@ Lorsqu'on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser l
 
 _Date de création : 2022-04-15T20:00:00_
 
-## Le goaler "Zéro, un ou deux mots"
+## Exercice "Le goaler 'Zéro, un ou deux mots'"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive de manière neutre. On laisse infuser et on voit ce que ça donne. L'idée est de cueillir ce qui vient. On ne parle pas ou très peu. La scène peut durer un peu …
 
 Puis un autre comédien vient rencontrer le point fixe pour créer une autre mini-scène. Quand tout le monde est passé, on change de "point fixe".  
@@ -49,7 +49,7 @@ Lorsqu'on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser l
 
 _Date de création : 2022-04-15T20:00:00_
 
-## Le goaler "Je t'aime" / "Je te déteste"
+## Exercice "Le goaler 'Je t'aime' / 'Je te déteste'"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive et propose l'amour ou le désamour, la haine.  
 
 Il s'en suit une mini-scène qu'on tente sincère, et en acceptation. P1 croit que c'est vrai (pas de minimisation, c'est soit super, soit dramatique).  
@@ -62,7 +62,7 @@ Lorsqu'on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser l
 
 _Date de création : 2022-01-25T20:00:00_
 
-## Le goaler "Je t'aime" … "Moi aussi ! / Pas moi !"
+## Exercice "Le goaler 'Je t'aime' … 'Moi aussi ! / Pas moi !'"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive et déclare sa flamme à P1. P1 fait un choix clair : Oui ou non !  
 
 Il s'en suit une mini-scène qu'on tente sincère, et en acceptation. P1 et P2 croient que c'est vrai (pas de minimisation, c'est soit super, soit dramatique).  
@@ -75,7 +75,7 @@ Lorsqu'on est nombreux P1 peut garder le point fixe pour 2 tours, puis laisser l
 
 _Date de création : 2022-03-22T20:00:00_
 
-## Le goaler "Status"
+## Exercice "Le goaler 'Status'"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive en incarnant un statut haut ou bas.  
 
 P1 adopte immédiatement le statut contraire. La scène peut durer un peu …
@@ -88,7 +88,7 @@ Se référer aux exercices et échauffements sur les Statuts pour les détails.
 
 _Date de création : 2022-04-19T20:00:00_
 
-## Le goaler "États 1-7"
+## Exercice "Le goaler 'États 1-7'"
 Un comédien P1 fixe et neutre, un autre comédien P2 arrive en adoptant un état choisi entre 1 et 7.  
 
 P1 se synchronise immédiatement sur le même état. On voit ce qui arrive. La scène peut durer un peu …
@@ -101,17 +101,17 @@ Se référer aux exercices et échauffements sur les États 1-7 pour les détail
 
 _Date de création : 2022-04-19T20:00:00_
 
-## Duos "3 mots, 2 mots, 1 mot, sans parole"
+## Exercice "3 mots, 2 mots, 1 mot, sans parole"
 Des scènes en duos, on joue des répliques d'abord à 3 mots, puis 2 mots, puis 1 mot et pour finir sans aucun texte, juste incarné.  
 
 _Date de création : 2021-11-30T20:00:00_
 
-## Déplacement "émotion"
+## Échauffement "Déplacement 'émotion'"
 On marche librement dans l'espace, d'abord sans consigne, puis avec une indication du genre "pressé", "angoissé", "en colère", "malheureux" …
 
 _Date de création : 2021-11-30T20:00:00_
 
-## Nommer/renommer les choses
+## Échauffement "Nommer/renommer les choses"
 On marche librement dans l'espace, on pointe des éléments de la pièce, des détails, en nommant leur nom à voix haute. On fait ça rapidement, avec énergie. Ça doit pulser ;)
 
 Ensuite, on fait la même chose, mais on pointe un élement en énonçant le nom du précédent élément ciblé. Exemple, je pointe d'abord un extincteur, je ne dis rien, puis pointe une chaise en disant "Extincteur !".  
@@ -122,31 +122,31 @@ Cet exercice vient du livre de Mark Jane, p.38
 
 _Date de création : 2021-09-21T20:00:00_
 
-## C'est génial !!  
+## Échauffement "C'est génial !!"
 On marche librement dans l'espace, on trouve un binôme. L'un des deux fait une proposition, par exemple "On fait les courses". Le second s'exclame immédiatement "C'est génial !", puis en répétant la proposition "Oui ! C'est génial ! Nous faisons les courses !" … Les deux comédiens se mettent en action pour jouer une mini-scène, puis se libèrent et repartent à la rencontre d'un autre binôme.  
 
 Cet exercice vient du livre de Mark Jane, p.70
 
 _Date de création : 2021-09-21T20:00:00_
 
-## Respiration et mobilisation douce
+## Échauffement "Respiration et mobilisation douce"
 Exercice de respiration, on sent son diaphragme bouger, on se synchronise sur sa respiration, on peut chercher des partenaires ayant le même rythme. Puis, on y ajoute de la mobilisation du corps, en douceur, et là encore, potentiellement en synchronisation corporelle et respiratoire.  
 
 _Date de création : 2022-03-25T20:00:00_
 
-## Expulser les tensions
+## Échauffement "Expulser les tensions"
 Individuellement, on se frotte le corps pour se libérer de nos soucis de la journée, on les expulse. On peut verbaliser, émettre des sons, ça reste très libre …
 
 _Date de création : 2022-03-25T20:00:00_
 
-## L'un bouge, les autres non
+## Échauffement "L'un bouge, les autres non"
 L'idée est qu'il ne doit y avoir qu'un seul et un seul comédien en mouvement. Jamais zéro, jamais 2 ou plus. C'est donc un exercice d'écoute, d'acceptation et de synchronisation. On peut augmenter le rythme pour corser le tout !  
 
 Cet exercice vient du livre de Mark Jane, p.67
 
 _Date de création : 2022-03-25T20:00:00_
 
-## J'ai foiré
+## Échauffement "J'ai foiré"
 En duo, les deux comédiens vont compter jusqu'à 3.  
 - P1: 1
 - P2: 2
@@ -162,22 +162,22 @@ Cet exercice vient du livre de Mark Jane, p.41
 
 _Date de création : 2021-09-21T20:00:00_
 
-## Assis/Debout synchronisé
+## Échauffement "Assis/Debout synchronisé"
 Départ tous assis en cercle, on se lève en même temps et en synchronisation, une fois debout, on se déplace dans la pièce en occupant les espaces vides, après un moment, on s'arrête, et on rassied en synchronisation.  
 
 _Date de création : 2021-11-30T20:00:00_
 
-## Clap synchro
+## Échauffement "Clap synchro"
 On passe le clap à un partenaire, en claquant des mains. Les sons doivent être synchrones. On tourne d'abord en cercle, puis en choisissant un partenaire dans le cercle.  
 
 _Date de création : 2021-11-30T20:00:00_
 
-## Catch the ball
+## Échauffement "Catch the ball"
 On s'envoie une balle virtuelle avec énergie, on varie les manières d'envoyer, recevoir, on accélère et on voit ce qui se passe.  
 
 _Date de création : 2021-09-07T20:00:00_
 
-## Le cercle des matricules
+## Échauffement "Le cercle des matricules"
 On numérote les comédiens de 1 à 10 …
 
 Dans l'ordre du cercle, on appelle le suivant :
@@ -189,39 +189,39 @@ Puis, on demande un numéro au hasard, le comédien doit se reconnaitre et appel
 
 _Date de création : 2021-11-30T20:00:00_
 
-## Prêt ?  
+## Échauffement "Prêt ?"
 Dans le cercle, on regarde un partenaire, il se reconnait. Quand il répond "OUI" on commence un déplacement vers lui pour prendre sa place. Avant qu'il n'arrive le partenaire "ciblé" doit recommencer le même processus avec un autre partenaire afin que la place soit libre quand le premier joueur finit son déplacement (il ne peut démarrer que quand l'autre a dit "OUI").  
 
 _Date de création : 2022-03-25T20:00:00_
 
-## Regards appuyés
+## Échauffement "Regards appuyés"
 On marche dans l'espace, en choisissant une couleur émotionnelle. Au signal, on rejoint le partenaire le plus proche de nous, et on fixe son regard pendant 30s/45s en GARDANT notre intention initiale. On a le droit de cligner des yeux, sinon, bah, ça pique ;)
 
 _Date de création : 2022-03-25T20:00:00_
 
-## Viens ici !  
+## Échauffement "Viens ici !"
 En cercle, on désigne un partenaire, et on lui dit avec une intention choisie "Viens ici !" …
 
 Il répond avec "Non, je ne veux pas !" …
 
 _Date de création : 2021-11-30T20:00:00_
 
-## Le téléphone
+## Échauffement "Le téléphone"
 Côte à côte, on décroche, raccroche, en mode "copier/coller" ou "réaction à ce que l'on voit"
 
 _Date de création : 2021-09-07T20:00:00_
 
-## Répétition de la proposition
+## Échauffement "Répétition de la proposition"
 Mise en cercle, une personne avance, dit et fait quelque chose (pas forcément lié) et tout le monde refait ensemble la même chose (tout le monde 1 fois, voir 2)
 
 _Date de création : 2022-01-11T20:00:00_
 
-## Réponse émotionnelle
+## Exercice "Réponse émotionnelle"
 On marche dans la pièce, on se dit bonjour de loin, puis on se rapproche, une personne fait une remarque, la seconde personne répète en adoptant une émotion (de son choix, pas en réaction à la remarque initiale).  
 
 _Date de création : 2022-03-25T20:00:00_
 
-## … parce que … et en plus …
+## Exercice "… parce que … et en plus …"
 Tout le monde marche et se croise. Sur rencontre, l'un annonce une généralité, l'autre enchaine avec "parce que…" et le premier renchérit avec "et en plus…".  
 
 Exemple :
@@ -231,14 +231,14 @@ Exemple :
 
 _Date de création : 2022-02-15T20:00:00_
 
-## Le mot en solo
+## Exercice "Le mot en solo"
 Tous en ligne, impro solo 30'' sur un mot tiré au hasard (grâce à cette app).  
 
 L'exercice se déroule face aux autres ;)
 
 _Date de création : 2021-10-26T20:00:00_
 
-## 7 nuances de rencontres
+## Exercice "7 nuances de rencontres"
 On marche librement dans la pièce.  
 - À l'état 1, nous sommes tous des inconnus, on ne s'ignore pas, mais on se jette un regard furtif, comme dans la vraie vie.  
 - À l'état 2, nous nous connaissons vaguement, genre des voisins, ou des collègues éloignés.  
@@ -252,7 +252,7 @@ On marche librement dans la pièce.
 
 _Date de création : 2021-09-21T20:00:00_
 
-## Le ninja
+## Échauffement "Le ninja"
 Variantes de ce jeu : https://www.caucus.fr/le-ninja/
 
 Accepter de perdre, mais ne pas faire exprès de perdre ;)
@@ -267,7 +267,7 @@ Variante 3 : Le même, toujours très lentement, on ne se lâche pas du regard, 
 
 _Date de création : 2022-02-08T20:00:00_
 
-## J'ai besoin d'aide
+## Échauffement "J'ai besoin d'aide"
 - Je marche dans la pièce.  
 - Je marche, puis je salue un autre comédien.  
 - Je marche, je rencontre puis demande un service.  
@@ -278,7 +278,7 @@ Puis, "Non, pas le temps", puis "Non, tu m'emmerdes", puis "Non, puis oui …", 
 
 _Date de création : 2022-02-15T20:00:00_
 
-## 7 niveaux d'intensité
+## Exercice "7 niveaux d'intensité"
 Passage par les 7 états de tension. On marche librement dans la pièce, on suit les niveaux de tensions suivants :
 
 1. Vous êtes épuisé, vous n'avez aucune envie d'être là. Vous faites votre travail en économisant votre énergie au maximum. Chaque mouvement est difficile.  
@@ -291,7 +291,7 @@ Passage par les 7 états de tension. On marche librement dans la pièce, on suit
 
 _Date de création : 2021-09-07T20:00:00_
 
-## Scènes de crise
+## Exercice "Scènes de crise"
 → Le public doit voir quelque chose mourir : un personnage, un amour, une relation, un projet, …
 
 Par groupe de 5 avec passage de chaque groupe sur 15min.  
@@ -306,14 +306,14 @@ Les spectateurs sont les metteurs en scènes pour donner les consignes suivantes
 
 _Date de création : 2021-10-19T20:00:00_
 
-## 2 chaises, choix de focus
+## Exercice "2 chaises, choix de focus"
 Dos au public, derrière 2 chaises, les deux partenaires partent en même temps et entament un déplacement vers le centre scène. La consigne est de ne regarder que le public, ou son partenaire. Le but est de s'asseoir en même temps sur la chaise, en ayant fait un choix clair "regard public" ou " regard partenaire" (ce choix ne change plus une fois assis).  
 
 On voit ce qu'il se passe.  
 
 _Date de création : 2021-11-30T20:00:00_
 
-## 2 chaises, 2 dialogues
+## Exercice "2 chaises, 2 dialogues"
 Dos au public, derrière 2 chaises, les deux partenaires partent en même temps et entament un déplacement vers le centre scène. La consigne est de ne regarder que le public, ou son partenaire. Le but est de s'asseoir en même temps sur la chaise, en ayant fait un choix clair "regard public" ou " regard partenaire".  
 
 Ce choix ne change plus une fois assis, puis, en prenant son temps, on entame un échange de 2 répliques courtes chacun.  
@@ -324,7 +324,7 @@ Ce choix ne change plus une fois assis, puis, en prenant son temps, on entame un
 
 _Date de création : 2021-11-30T20:00:00_
 
-## Un duo, 4 répliques du metteur en scène
+## Exercice "Un duo, 4 répliques du metteur en scène"
 1- Scène libre, mais avec un texte fourni par le metteur en scène (appris par cœur).  
 On cherche ici à incarner le texte, écrit avec une certaine intention par le metteur en scène et que l'on doit deviner.  
 
@@ -332,12 +332,12 @@ On cherche ici à incarner le texte, écrit avec une certaine intention par le m
 
 _Date de création : 2021-11-30T20:00:00_
 
-## Tout à fait Jean-Pierre/Carole
+## Exercice "Tout à fait Jean-Pierre/Carole"
 Page 432 du Mark Jane
 
 _Date de création : 2021-12-07T20:00:00_
 
-## Transition focus
+## Exercice "Transition focus"
 Le duo 1 est sur scène et démarre une impro à gauche de la scène
 
 Pendant cette première scène, le duo 2 entre sur partie droite, sans parler. Quand le duo 2 perçoit de la difficulté / perte d'énergie ou d'intérêt … il prend le focus = il prend la parole.  
@@ -354,7 +354,7 @@ Exercice inspiré de l' "écran divisé" page 435 du Mark Jane.
 
 _Date de création : 2021-09-21T20:00:00_
 
-## Remplir les espaces vides
+## Échauffement "Remplir les espaces vides"
 On déambule dans la pièce en synchronisant le rythme du groupe.  
 
 Lorsque la musique s'arrête, on se remet en cercle le plus rapidement possible. La musique repart, on repart.  
@@ -363,7 +363,7 @@ Ensuite quand la musique s'arrête, sur dénomination, un acteur place un objet 
 
 _Date de création : 2022-03-25T20:00:00_
 
-## Synchro chorégraphie
+## Échauffement "Synchro chorégraphie"
 En groupe, quelqu'un propose une chorégraphie, le groupe la suit, puis quelqu'un propose autre chose, et le groupe s'adapte, on s'écoute, …
 
 Puis, un acteur se détache du groupe, va en face, donne un geste et une émotion. Le groupe le rejoint, et reprend geste + émotions. Ensuite, reprise de la chorégraphie.  
@@ -372,26 +372,26 @@ On se laisse happer par la musique, le moment présent, l'adhésion au groupe.
 
 _Date de création : 2022-03-25T20:00:00_
 
-## Le guide d'aveugle
+## Échauffement "Le guide d'aveugle"
 Tu fermes les yeux, je te guide à travers la pièce, en touchant ton corps (prenant par les épaules par exemple). Je peux t'arrêter, te faire pivoter, reculer, etc.  
 
 Peut se faire à 3, en mode petit train (une loco à l'arrière, 2 wagons aveugles devant).  
 
 _Date de création : 2022-03-25T20:00:00_
 
-## Ma main te contrôle
+## Échauffement "Ma main te contrôle"
 Tu places ton visage face à ma main, et tu dois respecter la distance et l'orientation de ma main. Tu vas te rouler par terre, pivoter, me suivre … je vais en profiter, ou pas …
 
 _Date de création : 2022-03-25T20:00:00_
 
-## La feuille "vaudou"
+## Exercice "La feuille "vaudou""
 Je prends une feuille A4 symbolisant ton corps.  
 
 J'en fais ce que j'en veux, je la pivote, la plie, la fait évoluer dans l'espace, et tu suis … au mieux. Attention, je vais la froisser ;)
 
 _Date de création : 2022-03-25T20:00:00_
 
-## La statue vivante
+## Échauffement "La statue vivante"
 Je modèle ton corps à ma guise, élément par élément.  
 
 Puis je te donne vie d'une impulsion dans le dos, tu prends vie, tu évolues dans l'espace avec ce que je t'ai donné, tu peux ajouter des sons, croiser tes congénères … qu'est-ce que ça te fait ?  
@@ -400,33 +400,33 @@ Puis, quand tu as compris cette émotion, tu vas la pousser, ainsi que le geste 
 
 _Date de création : 2022-03-25T20:00:00_
 
-## La bascule
+## Échauffement "La bascule"
 Entouré de ses partenaires, on se laisse basculer, les yeux fermés, en étant bien gainé et sans bouger les pieds.  
 
 C'est un jeu de confiance.  
 
 _Date de création : 2022-03-25T20:00:00_
 
-## Les chimères
+## Échauffement "Les chimères"
 Tu marches dans l'espace, tu penses à un animal, commence à l'incarner physiquement, quels sont ses caractéristiques, son caractère, ses interactions avec les autres.  
 
 Puis, tu reprends forme humaine, mais en gardant certaines des caractéristiques découvertes. Rencontre les autres chimères, et vois ce que ça te fait.  
 
 _Date de création : 2022-03-25T20:00:00_
 
-## Émotion dans le corps
+## Exercice "Émotion dans le corps"
 Tu marches, et tu donnes une émotion à ton corps, sans utiliser le visage → pas simple. Tu peux alors ajouter l'émotion sur ton visage, et voir ce que cela change dans ton corps (comment est mon corps dans cette position) : comment je respire, comment je me positionne, quels muscles sont tendus. Puis, je retire le visage et je me sers de ce que j'ai ressenti pour faire passer cette émotion uniquement avec mon corps.  
 
 _Date de création : 2022-03-25T20:00:00_
 
-## Actions mini, normal et maxi !  
+## Exercice "Actions mini, normal et maxi !  "
 3 comédiens.  
 
 Celui du milieu commence une action, celui de gauche imite l'action en minimisant les gestes et intentions, celui de droite les amplifie à l'extrême. La difficulté consiste à rester à l'écoute des uns des autres afin que les actions restent synchronisées.  
 
 _Date de création : 2022-03-25T20:00:00_
 
-## Réincorporation et association
+## Exercice "Réincorporation et association"
 Une histoire s'écrit grâce à la réincorporation. Tant que je raconte des évènements qui se suivent, mon histoire n'est pas finie ou alors, elle pourrait se finir n'importe où. Avec la réincorporation, je peux « boucler la boucle ».  
 
 Il s'agit de marcher à reculons : je sais d'où je viens, et l'histoire peut mener n'importe où : c'est l'association libre d'idée successive. Cependant, pour équilibrer à mon histoire au fur et à mesure, il me faut lui donner une forme. Pour ça, je peux utiliser des éléments laissés de côté et les réintégrer. 
@@ -441,7 +441,7 @@ Exemple :
 
 _Date de création : 2022-02-15T20:00:00_
 
-## L'écriture automatique
+## Exercice "L'écriture automatique"
 Utiliser la capacité d'intelligence collective qui dit que : « il y a en nous quelque chose de plus que nous ». Se laisser aller à ce que l'on ressent sur le moment, ce qui vient, ce qui sort, sans vouloir contrôler le déroulement de l'histoire à tout prix. Car cette volonté de contrôle/ d'anticipation ruinera notre capacité d'écoute et de créativité. 
 
 Exercice sur l'écriture automatique :
@@ -460,21 +460,21 @@ Exemple :
 
 _Date de création : 2022-02-15T20:00:00_
 
-## Energizer 8 à 1
+## Exercice "Energizer 8 à 1"
 On se secoue les mains et pieds en décomptant à voix haute de 8 à 1 ! Le plus vite possible !  
 
 À 8 on secoue 8 fois la main gauche, puis droite, puis pied droit puis gauche. Puis on fait pour 7 etc, jusqu'à 1.  
 
 _Date de création : 2022-01-15T20:00:00_
 
-## La Transe-Poney ;)
+## Exercice "La Transe-Poney ;)"
 En musique, détente et voix … on fait du poney en transe, et en musique !  
 
 La musique est là : https://www.youtube.com/watch?v=0lBjcaMokvo&t=177s !  
 
 _Date de création : 2022-01-15T20:00:00_
 
-## Elocution "10 Phrases"
+## Exercice "Elocution '10 Phrases'"
 On déclame en articulant plusieurs fois les phrases suivantes :
 
 - "Passe ta pâte à Papa et tape ta pâte à tapas."
@@ -489,7 +489,7 @@ On déclame en articulant plusieurs fois les phrases suivantes :
 
 _Date de création : 2022-01-15T20:00:00_
 
-## "Je brille"
+## Échauffement "Je brille"
 On déclame en étant sûr de soi, la voix forte et affirmée, et en utilisant son corps. Se fait devant les autres et tous en même temps.  
 
 Les phrases à répéter sont les suivantes :
@@ -499,7 +499,7 @@ Les phrases à répéter sont les suivantes :
 
 _Date de création : 2022-01-15T20:00:00_
 
-## La marche aux questions
+## Échauffement "La marche aux questions"
 On marche dans la pièce, on croise les regards, le comédien C1 s'arrête. Tous les autres s'arrêtent immédiatement. C1 pose une question à C2. C2 répond du tac-au-tac. C2 repart, les autres repartent.  
 
 Et on itère.  
@@ -508,7 +508,7 @@ Privilégier des questions simples et ouvertes (dont la réponse n'est ni oui ni
 
 _Date de création : 2022-04-12T20:00:00_
 
-## Mise en présence
+## Échauffement "Mise en présence"
 En cercle, pieds au sol, alignés avec l'écartement du bassin. On ferme les yeux, on prend conscience des points d'appuis, des zônes de blocage, on se met bien …
 
 Puis, on commence à basculer, en avant, en arrière, sur le côté … ce n'est pas juste le bassin qui se déplace mais tout le corps.  
@@ -517,7 +517,7 @@ On fait des U, à la limite du décollement des pieds, on synchronise sur notre 
 
 _Date de création : 2022-05-03T20:00:00_
 
-## Zip zap turulutte
+## Échauffement "Zip zap turulutte"
 En cercle, passage de témoin en énergie, à son voisin immédiat.  
 
 - Zip = sens horaire
@@ -530,7 +530,7 @@ En cercle, passage de témoin en énergie, à son voisin immédiat.
 
 _Date de création : 2022-05-03T20:00:00_
 
-## Mon corps me dirige
+## Exercice "Mon corps me dirige"
 On marche dans la pièce, en comblant les trous dans l'espace avec un état 4.  
 
 Au signal, notre nez va diriger en nous indiquant la direction. Je veux tourner ? Je tourne ma tête, le nez en avant, puis le reste du corps s'aligne avec le nez.  
@@ -552,7 +552,7 @@ Notes :
 
 _Date de création : 2022-05-03T20:00:00_
 
-## L'histoire incroyable
+## Exercice "L'histoire incroyable"
 Un narrateur raconte une histoire incroyable.  
 
 À chaque étape de l'histoire, les comédiens doivent jouer l'histoire. Cette histoire nécessitera de nombreux changements d'émotions.  
@@ -580,7 +580,7 @@ Notes:
 
 _Date de création : 2022-05-03T20:00:00_
 
-## Les chaises synchronisées
+## Exercice "Les chaises synchronisées"
 Deux comédiens entrent sur scène avec une petite chorégraphie bien synchronisée, en termes d'état, de mimiques, d'émotion.  
 
 Ils viennent s'assoir sur 2 chaises placées côte-à-côte. Ils sont en synchronisation totale. Posture, émotions, respiration, sons, gestes, …
@@ -597,7 +597,7 @@ Notes:
 
 _Date de création : 2022-05-03T20:00:00_
 
-## La minute clown
+## Exercice "La minute clown"
 Tous les comédiens sont en ligne, neutres, détendus, en présence.  
 
 Lorsqu'il est prêt, le comédien le plus à droite sort du groupe et se place devant le premier comédien. Les deux comédiens accrochent leurs regards, accueillent l'expression de l'autre, ressentent l'émotion, se laissent aller à ce que ça leur fait.  
@@ -612,7 +612,7 @@ Notes:
 
 _Date de création : 2022-05-03T20:00:00_
 
-## Passage d'énergie "Waaahiii, Hiiiaaahh et Hold-on"
+## Exercice "Passage d'énergie 'Waaahiii, Hiiiaaahh et Hold-on'"
 En cercle, on passe l'énergie au partenaire à sa gauche, en faisant un geste (libre) accompagné d'un "Waahhii" sonore.  
 
 Le son Hiiiaaah accompagné du geste "je regarde à travers des jumelles" fera que l'envoyeur doit recommencer avec le/la partenaire d'après.  
@@ -623,7 +623,7 @@ On va de plus en plus vite, ça doit être très dynamique et un peu le bazar.
 
 _Date de création : 2022-09-13T20:00:00_
 
-## Ballons de baudruche
+## Échauffement "Ballons de baudruche"
 Chacun.e s'attribue secrètement un nombre entre 1 et 10.  
 
 On marche librement dans la pièce, lorsque l'animateur.ice énonce le numéro que l'on s'est fixé, on s'effondre comme un ballon percé …
@@ -638,14 +638,14 @@ Il permet également de ne pas trop réfléchir et d'être prêt.e à agir.
 
 _Date de création : 2022-09-13T20:00:00_
 
-## Oui avec les yeux
+## Échauffement "Oui avec les yeux"
 En cercle, on cherche du regard un.e partenaire, dès qu'il y a eye-contact, on entame un déplacement vers lui/elle.  
 
 De la même manière le/la partenaire contactée cherche rapidement un.e nouv.eau.elle partenaire afin d'entamer un déplacement et laisser la place vacante.  
 
 _Date de création : 2022-09-13T20:00:00_
 
-## Boucliers et épées
+## Exercice "Boucliers et épées"
 Tout le monde s'attribue secrètement deux partenaires.  
 Nous serons le bouclier qui protège une victime de l'épée.  
 
@@ -659,7 +659,7 @@ On compte alors les boucliers qui ont réussi à protéger leur victime de l'ép
 
 _Date de création : 2022-09-13T20:00:00_
 
-## Wrong names
+## Exercice "Wrong names"
 On marche, on désigne des objets en leur donnant un nom au hasard.  
 
 Exemple : on désigne une chaise en disant "lavabo", une lampe en disant "feuille morte", etc.  
@@ -670,7 +670,7 @@ Sans réfléchir ! On se laisse aller à dire n'importe quoi. Sans être origina
 
 _Date de création : 2022-09-13T20:00:00_
 
-## Bagarre au ralenti
+## Exercice "Bagarre au ralenti"
 En duo, on mime une scène de bagarre, au ralenti.  
 
 Chaque coup porté doit être vécu, par celui/celle qui le donne (joie, satisfaction, soulagement, …) et celui/celle qui le reçoit : impact physique, conséquences, émotions (peur, surprise, haine, tristesse, …).  
@@ -679,7 +679,7 @@ Les émotions doivent être fortes. Le moindre choc nous change. Nous ne chercho
 
 _Date de création : 2022-09-13T20:00:00_
 
-## Interdit d'inventer
+## Exercice "Interdit d'inventer"
 En duo, on joue une mini-scène où tout vient des comédien.ne.s en place.  
 
 On ne cherche pas dans notre tête, on s'appuie sur la posture de l'autre, ses émotions, son non-verbal.  
@@ -689,7 +689,7 @@ On ne cherche pas à faire une belle scène.
 
 _Date de création : 2022-09-13T20:00:00_
 
-## Super(wo)man
+## Exercice "Super(wo)man"
 Exercice devant le groupe.  
 
 Un.e comédien.ne vient sur scène.  
@@ -704,7 +704,7 @@ Ne pas hésiter à faire de nombreuses scènes afin d'arriver dans un état où 
 
 _Date de création : 2022-09-13T20:00:00_
 
-## Couleur de personnage "Solo"
+## Exercice "Couleur de personnage 'Solo'"
 Objectif : Expérimenter l'incarnation de différents personnages en corps, PUIS en parole.  
 
 S'inspirer des propositions de chacun pour enrichir nos palettes.  
@@ -740,7 +740,7 @@ Proposition de couleurs (non exhaustive) pour le tirage au sort :
 
 _Date de création : 2022-09-27T20:00:00_
 
-## Couleur de personnage "Duo"
+## Exercice "Couleur de personnage 'Duo'"
 Objectif : Expérimenter la force d'une proposition corporelle de couleur VS proposition narrative.  
 
 S'entraîner à exprimer notre couleur dans le corps.  
@@ -775,7 +775,7 @@ Proposition de couleurs (non exhaustive) pour le tirage au sort :
 
 _Date de création : 2022-09-27T20:00:00_
 
-## Marche avec un trait de personnalité
+## Exercice "Marche avec un trait de personnalité"
 On marche librement dans la pièce en incarnant un trait de personnalité choisi à l'avance, on se sent libre d'interagir sans parole avec les autres.  
 
 Les traits de personnalité de la soirée furent :
@@ -798,7 +798,7 @@ Les traits de personnalité de la soirée furent :
 
 _Date de création : 2022-10-04T20:00:00_
 
-## Goaler avec un trait de personnalité
+## Exercice "Goaler avec un trait de personnalité"
 P1 (le goaler) tourne le dos …
 
 P2 arrive avec un trait de personnalité.  
@@ -827,7 +827,7 @@ Les traits de personnalité de la soirée furent :
 
 _Date de création : 2022-10-04T20:00:00_
 
-## Freeze libre
+## Exercice "Freeze libre"
 Au freeze, on vient remplacer un des 2 protagonistes.  
 
 Raph nous laisse libres de freezer/rentrer comme on veut.  
@@ -837,7 +837,7 @@ Le comédien qui entre est celui qui propose, le comédien en place suit la prop
 
 _Date de création : 2022-10-25T20:00:00_
 
-## Freeze contraint
+## Exercice "Freeze contraint"
 C'est l'animateur qui freeze.  
 
 Pas de temps morts idéalement.  
@@ -846,14 +846,14 @@ Veiller à respecter les positions du freeze, la scène doit être identique à 
 
 _Date de création : 2022-10-25T20:00:00_
 
-## Freeze muet
+## Exercice "Freeze muet"
 C'est l'animateur qui freeze.  
 
 Nous n'avons pas droit à la parole.  
 
 _Date de création : 2022-10-25T20:00:00_
 
-## La petite voix / Le petit démon
+## Exercice "La petite voix / Le petit démon"
 Scène d'impro entre 2 protagonistes.  
 
 Chacun possède une petite voix tapie dans l'ombre, jouée par un comédien, qui doit donner des consignes, mais ne pas jouer.  
@@ -866,7 +866,7 @@ Le comédien en jeu doit obéir à ces consignes :
 
 _Date de création : 2022-10-25T20:00:00_
 
-## Histoire en lignes
+## Exercice "Histoire en lignes"
 Raph' nous donne un thème (Ex: "Les lilas de ma grand-mère")
 
 Deux lignes de comédiens placés en V face au public.  
@@ -881,7 +881,7 @@ On alterne narrateur/scénographe
 
 _Date de création : 2022-10-25T20:00:00_
 
-## Les samouraïs
+## Échauffement "Les samouraïs"
 Un.e samouraï S1 en attaque un.e autre (S2), en poussant un cri de samouraï).  
 
 Ce.tte dernier.e pare le coup en levant son sabre et faisant "chtink'" …
@@ -892,7 +892,7 @@ Les 2 samouraïs situé.e.s à gauche et à droite de S2 le/la tranchent au nive
 
 _Date de création : 2022-12-13T20:00:00_
 
-## Les samouraïs-raïs
+## Échauffement "Les samouraïs-raïs"
 Un.e samouraï S1 en attaque un.e autre (S2), en poussant un cri de samouraï).  
 
 Ce.tte dernier.e pare le coup en levant son sabre et faisant "chtink'" …
@@ -903,7 +903,7 @@ Les 4 (oui, quatre !) samouraïs encadrant S2 le/la tranchent au niveau de l'abd
 
 _Date de création : 2024-04-10T20:00:00_
 
-## Bang bang, my lady shot me down
+## Échauffement "Bang bang, my lady shot me down"
 Un.e comédien.ne au centre.  
 
 Il/elle nomme une personne et lui tire dessus : "Machin.e, bang !"
@@ -916,7 +916,7 @@ On continue ainsi jusqu'à erreur, le/la comédien.ne qui se trompe passe au cen
 
 _Date de création : 2022-12-13T20:00:00_
 
-## Connexion numéros
+## Échauffement "Connexion numéros"
 On marche dans la salle, et de manière spontanée quelqu'un annonce un chiffre "Un", puis on enchaîne "Deux", "Trois", etc.  
 
 Si 2 personnes parlent en même temps, on recommence.  
@@ -925,7 +925,7 @@ Cet exercice travaille l'écoute, la connexion.
 
 _Date de création : 2023-01-03T20:00:00_
 
-## Il est interdit d'inventer !  
+## Exercice "Il est interdit d'inventer !  "
 Source : Mix des exercices 25 (“Il est interdit d'inventer”) et 27 (“Ni JE ni question”) du livre 300 exos de Tournier.  
 
 Le but de l'exercice est de démarrer une impro sans rien amener qui ne provienne du jeu, de la présence des comédiens, de la relation en train de s'établir.  
@@ -954,25 +954,25 @@ On enchaîne des scènes de duos, en démarrant l'impro en sortie de Noir (i.e. 
 
 _Date de création : 2023-02-07T20:00:00_
 
-## Échange des prénoms
+## Échauffement "Échange des prénoms"
 - Étape 1 : A chaque fois que l'on croise un partenaire de jeu, on lui transmet son prénom et inversement. On garde le prénom transmis pour le retransmettre au suivant.  
 - Étape 2 : Même jeu, et en plus, on incarne le personnage que le prénom nous inspire.  
 
 _Date de création : 2023-02-28T20:00:00_
 
-## Incarner un animal
+## Exercice "Incarner un animal"
 Chacun pense à un animal.  
 
-Au départ on prend quelques traits de l'animal tout en restant humain, pour, au fur et à mesure, se transformer en cet animal.  
+Au départ, on prend quelques traits de l'animal tout en restant humain, pour, au fur et à mesure, se transformer en cet animal.  
 
 _Date de création : 2023-02-28T20:00:00_
 
-## Banc de poissons
+## Échauffement "Banc de poissons"
 Un leader avec tout le monde qui doit le suivre et faire les mêmes gestes.  
 
 _Date de création : 2023-02-28T20:00:00_
 
-## Abécédaire
+## Échauffement "Abécédaire"
 Exo de Mélissa: une lettre de l'alphabet pour dire :
 - je m'appelle …
 - j'habite à …
@@ -985,7 +985,7 @@ Avec contrainte émotion et/ou accent.
 
 _Date de création : 2023-03-14T20:00:00_
 
-## Dissociation d'idées
+## Échauffement "Dissociation d'idées"
 En trio, on lance les uns après les autres, des mots sans liens entre eux.  
 
 Dès qu'une hésitation apparaît, qu'un lien est détecté, qu'une redite est faite … le public buzze !  
@@ -994,7 +994,7 @@ Le "fautif" est immédiatement remplacé par quelqu'un d'autre.
 
 _Date de création : 2023-04-25T20:00:00_
 
-## Dedans / dehors
+## Exercice "Dedans / dehors"
 Un personnage P1 est chez lui, un autre personnage P2 dehors.  
 
 P2 VEUT ENTRER chez P1.  
@@ -1013,7 +1013,7 @@ On joue "autour" d'une situation de conflit sans la résoudre !
 
 _Date de création : 2023-04-25T20:00:00_
 
-## 3 propositions préparées
+## Exercice "3 propositions préparées"
 Avant la scène, et avant la détermination du thème (choisi par le public) le MC demande au 1er choisit une émotion, le 2nd une réplique, le 3e une position.  
 
 On joue la scène, dès que le MC le décide, il va appeler un des 3 comédiens qui va immédiatement incarner l'émotion / déclamer sa réplique / accomplir sa position.  
@@ -1022,7 +1022,7 @@ L'idée est de FAIRE immédiatement, et de justifier a posteriori.
 
 _Date de création : 2023-04-25T20:00:00_
 
-## Irruption imprévue
+## Exercice "Irruption imprévue"
 Un duo débute une scène sur un thème donné par le public ou les autres comédiens.  
 
 Un 3e comédien est sorti, il ne connait pas la scène car n'a pas assisté au début. Il va faire irruption dans la scène à un moment donné, avec une proposition forte !  
@@ -1045,7 +1045,7 @@ L'objectif est de démontrer que les idées peuvent venir d'impulsions quelconqu
 
 _Date de création : 2023-04-25T20:00:00_
 
-## Personnage inspiré par un Freeze
+## Exercice "Personnage inspiré par un Freeze"
 Étape 1 :
 
 On marche dans la pièce, on s'échauffe les articulations, on s'anime, un peu au pif, en mobilisant toutes les parties du corps.  
@@ -1058,7 +1058,7 @@ Un 2e comédien nous observe. Au signal on se fige, le 2e comédien démarre une
 
 _Date de création : 2023-05-09T20:00:00_
 
-## Monstre et princesse
+## Exercice "Monstre et princesse"
 En cercle, deux par deux, épaule contre épaule, un monstre poursuit une princesse.  
 
 Il hurle et gesticule, elle hurle, a peur et gesticule. Le but est de collaborer, le monstre ne doit pas rattraper la princesse ;)
@@ -1067,7 +1067,7 @@ La princesse peut décider de venir se coller aux "remparts" (un duo épaule con
 
 _Date de création : 2023-05-16T20:00:00_
 
-## Les lianes
+## Échauffement "Les lianes"
 Sur de la musique planante, on ferme les yeux, on s'échauffe les articulations, on s'anime en mobilisant toutes les parties du corps. Nous sommes des lianes qui pendons des arbres, animées par le vent.  
 
 On se connecte à soi, puis aux autres lorsqu'on est prêt.  
@@ -1076,12 +1076,12 @@ On va chercher le contact physique avec nos congénères. Au bout d'un moment on
 
 _Date de création : 2023-05-16T20:00:00_
 
-## Goaler "story"
+## Exercice "Goaler 'story'"
 Devant le groupe, un goaler fixe reçoit tous les autres comédiens, on essaie de trouver et suivre un “fil” à cette histoire.  
 
 _Date de création : 2023-06-27T20:00:00_
 
-## Pair/impair
+## Échauffement "Pair/impair"
 On marche dans l'espace, en pétillance (on est heureux, déjà dans la posture de l'improvisateur.ice). On est “occupés”, ou on donne cette impression : on sait ce qu'on fait, on ne regarde pas le sol. Régulièrement, on s'arrête, on lance une adresse claire à un partenaire (un regard appuyé, un signe) . Puis au public (qui peut être une chaise vide si pas de public).  
 
 Au signal “Pair” ou “Impair” (lancé par n'importe qui) on se rassemble en petits groupes pairs ou impairs selon la consigne.  
@@ -1090,7 +1090,7 @@ On voit ce qui se passe.
 
 _Date de création : 2023-09-12T20:00:00_
 
-## Exercice “Charger son partenaire”
+## Exercice "Charger son partenaire"
 == 2 joueurs, le public définit un type de relation et un lieu ==
 
 L'idée est qu'on va jouer une scène à deux en 'chargeant' son partenaire au maximum : on apporte un élément sur l'autre à chaque réplique.  
@@ -1111,12 +1111,12 @@ Ajout d'outils aidant à charger son partenaire :
 
 _Date de création : 2023-09-12T20:00:00_
 
-## Stop & go
+## Exercice "Stop & go"
 On marche dans la salle, on s'écoute sur les arrêts/les reprises de marche, on ajoute une proposition de geste, répétée par tous les membres du groupe. 
 
 _Date de création : 2023-10-03T20:00:00_
 
-## Saynettes en duo + direction
+## Exercice "Saynettes en duo + direction"
 Deux directeurs, en mode impro dirigée.  
 
 Les consignes du directeur :
@@ -1129,7 +1129,7 @@ Les consignes du directeur :
 
 _Date de création : 2023-10-03T20:00:00_
 
-## Charger le décor
+## Exercice "Charger le décor"
 Installer, puis utiliser un décor (en duo)
 
 A et B installe un décor (1') :
@@ -1151,7 +1151,7 @@ L'idée est bien sûr d'utiliser le décor que l'on a installé.
 
 _Date de création : 2023-10-10T20:00:00_
 
-## Oui parce que
+## Exercice "Oui, parce que …"
 Quelqu'un se met au centre du cercle, on lui fait des affirmations, tout à tour, auxquelles il doit répondre “Oui, c'est parce que …”
 
 Exemple :
@@ -1164,7 +1164,7 @@ Pas de questions ! Que des affirmations.
 C'est aussi efficace pour celui qui affirme que celui qui répond.  
 _Date de création : 2023-11-21T20:00:00_
 
-## Tuilage "L'ellipse"
+## Exercice "Tuilage 'L'ellipse'"
 Une scène en cours, un tiers vient en neutre en avant-scène, claque dans ses mains en mode "clap de cinéma" en énonçant l'ellipse : "1 mois plus tard …", "Le soir même, au restaurant …", "La première rencontre …", etc.  
 
 Les comédiens en place se figent pendant cette opération, comme pour un freeze.  
@@ -1173,7 +1173,7 @@ Le tiers repart en neutre, les comédiens se remettent immédiatement en action,
 
 _Date de création : 2023-12-19T20:00:00_
 
-## Tuilage "Transition focus"
+## Exercice "Tuilage 'Transition focus'"
 Une scène en cours, un duo de tiers se positionne (en neutre) à un autre endroit de la scène, et reste neutre jusqu'à insertion.  
 
 L'insertion se fait ainsi : les comédiens en jeu dans la scène en cours comprennent à l'arrivée du duo, qu'il s'agit d'un tuilage.  
@@ -1184,7 +1184,7 @@ Dès lors, le focus se fait sur le duo entrant : Les comédiens débutent leur s
 
 _Date de création : 2023-12-19T20:00:00_
 
-## Tuilage "L'appel"
+## Exercice "Tuilage 'L'appel'"
 Une scène en cours, un tiers se positionne (en neutre) à un autre endroit de la scène, et reste neutre jusqu'à insertion.  
 
 De la même manière que pour le tuilage Transition "focus", les comédiens en jeu comprennent qu'il s'agit d'un tuilage et mettent rapidement fin à leur scène.  
@@ -1205,7 +1205,7 @@ Notes :
 
 _Date de création : 2023-12-19T20:00:00_
 
-## “Yuri” (danse avec et sans objets)
+## Exercice "“Yuri” (danse avec et sans objets)"
 6 joueurs
 
 En musique, un premier comédien commence à faire une proposition “dansée” (ou “gesticulée”). Il est rejoint par un autre comédien qui soutient la proposition.  
@@ -1228,7 +1228,7 @@ Pensons à nous amuser : Cela devient intéressant pour le public dès lors que 
 
 _Date de création : 2024-01-23T20:00:00_
 
-## Diagonale des émotions
+## Exercice "Diagonale des émotions"
 De part et d'autre de la scène, en diagonale, 2 comédiens se tournent le dos, et infusent une émotion.  
 
 Puis ils se retournent, se rapprochent, et se croisent au centre de la scène.  
@@ -1241,7 +1241,7 @@ Arrivés en bout de ligne les comédiens redonnent leur état au public une dern
 
 _Date de création : 2024-02-20T20:00:00_
 
-## Tour des prénoms, tour des surnoms
+## Exercice "Tour des prénoms, tour des surnoms"
 En cercle, on pointe avec le doigt une personne, on donne son propre prénom. On garde le doigt pointé. Ainsi de suite jusqu'à ce que ça revienne au premier.  
 
 On répète une seconde fois.  
@@ -1258,7 +1258,7 @@ Et là c'est le drame ;)
 
 _Date de création : 2024-02-20T20:00:00_
 
-## Cercle des massages
+## Exercice "Cercle des massages"
 En cercle, un comédien A s'avance vers un autre comédien B, s'arrête en sphère sociale puis s'approche en sphère intime.  
 
 Les 2 comédiens pivotent en se regardant afin que A prenne la place de B (et respectivement B la place de A).  
@@ -1271,7 +1271,7 @@ L'animateur peut toucher le dos d'un autre comédien pour déclencher une second
 
 _Date de création : 2024-02-20T20:00:00_
 
-## Les losanges du taïchi
+## Exercice "Les losanges du taïchi"
 Un leader, 3 suiveurs, en musique.  
 Les 4 comédiens se placent en losange, un leader débute un mouvement lent d'une sorte de taïchi, relayés par les 3 autres.  
 
@@ -1280,12 +1280,12 @@ On peut accélérer la musique, pour changer le rythme, et accélérer les mouve
 
 _Date de création : 2024-02-20T20:00:00_
 
-## L'Entité vivante
+## Exercice "L'Entité vivante"
 En musique, on commence en “boule”, on se synchronise sur des mouvements, on prend les propositions, on peut s'éloigner un peu, mais nous ne faisons qu'un unique organisme vivant.  
 
 _Date de création : 2024-02-20T20:00:00_
 
-## Scènes dirigées, avec thème
+## Exercice "Scènes dirigées, avec thème"
 Exemples :
 - Chez le coiffeur, 5 mois à vivre
 - Sur le quai, les retrouvailles
@@ -1303,7 +1303,7 @@ Outils du directeur :
 
 _Date de création : 2024-02-20T20:00:00_
 
-## Scènes de duos, en musique.  
+## Exercice "Scènes de duos, en musique."
 Face à face, on s'observe.  
 
 On ne déclenche rien, on ne fait que remarquer les changements fins chez l'autre, et comment ils nous changent.  
@@ -1312,12 +1312,12 @@ Il est cool de commencer en musique, sans parole, et de finir en musique, toujou
 
 _Date de création : 2024-02-20T20:00:00_
 
-## Échauffement en musique dans le noir
+## Exercice "Échauffement en musique dans le noir"
 On commence dans notre bulle, on se laisse imprégner par la musique, on infuse, ensuite, on commence à copier des petites choses vues chez les copaines, on peut interagir avec les corps, se “frotter” en restant à l'écoute des signaux renvoyés par ses partenaires.  
 
 _Date de création : 2024-02-27T20:00:00_
 
-## Inventer de nouveaux codes sociaux
+## Exercice "Inventer de nouveaux codes sociaux"
 Nous sommes des humanoïdes sur une planète inconnue.  
 
 Comment se disent ils "bonjour" ?  
@@ -1328,7 +1328,7 @@ Exemple : on se tire l'oreille pour se saluer …
 
 _Date de création : 2024-03-19T20:00:00_
 
-## Goaler “Ti-bi-di”
+## Exercice "Goaler 'Ti-bi-di'"
 Scènes par deux
 
 Les seules syllabes que notre espèce est capable de prononcer sont “ti”, “bi” et “di”.  
@@ -1343,14 +1343,14 @@ Tips de réussite :
 _Date de création : 2024-03-19T20:00:00_
 
 
-## Passage énergie en clap synchro
+## Exercice "Passage énergie en clap synchro"
 
 En cercle, un premier comédien A cherche la connexion regard avec un autre comédien B, et ils doivent claper des mains ensemble. B cherche alors la connexion regard avec C, et clapent ensemble, etc.  
 
 L’idée est de faire ça en rythme, sans interruption, sans se flageller quand on rate, sans ‘sortir du jeu’ … si erreur, on reprend en rythme, sans souligner l’erreur. Exactement comme sur scène, on ne va pas souligner nos erreurs, les dénoncer, on va les intégrer dans la scène.  
 _Date de création : 2024-04-30T20:00:00_
 
-## Cercle des adieux
+## Exercice "Cercle des adieux"
 En cercle, un comédien A cherche la connexion regard avec un autre comédien B, puis s'avance vers lui, et s'arrête en sphère sociale. Puis s'approche en sphère intime.  
 
 Les 2 comédiens pivotent alors, en se regardant afin que A prenne la place de B (et respectivement B la place de A).  
@@ -1362,19 +1362,19 @@ B cherche alors du regard un comédien C …
 L'animateur peut toucher le dos d'un autre comédien pour déclencher une seconde source, puis une troisième, etc.  
 _Date de création : 2024-04-30T20:00:00_
 
-## Les statues de glace
+## Exercice "Les statues de glace"
 En binôme, un comédien debout s'ancre en neutre et ferme les yeux. Il symbolise une statue de glace, un bonhomme de neige.  
 Petit à petit, il va commencer à fondre, à s'affaisser, à se ramollir.  
 Le second comédien est là pour redonner des touches de froid, pour le maintenir en vie, pour le soutenir.  
-Il va toucher des parties du corps de la statue, qui au contact du froid va se relever en mobilisant les parties touchées ...  
+Il va toucher des parties du corps de la statue, qui au contact du froid va se relever en mobilisant les parties touchées …  
 Il ne faut pas aller trop vite. Prendre le temps de fondre et laisser fondre, sans que les positions ne deviennent inconfortables pour la statue.  
 
 _Date de création : 2024-04-30T20:00:00_
 
-## Mémoire émotionnelle (Stanislavski)
+## Exercice "Mémoire émotionnelle (Stanislavski)"
 En binôme, un comédien va fermer les yeux et se projeter dans une situation passée, réelle, qui lui a procuré une émotion forte.  
 Il va se remémorer cette situation, et la revivre, en laissant l'émotion le submerger.  
-Le second comédien est là pour aider à se réinstaller dans ce souvenir, par le biais de questions : "Le ciel était de quelle couleur ?", "Quelle était la température ?", "Quelle heure était-il ?", "Quelle était la première chose que tu as vue ?" ...  
+Le second comédien est là pour aider à se réinstaller dans ce souvenir, par le biais de questions : "Le ciel était de quelle couleur ?", "Quelle était la température ?", "Quelle heure était-il ?", "Quelle était la première chose que tu as vue ?" …  
 
 Il ne s'agit pas de 'jouer' une émotion, mais bien de la revivre.  
 
@@ -1390,7 +1390,7 @@ Une fois qu'on a vécu l'émotion, on se reconnecte au présent en ouvrant les y
 À faire régulièrement, avec différentes émotions, afin de pouvoir, à terme, les convoquer à volonté en scène.  
 _Date de création : 2024-04-30T20:00:00_
 
-## Coloration/décoloration (en 10 pas)
+## Exercice "Coloration/décoloration (en 10 pas)"
 Stanislavski : "Coloration émotionnelle"
 Alignés en fond de scène, en neutres (= niveau émotion 0), les comédiens s'avancent en se colorant à chaque pas, jusqu'à arriver en avant-scène (niveau émotion 10).  
 Prendre le temps.  

@@ -26,7 +26,7 @@ Exemple:
 
 Particulièrement efficace pour mettre en valeur les paroles d'un comédien moins expérimenté, ou d'un comédien en surcharge, … et pour faire avancer l'histoire.  
 
-À travailler et retravailler pour que ça devienne un réflexe, et que A laisse le temps à B de développer après le "Je sais pourquoi tu dis çà".  
+À travailler et retravailler pour que ça devienne un réflexe, et que A laisse le temps à B de développer après le "Je sais pourquoi tu dis ça".  
 
 ## Prénom + "Répète"
 Hyper efficace pour donner de l'importance à quelque chose (le gonfler).  

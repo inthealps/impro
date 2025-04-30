@@ -35,7 +35,7 @@ L'état de jeu, c'est de sortir de notre journée, de notre facette de comédien
 Je prends conscience de mon état interne, lié à ma journée, à mon humeur, à mon stress, à ma fatigue, à mon énergie.  
 Comment j'en tiens compte ?  
 
-Un peu de méditation va nous permettre de prendre conscience de ce qui nous entoure, de nous détacher de notre journée, d'affiner notre écoute, notre vision périphérique, …  
+Un peu de méditation va nous permettre de prendre conscience de ce qui nous entoure, de nous détacher de notre journée, d'affiner notre écoute, notre vision périphérique …  
 
 Cette méditation nous apporte de la détente.  
 La détente amène le tempo de jeu … pas trop vite, pas de tac-au-tac, elle donne à infuser …  
@@ -48,7 +48,7 @@ Nous sommes dans un état de jeu, dans une disponibilité à l'autre et à la sc
 Cet état de jeu va nous permettre de "descendre" dans nos personnages.  
 
 
-## Descente dans le personnage
+## Exercice "Descente dans le personnage"
 3 modes de descente
 
 ### 1. Descente via un objet
@@ -82,7 +82,7 @@ On adopte une position quelconque, mais fixe.
 On choisit une manière de respirer, une respiration particulière.  
 On fait monter ses sensations, on patiente le temps que le personnage arrive ;)
 
-### 4. Descente via une démarche + un borborygme
+### 5. Descente via une démarche + un borborygme
 On déambule dans la pièce, on recherche une démarche particulière.  
 On laisse sortir un borborygme, un son, un bruit, avec lequel on va jouer, que l'on va adapter jusqu'à trouver notre personnage.  
 On choisit une manière de respirer, une respiration particulière.  
@@ -90,15 +90,15 @@ On fait monter ses sensations, on patiente le temps que le personnage arrive ;)
 
 Tous ces modes de descente vont nous permettre de trouver des choses sur notre personnage, de le construire, de l'incarner, de le rendre crédible et vivant.  
 
-Ces 3 descentes vont nous amener à un premier sous-sol (-1). C'est une première étape. 
+Ces modes de descentes vont nous amener à un premier sous-sol (-1). C'est une première étape. 
 On va ensuite pousser le personnage que l'on a découvert, sans le caricaturer.  
 Sous-sol -2, -3, -4 … jusqu'à être à fond dans ce qu'on joue.  
 
 C'est un exercice que l'on doit répéter et répéter encore.  
 On peut le travailler en répétition (échauffements) ou à la maison, seul.e.  
 
-Il est important de répéter tous les modes de descente, de bosser ces 3 entrées, en en modifiant les curseurs. 
-Repérer laquelle est la plus facile pour moi, la plus efficace ? Ou au contraire la plus difficile, et la travailler, encore …  
+Il est important de répéter tous les modes de descente, de bosser ces différentes entrées, en en modifiant les curseurs. 
+Repérer laquelle est la plus facile pour moi, la plus efficace ? Ou au contraire la plus difficile, et la travailler, encore.  
 
 
 Il va arriver que l'on sorte brièvement du personnage, que l'on remonte les étages.  
@@ -225,7 +225,7 @@ Le travail du personnage c'est un entrainement de longue haleine, il faut le tra
 On leur donne un thème, et ils démarrent une scène.  
 La première phrase sera "Je suis vraiment d'accord avec toi".  
 
-Pistes de réussite :
+Tips de réussite :
 - Des gros OUI. Si oon est vraiment d'accord, on est VRAIMENT d'accord, pas de négociation.  
 - Le conflit empêche de construire un équilibre, nécessaire à la plateforme de l'histoire.  
 
@@ -239,15 +239,14 @@ Nous incarnons des personnages qui ne se connaissent pas !
 Nous sommes seulement chargés de notre personnage et de son état interne.  
 
 
-Tips :
-Se poser la question "Quelle est la singularité de cette scène".  
-Y répondre. Et accentuer cette singularité !  
-Quels sont les décalages, comment les pousser encore plus loin ?  
-Quelles sont les différences d'énergie, d'état → les pousser encore plus loin.  
-(Mérédith en pratiquante de Capoeira, Aurore la pousse : "Continue ! Ne dis rien ! N'arrête pas !").  
+Tips de réussite :
+- Se poser la question "Quelle est la singularité de cette scène".  
+- Y répondre. Et accentuer cette singularité !  
+- Quels sont les décalages, comment les pousser encore plus loin ?  
+- Quelles sont les différences d'énergie, d'état → les pousser encore plus loin. Exemple : Mérédith en pratiquante de Capoeira, Aurore la pousse : "Continue ! Ne dis rien ! N'arrête pas !".  
 
 
-Pistes de réussite :
+Tips de réussite :
 - Lâcher-prise total
 - On s'intéresse à la relation
 - On veut savoir qui vous êtes l'un et l'autre.  
@@ -268,7 +267,7 @@ La première phrase sera "J'ai quelque chose à te dire …".
 A est en jeu, il est en action, fait quelque chose, de précis, de concret.  
 Une fois que l'action est claire, comprise, et avant que ça ne tourne en rond, B arrive, et lui dit "J'ai quelque chose à te dire …".  
 
-Pistes de réussite :
+Tips de réussite :
 - Attention à ne pas se faire aspirer par l'énergie de l'autre. On garde son énergie propre.  
 - Idem, on garde ses gestes, sa posture, on reste dans son personnage. Et on ne le néglige pas à cause du dialogue.  
 - Évidemment on réagit, mais on ne perd pas son personnage. On y revient.  
@@ -282,7 +281,7 @@ On va travailler sur un personnage unique, qu'on va garder pendant 45mn.
 
 Mon personnage se co-crée avec mes partenaires de jeu.  
 Il est enrichi de nos interactions.  
-Il est nourri de ce qui se passe autour de lui. Il faut que ça se transforme, que çàa ne reste pas figé.  
+Il est nourri de ce qui se passe autour de lui. Il faut que ça se transforme, que ça ne reste pas figé.  
 
 
 Se poser les questions :
@@ -328,7 +327,7 @@ Tips de réussite :
 - Ne pas sur-expliquer, laisser le public faire sa part du travail.  
 
 
-## Format "Galerie" (format créé par Aurore avec Marion Genet)
+## Jeu "Format 'Galerie' (format créé par Aurore avec Marion Genet)"
 4 comédiens.
 
 A va faire un monologue, en incarnant un personnage.  

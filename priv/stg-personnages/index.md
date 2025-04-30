@@ -26,7 +26,7 @@ En "personnage" on déroule une mini-scène, on la joue, on la termine, puis A p
 B reste, C arrive et s'assoit à côté.  
 Et on recommence. Finalement, A revient pour rencontrer le dernier personnage sur le banc.  
 
-Pistes de réussite :
+Tips de réussite :
 - Vous vous connaissez.  
 - On veut savoir qui vous êtes l'un pour l'autre, quelle est votre relation.  
 - On veut voir ce qui se joue entre vous.  
@@ -38,7 +38,7 @@ Pistes de réussite :
 4 comédiens face au mur, dos au public.  
 Chacun doit trouver un personnage, l'infuser, puis se retourner lorsque c'est fait, tour à tour, et raconter sa vie en une minute max.  
 
-Pistes de réussite :
+Tips de réussite :
 - L'ancrage permet de destresser et de repartir avec quelque chose d'intéressant.  
 
 ## Exercice "3 transformations"
@@ -57,7 +57,7 @@ Ils se réveillent, doucement, l'un à côté de l'autre.
 Qu'est-ce qui se joue entre eux ?  
 Quelle est leur première émotion ?  
 
-Pistes de réussite :
+Tips de réussite :
 - On amène de l'information à partir de ce que l'on vit et voit.  
 - Avant d'ajouter des éléments extérieurs, on doit d'abord s'occuper de ce qui se passe entre les personnages.  
 
@@ -73,7 +73,7 @@ L'histoire doit durer une minute et être très spécifique et emplie de détail
 A et B sont en scène. Il n'y aura que 3 répliques.  
 A commence, B répond, A répond, et c'est fini.  
 
-Pistes de réussite :
+Tips de réussite :
 - On ne coupe pas la parole.  
 - Celui qui parle décide de la fin de sa réplique.  
 - On prend son temps, chaque réplique est importante. Donc, on prend le temps d'être impacté par ce qu'on dit et ce qu'on reçoit.  
@@ -99,7 +99,7 @@ Une situation ne doit pas squeezer les personnages et les relations !
 Acte I : 3 plateformes, 2 comédiens par plateforme.  
 Acte II : 5 ans plus tard, croisements entre les personnages.  
 
-Pistes de réussite :
+Tips de réussite :
 - On doit sentir que les personnages sont là, qu'ils existent.  
 - Faire des choix forts pour ses personnages.  
 - Prendre son temps pour être impacté par ce qu'on dit et ce qu'on reçoit.  
@@ -118,7 +118,7 @@ A se laisse impacter, et va répondre par une réplique de quelques mots.
 B va faire une dernière réplique, très courte également.  
 C'est fini.  
 
-Pistes de réussite :
+Tips de réussite :
 - Rester ancré, et dans le corporel.  
 - Ne pas chercher à être drôle.  
 - Redescendre dans le jeu et dans le personnage, et être quelqu'un d'autre que nous-même sur scène !  

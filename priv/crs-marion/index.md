@@ -8,33 +8,33 @@ Notes du cours avec Marion, Sept-Juin 2024/2025
 
 # Exercices
 
-## Exercice "Lancer de balles en déambulation"
+## Échauffement "Lancer de balles en déambulation"
 On se déplace dans la pièce, en essayant d'occuper tout l'espace.  
 Une personne détient une balle, va chercher la validation d'une autre personne puis lui lancer la balle.  
 La personne qui reçoit la balle doit la lancer à son tour, et ainsi de suite.  
 
 On peut ajouter des balles au fur et à mesure.  
 
-Pistes de réussite :
+Tips de réussite :
 - Rester disponible
 - Se démarquer (= faire différemment des autres, travailler les contrastes)
 - Regarder la personne à qui on lance la balle
 - Ne pas anticiper le lancer, mais attendre que la personne valide
 
 
-## Exercice "Le bruiteur"
+## Échauffement "Le bruiteur"
 Une personne devant, une personne derrière.  
 La personne derrière va faire des bruitages, la personne devant va s'animer en fonction de ces bruitages.  
 
 L'objectif est de lâcher-prise et de travailler la spontanéité.  
 
 
-## Exercice "Le banc de poissons"
+## Échauffement "Le banc de poissons"
 En groupe, on se déplace dans la pièce, en essayant de rester groupé.e.s.  
 On va essayer d'adopter un mouvement commun, une chorégraphie, comme un banc de poissons.  
 Chacun peut faire une proposition, et les autres vont suivre. C'est une négociation constante et nécessite une forte écoute.  
 
-Pistes de réussite :
+Tips de réussite :
 - Être au taquet, réactif.ve et en écoute maximale
 - "Tirer le fil narratif" : on bâtit sur ce qui a été posé, sans multiplier les propositions concurrentes, et on la pousse jusqu'au bout (on va "épuiser" la situation)
 - Occuper l'espace scénique, rester conscient de notre positionnement, de ce qu'il raconte : est-ce qu'on nage à contre-courant, quel rythme a-t-on ?  
@@ -50,18 +50,18 @@ Il va ensuite expliciter les enjeux, et ce qu'il verrait comme rebondissement po
 
 Cet exercice permet de travailler la construction d'une histoire, et d'installer des plateformes efficaces.  
 
-Pistes de réussite :
+Tips de réussite :
 - L'observateur peut side-coacher : il peut noter les refus ou négociations, il peut noter le conflit et le stopper direct, …  
 
 
-## Exercice "La bougie"
+## Échauffement "La bougie"
 Tous les comédiens en déambulation dans la pièce.  
 
 Tous et toutes surveillent le groupe, et dès qu'ils voient une bougie fondre (i.e. quelqu'un qui s'arrête et se met à "fondre", c'est-à-dire s'effondrer sur elle-même), ils vont venir soutenir la personne en train de fondre pour éviter qu'elle s'écroule.  
 
 Cet exercice permet de travailler l'écoute globale, la gestion du temps, quand proposer, etc.  
 
-Pistes de réussite :
+Tips de réussite :
 - Je suis en soutien inconditionnel, et disponible tout le temps !  
 - Attendre de la stabilité avant de vouloir proposer autre chose (i.e. "devenir soi-même une bougie")
 - Équilibre du plateau, pas d'endroit délaissé, pas besoin d'être nombreux pour soutenir une bougie qui serait loin.  
@@ -78,7 +78,7 @@ Exemples :
 - "Je ne peux pas ouvrir la porte, il y a un tigre derrière"
 - "Il y a du vent qui m'empêche d'atteindre la porte"
 
-Pistes de réussite :
+Tips de réussite :
 - Ne pas boucler ! Continuer à être dans la proposition, se renouveler ! La perte des clés des une raison suffisante, mais je ne peux pas faire une scène avec ça, donc je retrouve mes clés rapidement. Mais il se passe autre chose, etc.  
 - Rendre explicite les raisons de ne pas ouvrir la porte, par des mimes des paroles, du corps … il faut que le public comprenne facilement.  
 
@@ -102,7 +102,7 @@ Exemples de contraintes :
 - "Sophie et Pascal sont toujours en contact physique"
 
 
-## Exercice "Ronde accentuée"
+## Échauffement "Ronde accentuée"
 On se met en cercle, on repère la personne à notre droite. Elle sera notre modèle.  
 Puis on se mélange dans la pièce, de manière aléatoire, mais en gardant notre modèle en visibilité, et chacun va trouver un endroit où s'arrêter, et se mettre dans une position neutre, pieds légèrement écartés, buste droit, bras le long du corps.  
 
@@ -220,7 +220,7 @@ Tips de réussite :
 - Se faire plaisir
 
 
-## Exercice "Geste + son"
+## Échauffement "Geste + son"
 En duo.  
 
 Alternativement, A et B vont proposer un geste plus un son.  
@@ -232,7 +232,7 @@ La proposition s'arrête quand le comédien s'arrête, l'autre prend la relève 
 En cercle, un premier comédien entame une narration, en mode "je raconte une histoire".  
 Pas de mime, pas d'autres gestes que ceux d'un narrateur.  
 
-Au lieu de dire des phrases, il va compter : 1, 2 3, …  
+Au lieu de dire des phrases, il va compter : 1, 2, 3, …  
 Quand il s'arrête, son voisin prend le relais, et continue la narration, en comptant 4, 5, 6, …  
 
 Tips de réussite :
@@ -292,7 +292,7 @@ On se positionne dans la pièce comme dans le schéma ci-dessous :
 
 Initialement, la position centrale est inoccupée.  
 Le but est de combler les places vides.  
-Dès qu'une place est vide on doit la combler.  
+Dès qu'une place est vide, on doit la combler.  
 Du coup, une nouvelle place est vide (i.e. le joueur a quitté sa place), un joueur doit se déplacer pour la combler.  
 Etc.  
 
@@ -335,7 +335,7 @@ Tips de réussite :
 - En jeu, si la scène patine ou s'essouffle, ou prend une direction faible, ou non souhaitée, un comédien (oui oui) en réserve peut s'autoriser à interrompre une scène pour donner une consigne de jeu : j'aimerais une scène d'amour, sans parole, j'aimerais voir tous les comédiens en scène, etc. Pratiquer régulièrement le rôle de metteur en scène va nous donner l'aisance et la lecture de jeu nécessaire pour le faire !  
 
 
-## Exercice "Les habitations"
+## Échauffement "Les habitations"
 En groupe, nombreux.  
 (Il ne faut pas être un multiple de 3.)
 
@@ -349,10 +349,10 @@ Le but du jeu est de refaire des groupes de 3 /o\ et de ne pas se retrouver seul
 ## Exercice "Raconte-moi … en …"
 En cercle, un comédien s'approche d'un autre et lui dit "Raconte-moi la recette de la tarte citron en japonais"
 Et le comédien s'exécute.
-Ex:
-- ta journée/en pleurant
-- la météo/en mimes
-- ton premier flirt/en chantant
+Exemples :
+- Raconte-moi ta journée/en pleurant
+- Raconte-moi la météo/en mimes
+- Raconte-moi ton premier flirt/en chantant
 
 Tips de réussite :
 - Lâcher-prise, on y va tout de suite, on ne réfléchit pas !!
@@ -364,15 +364,15 @@ A commence "Iris est une petite grand-mère voutée, souriante, à la voix faibl
 B incarne cette proposition, puis toujours en personnage, va décrire un nouveau personnage, que A va incarner.  
 
 
-## Exercice "La rime lancée"
+## Échauffement "La rime lancée"
 En cercle, comme le "mot lancé", on se synchronise avec un mouvement de balancier de bras, puis on va lâcher un mot, puis le suivant va rimer dessus, etc.  
 
 
-## Exercice "La battle de rimes"
+## Échauffement "La battle de rimes"
 En duo.
 
 
-## Exercice "La battle des voeux de bonne année (en serpent)"
+## Exercice "La battle des voeux de bonne année"
 On coupe le groupe en deux, en ligne, face à face.
 
 En mode battle de hip-hop, A s'avance vers B, mais ne va dire que des choses vraiment positives à l'autre personnage.  
@@ -383,20 +383,14 @@ Puis A revient en place, mais toujours en fixant B du regard.
 
 Au tour de B de s'avancer vers C, cette fois, etc.
 
-
-## Exercice "La battle des voeux de bonne année (en duo)"
+**Variante en duo :**
 En duo, face à face.
-
-En mode battle de hip-hop, A s'avance vers B, mais ne va dire que des choses vraiment positives à l'autre personnage.  
-Pour autant, c'est vraiment une battle.  
-Pour le moment, B ne répond pas autrement que par sa posture, son regard, son énergie.  
-
-Quand A a fini, c'est au tour de B.  
 
 On peut partir en mode clash/défense, mais toujours dans la bienveillance du texte.
 
 Tips de réussite :
 - Lâcher le cerveau, on peut dire n'importe quoi : "Je te souhaite de manger du fenouil tous les midis" 
+
 
 ## Exercice "L'objet mystère"
 En cercle autour d'un objet posé au sol.  
@@ -414,7 +408,7 @@ Si on a fini, on se maquille, on se coiffe, on vérifie les boutons de sa chemis
 
 Incarné, calme, sans précipitation ni paroles.
 
-## Exercice "Claps en cercle"
+## Échauffement "Claps en cercle"
 Tout le groupe en cercle.  
 Première phase : on se regarde, on se connecte, on clape en même temps.
 Deuxième phase : un clapeur va regarder une autre personne et claper avec elle en même temps… cette personne recommence avec une autre personne, etc.
@@ -459,7 +453,7 @@ Lâcher la tête.
 ## Exercice "1001 façons de …"
 Le jeu classique du match d'impro.
 Lâcher la tête.
-Penser "qu'est ce qui n'a pas déjà été fait ?"
+Penser "Qu'est-ce qui n'a pas déjà été fait ?"
 
 
 ## Exercice "Jeu dans le noir"
@@ -504,7 +498,7 @@ Tips de réussite :
 - On tente de controller le flux d'air, il doit être constant.
 
 
-## Exercice "Non, c'est une fraise-aspirateur !"
+## Échauffement "Non, c'est une fraise-aspirateur !"
 En cercle, un comédien désigne un objet fictif au centre du cercle.
 A: "C'est une fraise-aspirateur", en donnant son regard au reste du cercle.
 Le suivant va lui répondre avec une autre proposition : "Non, c'est un vélo astronomique !", en donnant son regard à A, ou à l'audience (choix conscient).
@@ -615,7 +609,7 @@ Tips de réussite :
 - Puis tout expliquer en déroulant ce même fil. Ne pas douter ni revenir sur notre compréhension première de la scène.
 
 
-## Exercice "Boucliers et épées"
+## Échauffement "Boucliers et épées"
 Tout le monde s'attribue secrètement deux partenaires.  
 Nous serons le bouclier qui protège une victime de l'épée.
 
@@ -689,7 +683,7 @@ On leur donne un thème, et ils démarrent une scène.
 À tout moment, quelqu'un peut venir tagguer une des personnes en jeu, et prendre sa place.  
 Une nouvelle scène se joue, mais dans la même histoire.  
 
-Pistes de réussite :
+Tips de réussite :
 - Tagguer dès que la scène a terminé son propos
 - Ne pas laisser les copains en galère. On taggue, même si on ne sait pas quoi faire ensuite … on improvise, et on est 2 pour le faire, ensemble !  
 - Apporter de la variété dans les scènes, du rythme. On peut alterner des scènes courtes/longues, dans le texte ou dans le corps.  
@@ -709,7 +703,7 @@ Les deux comédien.ne.s recommencent ensuite cette scène.
 Elle débute avec la phrase de début (phrase1) et devra se terminer avec la phrase de fin (phrase2). 
 D'autres comédien.ne.s vont entrer et allonger la scène avec leurs propositions.  
 
-Pistes de réussite :
+Tips de réussite :
 - On garde en tête les phrases de début et de fin.  
 - On se permet de partir dans des directions différentes, mais on revient à la phrase de fin.  
 - On ajoute en mode OUI ET, on ne coupe pas les propositions, on les laisse se dérouler.  
@@ -1083,11 +1077,13 @@ Ne pas tout dire, ne pas tout montrer.
 --> "Donner à comprendre"
 
 ## Ne soyez pas caricaturaux
-On n'est pas obligé d'en faire des tonnes, le minimalisme a du bon ;)
+On n'est pas obligé d'en faire des tonnes, le minimalisme a du bon ;)  
 Chercher le minimalisme pour éviter le surjeu et trouver le jeu sincère.  
-Tips : s'entrainer aux émotions devant son miroir (étonnement, joie, tristesse, colère, dégoût, peur, …).  
-Est-ce que je suis dans la caricature ? Est-ce que je suis dans le cliché ?  
-En fais-je trop ? En fais-je assez ?  
+
+Tips de réussite :
+- S'entrainer aux émotions devant son miroir (étonnement, joie, tristesse, colère, dégoût, peur, …)  
+- Est-ce que je suis dans la caricature ? Est-ce que je suis dans le cliché ?  
+- En fais-je trop ? En fais-je assez ?  
 
 ## "Start in the middle of"
 Commencer la scène au milieu, sans préambule ni présentation : les personnages sont déjà dans l'action !  
@@ -1115,8 +1111,8 @@ Ou des scènes de blabla avec une scène d'action pure, ou sans parole.
 Varier les tempos, les énergies, les états des personnages, …  
 
 ## Donner du visuel
-L'impro c'est du théâtre, on veut VOIR !  
-On veut voir des personnages affairés à la même oeuvre collective, mais avec des tâches individuelles.  
+L'impro, c'est du théâtre ! On veut VOIR !  
+On veut voir des personnages affairés à la même œuvre collective, mais avec des tâches individuelles.  
 Dans un labo, quelqu'un peut regarder dans un microscope, un autre peut observer et noter dans un carnet, un autre peut manipuler des tubes à essai, un autre peut consulter un dossier, …  
 On peut même jouer le rat de laboratoire, plutôt que de le décrire …  
 -> Show, don't tell !  

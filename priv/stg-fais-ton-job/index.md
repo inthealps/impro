@@ -339,7 +339,7 @@ L'autre fait pareil.
 
 A un moment l'un des 2 peut partir dans un monologue, en amenant des choses spécifiques.  
 
-Tips :
+Tips de réussite :
 - Pas de "T'es quelqu'un d'incroyable, sans toi blabla" … Mais "Lorsque tu m'as aidé pour mon mémoire de thèse, ta présence, ton écoute … ont été très soutenants ! Grâce à toi j'ai décroché mon diplôme ! Je t'en serai éternellement reconnaissant !"
 - Après ce long monologue, l'autre peut répondre par une phrase. Qui va apporter la touche finale !  
 - "Ce n'est pas un téléfilm … c'est du cinéma !"
@@ -354,7 +354,7 @@ NOPE !
 - J'ai mal dormi !  
 - Tu dormiras mal tant que tu ressasseras la fin de ta relation …  
 
-Tips :
+Tips de réussite :
 - Retourner le compliment
 - Prendre encore plus le temps de se laisser impacter
 
@@ -370,11 +370,11 @@ Pieds dans le béton … pendant un an !
 
 ## Mouvements parasites
 Chercher du regard, aller de l'un à l'autre, du public à son partenaire, à un objet.  
-Je fais TROP çà !  
+Je fais TROP ça !  
 
 Candice et Ludo me parlent de stress :
 
-"Tu n'es pas comme çà dans la vraie vie" → A bosser donc !  
+"Tu n'es pas comme ça dans la vraie vie" → A bosser donc !  
 
 - Faire des adresses beaucoup plus longues.  
 - Jusqu'à 30 secondes.  

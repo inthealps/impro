@@ -95,8 +95,15 @@ Sur la musique de "Total Eclipse of the Heart" de Bonie Tyler.
 On danse autour de son partenaire, qui reste fixe.  
 À tout moment, la personne en action peut se figer, et l'autre prend le relais.  
 À l'inverse, la personne fixe peut se mettre en mouvement, et l'autre doit s'arrêter.  
+Toujours un seul joueur en mouvement !  
 On se laisse impacter par la musique, sa puissance, son intensité, ses changements de rythme, etc.  
 
+Au signal du coach, on se mélange “C’est toi !” (en cherchant et pointant un autre joueur du doigt)
+
+Tips de réussite :
+- Lâcher-prise
+- Écoute maximale
+- Se surprendre, varier les rythmes …
 On envoie du pâté, ça doit être physiquement engagé !  
 
 ## Exercice "Les 7 nains"

@@ -7,6 +7,9 @@ title:  "Cours 2023/2024, Matthieu Saint-Bonnet"
 
 ## Échauffement "1234, Clap234, ClapTorse34, ClapTorseCuisse4, ClapTorseCuissePied"
 Dans un sens, puis dans l'autre.  
+Pas d’arrêt si on se goure.  
+C’est important de continuer, on est sur scène !
+
 
 ## Échauffement "Bouche-trous, tableaux"
 Les comédiens se séparent en 2 groupes.  

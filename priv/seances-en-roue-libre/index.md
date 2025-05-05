@@ -1293,6 +1293,289 @@ Tips de réussite :
 - On recherche le jeu sincère, pas de surjeu ni de caricature
 - Ne pas donner à VOIR mais à RESSENTIR → on vit les choses
 
+## Échauffement "Les sphères"
+_Date de création : 2024-05-07T20:00:00_
+Alignés en deux groupes, face à face.
+Chaque membre du groupe A va s’approcher de quelqu’un du groupe B jusqu'à atteindre sa sphère sociale.
+A peut s’arrêter lorsqu’il juge qu’il ne peut pas avancer plus et B peut stopper de la main pour signifier à A qu’il doit s’arrêter si ce n’est pas déjà fait.  
+Recommencer en sphère amicale, puis sphère intime.  
+On se “projette” dans une relation pour se convaincre que la personne en face est intime.  
+Qu’est-ce que ça change ?  
+Quels sont les signaux faibles que l’on détecte chez l’autre (mouvement de recul ? ou au contraire, mouvement de rapprochement ?).  
+Que détecte-t’on chez nous-même ?  
+Jouer avec ses signaux faibles (envoyés par les comédiens) pour les donner à son personnage en scène. C’est un moteur d’improvisation énorme.  
+
+
+## Échauffement "Clap / Hello / Saut / Mourir"
+_Date de création : 2024-05-07T20:00:00_
+En cercle.  
+A quitte le cercle et s’approche de B.  
+A va proposer une action parmi :  
+- Clap des mains,
+- Dire “Hello”
+- Effectuer un petit saut en l’air
+- Mourir (de la manière que l’on veut, mais la même pour A et B)
+
+A et B doivent effectuer l’action de manière synchronisée. Prendre son temps puis accélérer.
+Au bout d’un moment, on peut ajouter un deuxième initiateur, puis un troisième, etc.  
+
+## Échauffement "Décoloration / recoloration (en musique)"
+_Date de création : 2024-05-07T20:00:00_
+En musique. 1 + N comédiens.  
+Un comédien ancré, avec son état émotionnel du moment.  
+Il va fermer les yeux et progressivement se “décolorer”, comme s’il perdait son énergie, son fluide, par un petit trou, une fuite.  
+Les autres vont l’aider à se décolorer, en lui massant/frottant des zones du corps (recueil de consentement avant de commencer).  
+Doucement.  
+Ils vont l’aider à s’affaisser, en prenant soin de lui.  
+Une fois qu’il est au sol, inerte, vide, on laisse passer quelques secondes, et le comédien va progressivement se recolorer, toujours aidé par les autres.  
+Jusqu'à revenir à l'état initial, debout, droit, ancré …  
+
+Truc important :
+- Constater la différence de l’ancrage avant et après cette expérience de lâcher-prise.
+
+## Échauffement "Adressage ‘émotion’"
+_Date de création : 2024-05-14T20:00:00_
+On se balade dans la pièce, on dit son propre prénom à un.e autre comédien.ne avec une émotion dictée par l’animateurice (joie, tristesse, colère, dégoût, peur, …)  
+On vit physiquement l'émotion, selon l'émotion on s’approche/s'écarte de celui qui a le “jeton”.
+vQuand tout le monde a visité une émotion, on change d’émotion pour les balayer toutes.  
+
+
+## Exercice "Interférences"
+_Date de création : 2024-05-21T20:00:00_
+En musique.  
+Un.e comédien.ne A est en scène, face public.  
+Un.e autre comédien.ne B s’approche et commence à faire des gestes qui pénètrent la sphère intime de A. Sans parole.
+Puis un.e autre, puis encore un.e autre.    
+Une fois que tout le monde est en mouvement, la musique s’arrête, et A entame un monologue de présentation.
+
+
+## Exercice "Enrichissement personnage"
+_Date de création : 2024-06-04T20:00:00_
+4 comédien.ne.s en ligne.  
+Le premier donne un prénom, un âge, une profession (“Je m’appelle …”)  
+Le second enchaîne avec une habitude, ou une force, ou autre …  
+Le troisième pareil, le quatrième, etc …  
+Le public lève la main lorsqu’il estime qu’on a suffisamment chargé le personnage.  
+
+Tips de réussite :
+- Ne pas partir dans la narration
+- Ne pas trop blablater, juste donner les infos.
+
+## Exercice "Le cercle de Maltraitance"
+_Date de création : 2024-06-11T20:00:00_
+Le jeu est de jouer les Status haut/bas, et plus précisément les Status Dominant.e/Dominé.e.  
+En duo, un.e comédien.ne en place, qui jouera le rôle du Dominé, se met en jeu, avec une action du quotidien.
+Il est rapidement rejoint par un. autre comédien.ne qui jouera le rôle du Dominant.  
+S’en suit une scène, ne pas hésiter à être moche et vulgaire : ce sont des exercices, il faut savoir faire gros pour affiner ensuite.  
+
+Tips de réussite :
+- On est méchant, vraiment méchant
+- On s’attaque au personnage directement, et pas à un tiers (dossier, pizza, …). On peut commencer par le tiers, comme support, mais rapidement on en vient à attaquer le personnage (“Ce que j’ai jamais pu blairer chez toi c’est … + 3 trucs spécifiques)
+- Le rôle du Dominé est de rendre puissant l’autre (“Make your partner look good”). Ainsi, un Dominant avec un Status pas hyper élevé pourra être perçu comme puissant par ce que renvoie le Dominé.
+
+## Exercice "Zones de pouvoir"
+_Date de création : 2024-06-11T20:00:00_
+On joue une scène en duo.  
+Le jeu est de jouer les Status haut/bas, mais cette fois selon notre disposition sur scène.  
+La scène est coupée en 2. Côté Cour on domine, côté Jardin on est dominé.  
+
+On peut passer de l’un à l’autre (mais pas être dans la même zone, on ne travaille pas ici les “batailles de Status” haut/haut ou bas/bas)  
+
+Tips de réussite :
+- Prendre le temps de changer de Status, ça ne peut pas être parachuté, le public doit trouver ça logique.
+- Ne pas rester trop longtemps dans la même zone, surtout si ça boucle.
+- Rendre l’autre puissant, tendre le bâton pour se faire battre.
+- On s’attaque au personnage directement, et pas à un tiers ;)
+
+## Jeu "Le châlet"
+_Date de création : 2024-06-11T20:00:00_
+Format de Thierry ViejoDV “Le Chalet”, à 7
+
+1 hôte, 3 “couples” invités dans son superbe chalet.
+Solo de l’hôte qui présente son personnage, et pourquoi il a invité tout le monde.  
+3 scènes de plateformes ou on présente les duos, pendant les préparatifs du week-end (faire ses valises, etc)  
+1 scène d’installation de l’hôte dans le châlet, on charge le décor, l’hôte parle de ses relations avec chacun des duos présentés.  
+3 scènes d’arrivée dans le chalet, accueil de l’hôte.  
+
+Puis scènes de mélanges, tuilages, etc …
+
+## Exercice "Incarnation d'objets"
+_Date de création : 2024-06-18T20:00:00_
+Le public nous donne un lieu, une pièce.  
+On visualise un objet de ce lieu, on l’incarne physiquement (forme, disposition, …) et on entame un monologue.  
+
+Tips de réussite :
+- C’est l’objet qui parle, en mode “Je …”
+- On précise ses émotions, son passé, ses rêves et ses peurs
+- On glisse des anecdotes
+- On le met en mouvement (attention alors au choix de l’objet)
+
+## Exercice "Le qui/quoi/où de la plateforme"
+_Date de création : 2024-09-17T20:00:00_
+En duo.
+3 répliques max. Une réplique = texte d’un comédien (tant qu’il ne s’arrête pas de parler)
+
+Certaines répliques peuvent être courtes mais centrales sur ce qu’elles apprennent :
+- QUI : Prénom et relation entre les 2, un trait marquant si possible.
+- Où : Dans quel lieu se trouvent les personnages ?
+- Quoi : Ce qui se joue entre les 2 personnages.
+
+On ne fait que des débuts de scènes : musique 30 secondes, actions des deux personnages en parallèle, puis dialogues.
+
+Tips de réussite :
+- Connexion regard
+- Silence
+- Prendre son temps
+
+
+## Exercice "Les portes"
+_Date de création : 2024-10-08T20:00:00_
+En cercle, un joueur va au milieu.  
+Il va se diriger vers quelqu’un du cercle et "ouvrir la porte". Le comédien derrière la porte va immédiatement faire une proposition physique.
+KLe joueur au centre doit enchainer directement ! Dès que le jeu s’est installé, dès que on a compris qui sont les deux protagonistes, le joueur referme la porte et ouvre une autre porte.  
+Le joueur du milieu doit donc s’adapter rapidement à toutes sortes de propositions.  
+La porte n’est qu’un prétexte. L’idée c’est que derrière la porte surgit une proposition.  
+
+Tips de réussite : 
+- Proscrire les phrases du type “Qu’est ce que tu fais ?“ qui vont refiler la patate chaude à l'autre. On construit, rapidement.
+- Tenter la spontanéité. Que m'inspire la proposition physique ? Je ne suis pas dans la tête.
+
+## Exercice "Utilisation des objets en mime"
+_Date de création : 2024-11-26T20:00:00_
+Je choisis une action (parmi celle que nous faisons souvent en action) :
+- Ouvrir la porte de WC
+- Boire un verre d’eau
+- Ouvrir le robinet
+- Écrire avec un stylo
+- Faire semblant de pianoter sur un smartphone/ retirer un manteau…
+
+Je réalise cette action avec le vrai objet, en regardant comment je peux décomposer l’action et la mémoriser au plus juste pour la faire ensuite sans l’objet.  
+Je m’entraine à réaliser l’action sans l’objet en décomposant l’anticipation de l’action, l’action, et la récompense.  
+
+Puis passage sur scène en mime en décomposant, et le "public" nous aide à nous améliorer si besoin.
+
+## Exercice "Phrase banale / émotion"
+_Date de création : 2025-01-14T20:00:00_
+En duo.  
+Le premier joueur dit une phrase banale.  
+Le deuxième réagit avec une émotion forte, préalablement choisie par lui.  
+On voit ce qui se passe.  
+
+Tips de réussite :
+- Pousser l'émotion, plus elle est forte plus ça marche
+- La phrase est très banale, ne pas essayer d'être “intelligent” ou “original” → là encore on travaille le lâcher-prise !
+- Balancez de l’info ! Soyez spécifique !
+
+
+## Échauffement "Bug du cerveau 1, 2, … 7"
+_Date de création : 2025-01-28T20:00:00_
+En cercle, on tape sur une épaule en comptant “Un” et en donnant une direction (épaule gauche ça part à gauche, épaule droite ça part à droite).  
+Si on se trompe, on sort du cercle et on fait un tour de cercle en courant.  
+Au bout d’un moment on va remplacer le geste du “7” en mettant les 2 avants bras en parallèle devant soi, indiquant là encore une direction.  
+Puis on ne dit plus le chiffre “3” sur le “3” …  
+Puis on dit “Five” sur le “5”  
+
+Le but du jeu est de se tromper, d’assumer ses erreurs, et de les célébrer. Certainement pas de se disculper de s'être trompé.  
+L’erreur existe en impro, elle doit être assumée (puisque le public la voit).
+
+## Échauffement "Narration à deux"
+_Date de création : 2025-01-28T20:00:00_
+En duo.  
+Le premier joueur ("1") donne un titre d’histoire. Le joueur "2" doit raconter une histoire à partir de ce titre.  
+Quand il le souhaite 1 dit “NON”, 2 doit changer le (ou les) dernier mot qu’il a dit.  
+
+Regardons où ça nous mène …
+
+Tips de réussite :
+- Croire à son histoire, la vivre
+- Mettre du détail, ouvrir l’univers
+- Lâcher la tête, et vivre
+
+## Échauffement "Espèce de légume !"
+_Date de création : 2025-01-28T20:00:00_
+En ligne, face à face.  
+A va insulter B en disant “Espèce de figue !”  
+B reçoit l’insulte en disant “Moi, une espèce de figue ?” puis en s’adressant à C “Ben toi, tu es une espèce de potimarron !” …  
+On fait un tour, puis on enrichit avec un adjectif.  
+
+”Espèce de radis flétri !”  
+Là encore, l’insulté répète l’insulte complète.  
+
+Puis une phrase : ”Espèce de vieux céleri moisi qui sent la chaussette !”  
+Là encore, l’insulté répète la phrase complète.  
+
+Tips de réussite :
+- Habiter nos personnages
+- Mettre du volume sonore, l’objectif est de libérer le corps, l’esprit et la voix …
+
+
+## Exercice "Le narrateur (Explication de scène)"
+_Date de création : 2025-02-04T20:00:00_
+Un narrateur et N comédiens.  
+En musique, les comédiens vont se mettre en action, en mouvement, ... La musique s'arrête, les comédiens se figent.  
+
+Le narrateur va inspecter la scène, décider de faire sortir de comédiens (ou pas), puis il explique la scène ...  
+
+Variante : On se met à jouer la scène décrite par le narrateur, qui guide les comédiens dans leur jeu.
+
+Tips de réussite :
+- Le narrateur doit être en énergie haute, il raconte ce qui se passe sans trop attendre ni hésiter.
+- Les comédiens doivent être en intensité corporelle, regards précis, etc.
+
+Si les comédiens jouent la scène, peu de parole (= pas de blabla), mais jouer avec la situation et le corporel que l'on a installé.
+
+## Exercice "Description de scène (en solo)"
+_Date de création : 2025-03-11T20:00:00_
+Solos.  
+Un exercice de narration qui permet de construire des univers riches pendant nos plateformes.
+Un narrateur “A” sur scène.  
+Une police des Euh “B”, une police Caméra “C”, un metteur en scène “D” dans le public.  
+
+A va se lancer dans une description déclenchée par un mot donné par B ou C.  
+B va lever la main dès qu'il détectera une hésitation, ou tout ce qui trahit l'embarras de A.  
+C va lever la main et dire "Caméra" dès qu'il détectera que l'on sort du purement descriptif, ou que l'on commence à raconter une histoire. A devra revenir à la description proprement dite.  
+
+La description doit durer 1mn/1mn30, B va signifier à A quand il rentre dans les 15 dernières secondes.  
+
+Petit debrief après, ou B, C et D donnent leur feedback à A.  
+
+Tips de réussite :
+- Ne pas anticiper, ne pas réfléchir, mais visualiser la scène, se projeter dans le décor.
+- Ne pas se laisser déstabiliser par les "polices", ne pas s'arrêter, c'est vraiment à voir comme un side-coaching pour nous aider, et revenir à la description.
+- Ne pas s'arrêter quand les polices interviennent, on reste mobilisé et concentré sur notre description.
+- Déposer des "potentiels" (les "saucisses" de Mark Jane), des éléments qui pourront être utilisés pour "faire l'histoire" si on devait la continuer.
+- "Tout ce qui ne peut pas être dessiné est superflu" -> on supprime le verbiage, on ne fait que "charger le décor"
+
+## Échauffement "Diarrhée verbale"
+_Date de création : 2025-03-18T20:00:00_
+On marche lentement, à chaque pas on jette un mot, on voit ce qu’il nous inspire.  
+”Insupportable” - “Un support table” - “Un support de table” - “Un pied de table” - “Un piédestal” …  
+
+L’idée est de lâcher le cerveau, de garder le rythme, quitte à se répéter, ou à dire un mot qui n’existe pas.  
+On ne doit pas entendre ce que disent les autres, si on les entend, c’est qu’on n’est pas suffisamment dans sa bulle.  
+
+## Exercice "Mime en situation"
+_Date de création : 2025-03-18T20:00:00_
+
+**Porter des caisses de cidre**  
+On commence par porter une chaise (une vraie). Comment s’y prend-on ? Quelles parties de notre corps interagissent ?  
+Une fois qu’on a visualisé ça, on mime le port d’une caisse lourde.  
+On la manipule et on la pose. On empile des caisses  
+
+**La barre dans le bus**  
+On visualise la barre, on fait un pas, on l’agrippe, on fait le 2 pas pour se positionner devant.  
+On répète ça, encore et encore.  
+Au bout d’un moment, on prend la barre à deux mains.  
+Puis encore au bout d’un moment, on décroche la barre, on la fait pivoter, avec son poids, son encombrement.
+On la retourne, on change nos mains de position.  
+
+## Échauffement "Des caisses d'émotion"
+_Date de création : 2025-03-25T20:00:00_
+En cercle, A porte un “paquet d'émotion” et se charge de cette émotion. Puis, il offre le paquet et l'émotion à B, qui reçoit et se charge de la même émotion, puis, progressivement, change d'émotion.  
+B offre paquet et émotion à C, et ainsi de suite.
+
+Tips de réussite :
+- Laisser “infuser”, prendre son temps
 
 ## Échauffement "Un geste, puis un autre, puis un autre …"
 _Date de création : 2025-04-29T20:00:00_
@@ -1310,7 +1593,7 @@ On les soutient du regard, du corps, de l'énergie.
 On n'est pas dans du mime, mais dans juste du geste.
 Tous nos gestes ne sont pas en rapport, on ne raconte pas une histoire, ça ne vient pas de notre tête.
 
-## 3 chaises
+## Échauffement "3 chaises"
 _Date de création : 2025-04-29T20:00:00_
 Jeu à 3 joueurs.
 En musique, dans le noir, les 3 comédiens vont positionner leur chaise, et s’asseoir dessus dans la position de leur choix.
@@ -1325,7 +1608,7 @@ Seule contrainte, que les 3 personnages quittent le scène en même temps.
 - comprendre ensemble que c’est la fin, sans avoir à négocier
 - ne pas tomber dans le piège de mimer ce que l’on ne peut pas dire ;)
 
-### Espace négatif
+## Échauffement "Espace négatif"
 _Date de création : 2025-04-29T20:00:00_
 _(Exercice qui se fait normalement en duo mais qu’on a faut en trio)_
 Duo, en musique.

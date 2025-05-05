@@ -61,7 +61,7 @@ Tips de réussite :
 - On amène de l'information à partir de ce que l'on vit et voit.  
 - Avant d'ajouter des éléments extérieurs, on doit d'abord s'occuper de ce qui se passe entre les personnages.  
 
-## Exercice "Le narrateur"
+## Exercice "Le narrateur en duo"
 2 comédiens
 A est le narrateur, B est le personnage.  
 B prend position sur scène.  

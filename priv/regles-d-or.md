@@ -3,25 +3,22 @@
 ## Acceptation
 - Acceptation des propositions instantanément
 
-
 ## Make your partner look good
 - Valorisation des propositions : rien n’est ignoré ! Pas de balles perdues !  
-
 
 ## Infuser
 - Jouer lentement
 - Je prends le temps de me laisser percuter, de vivre le changement et de le donner à l’autre.  
 - Vivre les émotions corps et tête
 
-
 ## Faire simple
 - Jouer logique
 - Propositions et pistes simples, et précises
 - Les personnages se connaissent (c'est mieux, on rentre **directement** dans le vif du sujet)
 
-- Ecoute de moi-même, cohérence de mon personnage au long de l’impro
+- Écoute de moi-même, cohérence de mon personnage au long de l’impro
 
-## Eviter les pièges
+## Éviter les pièges
 - Blocage/ Refus/ Contournement
 - Rabaissement des enjeux
 - Tourner en boucle, papotages en longueur
@@ -29,13 +26,15 @@
 
 
 
-
 - Anime : le faire plutôt que de le dire
 
 - Espace : Installation des décors précis ; occuper l’espace scénique
 
+## Être spécifique, donner des détails
+- Donner des détails va permettre d'enrichir l'univers de notre histoire, de la rendre plus vivante et plus crédible.
+- Donner des détails sur les personnages, leur passé, leurs relations, leurs émotions, leurs motivations, etc.
+- Donner des détails sur le décor, l'environnement, les objets, les sons, les lumières, etc.
 
-- Donner des détails
 
 
 

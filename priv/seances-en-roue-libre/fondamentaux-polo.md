@@ -1,11 +1,11 @@
 ---
 layout: page
-title:  "Fondamentaux Paulo"
+title:  "Fondamentaux Polo"
 ---
 
-## Les fondamentaux selon Paulo, tels que partagés le 14/01/2025
+## Les fondamentaux selon Polo, tels que partagés le 14/01/2025
 
-Avoir envie de jouer ensemble  et prendre du fun à jouer ensemble.
+Avoir envie de jouer ensemble, et prendre du fun à jouer ensemble.
 
 Ne jamais lâcher, même si ça part en n’importe quoi.
 
@@ -15,7 +15,7 @@ Un spectacle d’impro improvisé ça doit être cohérent, fun, émotionnel, av
 
 Les gens sont plus impactés par les émotions que par la narration.
 
-Une belle histoire c’est “un bon début, une belle fin, et être pro au milieu” 🙂
+Une belle histoire c’est : “un bon début, une belle fin, et être pro au milieu” 🙂
 
 Savoir quand couper une scène, et le faire ! C’est la responsabilité collective → au climax, avant que ça retombe ! C’est (quasi) toujours l’extérieur qui doit cutter, très rarement les comédiens en jeu.
 

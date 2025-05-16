@@ -1,5 +1,7 @@
 # Tout ce qu'il faut savoir pour être super fort en impro.
 
+Le titre est provocateur bien sûr !
+
 ## À faire !
 1. En tant que **comédien**, faire preuve d'engouement et d'enthousiasme.
 2. En tant que **personnage**, faire preuve d'énergie et d'incarnation.
@@ -14,9 +16,11 @@
 10. Accepter de perdre !
 11. Reconnaître quand une scène s'essouffle, et rentrer (ou sortir).
 12. Savoir sortir de scène si je ne sers à rien.
+13. Démarrer une scène en action, on est "au milieu de quelque chose", pas au début ("Bonjour/bonjour" ...) 
+
 
 ## À éviter !
-1. "Bonjour !" / "Salut, ça va ?" / "Qu'est-ce que tu fais ?"
+1. Poser des questions : "Bonjour !" / "Salut, ça va ?" / "Qu'est-ce que tu fais ?"
 2. Hésiter / être indécis / ne pas savoir
 3. Piétiner, se balancer → Ancrage !
 4. Négocier

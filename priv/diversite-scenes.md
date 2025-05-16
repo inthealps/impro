@@ -1,6 +1,9 @@
 # Diversité de scènes
 
+Souvent en long-form (forme longue), on a tendance à ne jouer que des scènes qui se ressemblent.  
+Or, il est important d'amener du contraste, de la diversité dans nos scènes ! Pour enrichir le spectacle, donner à voir, surprendre le spectateur.  
 
+Voici quelques pistes pour diversifier les scènes, en jouant sur le rythme, la mise en scène, les monologues, etc.
 
 ## Type de scènes
 ### Rythme
@@ -31,4 +34,3 @@
 - scène en parlant très fort
 - scènes en ping-pong (2 scènes en //)
 - scène de colère
-- 

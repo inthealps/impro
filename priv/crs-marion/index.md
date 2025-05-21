@@ -675,6 +675,49 @@ Tips de réussite :
 - Réincorporation d'éléments de la scène
 
 
+## Exercice "Mime contraint, en duo "
+En duo.  
+A va entamer un mime, sans parole.  
+Une fois que B a compris de quoi il s'agit, il va donner des contraintes à A, sous forme d'aléas.  
+
+Exemples d'aléas :
+- (A découpe une feuille de papier avec une paire de ciseaux) Tes ciseaux fondent, ils deviennent de la guimauve.
+- (A est en train de couper des carottes) Les carottes grandissent, elles deviennent énormes.
+
+L'idée est d'aller chercher des choses improbables, et de les jouer. De dépasser la première idée, pour aller gratter des choses plus intéressantes.  
+
+Cela est transposable à du jeu scénique (et même à du long-form évidemment).
+
+Variante une fois qu'on a bien compris le principe :  
+On va jouer une scène à deux, avec des mimes, et on va se donner des aléas à la volée.  
+
+Cela va donner des scènes funs et visuelles !
+
+Tips de réussite :
+- S'écouter, répliquer ce que fait l'autre.
+- Aller chercher la deuxième idée : "Comment puis-je rendre ce coupage de carottes intéressant ??"
+- L'idée est de mettre du sel... de relever le mime / l'impro !
+
+
+## Exercice "Le périple, en auto-tuilages"
+En duo.
+
+On donne un thème à deux comédiens. Ils entament une histoire qui sera un périple.  
+Il y aura un début, des scènes de milieu et une fin.  
+
+L'idée est d'illustrer un voyage en un temps record, comme si on voyait le temps défiler en accéléré !  
+
+Début (scène 1) -> scène 2 -> scène 3 -> ... -> fin (dernière scène)  
+
+On va faire des tuilages entre chaque scène. Comme on n'est que deux sur scène, bah cà sera des auto-tuilages !  
+
+Tips de réussite :
+- Avancer dans l'histoire, ne pas rester bloqués sur une scène.
+- Les scènes doivent être très courtes ! Dès qu'on a compris le propos, que la scène a rempli son objectif, on tuile et on passe à la suite.
+- Pour les tuilages entre les scènes, on sort de notre personnage, on revient en comédien, et on revient dans le personnage pour la scène d'après. Cela permet de rendre visible que c'est un tuilage !
+- On n'oublie pas les fondamentaux des scènes : on doit trouver les enjeux de la relation, les émotions, le décor, le corps, …
+
+
 # Jeu
 
 ## Jeu "Freeze sans tag"
@@ -967,6 +1010,61 @@ Tips de réussite :
 - Les transitions doivent être fluides.
 - Se laisser transporter par la musique, elle doit nous guider, nous inspirer. On doit accueillir les changements de ses rythmes.
 
+
+## Jeu "Le mid-form scruté !"
+On va jouer un mid-form, libre, mais avec des observateurs !  
+
+Ils vont scruter chaque scène, et vont faire des retours spécifiques sur ce qu'ils auront vu.  
+
+Chaque observateur va scruter un point particulier :  
+- La propreté des tuilages, et leur subtilité
+- La précision du langage
+- La diversité de la mise en scène
+- L'utilisation des objets
+- La qualité des réactions
+- La force des choix effectués
+
+Évidemment, selon le nombre, on se répartit les points à scruter entre observateurs.  
+
+Tips de réussite :
+- On note tout au fur et à mesure, on a un papier et un stylo.
+- Comme tout bon feedback, on note avant tout le positif ! Et on peut saupoudrer de quelques points d'amélioration.
+
+**Détail des points à scruter :**
+
+### Tuilages
+Un tuilage propre c'est :
+- Un comédien qui se met en position sur scène, et qui se met en action.
+- Les comédiens en place (de la scène précédente) vont finir leur scène très rapidement. Au pire, le comédien va prendre le lead vocal, et donc prendre le focus du public, et les comédiens sortiront.
+- Tant que son partenaire n'est pas présent sur scène, le comédien joue avec le personnage (imaginaire). Son partenaire de jeu va le rejoindre, se mettre dans son regard (très important), et va jouer avec lui.
+- Le comédien ne doit pas appeler le personnage, puis attendre ! Non, il meuble la scène, comme si le personnage était présent.
+- Un tuilage subtil ce n'est pas appeler le personnage par son prénom, comme pour le convoquer, c'est réincorporer des éléments qui vont faire comprendre que c'est lui qui est appelé.
+- Un tuilage qui coupe la scène AU BON MOMENT ! Attention aux scènes trop longues qui s'essoufflent, et perdent de leur intérêt.
+
+
+### Précision du langage
+- On scrute la précision du langage, et la qualité des dialogues.
+- On scrute les hésitations, les "Euh", les répétitions inutiles, les tics de langage, …
+
+### Diversité de la mise en scène
+On scrute la diversité des mises en scène, la variété des propositions scéniques :
+- nombre de comédiens en jeu
+- position des comédiens sur scène
+- scènes blabla vs scènes corporelles ou visuelles
+
+### Utilisation des objets
+Qualité des mimes, nombre d'objets utilisés, rôle dans l'histoire, …
+
+### Qualité des réactions
+L'impro c'est des actions et des réactions.  
+Ce qui est scruté ici c'est comment les comédiens réagissent aux propositions de leurs partenaires, et comment ils se laissent porter par les propositions des autres.  
+On va scruter les négociations, les refus, les atténuations des propositions…
+
+### Faire des choix forts
+On scrute la force des choix effectués par les comédiens.  
+Comment ces choix font tourner l'histoire, comment ils font avancer les scènes, comment ils apportent de la richesse à l'histoire.  
+
+A contrario, les choix faibles desservent l'impro.
 
 
 # Catégories de match d'impro

@@ -1625,3 +1625,89 @@ Tips de réussite :
 - On parle d'émotion “active” : quel type d'émotion me vient de mon corps, de la situation ? Je n’ai pas à inventer, ça vient … ou non !
 - Ne pas chercher forcément à expliquer la position, mais plus partir de l’impulse émotionnelle et entrer dans la relation.
 - Rester dans le corps, ne pas revenir à la position “frites” parce qu’on a libéré la parole !
+
+## Échauffement "À la recherche des dos"
+_Date de création : 2025-05-13T20:00:00_
+**1. Phase individuelle**  
+Une sorte de méditation, dans la pénombre, en musique, allongés sur le dos à même le sol, les bras le long du corps.  
+On ferme les yeux, on commence à se connecter à nous-même.  
+Puis sur une expiration longue on va faire passer notre bras droit, avec la main toujours en contact avec le sol, jusqu'à ce que nos deux mains se rejoignent. Cela va nécessiter un pivotement de notre corps sur le côté.  
+Sur une autre expiration, on va faire revenir notre bras le long du corps.
+On continue ainsi, plusieurs fois en faisant le vide dans notre tête.  
+
+**2. Phase collective**  
+Au bout d’un moment, on va se mouvoir au sol, toujours avec les yeux fermés, et rejoindre un ou deux partenaires. 1er contact avec le dos, puis autre partie du corps. Exploiter.  
+Toujours les yeux fermés, rejoindre le groupe et se mouvoir en gardant toujours contact.  
+
+## Échauffement "Haka en groupe"
+_Date de création : 2025-05-13T20:00:00_
+Deux groupes de 4 comédiens se font face.  
+Chaque groupe forme un losange, le leader est à la pointe basse du losange, de sorte que ses partenaires ne le voit pas.  
+Le leader lance un haka (série de sons guerriers agrémentés de gestes) dirigé vers le groupe adverse.  
+
+Dès qu’il a terminé, ses partenaires reprennent les sons, et inventent les gestes qui vont avec (car ils n’ont pas pu voir les gestes du leader).
+Une fois terminé le haka, le groupe permute de manière à ce qu’un nouveau leader soit en position.  
+C’est au tour du groupe adverse de lancer son haka.  
+
+Tips de réussite :
+- Se synchroniser lors de la réplique du haka. Cela a beaucoup plus d’impact et nécessite une bonne écoute de ses partenaires.
+- Croire à ce que l’on fait, ne pas se juger, y mettre une grosse énergie d’implication
+- Pivoter rapidement, et enchaîner rapidement. Cela doit être très dynamique.
+
+
+## Échauffement "Cris et corps"
+_Date de création : 2025-05-13T20:00:00_
+En duo.  
+A est derrière B et produit des sons divers, B répond “corporellement” à ces sons en mimant ce à quoi ça lui fait penser.    
+A peut varier les sons, les rythmes, les intensités, et la rapidité avec laquelle il change de proposition.  
+B doit réagir rapidement, sans réfléchir, et sans se juger. B peut se déplacer dans l'espace (c'est même mieux), se rouler par terre, se mettre dans des positions improbables, etc.  
+
+Variante :
+- A peut produire des sons pour tout le groupe, et chacun répond “corporellement” avec la proposition qui lui vient à l'esprit.
+
+
+## Échauffement "Monstres sculptés"
+_Date de création : 2025-05-13T20:00:00_
+Deux groupes de 3/4 comédiens se font face.  
+Les comédiens du groupe A vont sculpter les comédiens du groupe B en “monstres”.  Il vont sculpter le corps, et le visage, la grimace...  
+Puis les A vont se replacer à distance des B.  
+Les monstres vont alors avancer, lentement, menaçant, vers les A.  
+
+Une fois effectué, changement des rôles.  
+
+Tips de réussite :
+- Croire à son monstre, l’incarner, le vivre à 200%
+- Faire des bruits, des cris, des mouvements de corps, des regards, etc. Ça doit être creepy et flippant !!
+- Ne pas hésiter à faire des mouvements de corps lents, pour créer une tension palpable.
+- Mettre des ruptures, dans le rythme, dans les mouvements, dans les regards, le volume sonore, etc.
+- Ne pas décrocher, ni partir dans le rire...
+
+
+## Exercice "Le 'clap' qui change tout"
+_Date de création : 2025-05-13T20:00:00_
+Par 2 ou 3.  
+A fait des débuts d’impro en solo. Quand B en a assez vu, il “frappe” dans ses mains, et A doit alors changer d’impro !
+
+L'idée derrière cet exercice et de voir ”ce qu'il se passe quand on ne sait plus” → c’est là que ça devient intéressant !  
+L'état de flow dans lequel on se trouve quand on quitte notre zone de confort et que l’on débranche notre “caméra du jugement” est extatique. C’est cool, on a vraiment l’impression de commencer à improviser pour de vrai.    
+
+Au bout d'un certain temps, B va débriefer A, en lui donnant un retour sur ce qu'il a vu, les 'patterns' qu'il a repérés sur le jeu de A, etc.  
+Puis, changement des rôles.  
+
+Tips de réussite :
+- Clapper dès que A est dans sa zone de confort, qu'il fait des choses qu'il sait faire, et qu'il ne prend pas de risque.  
+- Cet exercice est à rejouer très régulièrement tant il éclaire sur la posture de l’improvisateur.ice, H2S, n’ayant pas peur de l’inconnu, fier de ce qu’il produit…
+
+
+## Exercice "Sur-réaction programmée"
+_Date de création : 2025-05-13T20:00:00_
+En duo.  
+
+A va choisir à quel numéro de réplique de B il va sur-réagir : "À la troisième réplique de B, je vais sur-réagir !".  
+En revanche, l'émotion de la réaction est choisie en fonction de la scène, et non choisie à l’avance.  
+
+A et B commencent l'impro, et au moment pré-déterminé, bam !  
+
+Tips de réussite :
+- La sur-réaction est exagérée, surréaliste !
+- C’est par le corps que se traduit la sur-réaction, plus que par les mots.

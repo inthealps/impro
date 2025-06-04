@@ -268,7 +268,7 @@ Tips de réussite :
 - On est dans l'émotion, on est dans l'instant présent, on est dans le corps.  
 - Prendre le temps d'accueillir et de réagir.  
 - On dit plein de choses "juste" avec le corps, nos émotions, nos gestes et mouvements, le rythme, …  
-- Sans paroles, c'est souvent très juste et très fort.  
+- Sans paroles, c'est souvent très juste et très fort.
 
 
 ## Exercice "Déplacement avec Mantra"
@@ -718,6 +718,53 @@ Tips de réussite :
 - On n'oublie pas les fondamentaux des scènes : on doit trouver les enjeux de la relation, les émotions, le décor, le corps, …
 
 
+## Échauffement "50 nuances de checks"
+En mouvement dans la pièce, on commence à mobiliser son corps, à se déplacer, centré sur soi.  
+Au bout d'un moment, on commence à se connecter aux autres, avec le regard.  
+**On est H2S !**  
+Puis on va rencontrer une personne, et se faire un check original, pas n'importe comment !  
+
+On va ensuite, croiser une autre personne et se faire un nouveau check, mais en variant les styles, les rythmes, les vitesses, les intensités, …  
+
+Au bout de 4 checks, on va recroiser les personnes, et on va refaire exactement le même check.
+On enchaine, de manière aléatoire, et de plus en plus fluide !  
+On accélère le rythme, ça doit nous échauffer !
+
+
+## Exercice "Narration en duo avec choix forts"
+En duo.  
+A va entamer une narration, en mode "je raconte une histoire".  
+B va l'écouter, et à tout moment, il peut dire proposer un choix :  
+- "Choix 1 : ton personnage + (une proposition de B)"
+- "Choix 2 : ton personnage + (une autre proposition de B)"
+
+L'idée est de faire avancer l'histoire, mais en proposant des choix forts, qui vont amener à des conséquences fortes. En mode co-construction.  
+
+Tips de réussite :
+- On croit aux propositions de l'autre, on les joue, on les intègre dans notre narration.
+- Les deux comédiens sont H2S, et embarqués dans leur histoire.
+- Pas d'hésitations, de "Euh" parasites, on est dans l'instant présent, on se laisse porter par les propositions de l'autre.
+
+
+## Exercice "Des débuts de mid-form efficaces"
+À quatre, plus une police de l'histoire en option.
+
+Le principe est le suivant :  
+- A et B entament une scène de plateforme : c'est le monde normal, tout va bien, c'est la routine des deux personnages. Le public doit comprendre la relation et commencer à s'attacher aux personnages.
+- Lorsque la scène a rempli son rôle d'installation, C et D vont tuiler pour effectuer leur plateforme. Idem, monde normal. Il ne faut rien reprendre de la plateforme précédente, aucun lien ne doit être tissé !
+- Idem, lorsque la scène a rempli son rôle d'installation, A (ou B) va tuiler pour entamer une scène avec C (ou D). C'est une scène de mélange. On en parle pas des scènes d'avant, on réincorpore des éléments posés précédemment, mais on s'attache bien à la relation des deux personnages sur scène.
+- L'idée est d'amener un objectif clair, une quête, un enjeu pour l'histoire de notre mid-form.
+- Alors, on fait des CHOIX FORTS ! On y va ! L'idée est de faire avancer l'histoire, cela doit être efficace !
+
+Variantes possibles :
+- Le public peut donner un thème avant d'attaquer le mid-form.
+- Il peut y avoir une "police de l'histoire" qui va intervenir à tout moment pour dire ce qu'il lui manque : "Prénoms !", "Relation !", "Choix fort !", etc.
+- Les comédiens peuvent piocher un "mantra" et l'intégrer dans leur narration.
+
+L'intérêt de cet exercice est qu'en trois scènes on voit si notre mid-form est bien parti... ou pas !  
+On travaille l'efficacité de nos plateformes, la clarté de nos relations, la fluidité des tuilages, et l'importance de faire avancer l'histoire.  
+
+
 # Jeu
 
 ## Jeu "Freeze sans tag"
@@ -989,7 +1036,7 @@ En musique.
 
 Une sorte de catégorie "contée".
 
-Quelques personnes du public vont inventer un proverbe, qu'ils vont écrire sur une feuille, et le proposer aux comédiens.    
+Quelques personnes du public vont inventer un proverbe, qu'ils vont écrire sur une feuille, et le proposer aux comédiens.  
 Les comédiens A, B et C vont lire à voix basse le proverbe, et faire un caucus de quelques dizaines de secondes pour voir ce qu'ils peuvent en faire.  
 
 Puis, ils se lancent dans la narration.  
@@ -1005,6 +1052,7 @@ Cela doit être la dernière phrase de l'histoire.
 Tips de réussite :
 - Ne pas se précipiter, prendre le temps de bâtir l'histoire.
 - Ne pas se laisser déstabiliser par le proverbe, il doit être intégré naturellement à l'histoire.
+- Le proverbe n’est pas un “thème”, un point de départ, mais bien un point d’arrivée !
 - Laisser de la place à l'imaginaire, à la créativité, à l'émotion, …
 - Ne pas jouer, mais se laisser happer par la narration, on peut être un narrateur convaincant et "corporel".
 - Les transitions doivent être fluides.

@@ -764,6 +764,86 @@ Variantes possibles :
 L'intérêt de cet exercice est qu'en trois scènes on voit si notre mid-form est bien parti... ou pas !  
 On travaille l'efficacité de nos plateformes, la clarté de nos relations, la fluidité des tuilages, et l'importance de faire avancer l'histoire.  
 
+Tips de réussite :
+- Avancer = faire des choix forts
+- Arrêtons de redire ce que l'on sait déjà. (Indicateur du metteur en scène : "On le sait déjà !")
+
+
+## Exercice "Actions et dialogue"
+En duo.  
+A et B entament une scène, en jouant une action physique, sans parole.  
+Sans stopper leur action, ils vont commencer à dialoguer.  
+On ne parle pas de ce que l'on fait, il s'agit d'une discussion autre, destinée à habiller la relation.  
+On peut même changer de sujet de conversation, mais on continue à jouer l'action.  
+
+Tips de réussite :
+- Ne pas s'arrêter dans l'action, continuer à jouer l'action tout en parlant.
+- Varier l'action, ne pas hésiter à se déplacer.
+- On peut regarder l'autre personne tout en jouant l'action.
+- On peut parler de nous ou de l'autre... mais PAS de l'action !
+
+
+## Exercice "Mise en scène 'Action + pensées"
+En duo.  
+A entame une scène, en jouant une action physique, sans parole.  
+B va jouer le rôle de la voix intérieure de A, et va décrire ce que A pense, ce qu'il ressent, ce qu'il vit.  
+
+Ces pensées sont destinées à habiller le personnage.
+Pour le public, c'est un peu comme si on voyait ce qui se passe dans la tête de A, et comment il est tiraillé par ses pensées.  
+
+Tips de réussite :
+- Ne pas s'arrêter dans l'action.
+- Se synchroniser : A peut marquer un temps d'hésitation, secouer la tête comme pour chasser une mauvaise pensée, ...
+- B doit être attentif à ce que A joue, et adapter les pensées à ce qu'il comprend.
+
+
+## Exercice "Mise en scène 'Action + N pensées contradictoires'"
+En groupe.  
+Un personnage (A) et N penseurs (B1, B2, B3, …).
+
+A entame une scène, en jouant une action physique, sans parole.  
+Les penseurs B vont jouer le rôle des voix intérieures de A, et vont décrire ce que A pense, ce qu'il ressent, ce qu'il vit.  
+
+Ces pensées sont destinées à habiller le personnage.
+Elles peuvent être contradictoires, et même se répondre entre elles.  
+
+Pour le public, c'est un peu comme si on voyait ce qui se passe dans la tête de A, et comment il est tiraillé par ses pensées.  
+
+
+Tips de réussite :
+- Ne pas s'arrêter dans l'action.
+- Les penseurs doivent être attentifs à ce que A joue.
+- Les penseurs doivent se synchroniser, et ne pas parler en même temps, au moins au début !
+- On fait monter la pression, on peut faire monter le volume, la vitesse, l'intensité des pensées.
+- On détecte les changements de rythme, on reste à l'écoute.
+
+
+## Exercice "Mise en scène 'Action + voix off"
+En duo.  
+A entame une scène, en jouant une action physique, sans parole.  
+B va jouer le rôle de la voix off, et va décrire le personnage de A.  
+
+Ce "narrateur" va habiller le personnage de A.
+Les éléments de narration devront être réincorporés dans l'histoire, et A devra les jouer.  Le public attend ça ! C'est la promesse de cette mise en scène.  
+
+Tips de réussite :
+- Ne pas s'arrêter dans l'action.
+- B peut laisser des silences pour remettre le focus sur A, et laisser le temps au public de visualiser ce qui se passe.
+- Les éléments de A doivent être spécifiques et contextualisés. Exemple : "Il a un tic nerveux, il se gratte le nez quand il est stressé".
+
+
+## Exercice "Mise en scène 'Immobile + monologue'"
+En duo.  
+A est en avant-scène, immobile, muet.  
+B est en fond de scène, il va entamer une discussion avec A pour habiller leur relation, mais A ne va jamais répondre.  
+B est donc seul à la manœuvre.  
+
+À chaque nouvelle proposition, B va se rapprocher physiquement de A, jusqu'à se placer à côté de lui.  
+À chaque pas correspond donc un nouvel élément de la relation, un nouvel élément de contexte, une nouvelle émotion.  
+
+Tips de réussite :
+- A peut jouer des émotions, mais en mode minimaliste.
+
 
 # Jeu
 

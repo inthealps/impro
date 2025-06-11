@@ -1711,3 +1711,131 @@ A et B commencent l'impro, et au moment pré-déterminé, bam !
 Tips de réussite :
 - La sur-réaction est exagérée, surréaliste !
 - C’est par le corps que se traduit la sur-réaction, plus que par les mots.
+
+
+## Échauffement "Humming chorus"
+_Date de création : 2025-06-10T20:00:00_
+En cercle.  
+On ferme les yeux, on synchronise nos respirations.  
+Au bout d'un moment, quelqu'un commence à faire un "huummm" (un bourdonnement).  
+Puis il va se tourner vers un de ses voisins tout en continuant son "huummm".  
+Le voisin va entamer le "huummm" à son tour, et ainsi de suite.  
+
+
+## Échauffement "La discothèque gênante"
+_Date de création : 2025-06-10T20:00:00_
+En duo.  
+A et B sont en discothèque, A danse à fond, de manière exubérante, et engagée corporellement.  
+B le regarde, très gêné !  
+
+Au clap du coach, on permute.  
+
+C'est un échauffement qui permet de lâcher prise, et de se mettre en mouvement.
+
+
+## Exercice "Duos contrastés"
+_Date de création : 2025-06-10T20:00:00_
+Deux duos, AB et CD.  
+A et B sont en jeu, ils jouent une scène de plateforme.  
+Au bout d'un moment, C et D vont entrer en scène, mais avec un contraste corporel fort avec le duo AB.  
+
+Si AB sont cools, CD sont très énergiques.  
+
+AB doit intégrer le duo CD dans leur jeu, et vice versa.  
+Qu'est-ce que ça apporte ?  
+
+
+## Exercice "Irruption corporelle"
+_Date de création : 2025-06-10T20:00:00_
+
+A et B sont en jeu, ils jouent une scène de plateforme.  
+
+C va rentrer avec une contrainte de corps : entrer avec le nez, le cou, les fesses, etc.
+
+AB doit intégrer cette entrée dans leur jeu, et vice versa.  
+Qu'est-ce que ça apporte ?  
+
+
+## Exercice "Le personnage immobile"
+_Date de création : 2025-06-10T20:00:00_
+
+A et B sont en jeu, ils jouent une scène de plateforme.
+
+C va rentrer et se placer n'importe où dans la scène. Mais immobile, et muet !  
+
+AB doit prendre en compte cette entrée dans leur jeu, ne pas ignorer ce personnage.  
+A et B peuvent parler de lui, mais sans entrer directement en contact avec lui (au moins au début, pendant une trentaine de secondes).  
+
+Puis C peut commencer à bouger, et à interagir avec AB. Et inversement.  
+Qu'est-ce que ça apporte ?  
+
+
+Tips de réussite :
+- Ne pas ignorer le personnage immobile, il est là, il fait partie de la scène. Juste, on n'interagit pas avec lui au début.
+- On se pose la question "Qui ça peut bien être ?", on se raconte une histoire !
+- Les comédiens co-construisent la scène ! On bosse tous à expliquer la présence de ce personnage immobile.
+
+Variantes :
+- Peut se jouer en configuration diverses : 1 duo + 1 duo immobile, 1 trio + 1 solo immobile, etc.
+
+
+## Exercice "Le monstre à trois têtes"
+_Date de création : 2025-06-10T20:00:00_
+
+On parle ici de "réalisme magique" : mettre en jeu des choses qui ne sont pas réelles.  
+
+Le monstre à trois têtes pourra être l'image qu'un personnage se fait d'un autre personnage.  
+Par exemple, un personnage qui a peur de son patron, et qui le voit comme une créature démoniaque.  
+Lorsqu'une scène sera jouée avec un monstre à trois têtes le public verra comment le personnage visualise l'autre personnage.  
+
+Comment ça marche ?
+
+On entame une scène en duo. Personnages A et B.
+Au bout d'un moment, deux comédiens vont entrer en scène et se placer derrière A (par exemple).  
+Ils vont commencer à répéter les fins de phrase de A avec une intention commune (menace, amour, attirance, mépris, etc).  
+Puis, au bout d'un moment, ils vont commencer à faire des gestes également, dirigés vers le personnage B.  
+
+Ça doit aller crescendo, puis on peut faire une rupture.
+Le personnage B va se sentir un peu écrasé, dépassé. Le focus est sur le monstre, c'est lui qui doit avoir l'attention du public et le plus la parole.  
+
+Après une telle scène, le public va être beaucoup plus en empathie avec ce que ressent le personnage B lorsqu'il se retrouve en présence du personnage A.  
+On aura dit beaucoup plus qu'avec des mots simples, et on aura montré une belle scène visuelle, et qui change de l'ordinaire !
+
+Tips de réussite :
+- Se positionner de 3/4 par rapport au public, pour qu'il puisse bien voir le monstre.
+- Faire beaucoup parler le monstre.
+- On doit avoir une synergie entre les 3 comédiens qui jouent le monstre. Cela demande de l'écoute, de la synchronisation, et de la complicité.
+- Les têtes peuvent se regarder et interagir.
+- Si on dispose d'une régie, elle peut mettre une lumière qui montre qu'on a quitté le monde réel.
+- Pousser les curseurs, se sentir libre, lâcher la tête.
+- Si le comédien qui joue le personnage du monstre n'a plus d'idée de texte, les têtes peuvent prendre le relai : "Dis-lui qu'on le trouve beau !", "Dis-lui qu'on le déteste, qu'il pue des pieds !", etc.
+
+
+## Exercice "Le trickster qui veut aider"
+_Date de création : 2025-06-10T20:00:00_
+
+L'idée de ce personnage est de venir perturber une scène, pour amener un running-gag.  
+
+Par exemple, le trickster sait ce dont un personnage a besoin, mieux que le personnage lui-même !  
+Il va infliger de l'aide : "Tu as besoin d'une nouvelle coupe de cheveux, ça tombe bien, j'ai des ciseaux !".  
+Et très régulièrement, il va revenir là-dessus, pour trouver plein d'idées pour couper les cheveux du personnage, qui, lui, est saoulé !
+
+Tips de réussite :
+- Le trickster doit pousser les curseurs !
+
+## Exercice "Trouver le jeu de la scène"
+_Date de création : 2025-06-10T20:00:00_
+
+En duo, on va jouer une scène.  
+Un 'metteur en scène' va trouver un jeu de scène, et va demander aux comédiens de le pousser encore plus loin, de l'étirer.  
+
+Exemples :
+- Ton partenaire fait la même chose que toi, mais légèrement décalé.
+- Vous lâchez le regard dès que l'autre vous regarde.
+- Vous ne vous exprimez que par onomatopées.
+- Vous commencez à parler en même temps, puis vous vous arrêtez, puis vous repartez en même temps, etc.
+
+Tips de réussite :
+- Détecter le jeu de scène chez les autres.
+- Puis arriver à le détecter chez soi, lorsqu'on est en jeu ! (cela demande de l'entraînement et de s'imposer ces contraintes en répétitions !)
+

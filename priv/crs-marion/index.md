@@ -1342,4 +1342,16 @@ On veut voir des personnages affairés à la même œuvre collective, mais avec 
 Dans un labo, quelqu'un peut regarder dans un microscope, un autre peut observer et noter dans un carnet, un autre peut manipuler des tubes à essai, un autre peut consulter un dossier, …  
 On peut même jouer le rat de laboratoire, plutôt que de le décrire …  
 -> Show, don't tell !  
-On veut voir des "passages", 
+On veut voir des "passages",
+
+
+# Un bon mid-form
+Un bon mid-form, c'est :
+- Des relations claires
+- Des lieux vivants
+- De la place laissée au silence
+- Des 'passages' de figurants
+- Des choix forts
+- L'intégration de la réalité (c'est là, ça existe, je ne le nie pas)
+- De la complicité entre comédien.ne.s
+- Clore (toutes) les pistes

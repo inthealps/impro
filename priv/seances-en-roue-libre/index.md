@@ -238,6 +238,7 @@ Variante 3 : Le même, toujours très lentement, on ne se lâche pas du regard, 
 → Méga-efficace pour entrer en énergie, ça décoiffe, ça tend, ça détend, c'est très drôle !  
 
 ## Échauffement "J'ai besoin d'aide"
+_Date de création : 2022-02-15T20:00:00_
 - Je marche dans la pièce.  
 - Je marche, puis je salue un autre comédien.  
 - Je marche, je rencontre puis demande un service.  
@@ -246,7 +247,6 @@ La réponse est toujours "Oui, volontiers".
 
 Puis, "Non, pas le temps", puis "Non, tu m'emmerdes", puis "Non, puis oui …", puis "Oui, puis non …" → on voit ce que ça change.  
 
-_Date de création : 2022-02-15T20:00:00_
 
 ## Exercice "7 niveaux d'intensité"
 _Date de création : 2021-09-07T20:00:00_
@@ -275,11 +275,11 @@ Les spectateurs sont les metteurs en scènes pour donner les consignes suivantes
 - imposer un personnage principal
 
 ## Exercice "2 chaises, choix de focus"
+_Date de création : 2021-11-30T20:00:00_
 Dos au public, derrière 2 chaises, les deux partenaires partent en même temps et entament un déplacement vers le centre scène. La consigne est de ne regarder que le public, ou son partenaire. Le but est de s'asseoir en même temps sur la chaise, en ayant fait un choix clair "regard public" ou " regard partenaire" (ce choix ne change plus une fois assis).  
 
 On voit ce qu'il se passe.  
 
-_Date de création : 2021-11-30T20:00:00_
 
 ## Exercice "2 chaises, 2 dialogues"
 _Date de création : 2021-11-30T20:00:00_
@@ -417,9 +417,9 @@ On se secoue les mains et pieds en décomptant à voix haute de 8 à 1 ! Le plus
 
 À 8 on secoue 8 fois la main gauche, puis droite, puis pied droit puis gauche. Puis on fait pour 7 etc, jusqu'à 1.  
 
-_Date de création : 2022-01-15T20:00:00_
 
 ## Exercice "La Transe-Poney ;)"
+_Date de création : 2022-01-15T20:00:00_
 En musique, détente et voix … on fait du poney en transe, et en musique !  
 
 La musique est là : https://www.youtube.com/watch?v=0lBjcaMokvo&t=177s !  
@@ -1715,6 +1715,7 @@ Tips de réussite :
 
 ## Échauffement "Humming chorus"
 _Date de création : 2025-06-10T20:00:00_
+
 En cercle.  
 On ferme les yeux, on synchronise nos respirations.  
 Au bout d'un moment, quelqu'un commence à faire un "huummm" (un bourdonnement).  
@@ -1724,6 +1725,7 @@ Le voisin va entamer le "huummm" à son tour, et ainsi de suite.
 
 ## Échauffement "La discothèque gênante"
 _Date de création : 2025-06-10T20:00:00_
+
 En duo.  
 A et B sont en discothèque, A danse à fond, de manière exubérante, et engagée corporellement.  
 B le regarde, très gêné !  
@@ -1735,6 +1737,7 @@ C'est un échauffement qui permet de lâcher prise, et de se mettre en mouvement
 
 ## Exercice "Duos contrastés"
 _Date de création : 2025-06-10T20:00:00_
+
 Deux duos, AB et CD.  
 A et B sont en jeu, ils jouent une scène de plateforme.  
 Au bout d'un moment, C et D vont entrer en scène, mais avec un contraste corporel fort avec le duo AB.  

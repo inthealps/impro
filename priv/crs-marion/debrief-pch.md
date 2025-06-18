@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Impro Boost, Aurore Desgranges - mes debriefs"
+title:  "Debrief de Marion Genet sur mon jeu"
 ---
 
 Debriefs divers de Marion Genet sur mon jeu, mes pistes d'amélioration, Sept 2024 - Juin 2025

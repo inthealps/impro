@@ -1195,6 +1195,22 @@ Comment ces choix font tourner l'histoire, comment ils font avancer les scènes,
 A contrario, les choix faibles desservent l'impro.
 
 
+## Jeu "Diptyque, mid-forms alternés"
+2 équipes de N comédiens.
+
+Chaque équipe va jouer un mid-form, on aura donc deux histoires complètement étanches.  
+On va alterner les scènes de l'histoire A et celles de l'histoire B, en jouant des tuilages entre ces scènes.  
+Ainsi, l'histoire A va se dérouler sur les scènes impaires, et B sur les scènes paires.  
+
+
+Tips de réussite :
+- Les deux histoires ne se mélangent pas, ne se rejoignent pas !
+- Chaque mid-form doit respecter les "règles" habituelles du mid-form : plateforme, univers et relations variés, tuilages, choix forts, variété de mise en scène, cloture des pistes…
+- On tente de diviser le temps de manière équitable entre les deux histoires.
+- On évite de se faire polluer par l'autre histoire, on ne prend pas les mêmes prénoms (si si, ça arrive), les mêmes ressorts narratifs, le même type d'enjeux...
+
+
+
 # Catégories de match d'impro
 
 **"Aller chercher dans les contraintes donne du dynamisme et de la variété"**

@@ -247,6 +247,7 @@ On va jouer une scène en duo, mais on ne va jamais lâcher le mime.
 Dans cet exercice, on peut parler de notre mime : "Je mets ton livre sur cette table".  
 
 Tips de réussite :
+- Être H2S à mort !! 🤩
 - TREC
 - Le mime est prioritaire à la parole.  
 
@@ -283,6 +284,8 @@ Idées de setup :
 - Mimes : "Deux sœurs nettoient leur voiture". Paroles : "Le voisin du dessus est très bruyant, il faut faire quelque chose".  
 
 Tips de réussite :
+- Être H2S à mort !! 🤩
+- Poser les choses sans urgence
 - Mimer en parlant d’autre chose rend votre personnage compétent.  
 Exemple : Un chirurgien qui décrit ce qu’il fait se rassure. Il manque d’expérience. Un chirurgien qui parle de la météo tout en faisant une opération, c’est un chirurgien expérimenté qui a l’habitude de faire des opérations.  
 
@@ -292,7 +295,7 @@ Cet exercice empêche la "Position Maudite" (ou "Position Frites").
 C’est la difficulté de cet exercice qui rend la scène intéressante, car il amène sous-texte et imprévu.  
 
 Debrief immédiat (public/coach) :
-- Qu’est-ce qu’on a senti comme sous-texte ?
+- Qu’est-ce qu’on a senti comme sous-texte à la scène ?
 - Quels imprévus ont surgi ?
 - Est-ce que c’était cool ? (Réponse : OUIIII !)
 -> ça permet aux comédiens de se rendre compte de tout ce qu’ils n’ont pas vus et qui pourtant était là, et intégré dans leur jeu.  
@@ -324,6 +327,10 @@ Mimer plein de trucs de la vie courante :
 - Skate-board (on se penche en avant, on pousse avec le pied, on regarde devant soi, on se penche pour faire un virage, etc)
 - Voiture (on ouvre la porte, on s’assied, on boucle sa ceinture, on démarre, on tourne le volant, on regarde dans les rétros, on change de vitesse, on freine, on accélère, etc)
 - etc
+
+Tips de réussite :
+- Essayer avec des vrais objets
+- Penser "Comment ce moyen de transport fait bouger mon corps dans la vraie vie ?"
 
 
 ## Exercice "Porte Land + moyens de transports à deux"

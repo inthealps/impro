@@ -34,24 +34,19 @@ Retours cashs
 
 
 ## Verbatims
-Activité telleemnt exigente que l'extreme bienveillance est mal placée (curseur).
-
+Activité tellement exigeante que l'extrême bienveillance est mal placée (curseur).
 
 Trop de gentillesse donne des choses
-
-
 
 Tu ne pourras pas faire bouger ton groupe d'impro.
 
 Tu ne changeras pas le monde du jour au lendemain.
 
-
 -> Démarre avec des gens "comme toi", avec
 
+Affirme ce que tu aimes faire, et fais-le en jeu …
 
-Affirme ce que tu aimes faire, et fais le en jeu …
-
-Ca peut gener un peu tes partenaires, il faut etre agile pour integrer les autres là-dedans …
+Ça peut gêner un peu tes partenaires, il faut être agile pour intégrer les autres là-dedans…
 
 Baisse un peu ton niveau d'exigence
 

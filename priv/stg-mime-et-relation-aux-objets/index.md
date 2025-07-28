@@ -5,10 +5,7 @@ date: 2025-07-26
 ---
 
 
-# Mimes et relation aux objets, Nabla Leviste
-date: 2025-07-26
-
-en gros ce que j'ai pigé de la philosophie Nabla
+# Philosophie de Nabla
 
 ## H2S
 Il ne FAUT rien faire ! On PEUT faire, on se donne la permission de faire, et c’est également cool de ne RIEN faire.  
@@ -417,7 +414,7 @@ C’est le contraste entre l’importance de l’objet pour A et la réaction de
 
 # Conclusion (personnelle)
 Le pouvoir de la visualisation est immense.  
-Il me fait ouvrir les yeux sur l’impro, je n’avais pas vraiment perçu à quel point poser tranquillement les choses, et avec soin, était primordial pour les yeux.  
+Il me fait ouvrir les yeux sur l’impro, je n’avais pas vraiment perçu à quel point poser tranquillement les choses, et avec soin, était primordial pour le cerveau ... et pour la décontraction en jeu.  
 
 
 # Recommandations

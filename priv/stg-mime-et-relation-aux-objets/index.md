@@ -114,6 +114,7 @@ Idées :
 - Intégrons ça dans nos scènes de plateformes, ou pour une scène de "respiration", ou quand une scène pinaille.  
 - Le cube nous fait sortir de notre tête, et souvent même, va amèner l’histoire.  
 
+
 ## Exercice "Le cube (en personnages)"
 C’est globalement l’exercice du cube, mais en jouant des personnages.  
 On est toujours deux comédiens/comédiennes à l’intérieur du cube, mais cette fois pas en "techniciens", mais en personnages.  
@@ -144,6 +145,18 @@ Un comédien coupe une endive, il mime mal mais veut bien faire, il fait lenteme
 Ça amène directement un personnage à son partenaire de jeu et au public.  
 
 Le comédien assume tranquillement cela : ce n’est pas "mal fait" !  
+
+Idées d'action pour les exercices TREC :
+- Fumer
+- Se servir du whisky
+- Manger un steak
+- Changer une roue de voiture
+- Faire la vaisselle
+- Retourner des boules à neige
+- Remplir des pots de confiture
+- Lancer des fléchettes
+- Bowling
+- Ouvrir des enveloppes
 
 
 ### Sous-exercice "Temps-réel, le T de TREC"
@@ -244,6 +257,7 @@ Note : Cet exercice est génial, on voit dans le corps la difficulté liée au m
 Tips de réussite :
 - Aimer les mimes imprécis. Je peins un mur avec un pinceau minuscule, c’est cool, décalé, je ne corrige pas mon mime, je le garde tel quel.  
 - En mime constant, mimer ne veut pas forcément dire "dérouler une action en continu". Ça peut être également maintenir une position de mime, la tenue d’un objet dans une main, etc.  
+
 
 ## Exercice "Mime et parole constants"
 On va jouer une scène en duo, mais on ne va jamais lâcher le mime ni la parole.  

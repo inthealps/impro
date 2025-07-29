@@ -34,3 +34,4 @@ title:  "Table des matières"
 ### 2025
 [Stage Où j'en suis en impro, Alex Chetail]({{ 'priv/stg-j-en-suis-ou-en-impro/' | relative_url }})
 [Rencontres LATIAG]({{ 'priv/latiag/' | relative_url }})
+[Mimes et relation aux objets, Nabla Leviste]({{ 'priv/stg-mime-et-relation-aux-objets/' | relative_url }})

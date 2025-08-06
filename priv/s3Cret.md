@@ -37,3 +37,6 @@ title:  "Table des matières"
 [Rencontres LATIAG]({{ 'priv/latiag/' | relative_url }})
 
 [Mimes et relation aux objets, Nabla Leviste]({{ 'priv/stg-mime-et-relation-aux-objets/' | relative_url }})
+
+[Intensité et émotion, Élise Dano]({{ 'priv/stg-intensite-emotion/' | relative_url }})
+

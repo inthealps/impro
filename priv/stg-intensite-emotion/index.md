@@ -7,27 +7,41 @@ date: 2025-08-02
 
 # Philosophie Élise
 
+Quelques 
+
 ## C'est important, mais ce n'est pas grave
 "C'est important, mais ce n'est pas grave" -> Je t'annonce une maladie, ce n'est pas forcément un cancer, ça peut être un rhume.  
 Mais c'est important pour moi, et donc c'est important pour toi ... même si ce n'est pas si grave que ça.  
 
 La sincérité ne passe pas forcément par la gravité.  
 
+
 ## Qu'est-ce ça me fait ?
-"Qu'est-ce ça me fait ?" versus "Qu'est-ce que je fais ?"
+Penser "Qu'est-ce ça me fait ?" plutôt que "Qu'est-ce que je vais faire ?"
 Quand tu es en train de recevoir quelque chose sincèrement, c'est très simple de le jouer.  
+
+Être en mode premier degré sur scène.  
 
 "Tout est déjà là, il n'y a plus qu'à le jouer."
 
 -> Slow-Impro (Matthieu Loos)
 
+
 ## Les personnages de salauds
 Ne pas hésiter à jouer de vrais salauds sur scène, des personnages immondes et méchants.  
 Celà met une auréole de sainteté sur l'autre personnage.  
 
+Même un comédien gentil pourra jouer un personnage de salaud.  
+Par exemple, en répétant des choses qu'il a déjà entendues et en les disant avec conviction.  
+
+Note :
+Ces personnages peuvent perdre à la fin, mais ce n'est pas obligé. 😈
+
+
 ## On va au charbon !
 Ça demande de l'énergie de monter sur scène, ou d'y remonter après avoir été longtemps en réserve.  
 On se mobilise/remobilise, on va au charbon !  
+
 
 ## Tous les corps ont leur place sur scène
 Sans exception.  
@@ -43,6 +57,7 @@ Par exemple :
 - "Marjorie, Marjo rit aux éclats" + un éclat de rire.  
 - etc.  
 
+
 ## Échauffement "Consentement 1, 2, 3 avec les doigts"
 En duo, face à face, on se connecte avec le regard et on fait un chiffre avec les doigts.  
 
@@ -52,15 +67,18 @@ En duo, face à face, on se connecte avec le regard et on fait un chiffre avec l
 
 Évidemment, on s'accorde sur le plus petit chiffre à faire avant de commencer.  
 
+
 ## Échauffement "Roulades connectées"
 En cercle, on se balade dans l'espace, puis on se connecte par le regard avec une personne au hasard.  
 On va se mettre au sol, allongés, et on va effectuer une roulade ensemble tout en gardant la connexion regard.  
+
 
 ## Échauffement "Mobilisation corporelle"
 En musique, on va se balader dans l'espace, portés par la musique, et en étant connecté à nous-même.  
 On va faire des mouvements de mobilisation corporelle, ceux qui nous viennent et dont nous avons besoin à ce moment-là.  
 
 Puis, on va commencer à se laisser pénétrer par les gestes des autres, à les intégrer.  
+
 
 ## Échauffement "Le phare"
 En cercle, on se connecte par le regard avec une personne au hasard.  
@@ -73,6 +91,7 @@ Variantes :
 - On peut remplacer le "Go !" par un petit signe de la tête.  
 - On peut faire l'exercice en mouvement dans la pièce, avec de la musique.  
 
+
 ## Échauffement "Le rocher"
 En duo.  
 A va être un rocher solide. B va venir s'appuyer contre A, en mettant beaucoup de poids.  
@@ -81,6 +100,7 @@ Puis, on change les rôles.
 
 Puis deux duos vont fusionner, il y aura donc un rocher et trois comédiens qui vont venir s'appuyer contre lui.  
 Puis, on peut à nouveau fusionner les duos, jusqu'à avoir un rocher et tous les comédiens qui viennent s'appuyer contre lui.  
+
 
 ## Exercice "Convocation d'émotion, Stanislavski"
 En solo.  
@@ -104,14 +124,17 @@ Attention :
 Cet exercice peut être très intense, et remuer fort. Il est important de respecter les limites de chacun et de ne pas forcer quelqu'un à aller plus loin que ce qu'il est prêt à vivre.  
 Après avoir convoqué l'émotion, et l'avoir poussée loin, il est bon de se remettre dans la corps en mode "Youpi", remettre de la joie et la vivre avec le groupe.  
 
+
 ## Exercice "Convocation d'émotion + une phrase"
 Exercice précédent, puis on va conclure par une phrase.  
+
 
 ## Exercice "Convocation d'émotions en série"
 Exercice précédent, et on va passer d'une émotion à une autre, dictée par l'animateur.  
 On va ainsi passer de la tristesse à la colère, puis de la colère à la peur, puis de la peur à la joie, revenir à la tristesse, etc.  
 
 On laisse juste un petit temps de pause "au neutre" entre chaque émotion (une ou deux secondes).  
+
 
 ## Exercice "Les petits papiers"
 Scène en duo avec émotions au hasard.  
@@ -157,6 +180,7 @@ Tips de réussite :
 - Répéter des paroles, des mots, déjà dits. Ne pas forcément apporter des choses nouvelles. Répéter renforce le propos, les propositions déjà faites (les siennes et celles de l'autre).  
 - Sincérité de jeu : j'y crois !
 
+
 ## Exercice "Le 'Si' magique en musique"
 En duo, et un metteur en scène / narrateur.  
 Deux chaises au plateau.  
@@ -169,6 +193,7 @@ Tips de réussite :
 - Dans cet exercice, ne pas avoir peur de forcer son émotion, au moins au début, et pousser fort, pour voir où ça nous amène.  
 - Ne pas basculer / changer d'émotion tant qu'on n'est pas arrivé au paroxysme de l'émotion.  
 - Le monologue est un excellent moyen de remobiliser le personnage, de le remettre dans ce qu'il ressent (afin de le redonner au comédien).  
+
 
 ## Exercice "Monologue inspiré par la musique"
 En solo, avec une musique diffusée.  
@@ -200,16 +225,20 @@ Tips de réussite :
 - La sincérité ne passe pas forcément par la gravité, on peut jouer un personnage qui est très léger.  
 - Pousser les curseurs de l'émotion, on est intense.  
 
+
 ## Exercice "Je me souviens ..."
 En solo, on va se souvenir d'un lieu important pour nous et le raconter au groupe, sur scène, en mode monologue.  
 
 Ce lieu va nous rappeler une émotion, on l'exprime, on le verbalise.  
+
+L'objectif, ici, est de partir d'un lieu réel, qui nous rappelle vraiment quelque chose, afin d'être le plus sincère possible et de faire ressentir notre émotion au public.
 
 Tips de réussite :
 - On regarde le public, on lui parle en le regardant dans les yeux.  
 - On incarne, on peut faire des gestes.  
 - On prend le temps.  
 - On explique pourquoi c'est important pour nous, ce que ça nous fait.  
+
 
 ## Exercice "Follow the follower"
 Travail choral.  
@@ -226,6 +255,7 @@ Tips de réussite :
 - Respirer ensemble
 - Se regarder beaucoup !
 - Quand on est à fond, on peut encore faire grossir !
+
 
 ## Exercice "Tableau choral en musique, puis monologue"
 Sur scène, en groupe, on va se mettre en mouvement sur la musique, en s'inspirant les uns aux autres.  
@@ -252,6 +282,7 @@ Tips de réussite :
 - On pousse les curseurs
 - On se raconte une histoire dans sa tête
 - On n'essaie pas d'expliquer ce qui se passe, on le vit juste pleinement.  
+
 
 # Pistes de travail pour moi
 Ce stage m'a permis de vire le lâcher-prise sans jugement, de pousser loin les curseurs des émotions, sans peur d'être caricatural.  

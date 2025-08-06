@@ -7,7 +7,7 @@ date: 2025-08-02
 
 # Philosophie Élise
 
-Quelques 
+Quelques principes énoncés par Élise lors du stage, en vrac ...  
 
 ## C'est important, mais ce n'est pas grave
 "C'est important, mais ce n'est pas grave" -> Je t'annonce une maladie, ce n'est pas forcément un cancer, ça peut être un rhume.  
@@ -45,6 +45,12 @@ On se mobilise/remobilise, on va au charbon !
 
 ## Tous les corps ont leur place sur scène
 Sans exception.  
+
+
+## Particularité physique d'un personnage
+L'émergence de personnages effectuée à partir du corps peut faire apparaitre des personnages ayant une particularité physique, voire un handicap.  
+Une particularité physique quelle qu'elle soit, ne nécessite pas que ça devienne le sujet de la scène.  
+Au contraire, parlons d'autre chose !  
 
 
 # Échauffements et Exercices

@@ -110,13 +110,12 @@ On laisse juste un petit temps de pause "au neutre" entre chaque émotion (une o
 Scène en duo avec émotions au hasard, et une contrainte "corps" ou "texte".
 
 Chacun des comédiens va piocher une émotion parmi joie, tristesse, colère et peur.  
-Puis un papier "corps" ou "texte".
+Puis les deux animateurs vont glisser à l'oreille de chaque comédien une consigne "corps" ou "texte".
 
 On va, chacun de son côté, infuser l'émotion (30s/40s), puis commencer à rencontrer l'autre personnage.
 
 Attention :
-Dès qu'on part dans la parole, on perd l'intensité de l'émotion. Faire des choix forts, on se remobilise.  
-"Qu'est-ce que ça me fait VRAIMENT ?"
+Dès qu'on part dans la parole, on perd l'intensité de l'émotion. Faire des choix forts, on se remobilise : "Qu'est-ce que ça me fait VRAIMENT ?"
 
 Tips de réussite :
 - Faire monter l'émotion. On pousse les curseurs

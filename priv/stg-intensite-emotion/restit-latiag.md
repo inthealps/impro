@@ -73,8 +73,8 @@ Puis, on peut à nouveau fusionner les duos, jusqu'à avoir un rocher et tous le
 
 # Exercices d'émotions
 
-@Olivier Petit mot pour dire l'évidence ??
-"Attention à se protéger, on a toujours la possibilité de sortir de la scène si l'émotion est trop forte.  
+Préambule :  
+Attention à se protéger, on a toujours la possibilité de sortir de la scène si l'émotion est trop forte.  
 L'idée est de se reconnecter à une émotion, pas de se faire du mal. Droit de retrait primordial sur cet exercice."
 
 
@@ -95,15 +95,7 @@ Tips de réussite :
 ## Exercice "Convocation d'émotion + une phrase"
 Exercice précédent, puis on va conclure par une phrase.  
 
-@Olivier - Proposition : je te propose de le faire en duo, avec A qui convoque l'émotion, et B qui le "dirige" : "Oui c'est bien, c'est juste ! Pousse encore plus haut !" et qui dit quand A doit dire sa phrase. Et après A/B permutent.
-Du coup, si tu es OK, on ferait "Convocation d'émotions en série" avant celui-là.
-
-## Exercice "Convocation d'émotions en série"
-Solo.
-Exercice précédent, et on va passer d'une émotion à une autre, dictée par l'animateur.  
-On va ainsi passer de la tristesse à la colère, puis de la colère à la peur, puis de la peur à la joie, revenir à la tristesse, etc.
-
-On laisse juste un petit temps de pause "au neutre" entre chaque émotion (une ou deux secondes).
+Mais cette fois-ci on le fait en duo : avec A qui convoque l'émotion, et B qui le "dirige" : "Oui c'est bien, c'est juste ! Pousse encore plus haut !" et qui dit quand A doit dire sa phrase. Et après A/B permutent.
 
 
 ## Exercice "Les petits papiers émotions + corps/texte"

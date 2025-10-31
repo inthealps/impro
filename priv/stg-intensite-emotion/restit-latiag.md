@@ -27,7 +27,7 @@ Accueillir avec enthousiasme et valoriser les propositions de son partenaire.
 ## -- Prez Pierre --
 
 ### Qu'est-ce ça me fait ?
-Penser "Qu'est-ce ça me fait ?" plutôt que "Qu'est-ce que je vais faire ?"
+Penser "Qu'est-ce ça me fait ?" plutôt que "Qu'est-ce que je vais faire ?"  
 Être en mode premier degré sur scène, on reçoit les choses sincèrement -> "On y croit, tout est déjà là, il n'y a plus qu'à le jouer."
 
 
@@ -42,8 +42,7 @@ Sans exception.
 
 ### Particularité physique d'un personnage
 L'émergence de personnages effectuée à partir du corps peut faire apparaitre des personnages ayant une particularité physique, voire un handicap.  
-Une particularité physique ne nécessite pas que ça devienne le sujet de la scène.  
-Au contraire, parlons d'autre chose !
+Une particularité physique ne nécessite pas que ça devienne le sujet de la scène. Au contraire, parlons d'autre chose !
 
 
 # Échauffements
@@ -58,16 +57,14 @@ Puis, on va commencer à se laisser pénétrer par les gestes des autres, à les
 En cercle, on se connecte par le regard avec une personne au hasard.  
 Les autres vont regarder la personne "visée" pour lui donner de l'importance.  
 Quand elle est prête, elle va dire "Go !" et la personne qui lui a adressé le regard va se mettre en mouvement pour la rejoindre, lentement.  
-La personne qui a récupéré le regard va recommencer avec une autre personne.  
-Etc.
+La personne qui a récupéré le regard va recommencer avec une autre personne, etc.
 
 Variantes :
 - On peut remplacer le "Go !" par un petit signe de la tête.
 - On peut faire l'exercice en mouvement dans la pièce, avec de la musique.
 
 ## Échauffement "Le rocher"
-En duo.  
-A va être un rocher solide. B va venir s'appuyer contre A, en mettant beaucoup de poids.
+En duo. A va être un rocher solide. B va venir s'appuyer contre A, en mettant beaucoup de poids.
 
 Puis, on change les rôles.
 
@@ -85,11 +82,7 @@ L'idée est de se reconnecter à une émotion, pas de se faire du mal. Droit de 
 En solo.
 
 On va convoquer une émotion en se basant sur un souvenir personnel.  
-Quatre émotions pour cet exercice :
-- La joie
-- La tristesse
-- La colère
-- La peur
+Quatre émotions pour cet exercice : Joie, tristesse, colère et peur
 
 Tips de réussite :
 - "Qu'est-ce ça me fait ?" versus "Qu'est-ce que je fais ?" (ressentir vs réfléchir)

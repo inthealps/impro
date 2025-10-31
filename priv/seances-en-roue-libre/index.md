@@ -1333,6 +1333,30 @@ Jusqu'à revenir à l'état initial, debout, droit, ancré …
 Truc important :
 - Constater la différence de l’ancrage avant et après cette expérience de lâcher-prise.
 
+## Jeu "Personnages chargés"
+_Date de création : 2024-05-0720:00:00_  
+En duo ou trio.  
+On va prendre 3mn pour :
+- Établir une relation entre les personnages (frères et sœurs ? amoureux ? collègues ?)
+- Inventer un très bon souvenir en commun.
+- Inventer un mauvais souvenir en commun.
+- Définir pour chacun, une chose que l’on aime chez l’autre
+- Idem avec une chose que l’on déteste
+
+Puis musique, et pendant 4mn on va se regarder dans les yeux, sans lâcher le contact, en projetant les souvenirs, bons et mauvais, les choses que l’on aime, que l'on déteste. Quelles émotions ça nous amène ?  
+Puis la musique s’arrête, le public donne un contexte (avec un enjeu fort) pour la scène. On se regarde encore 30s et on démarre la scène.  
+
+Tips de réussite :
+- Pendant les 4 minutes, on ressasse les souvenirs, on se les remémore, on les vit intérieurement.
+- Importance de l’enjeu initial bien sûr.
+- On croit à ce qu’on joue
+- On se projette, on le vit. La projection amène plus d’amplitude dans notre jeu, dans ce qu’on donne au public.
+- Aller au fond des choses, ne pas esquiver les enjeux avec un tiers, ou en se concentrant sur des choses matérielles (objet, la couleur de la voiture, …)
+- On ramène les choses à soi, on est sur du ressenti, on focalise sur la zone émotionnelle, on parle de soi, en “Je” …
+- Réincorporer les souvenirs, les choses aimées/détestées dans la scène.
+- On fait basculer l'autre, on ne tourne pas autour du pot. C'est frontal, direct. On expliquera plus tard pourquoi.
+
+
 ## Échauffement "Adressage ‘émotion’"
 _Date de création : 2024-05-14T20:00:00_  
 On se balade dans la pièce, on dit son propre prénom à un.e autre comédien.ne avec une émotion dictée par l’animateurice (joie, tristesse, colère, dégoût, peur, …)  
@@ -1848,3 +1872,16 @@ Au bout d'un moment, le coach va donner des consignes de lieu, il faudra faire v
 “Vous êtes en plongée sous-marine”
 
 On accélère le rythme, ça doit nous échauffer !
+
+## Échauffement "Décoloration / recoloration"
+_Date de création : 2025-10-28T20:00:00_  
+
+N comédiens, en ligne à un bout de la pièce.
+Chacun choisit une émotion de départ.  
+
+Puis on entame une traversée de la pièce, on va se “décolorer” c’est à dire revenir au neutre progressivement.  
+Arrivés au bout de la pièce, on se regarde, on observe le neutre des autres, puis on repart dans l’autre sens en se “recolorant”, en faisant revenir l'émotion de départ, mais cette fois on la mène à son paroxysme.
+
+Tips de réussite :
+- À fond ! Il doit y avoir des bruits, des respirations fortes, des mouvements du corps.
+- Quand on est au max, on tente d’en rajouter encore !

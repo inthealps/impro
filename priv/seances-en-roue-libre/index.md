@@ -1880,7 +1880,7 @@ N comédiens, en ligne à un bout de la pièce.
 Chacun choisit une émotion de départ.  
 
 Puis on entame une traversée de la pièce, on va se “décolorer” c’est à dire revenir au neutre progressivement.  
-Arrivés au bout de la pièce, on se regarde, on observe le neutre des autres, puis on repart dans l’autre sens en se “recolorant”, en faisant revenir l'émotion de départ, mais cette fois on la mène à son paroxysme.
+Arrivés au bout de la pièce, on se regarde, on observe le neutre des autres, puis on repart dans l’autre sens en se “recolorant”, en faisant revenir l'émotion de départ, mais cette fois en la menant à son paroxysme.
 
 Tips de réussite :
 - À fond ! Il doit y avoir des bruits, des respirations fortes, des mouvements du corps.

@@ -53,6 +53,8 @@ On va faire des mouvements de mobilisation corporelle, ceux qui nous viennent et
 
 Puis, on va commencer à se laisser pénétrer par les gestes des autres, à les intégrer.
 
+Au bout d'un moment, on se regroupe en binôme et on s'accorde pour faire à peu près la même chose (exo du miroir, en moins strict). 
+
 ## Échauffement "Le phare"
 En cercle, on se connecte par le regard avec une personne au hasard.  
 Les autres vont regarder la personne "visée" pour lui donner de l'importance.  
@@ -68,41 +70,50 @@ En duo. A va être un rocher solide. B va venir s'appuyer contre A, en mettant b
 
 Puis, on change les rôles.
 
-Puis deux duos vont fusionner, il y aura donc un rocher et trois comédiens qui vont venir s'appuyer contre lui.  
-Puis, on peut à nouveau fusionner les duos, jusqu'à avoir un rocher et tous les comédiens qui viennent s'appuyer contre lui.
+Puis deux duos vont fusionner, il y aura donc un rocher et trois comédien.ne.s qui vont venir s'appuyer contre lui.  
+Puis, on peut à nouveau fusionner les duos, jusqu'à ce que tous et toutes viennent s'appuyer contre ce rocher.
 
 # Exercices d'émotions
 
 Préambule :  
 Attention à se protéger, on a toujours la possibilité de sortir de la scène si l'émotion est trop forte.  
-L'idée est de se reconnecter à une émotion, pas de se faire du mal. Droit de retrait primordial sur cet exercice."
+L'idée est de se reconnecter à une émotion, pas de se faire du mal. Droit de retrait primordial sur cet exercice.
 
 
 ## Exercice "Convocation d'émotion, Stanislavski"
-En solo.
-
 On va convoquer une émotion en se basant sur un souvenir personnel.  
 Quatre émotions pour cet exercice : Joie, tristesse, colère et peur
+
+Pendant le stage nous l'avions fait en solo, éparpillé.e.es dans la pièce.  
+Il nous a semblé sympa de le faire en version aller/retour en ligne :  
+
+N comédien.ne.s, en ligne à un bout de la pièce.
+Chacun.e choisit une émotion de départ.
+
+Puis on entame une traversée de la pièce, on va se “décolorer” c’est-à-dire revenir au neutre progressivement.  
+Arrivés au bout de la pièce, on se regarde, on observe le neutre des autres, puis on repart dans l’autre sens en se “recolorant”, en faisant revenir l'émotion de départ, mais cette fois en la menant à son paroxysme.
 
 Tips de réussite :
 - "Qu'est-ce ça me fait ?" versus "Qu'est-ce que je fais ?" (ressentir vs réfléchir)
 - Afin d'éviter le jeu caricatural, on ne va pas jouer l'émotion, essayer de montrer quelque chose aux autres, juste la convoquer, la ressentir, la vivre.
 - En finesse, on laisse monter l'émotion.
 - Les émotions fluctuent, c'est normal de passer d'une émotion à l'autre, de la joie à la tristesse, de la colère à la peur, etc.
+- À fond ! Il doit y avoir des bruits, des respirations fortes, des mouvements du corps.
+- Quand on est au max, on tente d’en rajouter encore !
 - Après avoir convoqué l'émotion, et l'avoir poussée loin, il est bon de se remettre dans le corps en mode "Youpi", remettre de la joie et la vivre avec le groupe.
 
 
 ## Exercice "Convocation d'émotion + une phrase"
 Exercice précédent, puis on va conclure par une phrase.  
 
-Mais cette fois-ci on le fait en duo : avec A qui convoque l'émotion, et B qui le "dirige" : "Oui c'est bien, c'est juste ! Pousse encore plus haut !" et qui dit quand A doit dire sa phrase. Et après A/B permutent.
+Mais cette fois-ci, on le fait en duo : avec A qui convoque l'émotion, et B qui le "dirige" : "Oui c'est bien, c'est juste ! Pousse encore plus haut !" et qui dit quand A doit dire sa phrase. Et après A/B permutent.
 
 
 ## Exercice "Les petits papiers émotions + corps/texte"
 Scène en duo avec émotions au hasard, et une contrainte "corps" ou "texte".
 
-Chacun des comédiens va piocher une émotion parmi joie, tristesse, colère et peur.  
-Puis les deux animateurs vont glisser à l'oreille de chaque comédien une consigne "corps" ou "texte".
+Chacun.e des comédien.ne.s va piocher une émotion parmi joie, tristesse, colère et peur.  
+Puis les deux animateurs vont glisser à l'oreille de chaque comédien.ne une consigne "corps" ou "texte".
 
 On va, chacun de son côté, infuser l'émotion (30s/40s), puis commencer à rencontrer l'autre personnage.
 
@@ -123,12 +134,12 @@ Tips de réussite :
 ## Exercice "Le 'Si' magique" (contexte donné par l'animateur)
 En duo, et un metteur en scène.
 
-Le metteur en scène va proposer un scénario aux comédiens :
+Le/la metteur.euse en scène va proposer un scénario aux comédien.ne.s :
 - "Vous êtes deux amis qui ne se sont pas vus depuis longtemps, et vous vous retrouvez dans un café."
 - "Vous êtes deux sœurs qui se voient pour parler des parents qui vieillissent."
 - etc.
 
-Les comédiens se font face, et vont s'imaginer l'histoire sans parler, juste connectés par le regard.
+Les comédien.ne.s se font face, et vont s'imaginer l'histoire sans parler, juste connectés par le regard.
 
 Tips de réussite :
 - Ça part de vous d'abord !
@@ -145,8 +156,12 @@ Tips de réussite :
 En trio : duo + un narrateur.  
 Deux chaises au plateau.
 
-Une musique est diffusée, au bout d'un moment, le narrateur va sur scène, et décrit le contexte de la scène.  
-Les deux comédiens jouent la scène.
+Une musique est diffusée, les deux comédien.ne.s disposent les chaises comme bon leur semble, et se chargent, puis se connectent par le regard.
+Au bout d'un moment, la musique s'estompe, le narrateur va sur scène, et décrit le contexte de la scène.  
+
+La musique reprend, les deux comédien.ne.s jouent la scène (d'abord sans parole, jusqu'à l'arrêt de la musique).
+
+Vers la fin de la scène, la musique va monter crescendo, les comédien.ne.s vont progressivement cesser le texte tout en continuant sur le corporel et émotions.
 
 Tips de réussite :
 - Aller au max de ce qu'on est en train de proposer, pousser les curseurs de l'émotion très haut.
@@ -161,13 +176,13 @@ Sur scène, on va se laisser porter par la musique, on peut danser, jouer avec n
 
 Puis, au bout d'un moment, quand on est prêt, la musique va s'estomper et on va partir en monologue.
 
-À la fin du monologue, la musique va reprendre, et d'autres comédiens vont venir sur scène, et proposer un tableau final.
+À la fin du monologue, la musique va reprendre, et d'autres comédien.ne.s vont venir sur scène, et proposer un tableau final.
 
 
 Tips de réussite :
 - On commence sans attendre de tout savoir, c'est très instinctif.
 - On peut répéter des choses pour leur donner de l'importance, du poids.
-- Les comédiens doivent proposer un tableau unifié, choral. On ne veut voir qu'une seule proposition du groupe -> "Un tout seul c'est chelou, huit ensemble c'est ouf'"
+- Les comédien.ne.s doivent proposer un tableau unifié, choral. On ne veut voir qu'une seule proposition du groupe -> "Un tout seul c'est chelou, huit ensemble c'est ouf'"
 - Donc, ne pas hésiter à suivre la première proposition qui arrive.
 
 
@@ -177,7 +192,7 @@ Au bout d'un moment, quelqu'un va sortir du groupe, se mettre en avant-scène, e
 
 Le groupe est figé pendant le monologue.
 
-Puis le comédien va réintégrer le groupe, qui va partir en mouvement à nouveau, et un autre comédien va sortir du groupe pour proposer un monologue.
+Puis le/la comédien.ne va réintégrer le groupe, qui va partir en mouvement à nouveau, et un.e autre comédien.ne va sortir du groupe pour proposer un monologue.
 
 Tips de réussite :
 - Lâcher-prise total, on ne se pose pas la question de ce qu'on va faire, et de ce qui vient après, on découvre avec les autres.

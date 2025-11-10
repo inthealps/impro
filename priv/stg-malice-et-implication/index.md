@@ -117,9 +117,9 @@ On constate qu'il y a beaucoup de "Aaaaaaahh!" ... et que c'est tout à fait nor
 ## Exercice "Outils pour contrer le Aaaaaaahh!"
 On va refaire le même exercice.  
 Mais cette fois, si on a un "Aaaaaaahh!" on utilise les outils suivants :
-1- "Silence, regardez-vous !". On arrête de parler, et on regarde son partenaire de jeu.
-2- "Répéter". On va répéter ce qu'a dit notre partenaire juste avant. Exemple : S'il a dit "Je comprends très bien ce que tu me dis", on va adapter et dire "Tu comprends très bien ce que je te dis".
-3- "Remarquer". On remarque quelque chose de physique, corporel, chez l'autre et on le verbalise. Exemples : "Tu bouges beaucoup tes mains", "Tu as l'air nerveux", "Tu as le regard fuyant", etc.
+1. "Silence, regardez-vous !". On arrête de parler, et on regarde son partenaire de jeu.
+2. "Répéter". On va répéter ce qu'a dit notre partenaire juste avant. Exemple : S'il a dit "Je comprends très bien ce que tu me dis", on va adapter et dire "Tu comprends très bien ce que je te dis".
+3. "Remarquer". On remarque quelque chose de physique, corporel, chez l'autre et on le verbalise. Exemples : "Tu bouges beaucoup tes mains", "Tu as l'air nerveux", "Tu as le regard fuyant", etc.
 
 Les outils "Silence, regardez-vous" et "Remarquer" forcent à regarder son partenaire et aident à se reconnecter à lui.  
 L'outil "Répéter" va nous resynchroniser sur un propos commun.
@@ -143,13 +143,13 @@ Par exemple :
 
 Note : Quelques pièges quand on joue à "Remarquer + interpréter" :
 
-Piège numéro 1 : Répliquer ce que fait l'autre.  
+1. Piège numéro 1 : Répliquer ce que fait l'autre.  
 En disant "Je remarque que tu mets tes bras en l'air", on peut avoir tendance de mimer les bras en l'air, et comme l'autre a déjà les bras en l'air, on se retrouve à faire une sorte de miroir.
 Et on peut entrer dans une espèce de boucle limitante, au lieu d'être créatrice.
 
-Piège numéro 2 : Attention au négatif. Il faut veiller à ne pas interpréter que des choses négatives. Il faut aussi balancer du positif, interpréter des choses positives va alléger la scène et va aussi enrichir la relation.
+2. Piège numéro 2 : Attention au négatif. Il faut veiller à ne pas interpréter que des choses négatives. Il faut aussi balancer du positif, interpréter des choses positives va alléger la scène et va aussi enrichir la relation.
 
-Piège numéro 3 : Interpréter à la lueur de quelque chose externe à la relation entre les personnages, qui ne les impacte pas vraiment.  
+3. Piège numéro 3 : Interpréter à la lueur de quelque chose externe à la relation entre les personnages, qui ne les impacte pas vraiment.  
 Essayons de faire en sorte que ce qu'on interprète aie un impact direct sur la relation entre les deux protagonistes.
 
 ## Jeu "Remarquer + Interpréter"
@@ -300,7 +300,7 @@ Donc au début B bloque, ça amène quelque chose de créatif à l'histoire et e
 
 Note : Quand quelqu'un fait quelque chose sur scène qui ne nous plaît pas, généralement on va juger le comédien. "Oh là là, je ne peux pas jouer avec lui", "Il manque d'écoute", "Il ne propose rien", "Il enchaine les refus".  
 En gros, on met la faute sur notre partenaire. C'est notre "Ingénieur" qui parle.
-À l'inverse utiliser les outils comme "Oui tu as raison" valorise la proposition de l'autre comédien.  
+À l'inverse utiliser les outils comme "Oui, tu as raison" valorise la proposition de l'autre comédien.  
 Et on l'utilise pour nourrir ce qui se passe entre les deux personnages.
 
 Dans Trio, Mark joue avec des gens qui n'ont jamais fait d'impro !
@@ -309,7 +309,6 @@ Du coup, jouer avec ces gens-là force à être hyper positif avec eux, et en l'
 À l'inverse si on fait toujours des acceptations molles, on ne va pas être créatif, nos spectacles seront répétitifs et lassants.
 Dans une troupe, on va tomber dans une routine. On va faire tout le temps la même chose. Donc pour remettre de la fraîcheur, on peut bloquer (sur une scène), injecter le danger dans le spectacle et ensuite continuer sur les bases créatives posées.  
 Bien penser "Oui cette idée est bizarre. Mais je vais voir comment l'utiliser au mieux".
-
 
 L'ingénieur va toujours vouloir contrôler la direction de l'histoire, là où le Musicien de jazz va rester libre et constructif.
 
@@ -371,13 +370,13 @@ Côté comédien, ça peut paraître du jeu caricatural, artificiel, mais n'oubl
 Attention : Avec le gromelot, il ne faut surtout pas se formuler une phrase dans sa tête et ensuite essayer de la restituer en gromelot.  
 L'idée est vraiment de formuler son ressenti, en réaction à ce que nous dit l'autre, en réaction à ce que fait l'autre.
 En gromelot, tu comprends ce que tu viens de dire en regardant la réaction de l'autre.  
-On est vraiment dans du jeu purement émotionnel --> ne pas oublier que le public fait sa propre histoire.
+On est vraiment dans du jeu purement émotionnel → ne pas oublier que le public fait sa propre histoire.
 
 
 ## Exercice "Scène de 1 à 50"
 En duo, on va débuter une scène en remplaçant la parole par des nombres.  
 La scène s'arrête lorsqu'on arrive à 50.  
-Le public va nous donner un thème, par exemple "Vous êtes frères et soeurs dans la maison de famille".  
+Le public va nous donner un thème, par exemple "Vous êtes frères et sœurs dans la maison de famille".  
 On va entamer la scène.  
 La clé de réussite est de s'affecter et de se changer mutuellement.  
 De plus, l'intérêt des nombres, c'est qu'on sait quand ça s'arrête. Donc si on arrive à 40 et que personne n'a changé, c'est qu'on a un problème.
@@ -498,7 +497,7 @@ Par exemple, si A a pioché "Je veux vivre au jour le jour", il peut dire :
 B va alors décoder et dire ce qu'il pense être écrit sur le papier :"Ce que tu veux, toi, c'est ..." + sa proposition.  
 
 
-Variante. Quand B pense avoir trouvé, il dit "Ce que tu veux, toi, c'est ..." + sa proposition puis interprète le besoin : "... mais ce dont tu as besoin c'est ..." + sa proposition de besoin.  
+Variante : Quand B pense avoir trouvé, il dit "Ce que tu veux, toi, c'est ..." + sa proposition puis interprète le besoin : "... mais ce dont tu as besoin c'est ..." + sa proposition de besoin.  
 
 Exemple :
 - Papier pioché : "Je veux vivre au jour le jour"
@@ -510,7 +509,7 @@ Exemple :
 En jeu, ce papier va nous donner une couleur, une direction de jeu.  
 La reformulation l'interprétation permet de recentrer sur le besoin vital du personnage.  
 Ça impacte directement le personnage et sa relation aux autres.  
-Ça colore énormément les scènes ... mais en trois phrases, pas en cent !
+Ça colore énormément les scènes... mais en trois phrases, pas en cent !
 
 
 ## Jeu "Scène avec papiers 'Caractéristiques de personnage'"
@@ -568,11 +567,11 @@ La solitude et la peur de ne pas avoir d'enfants sont une source de souffrance p
 Ça sera très fort de la voir souffrir, ça devient un enjeu de notre long-form.
 
 Rappel des six enjeux principaux classés dans l'ordre croissant de l'intérêt pour le public :
-1- Enjeux amoureux
-2- Enjeux familiaux
-3- Enjeux criminels, c'est tout ce qui tourne autour des activités immorales ou amorales.
-4- (et 5 à égalité), les enjeux amicaux et professionnels
-6- Enjeux administratifs, par exemple, je demande un prêt bancaire, c'est une demande de service, si je ne l'ai pas je suis dans la merde.
+1. Enjeux amoureux
+2. Enjeux familiaux
+3. Enjeux criminels, c'est tout ce qui tourne autour des activités immorales ou amorales.
+4. (et 5 à égalité), les enjeux amicaux et professionnels
+6. Enjeux administratifs, par exemple, je demande un prêt bancaire, c'est une demande de service, si je ne l'ai pas je suis dans la merde.
 
 Là encore, on va s'entraîner à terminer soi-même les scènes.  
 
@@ -584,4 +583,4 @@ C'est-à-dire ce qu'on aimerait voir être développé plus tard dans l'histoire
 C'est intéressant de voir ce que les comédiens ont perçu comme éléments importants, besoins des différents personnages, enjeux futurs, pistes de développement de l'histoire.  
 
 Après les scènes de plateformes de l'Acte 1 il faut faire des choix, et pas juste revisiter ce qu'on a déjà vu (genre rediscuter pendant 20 minutes de ce qui a déjà été installé précédemment).  
-Donc faire des choix ... et donc avoir des répercussions en acte 2 --> On va déstabiliser le statu quo découvert en Acte 1. 
+Donc faire des choix... et donc avoir des répercussions en acte 2 → On va déstabiliser le statu quo découvert en Acte 1. 

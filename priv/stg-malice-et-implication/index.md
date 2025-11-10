@@ -4,9 +4,11 @@ title:  "Malice et implication de jeu, Mark Jane"
 date: 2025-11-08
 ---
 
-Notes du stage "Malice et implication de jeu" avec Mark Jane
+Notes du stage Latiag "Malice et implication de jeu" avec Mark Jane
 8 et 9 novembre 2025
 
+
+# Jour 1
 
 ## Échauffement "Duo prénoms"
 On est en cercle, et on forme des duos, sauf quelqu'un qui est tout seul.  

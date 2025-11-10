@@ -1,10 +1,11 @@
 ---
 layout: page
-title:  "Malice et implication deu jeu, Mark Jane"
+title:  "Malice et implication de jeu, Mark Jane"
 date: 2025-11-08
 ---
 
-Note du stage de Mark Jane
+Notes du stage "Malice et implication de jeu" avec Mark Jane
+8 et 9 novembre 2025
 
 
 ## Échauffement "Duo prénoms"

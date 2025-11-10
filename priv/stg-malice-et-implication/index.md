@@ -438,6 +438,9 @@ Idem pour la redescente.
 
 (Le coach ne va pas ouvrir Z4 immédiatement)
 
+<img src="{{ 'assets/images/scribes/stg-malice-et-implication/zones-intensite.jpg' | relative_url }}" width="800" alt="Zones intensité">
+
+
 ## Jeu "Scène avec les zones"
 En duo, on entame une scène avec une suggestion du public.  
 On va naviguer entre les zones et charger nos personnages avec l'intensité correspondante à la zone dans laquelle on se trouve.  

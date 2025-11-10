@@ -40,3 +40,5 @@ title:  "Table des matières"
 
 [Intensité et émotion, Élise Dano]({{ 'priv/stg-intensite-emotion/' | relative_url }})
 
+[Malice et implication deu jeu, Mark Jane]({{ 'priv/stg-malice-et-implication/' | relative_url }})
+

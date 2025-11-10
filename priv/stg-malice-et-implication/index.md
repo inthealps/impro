@@ -73,7 +73,7 @@ Et la voix du Musicien de jazz, qui lui s'en fout complètement.
 Sur scène, il faut avoir conscience de qui parle dans notre tête, et laisser la parole à l'autre voix.  
 Exemple : Quand mon Ingénieur parle trop fort, je vais laisser parler le Musicien de jazz, sortir de la parole, revenir dans de l'organique, mettre un peu de chaos et d'inattendu.
 
-Le but des exercices d'impro c'est vraiment d'essayer de réussir (Et là, c'est l'Ingénieur qui parle). Je veux réussir l'exercice, mais tout en mettant du chaos pour déclencher de la créativité, et c'est pas grave si ça rate (et là, c'est le Musicien qui parle).
+Le but des exercices d'impro c'est vraiment d'essayer de réussir (Et là, c'est l'Ingénieur qui parle). Je veux m'amuser dans l'exercice, mettre du chaos pour déclencher de la créativité, et c'n'est pas grave si ça rate (et là, c'est le Musicien qui parle).
 
 
 ## Exercice "Narration alternée à quatre"

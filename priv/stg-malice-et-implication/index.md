@@ -4,19 +4,20 @@ title:  "Malice et implication de jeu, Mark Jane"
 date: 2025-11-08
 ---
 
-Notes du stage Latiag "Malice et implication de jeu" avec Mark Jane
-8 et 9 novembre 2025
+Notes du stage Latiag "Malice et implication de jeu",  
+avec Mark Jane, 8 et 9 novembre 2025
 
 
 # Jour 1
 
-## Échauffement "Duo prénoms"
+## Échauffement "Prénom + échappe"
+**Phase 1**  
 On est en cercle, et on forme des duos, sauf quelqu'un qui est tout seul.  
 Le solo va dire le prénom de quelqu'un dans le cercle. Cette personne va tenter de partir vers la personne qui l'a appelée, et son binôme doit l'attraper avant qu'il ne s'échappe.  
 
 Si la personne réussit à s'échapper elle rejoint le solo, et le nouveau solo va appeler quelqu'un d'autre.  
 
-## Échauffement "Duo prénoms échappé"
+**Phase 2**  
 (même exercice que le précédent, mais inversé)
 On est en cercle, et on forme des duos, sauf quelqu'un qui est tout seul.  
 Le solo va dire le prénom de quelqu'un dans le cercle. La personne appelée doit attraper son binôme, et ce binôme va tenter de fuir avant d'être attrapé.
@@ -33,8 +34,10 @@ On marche en cercle dans la pièce, et le coach va demander de se connecter avec
 ## Exercice "Liste de choses + DIE !"
 7 comédiens alignés.
 On leur demande de lister des choses, par exemple des fruits. Si quelqu'un se trompe, ou hésite le public crie "DIE !" et il part. On continue jusqu'à ce qu'il ne reste plus qu'un comédien.  
+On pointe les comédiens au hasard pour éviter qu'ils n'anticipent.
 
-Note : le public paye pour voir des gens en danger et en risque ! Et nous dans notre cerveau programmé pour la survie, il est ancré depuis des millénaires que se tromper c'est mal, qu'on va être rejeté par la tribu ... et que la conséquence est mortelle. Et que c'est donc une question vitale que de ne pas se tromper.  
+Note :
+- le public paye pour voir des gens en danger et en risque ! Et nous, dans notre cerveau programmé pour la survie, il est ancré depuis des millénaires que se tromper c'est mal, qu'on va être rejeté par la tribu... et que la conséquence est mortelle. Et que c'est donc une question vitale que de ne pas se tromper.  
 Sur scène, il faut se rappeler qu'on va rater, c'est obligé, et que ce n'est pas grave !
 
 
@@ -47,7 +50,8 @@ Par exemple "Dents Blanches 3000" ou "Fraicheur sourire" ... un nom qui fait pen
 
 À la moindre hésitation, si le public n'est pas convaincu par la proposition, il crie "DIE !" et on part. On continue jusqu'à ce qu'il ne reste plus qu'un comédien.
 
-Note : Plus on avance dans l'impro, plus on perd le goût de l'excitation et du danger.
+Note :
+- Plus on avance dans l'impro, plus on perd le goût de l'excitation et du danger.
 L'exercice "DIE !" permet de se reconnecter à ce plaisir-là.
 
 ## Exercice "Un seul en mouvement"
@@ -61,19 +65,22 @@ Tips de réussite :
 - On se rend visible des autres.
 - On ne bouge pas (!!)
 
-Variante : Comme notre cerveau trouve toujours des astuces pour faciliter les exercices, on va maintenant piéger les partenaires en créant des problèmes.  
-On va bouger, se mettre dans le dos de nos partenaires, ça rend l'exercice plus intéressant.
+### Variante :
+Comme notre cerveau trouve toujours des astuces pour faciliter les exercices, on va maintenant piéger les partenaires en créant des problèmes.  
+On va bouger, se mettre dans le dos de nos partenaires... Générer du chaos rend l'exercice intéressant et fun.
 
 C'est créatif et sympa à vivre.
 
-Joe Bill dit :
-Il y a deux voix dans notre cerveau.  
-La voix de l'Ingénieur qui a besoin d'être en contrôle, qui veut que tout soit carré et tout soit cohérent.  
-Et la voix du Musicien de jazz, qui lui s'en fout complètement.  
+## Discussion "Ingénieur vs Musicien de jazz"
+Joe Bill dit :  
+"Il y a deux voix dans notre cerveau.  
+La voix de l'**Ingénieur** qui a besoin d'être en contrôle, qui veut que tout soit carré et tout soit cohérent.  
+Et la voix du **Musicien de jazz**, qui lui s'en fout complètement, embarqué par sa créativité, son instinct, son envie de jouer, de s'amuser, de prendre des risques."
+
 Sur scène, il faut avoir conscience de qui parle dans notre tête, et laisser la parole à l'autre voix.  
 Exemple : Quand mon Ingénieur parle trop fort, je vais laisser parler le Musicien de jazz, sortir de la parole, revenir dans de l'organique, mettre un peu de chaos et d'inattendu.
 
-Le but des exercices d'impro c'est vraiment d'essayer de réussir (Et là, c'est l'Ingénieur qui parle). Je veux m'amuser dans l'exercice, mettre du chaos pour déclencher de la créativité, et c'n'est pas grave si ça rate (et là, c'est le Musicien qui parle).
+Le but des exercices d'impro est vraiment d'essayer de réussir (Et là, c'est l'Ingénieur qui parle) tout en s'amusant dans l'exercice, en mettent du chaos pour déclencher de la créativité, et c'n'est pas grave si ça rate (et là, c'est le Musicien qui parle).
 
 
 ## Exercice "Narration alternée à quatre"
@@ -95,8 +102,9 @@ Lorsqu'il détecte une faille, le narrateur crie "Aaaaaaahh!" en agitant les bra
 Le narrateur regarde le public, il s'adresse vraiment à lui, il ne fuit pas les regards.  
 En tant que narrateur, la clé de réussite c'est d'être honnête avec soi-même.
 
-Note : Attention, si tu essaies d'être drôle, de placer une vanne, tu vas très certainement être dans ta tête jusqu'à ta vanne. Puis poser ta vanne. Mais après, souvent, tu vas être à poil parce que tu n'avais rien prévu après, et après il ne reste que le vide, les dinosaures, la "mort".  
-Donc un conseil c'est surtout de ne pas tenter d'être intelligent, ne pas anticiper, de rester dans l'instant présent de la narration.  
+Note :
+- Attention, si tu essaies d'être drôle, de placer une vanne, tu vas très certainement être dans ta tête jusqu'à ta vanne. Puis poser ta vanne. Mais après, souvent, tu vas être à poil parce que tu n'avais rien prévu après, et après il ne reste que le vide, le rejet de la tribu, les dinosaures et la "mort".  
+Donc un conseil : surtout de ne pas tenter d'être intelligent, ne pas anticiper, de rester dans l'instant présent de la narration.  
 Chaque phrase déclenche l'autre.
 
 ## Exercice "Narration à deux + Aaaaaaahh!"
@@ -105,11 +113,13 @@ Même exercice, mais à deux.
 On se raconte l'histoire en étant connectés par le regard. En cas de "panique", d'hésitation, etc, on donne son "Aaaaaaahh!" au public, puis on revient vers son partenaire et on continue la scène.  
 Ne pas oublier qu'il y a toujours notre cerveau qui est dans une urgence de survie : "Je ne veux pas être rejeté par ma tribu (le public), jeté dans la forêt et dévoré par les dinosaures !"
 
-Note : Si on n'a pas de public, on tourne la tête vers un public imaginaire qu'on a placé à un certain endroit avant l'exercice.
+Note :
+- Si on n'a pas de public, on tourne la tête vers un public imaginaire qu'on a placé à un certain endroit avant l'exercice.
 
 Après l'avoir joué en duos, tous ensemble dans la pièce, on refait l'exercice sur scène, en duo devant le public.  
 
-Note : C'est intéressant de détecter quand on fait des "Aaaaaaahh!" !  
+Note :
+- C'est intéressant de détecter quand on fait des "Aaaaaaahh!" !  
 Souvent, c'est quand on blablate, quand on est perdu, quand on ne sait pas quoi faire de la proposition de notre partenaire, qu'on la trouve cheloue.  
 Quand on a peur du vide, aussi, souvent.  
 Quand un élément externe nous déstabilise. Par exemple, un objet qui tombe dans le public, ou quelqu'un qui pénètre dans la pièce ...  
@@ -129,7 +139,8 @@ L'outil "Répéter" va nous resynchroniser sur un propos commun.
 Souvent dans la panique de la scène, on a tendance à partir dans une espèce de fuite en avant, et il est important de se reconnecter à son/sa partenaire de jeu et à notre narration.  
 Ces outils servent à ça. Leur but est de ralentir, de se poser et de se resynchroniser.
 
-Note : Dans une troupe, partager ces trois astuces avec tous ses partenaires de jeu permet de se détendre et de trouver des codes communs.  
+Note :
+- Dans une troupe, partager ces trois astuces avec tous ses partenaires de jeu permet de se détendre et de trouver des codes communs.  
 Les outils "Silence, regardez-vous !", "Répéter" et "Remarquer" ont l'avantage de valoriser les propositions de l'autre.  
 Et là on est complètement dans le "Make your partner look good!".  
 
@@ -143,16 +154,17 @@ Par exemple :
 - "Je remarque que tu t'es tourné de trois quarts" puis "Je pense que c'est parce que tu ne me fais pas confiance".
 - "Je remarque que tu regardes par terre" puis "Je pense que c'est parce que je t'impressionne. Tu as peur de moi."
 
-Note : Quelques pièges quand on joue à "Remarquer + interpréter" :
+Quelques pièges quand on joue à "Remarquer + interpréter" :
 
 1. Piège numéro 1 : Répliquer ce que fait l'autre.  
 En disant "Je remarque que tu mets tes bras en l'air", on peut avoir tendance de mimer les bras en l'air, et comme l'autre a déjà les bras en l'air, on se retrouve à faire une sorte de miroir.
 Et on peut entrer dans une espèce de boucle limitante, au lieu d'être créatrice.
 
-2. Piège numéro 2 : Attention au négatif. Il faut veiller à ne pas interpréter que des choses négatives. Il faut aussi balancer du positif, interpréter des choses positives va alléger la scène et va aussi enrichir la relation.
+2. Piège numéro 2 : Attention au négatif. Il faut veiller à ne pas interpréter que des choses négatives. Il faut aussi balancer du positif, interpréter des choses positives va alléger la scène, éviter le conflit et enrichir la relation.
 
 3. Piège numéro 3 : Interpréter à la lueur de quelque chose externe à la relation entre les personnages, qui ne les impacte pas vraiment.  
 Essayons de faire en sorte que ce qu'on interprète aie un impact direct sur la relation entre les deux protagonistes.
+
 
 ## Jeu "Remarquer + Interpréter"
 En duo. On fait des scènes avec uniquement avec "Remarquer + interpréter", et on voit où ça nous mène.
@@ -168,42 +180,59 @@ On dit entre les lignes au comédien : "Euh tu es un peu rude, tu ne m'écoutes 
 Il y a mille moments dans une scène où on peut se sentir mal à l'aise.  
 Les astuces et les outils listés plus haut permettent de nous en sortir.
 
+Généralement, en cas de vide, on va chercher à combler ce vide avec des idées issues de notre tête.  
+En se réfugiant dans la parole, on va empiler les propositions comme des couches de lasagnes, sans prendre le temps d'exploiter pleinement ce qui était déjà là.
+
+Les outils "Silence, regardez-vous", "Répéter" et "Remarquer + interpréter" permettent de valoriser et grossir ce qui est déjà posé.
+
+
 ## Échauffement "Le zombie"
 En cercle dans la pièce, un zombie au centre.  
 Ce zombie va se diriger vers une personne du cercle, d'abord lentement. Son objectif est de bouffer la personne visée.  
 Celle-ci va fixer du regard un autre personnage du cercle. Dès que cette personne dit "Oui", la personne visée va donner un autre nom dans le cercle, et le zombie changera de cible pour se diriger vers cette nouvelle personne.
 
-Variante :
-La personne qui est sensée accepter peut cette fois dire "Non" quand la personne visée la regarde pour être sauvée.  
+### Variante :
+La personne qui est censée accepter peut cette fois dire "Non" quand la personne visée la regarde pour être sauvée.  
 À ce moment-là, elle devra se tourner vers une autre personne.  
 Ça amène du fun, c'est plus risqué.
 
+Ne pas hésiter à corser l'exercice en augmentant la vitesse du zombie, en dirigeant le zombie vers les personnes à côté de nous, etc.
+
+
 ## Exercice "Narration à deux + Non ce n'est pas ça"
 En duo, le comédien A va narrer une histoire. Le comédien B va lui dire "Non ce n'est pas ça".  
-Quand B dit à A "Non ce n'est pas ça", A va dire "Ah oui tu as raison ..." puis il va amener une autre direction à la narration.  
+Quand B dit à A "Non ce n'est pas ça", A va dire "Ah oui ! Tu as raison ..." puis il va amener une autre direction à la narration.
+
 Exemple :
 - "Je me promenais dans la forêt, lorsque tout à coup un écureuil m'a sauté sur l'épaule"
 - "Non ce n'est pas ça"
-- "Ah oui tu as raison, je me promenais dans la forêt quand tout un arbre est tombé juste à côté de moi. J'ai eu peur pour ma vie, je me suis mis à courir ..."
+- "Ah oui ! Tu as raison ! Je me promenais dans la forêt quand tout un arbre est tombé juste à côté de moi. J'ai eu peur pour ma vie, je me suis mis à courir ..."
 - "Non ce n'est pas ça"
-- "J'ai regardé vers l'arbre et j'ai vu une porte secrète s'ouvrir à sa base ..."
+- "Ah oui ! Tu as raison ! J'ai regardé vers l'arbre et j'ai vu une porte secrète s'ouvrir à sa base ..."
 - Etc.
+
+Il est primordial de dire "Ah oui ! Tu as raison !" à chaque fois que B dit "Non ce n'est pas ça".  
+Ça facilite l'acceptation de s'être trompé et le rebond sur autre chose.
 
 
 ## Exercice "La traversée"
 En duo. Le comédien A veut traverser la pièce. Le comédien B refuse catégoriquement.  
 A doit faire preuve de créativité pour débloquer B.  
-L'idée c'est de jouer avec le "Non !". On est censé dire toujours "Oui !" en impro, il faut accepter inconditionnellement.  
-Ben là, on va bloquer !
+L'idée c'est de jouer avec le "Non !". On est censé dire toujours "Oui !" en impro, il faut accepter inconditionnellement.
+
+Dans cet exercice, au contraire, on va bloquer !
 
 Le jeu s'arrête lorsque A a réussi à faire traverser la pièce à B.
 
 Si B à un moment trouve que la proposition de A est suffisamment chouette et créative, que A a fait preuve de persuasion, alors B se laisse transporter.  
 Évidemment, il peut relancer en rebloquant. Tout est possible.  
 
+
 ## Exercice "Il faut qu'on y aille !"
 En duo, une chaise sur la scène.  
-A est assis, B est debout. Le public donne un contexte : "Un couple est invité à un dîner et il faut y aller maintenant".  
+A est assis, B est debout.
+
+Le public donne un contexte : "Un couple est invité à un dîner et il faut y aller maintenant".  
 B va tenter de partir avec A.  
 A va bloquer. B persuade A.  
 La scène s'arrête quand A et B partent ensemble.
@@ -220,7 +249,8 @@ On va ajouter les outils :
 - "Oui, tu as raison ! " + proposition
 - "Je sais pourquoi tu dis/fais ça, c'est parce que ..." + raison
 
-Note : Outils très puissants si la raison ou la proposition de B est liée à la relation entre les deux protagonistes.  
+Note :
+- Outils très puissants si la raison ou la proposition de B est liée à la relation entre les deux protagonistes.  
 Ça va faire que le perso A va être gêné pour l'autre personnage, en empathie.  
 De plus, tous ces outils vont généralement créer un vrai enjeu pour l'histoire, les persos vont évoluer dans leur relation qui va se retrouver renforcée.
 
@@ -232,13 +262,19 @@ De plus, tous ces outils vont généralement créer un vrai enjeu pour l'histoir
 - "Oui, tu as raison ! " + proposition
 - "Je sais pourquoi tu dis/fais ça, c'est parce que ..." + raison
 
+→ Ces 6 outils sont très puissants en jeu ! **Pensons à les utiliser en entraînement !** Pour chopper les automatismes !
+
+
 ## Exercice "Je pars ! Non, reste !"
-En duo. A veut absolument partir de la pièce. B fait tout pour l'en empêcher. Il faut une grosse raison de partir, par exemple "La femme de A est en train d'accoucher".
+En duo. A veut absolument partir de la pièce. B fait tout pour l'en empêcher.  
+Il faut une grosse raison de partir, par exemple "La femme de A est en train d'accoucher".
 
 B va trouver tous les subterfuges pour empêcher A de partir. Le jeu s'arrête lorsque A est enfin parti.
+
 Tips de réussite :
-- Attention aux scènes de conflits.
+- Attention aux scènes de conflits, il est plus efficace d'aller chercher l'empathie de A pour B.
 - Utilise les 6 outils listés plus haut.
+
 
 ## Exercice "L'artiste et la statue"
 A est un artiste. B est une statue.
@@ -274,45 +310,49 @@ Si dans une scène quelqu'un dit un truc impossible, pas crédible, ou en opposi
 Non ! Le public l'a vu, c'est donc réel, ça existe !  
 On peut utiliser différents outils pour ramener de la cohérence, gommer l'erreur ...
 
-1. Outil "Oui tu as raison" + justification.  
+1. Outil "Ah oui ! Tu as raison !" + justification.  
 On explique pourquoi c'est possible ! (alors que ça paraissait incohérent).  
 
 2. Outil "Dénoncer". On va dire l'évidence, rappeler pourquoi c'est impossible, tirer les conséquences de ce que cela impliquerait, et arriver à la conclusion que ce ne peut pas être vrai !  
-Donc dire "Mais non c'est impossible, ça impliquerait que ..." et l'autre va dire "Oui, tu as raison" + une autre réalité de la scène, un truc beaucoup plus crédible.
+Donc dire "Mais non c'est impossible, ça impliquerait que ..." et l'autre va dire "Ah oui ! Tu as raison" + une autre réalité de la scène, un truc beaucoup plus crédible.
+
 
 ## Jeu "Tuer la scène"
-En duo, A va construire et B va essayer de tout faire pour tuer la scène en refusant tout systématiquement.  
+En duo, A va construire et B va essayer de tout faire pour niquer la scène en refusant tout systématiquement !  
 
-En essayant de casser la scène, tu pars dans une direction ou l'histoire ne serait jamais allée.  Tu crées un truc 10 fois plus excitant.
+En essayant de casser la scène, tu pars dans une direction ou l'histoire ne serait jamais allée.  
+Tu crées un truc 10 fois plus excitant.
 
-Les outils pour lutter contre la mort de la scène sont :
-- "Oui, tu as raison" + être hyper positif.
+L'outil pour lutter contre la mort de la scène est "Ah oui ! Tu as raison" + être hyper positif.
 
-A va expliquer pourquoi B refuse, il va être spécifique. "Je sais pourquoi tu dis/fais ça, tu dis/fais ça parce que ..." va ramener de la cohérence et permettre de construire.
-On se rend compte que les scènes fonctionnent généralement très bien. C'est très difficile de tuer une scène.   
+A va expliquer pourquoi B refuse, il va être spécifique.  
+"Je sais pourquoi tu dis/fais ça, tu dis/fais ça parce que ..." va ramener de la cohérence et permettre de construire.  
+On se rend compte que les scènes fonctionnent généralement très bien. C'est très difficile de tuer une scène.  
 Cet outil est incroyable pour mettre à l'aise un improvisateur qui bloque ou refuse parce qu'il est en risque, a peur d'être rejeté dans la forêt ou est inexpérimenté.
 
 Note : C'est l'outil numéro 1 de Mark Jane pour jouer Trio.
 
 En se mettant dans la merde en tentant de tuer la scène, on va créer un truc de fou.
 
+
 ## Jeu "Tuer la scène + ralliement"
 Même exercice. Sauf que là, si le bloqueur trouve que l'histoire fonctionne, que ça marche, que A s'en sort très bien malgré ses refus, alors B se rallie à A et revient dans l'acceptation.  
 Donc au début B bloque, ça amène quelque chose de créatif à l'histoire et ensuite et les deux continuent dans cette histoire en arrêtant de bloquer.
 
-Note : Quand quelqu'un fait quelque chose sur scène qui ne nous plaît pas, généralement on va juger le comédien. "Oh là là, je ne peux pas jouer avec lui", "Il manque d'écoute", "Il ne propose rien", "Il enchaine les refus".  
-En gros, on met la faute sur notre partenaire. C'est notre "Ingénieur" qui parle.
+Note :
+- Quand quelqu'un fait quelque chose sur scène qui ne nous plaît pas, généralement on va juger le comédien : "Oh là là, je ne peux pas jouer avec lui", "Il manque d'écoute", "Il ne propose rien", "Il enchaine les refus", etc.  
+En gros, on met la faute sur notre partenaire ; c'est notre "Ingénieur" qui parle !  
 À l'inverse utiliser les outils comme "Oui, tu as raison" valorise la proposition de l'autre comédien.  
 Et on l'utilise pour nourrir ce qui se passe entre les deux personnages.
 
-Dans Trio, Mark joue avec des gens qui n'ont jamais fait d'impro !
+Dans Trio, Mark joue avec des gens qui n'ont jamais fait d'impro !  
 Du coup, jouer avec ces gens-là force à être hyper positif avec eux, et en l'acceptant, on mène le spectacle quelque part où il ne serait jamais allé autrement.
 
-À l'inverse si on fait toujours des acceptations molles, on ne va pas être créatif, nos spectacles seront répétitifs et lassants.
-Dans une troupe, on va tomber dans une routine. On va faire tout le temps la même chose. Donc pour remettre de la fraîcheur, on peut bloquer (sur une scène), injecter le danger dans le spectacle et ensuite continuer sur les bases créatives posées.  
+À l'inverse si on fait toujours des acceptations molles, on ne va pas être créatif, nos spectacles seront répétitifs et lassants.  
+Dans une troupe, on va tomber dans une routine. On va faire tout le temps la même chose. Donc pour remettre de la fraîcheur, on peut bloquer (sur une scène), injecter le danger/chaos dans le spectacle et ensuite continuer sur les bases créatives posées.  
 Bien penser "Oui cette idée est bizarre. Mais je vais voir comment l'utiliser au mieux".
 
-L'ingénieur va toujours vouloir contrôler la direction de l'histoire, là où le Musicien de jazz va rester libre et constructif.
+L'Ingénieur va toujours vouloir contrôler la direction de l'histoire, là où le Musicien de jazz va rester libre et constructif.
 
 
 # Jour 2
@@ -342,20 +382,24 @@ On peut accélérer la musique, pour changer le rythme, et accélérer les mouve
 
 
 ## Exercice "Cadeau + parole"
-On est en cercle. On va se donner un cadeau tour à tour. On a droit à la parole.  
+On est en cercle. On va se donner un cadeau tour à tour. On a droit à la parole.
+
 Un premier comédien va se tourner vers la personne à côté de lui, lui tendre un cadeau imaginaire et lui dire : "Tiens, c'est pour toi" avec l'intonation qu'il veut.  
 L'autre comédien va recevoir ce cadeau avec une émotion choisie par lui, ou juste ressentie sincèrement, et formuler un remerciement.   
 Ça fait une mini-scène, puis on passe un nouveau cadeau à la personne qui nous suit, etc.
 
 
 ## Exercice "Cadeau + gromelot"
+On est en cercle. On va se donner un cadeau tour à tour. On n'a pas droit à la parole, on utilise le gromelot.
+
 On se rend compte que, dans l'exercice en gromelot, l'intensité d'implication est beaucoup plus forte. L'énergie est plus forte. La scène est plus riche.  
 On inspire son partenaire qui est emporté par notre énergie.  
-Le problème en impro ... c'est la parole ! Elle nous fait être dans notre tête. Sortir notre Ingénieur et donc perdre notre Musicien, dans le corps et dans l'organique.
+Le problème en impro ... c'est la parole !  
+Elle nous fait être dans notre tête. Sortir notre Ingénieur et donc perdre notre Musicien, dans le corps et dans l'organique.
 
 
 ## Exercice "Émotions + gromelot"
-En duo. A va choisir une émotion, B va choisir une émotion.  
+En duo. A et B vont choisir une émotion (sans dire laquelle).  
 A est assis B et debout. Au début de la scène, B va s'approcher de A et dire une phrase en gromelot en s'adressant à A.  
 Immédiatement A va switcher sur son émotion en poussant haut le curseur d'intensité.
 
@@ -363,15 +407,17 @@ Puis il va faire sa phrase en gromelot. Dès qu'il l'a prononcée, B va switcher
 On va laisser monter crescendo (surtout, on ne redescend pas !), puis rester dans cette intensité maximale.  
 Puis A et B trouvent comment sortir de la scène ensemble.
 
-Note. Quand quelqu'un change et est en énergie, l'autre ne peut pas l'ignorer. C'est contagieux, ça enfle mutuellement le niveau d'implication.     
+Notes :
+- Quand quelqu'un change et est en énergie, l'autre ne peut pas l'ignorer. C'est contagieux, ça enfle mutuellement le niveau d'implication.     
 Dans Trio, Mark envoie de l'énergie vers les deux spectateurs qui l'accompagnent sur scène pour les embarquer avec lui.
 
-Note. Évidemment, en long-form, tu ne vas pas faire une scène comme ça pendant 5 minutes, mais tu peux faire ça à un moment d'une scène, avec une intensité incroyable.  
-Côté comédien, ça peut paraître du jeu caricatural, artificiel, mais n'oublie pas que ça marche côté public, qui se raconte l'histoire même si toi sur scène tu ne l'as pas 😅
+- Évidemment, en long-form, tu ne vas pas faire une scène comme ça pendant 5 minutes, mais tu peux faire ça à un moment d'une scène, avec une intensité incroyable.  
+
+- Côté comédien, ça peut paraître du jeu caricatural, artificiel, mais n'oublie pas que ça marche côté public, qui se raconte l'histoire même si toi, sur scène, tu ne l'as pas 😅
 
 Attention : Avec le gromelot, il ne faut surtout pas se formuler une phrase dans sa tête et ensuite essayer de la restituer en gromelot.  
-L'idée est vraiment de formuler son ressenti, en réaction à ce que nous dit l'autre, en réaction à ce que fait l'autre.
-En gromelot, tu comprends ce que tu viens de dire en regardant la réaction de l'autre.  
+L'idée est vraiment de formuler son ressenti, en réaction à ce que nous dit l'autre, en réaction à ce que fait l'autre.  
+**En gromelot, tu comprends ce que tu viens de dire en regardant la réaction de l'autre.**  
 On est vraiment dans du jeu purement émotionnel → ne pas oublier que le public fait sa propre histoire.
 
 
@@ -392,15 +438,17 @@ Par exemple, Buck qui boit le café et fait le choix fort de hurler car le café
 Ensuite reconnexion des personnages, après cette montée émotionnelle et énergique.
 
 La parole nous déconnecte de l'énergie envoyée par nos partenaires de jeu.  
-Par rapport au gromelot, Aurélie partage "Je ne vis pas de Aaahhhhh!! avec le gromelot". Mark explique que c'est normal : "Parce que tu n'es plus dans l'injonction de la parole, dans la pression mise par cette injonction de parole".  
+Par rapport au gromelot, Aurélie partage "Je ne vis pas de Aaahhhhh!! avec le gromelot".  
+Mark explique que c'est normal : "Parce que tu n'es plus dans l'injonction de la parole, dans la pression mise par cette injonction de parole".  
 
 Note : Attention, l'énergie d'implication n'est pas forcément une intensité explosive !  
 On peut être intense, mais en retenue et en finesse.
 
-Exercice "Duo allongé + nourriture"
+## Exercice "Duo allongé + nourriture"
 En duo, on va jouer avec une émotion choisie (commune au duo) au hasard dans la roue des émotions.  
 On commence l'exercice en étant complètement neutre et allongé au sol.  
-Un des deux partenaires va dire le nom d'un aliment, par exemple "Pain", l'autre va reprendre "Pain" et va rajouter un autre ingrédient : "Pain et confiture".  
+Un des deux partenaires va dire le nom d'un aliment, par exemple "Pain", l'autre va reprendre "Pain" et va rajouter un autre ingrédient : "Pain et confiture".
+
 À chaque ingrédient, on va ajuster son corps, le teinter de l'émotion choisie. Il faut bouger légèrement son corps petit à petit. Le corps ne doit jamais stagner. On doit jamais retomber dans une position qu'on a déjà eu dans le passé.  
 Idem pour l'émotion, elle ne doit faire que monter, devenir plus intense.  
 Progressivement, les deux comédiens vont se relever, chargés de cette émotion.
@@ -414,21 +462,22 @@ Notes :
 ## Exercice "Les quatre zones d'intensité"
 Au sol, quatre zones concentriques matérialisées au scotch :
 
-Zone 1 - Terre  
+Zone 1 - **Terre**  
 On est posé, notre mode normal
 
-Zone 2 - L'eau
+Zone 2 - **Eau**  
 Je commence à lâcher le contrôle. Je me mouille un peu. Je suis en léger danger.  
 Je veux surfer sur l'énergie.
 
-Zone 3 - L'air
+Zone 3 - **Air**  
 Je vole, je me laisse aller. Je ne sais plus où je vais ... mais j'y vais !
 Je me jette dans le vide.
 
-Zone 4 - Le feu
-On est en perte totale de contrôle. On ne se pose plus de questions. On brûle. On est hyper intense, il y a plus aucun contrôle !  
-Et évidemment on se consume, donc on peut pas rester dans la zone 4 bien longtemps.
+Zone 4 - **Feu**  
+On est en perte totale de contrôle. On ne se pose plus de questions. On brûle. On est hyper intense, il n'y a plus aucun contrôle !  
+Et évidemment on se consume, donc on ne peut pas rester dans la zone 4 bien longtemps.
 
+L'exercice :  
 En déplacement dans la salle, au début de l'exercice, on est tous en Zone 1.
 Puis le coach va ouvrir la Zone 2.
 
@@ -440,7 +489,7 @@ Idem pour la redescente.
 
 (Le coach ne va pas ouvrir Z4 immédiatement)
 
-<img src="{{ 'assets/images/scribes/stg-malice-et-implication/zones-intensite.jpg' | relative_url }}" width="800" alt="Zones intensité">
+<img src="{{ 'assets/images/scribes/stg-malice-et-implication/zones-intensite.jpg' | relative_url }}" width="600" alt="Zones intensité">
 
 
 ## Jeu "Scène avec les zones"
@@ -449,32 +498,36 @@ On va naviguer entre les zones et charger nos personnages avec l'intensité corr
 Le public voit les zones matérialisées au sol, donc on va assumer d'être entré dans une zone, on va jouer le jeu avec l'intensité correspondant à cette zone, on ne peut pas se rétracter.  
 Si je suis en Zone 3, j'envoie, je ne peux pas ignorer comme je le ferai en jeu normal. 
 
-Note : Le problème en général, c'est que dans beaucoup nos scènes on reste en Zone 1 ou 2.
+Notes :
+- Le problème en général, c'est que dans beaucoup nos scènes on reste en Zone 1 ou 2.  
 Se forcer à monter en Zone 3 va "pimper" nos scènes !
 
-Note : Un petit tips intéressant est de tester la Zone 3 en silence, voir comment on peut trouver de l'intensité sans forcément être dans de la parole ou des cris.
+- Un petit tips intéressant est de tester la Zone 3 en silence, voir comment on peut trouver de l'intensité sans forcément être dans de la parole ou des cris.
 
 Deuxième étape, tu arrêtes de te "balader" dans la zone.  
 Si tu bouges, c'est pour changer de zone.  
 Il y a plus de mouvement parasite, d'aller-retour inutile.  
 On continue à jouer ces scènes tout en restant naturel, mais si on se déplace, c'est pour changer de zone.
 
-Note : Lorsqu'on rentre en Zone 4, c'est pour une excellente raison.  
+Note :
+- Lorsqu'on rentre en Zone 4, c'est pour une excellente raison.  
 Donc si on brûle en Zone 4, cette raison est certainement l'enjeu principal de la scène qu'on est en train de jouer.
 
-Variante : on peut changer de zone pour surprendre son partenaire et voir ce que ça fait.  
+### Variante :  
+On peut changer de zone pour surprendre son partenaire et voir ce que ça fait.  
 Donc presque de manière aléatoire, ou en tout cas de manière pas forcément dans la logique de la scène, on va changer de zone. Et voir ce que ça amène à la scène. 
 
 C'est intéressant aussi de voir les montées vers le climax, puis les redescentes après ce climax, comment les choses s'apaisent, comment cela va créer un moment assez joli qui, souvent, va nous sortir du conflit.
 
-D'un point de vue personnel, les zones permettent de se rendre compte à quelle vitesse on "montes".
-"Ah moi je monte souvent peut-être un peu trop vite ... et si je changeais de zone un peu moins rapidement ?"
+D'un point de vue personnel, les zones permettent de se rendre compte à quelle vitesse on "monte".  
+"Ah moi je monte souvent peut-être un peu trop vite... et si je changeais de zone un peu moins rapidement ?"
+
 
 ## Exercice "Mélange de genre de cinéma, un mot à la fois"
 En duo, chacun va choisir secrètement un genre de film.
 
 Et un mot à la fois, chacun va essayer de tirer l'histoire dans son "monde".  
-Si par exemple j'ai choisi "western", je vais essayer avec mon mot d'influer l'histoire vers l'univers du western, mais toujours un mot à la fois.
+Si, par exemple, j'ai choisi "western", je vais essayer avec mon mot d'influer l'histoire vers l'univers du western, mais toujours un mot à la fois.
 Si en face l'autre a choisi "comédie dramatique", on voit où ça nous mène.
 
 
@@ -499,7 +552,8 @@ Par exemple, si A a pioché "Je veux vivre au jour le jour", il peut dire :
 B va alors décoder et dire ce qu'il pense être écrit sur le papier :"Ce que tu veux, toi, c'est ..." + sa proposition.  
 
 
-Variante : Quand B pense avoir trouvé, il dit "Ce que tu veux, toi, c'est ..." + sa proposition puis interprète le besoin : "... mais ce dont tu as besoin c'est ..." + sa proposition de besoin.  
+### Variante :
+Quand B pense avoir trouvé, il dit "Ce que tu veux, toi, c'est ..." + sa proposition puis interprète le besoin : "... mais ce dont tu as besoin c'est ..." + sa proposition de besoin.  
 
 Exemple :
 - Papier pioché : "Je veux vivre au jour le jour"
@@ -522,12 +576,15 @@ Tips de réussite (d'une scène de plateforme) :
 - Poser l'univers narratif !
 - Trois sujets différents minimum dans la première scène. Ça s'appelle la divergence. Ça permet d'avoir un socle très large.
 - Être spécifique dans les sujets. Exemple : "Je dois partir au travail" est trop vague. "Je stresse de partir au travail aujourd'hui, cet entretien pour le poste de directeur marketing est tellement important pour moi" est beaucoup plus spécifique, et donc beaucoup plus riche.
-- Focuser sur le besoin réel des personnages (cf "mais ce dont tu as vraiment besoin c'est ..."). Cela nous amène les enjeux.
+- Focuser sur le besoin réel des personnages (cf "mais ce dont tu as vraiment besoin c'est ...") → Cela nous amène les enjeux.
 - Changer de sujet apporte plein de matière variée pour la suite.
 - On se connait bien ! Penser à jouer des personnages qui savent des choses sur l'autre. On "habille" l'autre. Connaître des choses sur l'autre amène de la complicité à la relation, le public y croit et on a amené plus d'éléments réutilisables par la suite.
-- Ne pas se laisser polluer par le contexte donné par le public ! Exemple : "Vous êtes des gendarmes". Le risque ici est de trop s'attacher au contexte, de partir dans une description d'enquête, de parler de quelque chose d'externe à la relation. Au contraire, ces deux gendarmes peuvent être en pause, et parler de leurs souvenirs en commun, de s'interroger sur leur famille, etc.
+- Ne pas se laisser polluer par le contexte donné par le public !  
+Exemple : "Vous êtes des gendarmes". Le risque ici est de trop s'attacher au contexte, de partir dans une description d'enquête, de parler de quelque chose d'externe à la relation.  
+Au contraire, ces deux gendarmes peuvent être en pause, et parler de leurs souvenirs en commun, de s'interroger sur leur famille, etc.
 - En scène de plateforme de long-form, ton intensité doit rester en Zone 1 et Zone 2. Réserve les Zones 3 et 4 pour après, pendant l'acte 2 !
-- Attention ! Les scènes de plateforme sont étanches. On ne parle pas des choses installées par les copains avant, on construit du nouveau !
+- Attention ! **Les scènes de plateforme sont étanches**. On ne parle pas des choses installées par les copains avant, on construit du nouveau !
+
 
 ## Jeu "3 scènes de plateforme à 4"
 Quatre comédiens A, B, C et D.  
@@ -538,8 +595,8 @@ Puis une troisième, A (ou B) va revenir avec C (ou D).
 Dans cet exercice, on quitte la scène quand on pense qu'elle a fait son job. Ce n'est pas l'extérieur (comédiens en attente qui vont tuiler, ou un noir régie) qui va couper la scène, mais bien les comédiens en jeu.
 
 Même sur la dernière scène, on ne réintégre pas des éléments des premières scènes. Il faut continuer à enrichir l'univers narratif des personnages en jeu et leur relation. Nous sommes toujours dans l'Acte 1.  
-Il faut varier, varier, faire différents, varier encore pour avoir un socle solide.  
-Évidemment, les personnages reviennent sur scène, donc on doit revoir leur dynamique, leur caractéristique de personnage, mais dans un nouveau contexte.
+Il faut varier, varier, faire différent, varier encore pour avoir un socle solide.  
+Évidemment, les personnages reviennent sur scène, donc on doit revoir leur dynamique, leurs caractéristiques de personnage, mais dans un nouveau contexte.
 
 Dans les plateformes, l'outil "Ce que je veux c'est ..." donne une ligne intéressante à l'histoire, mais l'outil "... mais ce dont j'ai besoin, c'est ..." donne l'enjeu de l'histoire.  
 Une des clés de réussite dans un long-form sera de faire souffrir les personnages vis-à-vis de leurs besoins.  
@@ -569,18 +626,19 @@ La solitude et la peur de ne pas avoir d'enfants sont une source de souffrance p
 Ça sera très fort de la voir souffrir, ça devient un enjeu de notre long-form.
 
 Rappel des six enjeux principaux classés dans l'ordre croissant de l'intérêt pour le public :
-1. Enjeux amoureux
-2. Enjeux familiaux
-3. Enjeux criminels, c'est tout ce qui tourne autour des activités immorales ou amorales.
-4. (et 5 à égalité), les enjeux amicaux et professionnels
-6. Enjeux administratifs, par exemple, je demande un prêt bancaire, c'est une demande de service, si je ne l'ai pas je suis dans la merde.
+1. **Enjeux amoureux**
+2. **Enjeux familiaux**
+3. **Enjeux criminels**, c'est tout ce qui tourne autour des activités immorales ou amorales.
+4. (et 5 à égalité), les **enjeux amicaux et professionnels**
+6. **Enjeux administratifs**, par exemple, je demande un prêt bancaire, c'est une demande de service, si je ne l'ai pas je suis dans la merde.
 
 Là encore, on va s'entraîner à terminer soi-même les scènes.  
 
 Dans l'exercice de l'hôtel, bien penser à changer la position des chaises à chaque scène. Sinon le public pense qu'on est exactement dans le même lieu.  
 Donc on prend le temps en début de scène pour modifier l'environnement et signifier : "C'est un nouveau lieu".
 
-Note : après les trois ou quatre scènes, demander aux comédiens qui ont joué les personnages quelles sont les saucisses qu'ils voient.  
+Note :
+- Après les trois ou quatre scènes, demander aux comédiens qui ont joué les personnages quelles sont les saucisses qu'ils voient.  
 C'est-à-dire ce qu'on aimerait voir être développé plus tard dans l'histoire.  
 C'est intéressant de voir ce que les comédiens ont perçu comme éléments importants, besoins des différents personnages, enjeux futurs, pistes de développement de l'histoire.  
 

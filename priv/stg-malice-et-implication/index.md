@@ -567,6 +567,48 @@ La reformulation l'interprétation permet de recentrer sur le besoin vital du pe
 Ça impacte directement le personnage et sa relation aux autres.  
 Ça colore énormément les scènes... mais en trois phrases, pas en cent !
 
+### Petits papiers "Points of View" de Mark
+**Sur toi même**
+- Je n’en peux plus
+- Je dois être content.e avec le peu que j’ai dans la vie
+- Le monde tourne autour de moi
+- Les autres devraient être en adoration devant moi
+- J’aimerais une vie bien plus excitante
+- Je veux que tout soit parfait
+- Je fais ce qu’on me dit de faire
+- Je trouve TOUT génial et je suis très enthousiaste
+- Je respecte les règles
+- J’ai vécu la gloire mais c’est dans mon passé
+- Il faut que les gens se rendent compte que je ne suis pas comme les autres, donnez-moi une chance
+- Je suis jaloux/jalouse des autres
+- Je ne me soucie pas de mon passé, ni mon avenir. Je vis l’instant présent
+- Je respire la vie
+- Je ne dis jamais ce qu’il faut dire
+- Je suis seul.e
+- Je suis certain.e que je vais mourir jeune
+
+
+**Sur les autres**
+- Je t’adore
+- J’ai des soupçons sur tes motivations
+- J’ai peur que tu perdes la tête
+- J’ai besoin de toi
+- Tu ne peux pas imaginer ce que ça fait d’être moi.
+- Je dois te faire plaisir
+- Tu es mon sauveur / ma sauveuse
+- Tu m’intrigues car je pense que tu es différent.e des autres
+- Cette année va être la meilleure année de notre vie
+- Je suis gêné.e par ta présence
+- Je veux ce qu’il y a de mieux pour toi
+- Tu penses que je suis ennuyant.e
+- Je te pardonne
+- Je pense que tu répends des rumeurs sur moi
+- Quand est-ce que tu vas réaliser que tu es amoureux de moi ?
+- Tu me fais penser à un animal de compagnie
+- Je trouve qu’on est identique à tout point de vue
+- Je ne te comprends jamais
+
+
 
 ## Jeu "Scène avec papiers 'Caractéristiques de personnage'"
 En duo, chacun pioche un papier de caractéristique pour son personnage.  

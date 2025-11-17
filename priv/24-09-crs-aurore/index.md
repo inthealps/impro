@@ -394,7 +394,7 @@ De même, on a tendance à vouloir faire abandonner l'action à son partenaire.
 "Tu viens m'aider à ramasser les pommes ?"
 NON
 "Elles sont bonnes ces pommes, tiens en voilà une …"
-=> On ne perd rien, tout le monde garde son action, et on peut continuer à jouer.  
+⇒ On ne perd rien, tout le monde garde son action, et on peut continuer à jouer.  
 
 
 ## Contrastes

@@ -32,13 +32,13 @@ Le coach donne exprès des éléments utilisant le son "P" :
 - Vous aimez aller au bar "Le Porche" et boire du Pastis et du Porto
 
 Tout ce décorum pour montrer que c’est impossible, qu’on va forcément se planter.  
-Et c’est cool ! -> on se réjouit de l’erreur !  
+Et c’est cool ! → on se réjouit de l’erreur !  
 
 Le public va crier "Die !!" (meurs !) à chaque fois qu’un des deux se trompe.  
 Il est immédiatement replacé par quelqu’un.  
 
 Tips de réussite :
-- On se lâche ! On n’est pas flippé par l’enjeu -> on parle normalement
+- On se lâche ! On n’est pas flippé par l’enjeu → on parle normalement
 - Tant pis si on se trompe : La qualité d’une impro doit beaucoup à l’autorisation que l’on se donne à nous-même !  
 
 

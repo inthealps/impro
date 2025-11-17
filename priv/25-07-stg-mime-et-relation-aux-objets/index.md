@@ -73,7 +73,7 @@ D’où des portes qui se déplacent, des objets qui changent de taille, des tab
 
 Et pourtant notre cerveau est une machine incroyable qui va croire aux choses si on lui demande d’y croire.  
 
-Mieux visualiser permettra de mieux utiliser, et sans charge mentale -> MUSCLE DE LA VISUALISATION !  
+Mieux visualiser permettra de mieux utiliser, et sans charge mentale → MUSCLE DE LA VISUALISATION !  
 
 
 
@@ -100,7 +100,7 @@ Tips de réussite :
 - Engager le corps avant de savoir ce que l’on va dire, en se tournant vers la face, en commençant à dire "Au-dessus de nous ..." on va commencer à visualiser des choses que l’on va pouvoir décrire. C’est beaucoup mieux que de rester bloqué pendant la réflexion, on est trop dans la tête !  
 - Le public/le coach peut aider en montrant avec les doigts levés vers le haut, ou dressés à droite, etc pour aider les techniciens à savoir quelles faces n’ont pas encore été décrites.  
 - Le cube n’est pas un exercice de "scene painting", il nous permet de décrire des choses au loin ("Face à nous, au loin, il y a une montagne enneigée").  
-- Dans la suite de cette idée, on peut voir des choses qui sont cachées ou invisibles : "En-dessous de moi, je vois les égouts, sombres et sales, seuls quelques rats s’y aventurent" -> cela peut donner un trait psychologique à notre personnage, ici il sera peut-être en dépression.  
+- Dans la suite de cette idée, on peut voir des choses qui sont cachées ou invisibles : "En-dessous de moi, je vois les égouts, sombres et sales, seuls quelques rats s’y aventurent" → cela peut donner un trait psychologique à notre personnage, ici il sera peut-être en dépression.  
 - "Faites mal l’exercice" : Si rien n’est évident, que rien ne vient, faire méga simple, et dire "À nos pieds, un sol blanc" ou "Au-dessus de nous, il y a le ciel". C’est déjà un début de visualisation, ça va aider nos partenaires.  
 
 Variantes :

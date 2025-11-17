@@ -10,7 +10,7 @@ date: 2025-08-02
 Quelques principes énoncés par Élise lors du stage, en vrac ...  
 
 ## C'est important, mais ce n'est pas grave
-"C'est important, mais ce n'est pas grave" -> Je t'annonce une maladie, ce n'est pas forcément un cancer, ça peut être un rhume.  
+"C'est important, mais ce n'est pas grave" → Je t'annonce une maladie, ce n'est pas forcément un cancer, ça peut être un rhume.  
 Mais c'est important pour moi, et donc c'est important pour toi ... même si ce n'est pas si grave que ça.  
 
 La sincérité ne passe pas forcément par la gravité.  
@@ -213,7 +213,7 @@ Puis, au bout d'un moment, quand on est prêt, la musique va s'estomper et on va
 Tips de réussite :
 - On commence sans attendre de tout savoir, c'est très instinctif.  
 - On peut répéter des choses pour leur donner de l'importance, du poids.  
-- Les comédiens doivent proposer un tableau unifié, choral. On ne veut voir qu'une seule proposition du groupe, pas un tas de propositions individuelles. -> "Un tout seul c'est chelou, huit ensemble c'est ouf'"
+- Les comédiens doivent proposer un tableau unifié, choral. On ne veut voir qu'une seule proposition du groupe, pas un tas de propositions individuelles. → "Un tout seul c'est chelou, huit ensemble c'est ouf'"
 - Donc, ne pas hésiter à suivre la première proposition qui arrive.  
 
 
@@ -256,7 +256,7 @@ Lentement, on va faire grossir cette émotion, en s'inspirant les uns les autres
 Arrivés en bout de scène, on doit être à fond !  
 
 Tips de réussite :
-- Pas de leader, personne qui va se mettre en avant, on se suit les uns les autres. -> "Follow the follower"
+- Pas de leader, personne qui va se mettre en avant, on se suit les uns les autres. → "Follow the follower"
 - Pas de demi-mesure, on fait vraiment grossir !
 - Respirer ensemble
 - Se regarder beaucoup !
@@ -273,7 +273,7 @@ Puis le comédien va réintégrer le groupe, qui va partir en mouvement à nouve
 
 Tips de réussite :
 - Lâcher-prise total, on ne se pose pas la question de ce qu'on va faire, et de ce qui vient après, on découvre avec les autres.  
-- Pas de bride sur cet exercice, on le rend beau. -> "fuck the rules"
+- Pas de bride sur cet exercice, on le rend beau. → "fuck the rules"
 
 
 ## Exercice "Les petits papiers émotions + corps/texte"

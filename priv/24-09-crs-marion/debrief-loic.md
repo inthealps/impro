@@ -23,8 +23,8 @@ La position maudite de l'impro adoptée par tous les improvisateurs malheureusem
 
 Parle un peu moins, ça te permettra de partir dans le corps.  
 
-Muet --> Corps
-Blabla -> Frites
+Muet → Corps
+Blabla → Frites
 
 ### MOINS - Sois plus au service
 Tu as tendance à trop prendre le lead dans les scènes. Et dérouler les fils de l'histoire pour ton propre compte.  

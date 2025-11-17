@@ -283,7 +283,7 @@ Tips de réussite :
 - Faire un choix simple
 - Terminer la scène par une punch-line naturelle.
 - En tant que metteur en scène, ne pas hésiter à faire changer jusqu'à ce que quelque chose nous plaise vraiment. Idem, essayer de sortir les comédiens de leur zone de confort. C’est un espace d’expérimentation et de découverte.
-- On ne commence pas par justifier la position du partenaire (*) ! Car en faisant cela, on ferme les possibles plutôt que de les ouvrir … --> On va ramer pour la suite !
+- On ne commence pas par justifier la position du partenaire (*) ! Car en faisant cela, on ferme les possibles plutôt que de les ouvrir … → On va ramer pour la suite !
 - Les comédiens doivent prendre des risques, être organiques !
 
 (*) Par exemple, ta position me fait penser à un mannequin, je vais t'attribuer un rôle de mannequin. Pourquoi pas, mais pas trop tôt, car le faire trop tôt ferme la porte.
@@ -344,7 +344,7 @@ Varier les vitesses, les rythmes sur ce premier travail individuel.
 Puis en duo, on entame un travail de développement : "Qu'est-ce qui me vient ?"  
 Puis une fois que les deux ont "trouvé" : rencontre/interaction des deux personnages ainsi créés → On joue une scène !
 
---> Vivre, ressentir, se connecter à son partenaire
+→ Vivre, ressentir, se connecter à son partenaire
 Les mots on s'en fout, résister au blabla !
 
 Tips de réussite :

@@ -1568,7 +1568,7 @@ Tips de réussite :
 - Ne pas se laisser déstabiliser par les "polices", ne pas s'arrêter, c'est vraiment à voir comme un side-coaching pour nous aider, et revenir à la description.
 - Ne pas s'arrêter quand les polices interviennent, on reste mobilisé et concentré sur notre description.
 - Déposer des "potentiels" (les "saucisses" de Mark Jane), des éléments qui pourront être utilisés pour "faire l'histoire" si on devait la continuer.
-- "Tout ce qui ne peut pas être dessiné est superflu" -> on supprime le verbiage, on ne fait que "charger le décor"
+- "Tout ce qui ne peut pas être dessiné est superflu" → on supprime le verbiage, on ne fait que "charger le décor"
 
 ## Échauffement "Diarrhée verbale"
 _Date de création : 2025-03-18T20:00:00_  

@@ -707,7 +707,7 @@ Il y aura un début, des scènes de milieu et une fin.
 
 L'idée est d'illustrer un voyage en un temps record, comme si on voyait le temps défiler en accéléré !  
 
-Début (scène 1) -> scène 2 -> scène 3 -> ... -> fin (dernière scène)  
+Début (scène 1) → scène 2 → scène 3 → ... → fin (dernière scène)  
 
 On va faire des tuilages entre chaque scène. Comme on n'est que deux sur scène, bah cà sera des auto-tuilages !  
 
@@ -1301,7 +1301,7 @@ Se fixer un **mantra** permet de rester focus sur sa proposition/ses enjeux.
 - Acceptez même le débile.  
 - Acceptez même quand votre "idée est meilleure" ;)
 
-Oui --> Oui --> Oui : On avance dans l'Histoire !  
+Oui → Oui → Oui : On avance dans l'Histoire !  
 
 ## Ne le créez pas, découvrez-le !  
 Ne pas chercher à créer une situation, mais allez la découvrir chez votre partenaire.  
@@ -1316,7 +1316,7 @@ Cela va éviter d'empiler les couches de lasagnes inutilement, de multiplier les
 
 ## Soyez subtils
 Ne pas tout dire, ne pas tout montrer.  
---> "Donner à comprendre"
+→ "Donner à comprendre"
 
 ## Ne soyez pas caricaturaux
 On n'est pas obligé d'en faire des tonnes, le minimalisme a du bon ;)  

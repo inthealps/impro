@@ -28,7 +28,7 @@ Accueillir avec enthousiasme et valoriser les propositions de son partenaire.
 
 ### Qu'est-ce ça me fait ?
 Penser "Qu'est-ce ça me fait ?" plutôt que "Qu'est-ce que je vais faire ?"  
-Être en mode premier degré sur scène, on reçoit les choses sincèrement -> "On y croit, tout est déjà là, il n'y a plus qu'à le jouer."
+Être en mode premier degré sur scène, on reçoit les choses sincèrement → "On y croit, tout est déjà là, il n'y a plus qu'à le jouer."
 
 
 ### Les personnages de salauds
@@ -182,7 +182,7 @@ Puis, au bout d'un moment, quand on est prêt, la musique va s'estomper et on va
 Tips de réussite :
 - On commence sans attendre de tout savoir, c'est très instinctif.
 - On peut répéter des choses pour leur donner de l'importance, du poids.
-- Les comédien.ne.s doivent proposer un tableau unifié, choral. On ne veut voir qu'une seule proposition du groupe -> "Un tout seul c'est chelou, huit ensemble c'est ouf'"
+- Les comédien.ne.s doivent proposer un tableau unifié, choral. On ne veut voir qu'une seule proposition du groupe → "Un tout seul c'est chelou, huit ensemble c'est ouf'"
 - Donc, ne pas hésiter à suivre la première proposition qui arrive.
 
 
@@ -196,4 +196,4 @@ Puis le/la comédien.ne va réintégrer le groupe, qui va partir en mouvement à
 
 Tips de réussite :
 - Lâcher-prise total, on ne se pose pas la question de ce qu'on va faire, et de ce qui vient après, on découvre avec les autres.
-- Pas de bride sur cet exercice, on le rend beau. -> "fuck the rules"
+- Pas de bride sur cet exercice, on le rend beau. → "fuck the rules"

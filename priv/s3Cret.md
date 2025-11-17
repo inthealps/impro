@@ -29,7 +29,7 @@ title:  "Table des matières"
 
 [Impro-Boost T4 2024, Aurore]({{ 'priv/24-09-crs-aurore/' | relative_url }})
 
-[Ateliers 2024-2025, Marion Genet]({{ 'priv/24-09-rs-marion/' | relative_url }})
+[Ateliers 2024-2025, Marion Genet]({{ 'priv/24-09-crs-marion/' | relative_url }})
 
 ### 2025
 [Stage Où j'en suis en impro, Alex Chetail]({{ 'priv/25-03-stg-j-en-suis-ou-en-impro/' | relative_url }})

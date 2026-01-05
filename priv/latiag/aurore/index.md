@@ -72,7 +72,7 @@ Le comédien B peut interagir autour de A.
 Peut-être que les deux vont finir par s'adresser la parole, mais ce n'est pas obligatoire.
 
 
-# Échauffement "Anticipation Action Récompense"
+## Échauffement "Anticipation Action Récompense"
 En groupe, on est en cercle.  
 Un comédien A porte un cadeau imaginaire, il lui donne vie, on doit le "voir". C'est la phase d'anticipation.  
 Puis il va se tourner vers son voisin, lui faire comprendre qu'il va lui offrir ce cadeau. Les deux comédiens vont faire exister ce cadeau. Puis A va l'offrir à B. C'est la phase d'action.  

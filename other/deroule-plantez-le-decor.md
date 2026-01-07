@@ -26,21 +26,17 @@ NOIR + musique AMBIANCE qui ne s'arrête pas.
 
 La troupe entre sur scène et se fige en tableau : Une scène de long-form, relationnel, on est en contact visuel avec ses partenaires, ou en regard public.
 
-Lumière FULL quelques secondes. Puis NOIR.
+Lumière FULL pendant 5/6 secondes. Puis NOIR.
 
 
 Puis autre tableau, lumière FULL puis NOIR, etc.
-4 positions statiques avec musique et noir/lumières, 2'
+4 positions statiques avec musique et noir/lumières, 1 minute environ.
 
-Puis, les comédien-nes vont en RÉSERVE ( 2 à droite et 3 à gauche), et le/la MC s'avance pour l'introduction.
+Puis, musique d'intro PUNCHY, les comédien-nes vont en RÉSERVE ( 2 à droite et 3 à gauche)
+Lumière FOCUS, le/la MC s'avance pour l'introduction.
 
 ## Introduction
-
-**Questions :**
-- Musique d'intro PUNCHY ou pas pendant que les spectateurs applaudissent et que le MC les chauffe ?
-- Si oui, lumières DYNAMIC ??
-
-Discours MC avec lumière FOCUS.
+Discours MC avec lumière FOCUS, musique PUNCHY éteinte ou très basse.
 
 ## Piochage du 1er lieu
 Le MC pioche un lieu dans le chapeau, il dit le nom du lieu à voix haute, puis s'en va.
@@ -95,9 +91,10 @@ MC : _"C'est parti pour une belle histoire, vous ne me reverrez plus avant la fi
 → NOIR
 
 ## Plateforme 5 (E + F)
-Idem
+Idem (Musique PLATEFORME, lumière FULL puis NOIR)
 
 ## Plateforme 6 (F + A)
+Idem (Musique PLATEFORME, lumière FULL)
 
 À partir de maintenant, on ne cutte plus au NOIR, on effectue des tuilages entre chaque scène.
 
@@ -106,13 +103,13 @@ Mais possibilité de NOIR si ça rame le fion. Ou si la scène était particuli�
 
 ## Solos de fin
 
-Vers la fin, un personnage va venir se positionner au centre de la scène (lumière FOCUS) et faire un 1er solo, assis sur cette chaise.
+Vers la fin, un personnage va prendre une chaise et venir se positionner au centre de la scène (lumière FOCUS) et faire un 1er solo, assis sur cette chaise.
 
 Note : Pas de décors lumière, uniquement un FOCUS sur le personnage.
 
-Le comédien termine son solo, et sort de scène (va dans les COULISSES).
+Le comédien termine son solo, lumière NOIR, et il sort de scène (va dans les COULISSES).
 
-On recommence pour les 6 personnages (FOCUS puis NOIR).
+On recommence pour les 5 autres personnages (FOCUS puis NOIR).
 
 **Le dernier part avec la chaise** (important)
 
@@ -123,13 +120,15 @@ Musique PUNCHY avec lumières DYNAMIC
 
 Le MC appelle chaque comédien-nes 1 par 1, qui viennent en fond de scène.
 
-Puis on se tient la main, on fait un pas en avant, ensemble, puis salut collectif, on profite quelques secondes, puis pas en arrière.
+Puis on se tient la main, on fait deux pas en avant, ensemble, puis salut collectif, on profite quelques secondes, puis deux pas en arrière.
 
-On refait un pas en avant, nouveau salut collectif.
+On refait deux pas en avant, nouveau salut collectif.
 
-Puis pas en arrière et retour en coulisses en sortant par où on est entré.
+Puis deux pas en arrière et retour en coulisses en sortant par où on est entré.
 
 Si rappels, on revient, salut collectif x 2, et retour définitif en coulisses en sortant par où on est entré.
+
+Musique AMBIANCE et lumière SALLE.
 
 ## Durée indicative du spectacle
  - Plateformes : 20/25'

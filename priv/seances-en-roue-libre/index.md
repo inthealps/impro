@@ -1885,3 +1885,147 @@ Arrivés au bout de la pièce, on se regarde, on observe le neutre des autres, p
 Tips de réussite :
 - À fond ! Il doit y avoir des bruits, des respirations fortes, des mouvements du corps.
 - Quand on est au max, on tente d’en rajouter encore !
+
+
+## Échauffement "Les micro-mouvements"
+_Date de création : 2026-01-20T20:00:00_
+
+Source Marion Genet.  
+
+On se met en cercles de 4 personnes. On se connecte à ses voisins par le bout des indexs.  
+Une musique est diffusée, on ferme les yeux, on se connecte à soi-même. On tente de se stabiliser, aucun mouvement n’est fait.  
+
+Au bout d'un moment, le coach va venir toucher l'épaule d’un des comédiens. Ce comédien va alors faire un micro-mouvement avec l'un de ses indexs. Son voisin va le répliquer, toujours de manière minimaliste, sans forcément l'amplifier.
+
+On voit ce que ça donne.
+
+**Note :** En fait, le coach ne touche personne ! 😅  
+On se rend compte qu'il y a toujours quelqu'un qui initie un micro-mouvement, sans le vouloir, et les autres le suivent.  
+Le coach va demander à la fin qui avait initié le mouvement, et on se rendra compte alors de la supercherie.  
+→ L'idée est de montrer qu'il y a toujours quelque chose même lorsqu'on ne fait rien de spécial, le but étant juste de construire dessus.
+
+
+## Échauffement "L'histoire de notre BFF"
+_Date de création : 2026-01-20T20:00:00_
+
+Source Marion Genet.  
+
+En duo, un comédien va raconter une anecdote, le second comédien va réagir comme si c'était son/sa meilleur.e ami.e (BFF = Best Friend Forever).  
+Il va rebondir avec des "Waww !", des "Noooon !", des "Trop fort !", etc. Toujours avec emphase. 
+
+On voit ce que ça donne.
+
+L'idée derrière cet échauffement est de se connecter à l'enthousiasme, et de le transmettre.  
+Sur scène, avoir le soutien de nos BFFs va nous mettre en sécurité et en confort.  
+
+
+## Échauffement "J'irai où tu iras"
+_Date de création : 2026-01-20T20:00:00_
+
+Source Marion Genet.  
+
+On met la musique "J'irai où tu iras" de Céline Dion et Jean-Jacques Goldman.  
+En duo, on incarne les deux chanteurs de cette chanson :  
+- Lorsqu'on chante, on y va à fond, on fait le show !
+- Lorsqu'on n'est pas en train de chanter, on encourage son partenaire en mode BFF, on le/la regarde, on danse avec lui/elle.
+
+
+## Échauffement "Les démarches droite-gauche"
+_Date de création : 2026-01-20T20:00:00_
+
+Source Marion Genet.  
+
+On se met en colonne, au centre de la pièce.  
+On va partir à gauche avec une certaine démarche, un certain "personnage". Puis revenir au centre, partir à droite avec une démarche différente, un autre "personnage".  
+Au fur et à mesure, on va aller moins loin, donc diminuer le temps où on est dans un certain personnage, et donc devoir "trouver" plus rapidement le personnage.  
+En fait, on se laisse aller, on sort de notre tête pour se laisser surprendre à faire "n'importe quoi".  
+
+Tips de réussite :
+- On est à fond, on n'hésite pas à pousser les curseurs.
+- On se synchronise (non pas sur les démarches, mais notre positionnement sur la ligne gauche-droite, on doit partir et revenir ensemble).
+
+## Échauffement "Les têtes droite-gauche"
+_Date de création : 2026-01-20T20:00:00_
+
+Source Marion Genet. Variante de l'échauffement "Les démarches droite-gauche".
+
+On se met en colonne, au centre de la pièce.  
+On envoie une tête à gauche avec une certaine émotion, un certain "personnage".  
+Puis on envoie une tête à droite avec une émotion différente.  
+
+Le coach regarde les têtes et encourage !
+
+## Échauffement "Je vous annonce ... le bouffon !"
+_Date de création : 2026-01-20T20:00:00_
+
+Source Marion Genet. 
+
+En demi-cercle, le comédien A à l'extrémité droite du demi-cercle va pointer le comédien B à l'extrémité gauche en disant :  
+"Je vous annonce ... le bouffon !".  
+Et le comédien B va traverser le demi-cercle en incarnant ce bouffon, par son corps, son visage, sa voix, sa gestuelle, etc.
+
+Puis ayant fini sa traversée le comédien B va pointer un comédien C en disant :  
+"Je vous annonce ..." plus une proposition différente (n'importe quoi, le mécanicien, la star de cinéma, le roi du pétrole, l'entrecôte-frites, le sèche-cheveux, etc).
+
+## Exercice "Personnage + aparté public"
+_Date de création : 2026-01-20T20:00:00_
+
+Source Marion Genet.
+En duo. B se positionne derrière A.  
+Une musique est diffusée, un comédien A va incarner un personnage dans sa vie de tous les jours, le comédien B va observer.  
+À l'arrêt de la musique, B va entamer un monologue (en aparté au public), en décrivant ce personnage, son caractère, ses envies, etc.  
+A continue à incarner son personnage pendant que B parle. Sans forcément faire ce que B dit.
+
+
+## Exercice "Aparté public + personnage"
+_Date de création : 2026-01-20T20:00:00_
+
+Source Marion Genet. Basiquement, l'inverse de l'exercice "Personnage + aparté public".
+
+En duo.  
+Une musique est diffusée.
+À l'arrêt de la musique, un comédien A va entamer un monologue (en aparté au public), en décrivant un personnage, son caractère, ses envies, etc.  
+Puis la musique va reprendre, et le comédien B va incarner le personnage. Sans forcément faire ce que A a dit.
+
+
+## Exercice "Le speed dating amical"
+_Date de création : 2026-01-20T20:00:00_
+
+Source Marion Genet.
+En duo, devant public.  
+
+Deux chaises avec deux comédiens A et B.  
+Chacun a reçu un papier "état de jeu", connus d'eux seuls.  
+On leur donne un contexte : "Vous êtes à la soirée d'anniversaire de Caroline".  
+Ils interagissent en tentant de prendre en compte leur état de jeu.
+
+Exemples d'états de jeu :
+- "Je répète tout ce que je dis deux fois"
+- "Mon corps est toujours en mouvement"
+- "Je regarde l'autre fixement"
+- "Je parle fort"
+- "Je parle tout le temps"
+- "Je ramène tout à moi"
+
+## Exercice "Les nains de Blanche-Neige"
+_Date de création : 2026-01-20T20:00:00_
+
+Source Marion Genet.
+À quatre, devant public.  
+
+Les personnages sont inspirés des "mantras" des nains.
+
+Le coach donne le lien entre les persos, un contexte puis go !
+
+Liste des "mantras" des nains :
+- Simplet → "je suis un peu perdu"
+- Grincheux → "ça me saoule"
+- Timide → "je ne sais pas"
+- Joyeux → "c'est cool"
+- Dormeur → "Je n'ai pas d'énergie"
+- Prof → "Je sais tout, je t'explique"
+
+Tips de réussite :
+- Bien incarner le mantra
+- Prendre son temps
+- "Start in the middle of"

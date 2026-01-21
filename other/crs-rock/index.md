@@ -14,6 +14,7 @@ ou encore "1, 2, pe-tits pas, pe-tits pas"
 Sur le temps 1 le pied gauche du danseur se pose en arrière, le pied droit se lève légèrement.  
 Sur le temps 2 le pied droit du danseur se repose.  
 
+
 On piétine sur les temps suivants :  
 "3" → pose pied gauche  
 "et" → pose pied droit  

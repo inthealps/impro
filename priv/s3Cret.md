@@ -45,3 +45,6 @@ title:  "Table des matières"
 [Faire choeur, Élise & Léa]({{ 'priv/25-11-stg-faire-choeur/' | relative_url }})
 
 [Aurore à Latiag]({{ 'priv/latiag/aurore/' | relative_url }})
+
+### 2026
+[Atelier Tchekhov, Audrey Maldonado]({{ 'priv/26-04-stg-tchekhov/' | relative_url }})

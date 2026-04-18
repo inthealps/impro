@@ -314,7 +314,7 @@ On peut utiliser différents outils pour ramener de la cohérence, gommer l'erre
 On explique pourquoi c'est possible ! (alors que ça paraissait incohérent).  
 
 2. Outil "Dénoncer". On va dire l'évidence, rappeler pourquoi c'est impossible, tirer les conséquences de ce que cela impliquerait, et arriver à la conclusion que ce ne peut pas être vrai !  
-Donc dire "Mais non c'est impossible, ça impliquerait que ..." et l'autre va dire "Ah oui ! Tu as raison" + une autre réalité de la scène, un truc beaucoup plus crédible.
+Donc dire "Mais non, c'est impossible, ça impliquerait que ..." et l'autre va dire "Ah oui ! Tu as raison" + une autre réalité de la scène, un truc beaucoup plus crédible.
 
 
 ## Jeu "Tuer la scène"
@@ -394,7 +394,7 @@ On est en cercle. On va se donner un cadeau tour à tour. On n'a pas droit à la
 
 On se rend compte que, dans l'exercice en gromelot, l'intensité d'implication est beaucoup plus forte. L'énergie est plus forte. La scène est plus riche.  
 On inspire son partenaire qui est emporté par notre énergie.  
-Le problème en impro ... c'est la parole !  
+Le problème en impro... c'est la parole !  
 Elle nous fait être dans notre tête. Sortir notre Ingénieur et donc perdre notre Musicien, dans le corps et dans l'organique.
 
 
@@ -483,7 +483,7 @@ Puis le coach va ouvrir la Zone 2.
 
 On va voir ce que ça nous fait de passer en Zone 2, puis de revenir en Zone 1.
 
-Le coach va ensuite ouvrir la ZOne 3, mais attention, on ne peut pas franchir plusieurs zones d'affilée.  
+Le coach va ensuite ouvrir la Zone 3, mais attention, on ne peut pas franchir plusieurs zones d'affilée.  
 Donc en partant de Zone 1 on va passer en Zone 2, y rester un peu, puis monter en Zone 3.
 Idem pour la redescente.
 
@@ -535,7 +535,7 @@ Si en face l'autre a choisi "comédie dramatique", on voit où ça nous mène.
 Variante de "Mélange de genre de cinéma, un mot à la fois" : On va mélanger deux films, mais cette fois sans la contrainte "un mot à la fois".  
 On a vraiment des répliques.  
 On va jouer l'un en face de l'autre en duo.  
-Et on va voir ce que peut être le mélange entre Indiana Jones et Star Wars par exemple.
+Et on va voir ce que pourrait être le mélange entre Indiana Jones et Star Wars par exemple.
 
 On se prend le lead, on raconte l'histoire en rebondissant sur ce qu'a posé l'autre. On ne se piège pas, on collabore pour faire en sorte que l'autre suive.
 
@@ -578,7 +578,7 @@ La reformulation l'interprétation permet de recentrer sur le besoin vital du pe
 - Je fais ce qu’on me dit de faire
 - Je trouve TOUT génial et je suis très enthousiaste
 - Je respecte les règles
-- J’ai vécu la gloire mais c’est dans mon passé
+- J’ai vécu la gloire, mais c’est dans mon passé
 - Il faut que les gens se rendent compte que je ne suis pas comme les autres, donnez-moi une chance
 - Je suis jaloux/jalouse des autres
 - Je ne me soucie pas de mon passé, ni mon avenir. Je vis l’instant présent
@@ -602,7 +602,7 @@ La reformulation l'interprétation permet de recentrer sur le besoin vital du pe
 - Je veux ce qu’il y a de mieux pour toi
 - Tu penses que je suis ennuyant.e
 - Je te pardonne
-- Je pense que tu répends des rumeurs sur moi
+- Je pense que tu répands des rumeurs sur moi
 - Quand est-ce que tu vas réaliser que tu es amoureux de moi ?
 - Tu me fais penser à un animal de compagnie
 - Je trouve qu’on est identique à tout point de vue

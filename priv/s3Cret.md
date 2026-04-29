@@ -8,28 +8,9 @@ title:  "Table des matières"
 ### 2020-202X
 [Exercices, séances de la troupe 'En roue libre']({{ 'priv/seances-en-roue-libre ' | relative_url }})
 
-### 2023
-[La tête en impro, Ludo]({{ 'priv/23-04-stg-tete-impro/' | relative_url }})
-
-[Le long-form, Candice et Polo]({{ 'priv/23-07-stg-long-form/' | relative_url }})
-
-[Fais ton job, Seb Chambres]({{ 'priv/23-08-stg-fais-ton-job/' | relative_url }})
-
-[Personnages, Aurore]({{ 'priv/23-10-stg-personnages/' | relative_url }})
-
-[Ateliers 2023-2024, Matthieu]({{ 'priv/23-09-crs-msb/' | relative_url }})
-
-
-### 2024
-[Théâtralité, Aurore]({{ 'priv/24-04-stg-theatralite/' | relative_url }})
-
-[Mon prénom et moi, Kathleen et Gaël]({{ 'priv/24-05-stg-mon-prenom/' | relative_url }})
-
-[L'impro avec panache, Mathilde]({{ 'priv/24-08-stg-impro-panache/' | relative_url }})
-
-[Impro-Boost T4 2024, Aurore]({{ 'priv/24-09-crs-aurore/' | relative_url }})
-
-[Ateliers 2024-2025, Marion]({{ 'priv/24-09-crs-marion/' | relative_url }})
+### 2026
+[Atelier Tchekhov, Audrey Maldonado]({{ 'priv/26-04-stg-tchekhov/' | relative_url }})
+[Fuck the rules, Why so serious, Nabla Leviste]({{ 'priv/26-04-stg-why-so-serious/' | relative_url }})
 
 ### 2025
 [Où j'en suis en impro, Alex Chetail]({{ 'priv/25-03-stg-j-en-suis-ou-en-impro/' | relative_url }})
@@ -46,5 +27,25 @@ title:  "Table des matières"
 
 [Aurore à Latiag]({{ 'priv/latiag/aurore/' | relative_url }})
 
-### 2026
-[Atelier Tchekhov, Audrey Maldonado]({{ 'priv/26-04-stg-tchekhov/' | relative_url }})
+### 2024
+[Théâtralité, Aurore]({{ 'priv/24-04-stg-theatralite/' | relative_url }})
+
+[Mon prénom et moi, Kathleen et Gaël]({{ 'priv/24-05-stg-mon-prenom/' | relative_url }})
+
+[L'impro avec panache, Mathilde]({{ 'priv/24-08-stg-impro-panache/' | relative_url }})
+
+[Impro-Boost T4 2024, Aurore]({{ 'priv/24-09-crs-aurore/' | relative_url }})
+
+[Ateliers 2024-2025, Marion]({{ 'priv/24-09-crs-marion/' | relative_url }})
+
+### 2023
+[La tête en impro, Ludo]({{ 'priv/23-04-stg-tete-impro/' | relative_url }})
+
+[Le long-form, Candice et Polo]({{ 'priv/23-07-stg-long-form/' | relative_url }})
+
+[Fais ton job, Seb Chambres]({{ 'priv/23-08-stg-fais-ton-job/' | relative_url }})
+
+[Personnages, Aurore]({{ 'priv/23-10-stg-personnages/' | relative_url }})
+
+[Ateliers 2023-2024, Matthieu]({{ 'priv/23-09-crs-msb/' | relative_url }})
+

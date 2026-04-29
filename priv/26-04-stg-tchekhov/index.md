@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Malice et implication de jeu, Mark Jane"
-date: 2025-11-08
+title:  "Atelier Tchekhov - Incarner un personnage en pleine présence, Audrey Maldonado"
+date: 2026-04-18
 ---
 
 Notes du stage "Atelier Tchekhov - Incarner un personnage en pleine présence",

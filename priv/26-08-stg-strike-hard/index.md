@@ -7,11 +7,11 @@ title:  Notes du stage "Strike Hard !" avec Thomas Pizzotti, 15&16 août 2026.
 Objectif maître du fun au plateau en se mettant en déséquilibre en risque
 
 Le cadre
-1. Pas de contacts langue.
-2. Maillot de bain, une pièce, le maillot de bain de ma grand-mère.
-3. Pas de contacts par surprise.
-4. Pas de portée.
-5. Contact physique en 80 20, je fais les 80 premiers pour cent vers toi, tu fais les 20 % restant vers moi.
+1. Pas de contacts avec la langue ! 😜
+2. Maillot de bain une pièce (le maillot de bain de ma grand-mère qui descend jusqu'à mi-cuisses, on ne le touche pas !).
+3. Pas de contacts par surprise. On s'annonce !
+4. Pas de portés.
+5. Contact physique en 80/20, je fais les 80 premiers % vers toi, tu fais les 20 % restants vers moi.
 
 # Échauffements
 
@@ -66,7 +66,7 @@ En duo, des scènes de plate-forme.
 A. À droit à une ou deux répliques.
 Décide de laisser entrer ou non
 
-Tips de réussite :
+**Tips de réussite :**
 - On se connaît
 - On précise la relation : sa qualité (belle, tendue, complice ...) et sa fonction (mère/fille, collègues, amants ...)
 
@@ -81,7 +81,7 @@ Son propre hypnotisé doit continuer à suivre la même direction qu'avant, il e
 C'est aux autres hypnotiseurs d'être vigilants et de récupérer l'hypnotisé avant qu'il ne s'écrase contre un mur.  
 Un hypnotiseur peut contrôler 2 hypnotisés (un avec chacune de ses mains).
 
-Tips de réussite :
+**Tips de réussite :**
 - Amusez-vous ! La joie de découvrir tout ce qu'on peut faire !
 - Ne jamais s'ennuyer. Jamais de routine.
 - Penser à ses moteurs internes, qu'est-ce qui me fait rire, pétiller, etc.
@@ -94,7 +94,7 @@ Un leader, 3 suiveurs, en musique (Total Eclipse of the Heart, Bonnie Tyler)
 Les 4 comédiens se placent en losange, un leader débute un mouvement, comme une sorte de taïchi, relayés par les 3 autres.
 
 On joue des danseurs et des danseuses professionnelles nous sommes des méga star, c'est-à-dire qu'il n'y a pas d'erreur. Dans ce qui est proposé au plateau, on connaît la chorégraphie par cœur.
-Donc on garde l'attitude de l'improvisateurice c'est "pas de commentaire" (on ne se juge pas) !
+Donc on garde l'attitude de l'improvisateur.ice c'est "pas de commentaire" (on ne se juge pas) !
 
 
 
@@ -127,14 +127,17 @@ Important :
 
 Commentaire de Thomas : je déteste le losange du tai-chi, c'est horrible à voir ! SAUF si on garde l'attitude, et qu'on reste dans la valorisation de l'erreur, de l'accident.
 
-## Ironie dramatique
-C'est quand le public possède plus d'infos que les personnages sur scène.
+# Jeux
 
-En impro, par exemple, les personnages ont souvent plus d'infos que les comédiens qui jouent ces personnages.
+## Ironie dramatique
+Plusieurs jeux ont comme ressort l' "ironie dramatique".
+L'ironie dramatique, c'est quand le public possède plus d'infos que les personnages sur scène.
+
+L'ironie dramatique en impro, c'est aussi que les personnages ont souvent plus d'infos que les comédiens qui jouent ces personnages.
 
 Par exemple, les danseurs professionnels savent danser, mais pas les comédiens qui jouent ces danseurs.
 Il est important de montrer au public que c'est normal pour les comédiens, on maîtrise complètement ce qu'on fait.
-Ça rejoint l'attitude de l'improvisateurice qui s'amuse, qui est dans le jeu, et qui ne se juge pas, même si il/elle ne comprend pas à quoi il/elle joue.
+Ça rejoint l'attitude de l'improvisateur.ice qui s'amuse, qui est dans le jeu, et qui ne se juge pas, même si il/elle ne comprend pas à quoi il/elle joue.
 
 
 ## Jeu "L'interview des experts"
@@ -143,9 +146,9 @@ Un duo de comédiens qui ignorent tout du sujet sur lequel ils vont être interr
 Évidemment, les comédiens vont répondre avec un maximum de sérieux.
 Le duo de personnage sait ! Mais les comédiens ignorent tout.
 
-Tips de réussite :
+**Tips de réussite :**
 - le duo répond de manière spécifique
-- on peut dire n'importe quoi : le QUOI n'est pas important mais le QUAND et le COMMENT sont nécessaires.
+- on peut dire n'importe quoi : le QUOI n'est pas important, mais le QUAND et le COMMENT sont nécessaires.
 - les journalistes, prennent ce qui est dit par les experts comme la vérité, et ne cherchent pas à contredire les experts.
 
 
@@ -180,7 +183,7 @@ Malice : donner des détails spécifiques sur ce qu'on a fait (même sans savoir
 La scène se termine par une verbalisation des deux comédiens : "Ça y est on l'a fait ! On a ... " + ce qu'ils ont fait.
 (L'idéal est de le dire ensemble)
 
-Tips de réussite :
+**Tips de réussite :**
 - C'est du panache de jouer des gens qui savent parfaitement !
 - La chance et la difficulté de cet exercice et qu'on peut dire n'importe quoi -> c'est vertigineux !
 - Notre métier d'improvisateur.ice n'est pas d'avoir de bonnes idées mais de rendre nos idées bonnes !
@@ -252,7 +255,7 @@ Au début on joue avec la règle simplement avec deux pièces ...
 Puis on ajoute une pièce, puis une autre.
 Comme dans les autres exercices, si on est en situation de chaos, on revient à la règle c'est-à-dire à la pièce principale.
 
-Tips de réussite :
+**Tips de réussite :**
 - dès qu'une porte est franchi par quelqu'un ou quelque chose, on change de pièce.
 - les accidents amènent, un besoin de justification et ça écrit l'histoire.
 - c'est une catégorie performative, donc c'est déjà très dur en soi, donc ne pas hésiter à donner à son perso, la gêne du comédien.
@@ -299,7 +302,7 @@ On se laisse impacter ! On y croit vraiment !
 
 C'est anormal, donc, B doit réagir, accepter à fond.
 
-Tips de réussite :
+**Tips de réussite :**
 - Mettre de la sensorialité dans les propositions, dans les preuves. On peut découvrir un objet, puis le justifier. Sentir une odeur, entendre un son, ... bref, tout ce qui peut amener du jeu et de la preuve.
 
 Exemples de secrets :

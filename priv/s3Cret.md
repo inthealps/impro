@@ -10,7 +10,10 @@ title:  "Table des matières"
 
 ### 2026
 [Atelier Tchekhov, Audrey Maldonado]({{ 'priv/26-04-stg-tchekhov/' | relative_url }})
+
 [Fuck the rules, Why so serious, Nabla Leviste]({{ 'priv/26-04-stg-why-so-serious/' | relative_url }})
+
+[Strike Hard ! Thomas Pizzotti]({{ 'priv/26-08-stg-strike-hard/' | relative_url }})
 
 ### 2025
 [Où j'en suis en impro, Alex Chetail]({{ 'priv/25-03-stg-j-en-suis-ou-en-impro/' | relative_url }})

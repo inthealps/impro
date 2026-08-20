@@ -110,8 +110,19 @@ Au fil des échanges, les deux vont entretenir une relation positive et bienveil
 
 
 ## Jeu "La battle d'empathie"
-On prend soin de l'autre tout en gardant l'enjeu très haut.  
-A est pris en défaut, mais B comprend et excuse l'autre.
+On joue une scène en duo, avec une plateforme imposée (Exemple : mécanicien/client dans le garage).  
+C'est une scène plutôt basée sur une relation transactionnelle.  
+
+On ajoute la contrainte "concours d'empathie entre deux personnes" : on se bagarre pour être le plus empathique possible envers l'autre :  
+Les problèmes de l'autre sont très importants, on gonfle les enjeux de l'autre pour l'aider démesurément, on prend soin de l'autre et on le met en valeur dans toutes les situations.  
+
+**Tips de réussite :**
+- C'est ok de faire du drama.
+- Si A est pris en défaut, mais B comprend et excuse l'autre.
+- Se mettre à la place de l'autre (je vous comprends, je n'aurais pas mieux fait/dit si j'étais vous...)
+- Interpréter le verbal (ce qui est dit), le para-verbal (comment c'est dit : intonation, vitesse de la voix, prononciation) et le non-verbal (gestes parasites, posture, expressions faciales)
+- Faire des petites attentions
+- Chaque  personnage fait un réel effort pour le bien de l’autre
 
 
 ## Outil "Je ne découvre pas, je sais !"

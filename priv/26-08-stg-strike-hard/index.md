@@ -14,6 +14,8 @@ title:  Notes du stage "Strike Hard !" avec Thomas Pizzotti, 15&16 août 2026.
 3. Pas de contacts par surprise. On s'annonce !
 4. Pas de portés. On ne se blesse pas.
 5. Contact physique en 80/20, je fais les 80 premiers % vers toi, tu fais les 20 % restants vers moi.
+6. Pas de propos racistes, homophobes, sexistes, classistes, validistes, etc.
+
 
 # Échauffements
 

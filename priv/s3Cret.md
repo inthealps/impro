@@ -13,6 +13,8 @@ title:  "Table des matières"
 
 [Fuck the rules, Why so serious, Nabla Leviste]({{ 'priv/26-04-stg-why-so-serious/' | relative_url }})
 
+["Primitif, le stage Animalier", Victor Jamet]({{ 'priv/26-07-stg-primitif/' | relative_url }})
+
 [Mais parlez voooous, Charlotte Finet]({{ 'priv/26-08-stg-mais-parlez-voooous/' | relative_url }})
 
 [Strike Hard, Thomas Pizzotti]({{ 'priv/26-08-stg-strike-hard/' | relative_url }})
